@@ -1,0 +1,68 @@
+name: Automated Job Aggregator & GitHub Pages Deploy
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - '.gitignore'
+  schedule:
+    # Run every 12 hours (00:00 and 12:00 UTC)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+# Set explicit repository write permissions for automated commits
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'job-generation-and-deploy'
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Execute Automated Job Generator
+        run: |
+          python generate_jobs.py
+
+      - name: Run Anti-Spam & Schema Verification Tests
+        run: |
+          python test_generator.py
+
+      - name: Commit and Push Changes to Main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage all modified and newly generated job files & hubs
+          git add jobs/ visas/ locations/ sitemap.xml index.html js/app.js
+          
+          # Only commit if changes exist
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "chore(automation): ingest latest jobs, update schema & sitemap [skip ci]"
+            git push origin main
+          fi

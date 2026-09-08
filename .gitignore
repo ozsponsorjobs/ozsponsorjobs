@@ -1,0 +1,15 @@
+# Python byte code & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
