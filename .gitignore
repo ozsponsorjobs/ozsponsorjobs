@@ -13,3 +13,9 @@ Thumbs.db
 *.swp
 .vscode/
 .idea/
+
+# Automation, generator & dev scripts (kept locally only)
+generate_jobs.py
+test_generator.py
+requirements.txt
+.github/
