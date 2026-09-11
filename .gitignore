@@ -19,3 +19,5 @@ generate_jobs.py
 test_generator.py
 requirements.txt
 .github/
+job_ledger.py
+job_ledger.json

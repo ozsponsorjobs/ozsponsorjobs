@@ -204,6 +204,2006 @@ const JOBS_DATA = [
     "slug": "sydney-senior-corporate-financial-accountant-482-sponsorship",
     "url": "jobs/sydney-senior-corporate-financial-accountant-482-sponsorship.html",
     "description": "Sydney CBD corporate financial advisory offering Subclass 482 TSS sponsorship for qualified CA/CPA international accountants."
+  },
+  {
+    "id": "jooble--1985903431219941488",
+    "title": "Business Development Manager",
+    "company": "Everway",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-business-development-manager-482-186-sponsorship",
+    "url": "jobs/sydney-business-development-manager-482-186-sponsorship.html",
+    "description": "Every mind is unique. Yet much of the world is still built for what’s considered \"normal,\" leaving too many people behind. At Everway, we change that by creating technology that helps everyone understand and be understoo..."
+  },
+  {
+    "id": "jooble-106776671626823639",
+    "title": "Broker Business Development Manager",
+    "company": "Skip Loans",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-broker-business-development-manager-482-186-sponsorship",
+    "url": "jobs/sydney-broker-business-development-manager-482-186-sponsorship.html",
+    "description": "About Skip Skip is a mission-driven Australian home loan lender built to fast-track Aussies into home ownership. We help Australians ‘skip to the owning bit’ with low deposit home loans. Buying a home shouldn’t mean putt..."
+  },
+  {
+    "id": "jooble-7209882490654319883",
+    "title": "Business Development Manager, Residential Energy Products",
+    "company": "Tesla",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-business-development-manager-residential-energy-products-482-186-sponsorship",
+    "url": "jobs/sydney-business-development-manager-residential-energy-products-482-186-sponsorship.html",
+    "description": "What To Expect Join Tesla Energy's Residential Business Development Team to support the growth of distributed energy systems across Australia and New Zealand. You will work on identifying and scaling significant partners..."
+  },
+  {
+    "id": "jooble-4080844763084998021",
+    "title": "Account Executive, Corporate Sales",
+    "company": "Docker",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$30k",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-account-executive-corporate-sales-482-186-sponsorship",
+    "url": "jobs/sydney-account-executive-corporate-sales-482-186-sponsorship.html",
+    "description": "Docker has been one of the most loved brands in developer tooling, trusted by more than 20 million monthly users and over 20 billion container image pulls. From solo founders to the world's largest companies, developers ..."
+  },
+  {
+    "id": "jooble-2962897787007245540",
+    "title": "Business Development Manager, Strategic Market Expansion, Megapack, Energy",
+    "company": "Tesla",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-business-development-manager-strategic-market-expansion-megapack-energy-482-186-sponsorship",
+    "url": "jobs/sydney-business-development-manager-strategic-market-expansion-megapack-energy-482-186-sponsorship.html",
+    "description": "What To Expect Tesla’s mission is to build a world of sustainable abundance, and this role will be central to achieving that. Today’s energy storage market is growing rapidly, and our battery technology is critical for s..."
+  },
+  {
+    "id": "jooble-5701610638124355451",
+    "title": "Senior Account Executive, Specialization",
+    "company": "HUbspot",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-account-executive-specialization-482-186-sponsorship",
+    "url": "jobs/sydney-senior-account-executive-specialization-482-186-sponsorship.html",
+    "description": "Who are we? HubSpot is a leading customer platform that brings marketing, sales, service, and operations tools together to help businesses attract, engage, and delight customers. It's our mission to not just help them gr..."
+  },
+  {
+    "id": "jooble-8080055233640225839",
+    "title": "Commercial Account Executive",
+    "company": "Dandy",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-commercial-account-executive-482-186-sponsorship",
+    "url": "jobs/sydney-commercial-account-executive-482-186-sponsorship.html",
+    "description": "About Us Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize..."
+  },
+  {
+    "id": "jooble--254832315174311125",
+    "title": "Commercial Account Executive - Australia",
+    "company": "GitLab",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-commercial-account-executive-australia-482-186-sponsorship",
+    "url": "jobs/sydney-commercial-account-executive-australia-482-186-sponsorship.html",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital..."
+  },
+  {
+    "id": "jooble--22962822286580250",
+    "title": "Immigration Lawyer",
+    "company": "recruitometry",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-immigration-lawyer-482-186-sponsorship",
+    "url": "jobs/sydney-immigration-lawyer-482-186-sponsorship.html",
+    "description": "&nbsp;...supportive and established practice. Key Responsibilities: Manage the backend processing of Australian migration and visa applications from preparation through lodgement and finalisation. Review client informati..."
+  },
+  {
+    "id": "jooble--4164475082732514346",
+    "title": "People and Culture Business Partner",
+    "company": "Teamified",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-people-and-culture-business-partner-482-186-sponsorship",
+    "url": "jobs/sydney-people-and-culture-business-partner-482-186-sponsorship.html",
+    "description": "Qualifications, Knowledge & Skills: Essential ~4-5 years experience in People & Culture / HR Business Partner Role. ~ Sound knowledge of the National Employment Standards, Modern Awards, and Fair Work frameworks. ~ Solid..."
+  },
+  {
+    "id": "jooble--9120292074047080003",
+    "title": "Analyst, Client Onboarding Specialist",
+    "company": "MUFG Bank, Ltd.",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-analyst-client-onboarding-specialist-482-186-sponsorship",
+    "url": "jobs/sydney-analyst-client-onboarding-specialist-482-186-sponsorship.html",
+    "description": "Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striv..."
+  },
+  {
+    "id": "jooble-298223164891809549",
+    "title": "Senior Regional Partner Manager - Reseller, APAC",
+    "company": "Lastpass",
+    "logoInitial": "L",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-regional-partner-manager-reseller-apac-482-186-sponsorship",
+    "url": "jobs/sydney-senior-regional-partner-manager-reseller-apac-482-186-sponsorship.html",
+    "description": "LastPass is looking for a Senior Regional Partner Manager – Reseller, APAC . In this role, you will develop new partnerships and drive net-new revenue to grow LastPass’s APAC channel, helping LastPass deliver on its miss..."
+  },
+  {
+    "id": "jooble--2366484630212933888",
+    "title": "Customer Service Consultant",
+    "company": "Weploy",
+    "logoInitial": "W",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-customer-service-consultant-482-186-sponsorship",
+    "url": "jobs/sydney-customer-service-consultant-482-186-sponsorship.html",
+    "description": "Be the Voice of Exceptional Customer Support! Are you a confident communicator who thrives on delivering outstanding customer experiences? Do you have a knack for problem-solving and multitasking in a fast-paced environm..."
+  },
+  {
+    "id": "jooble--7396416158486951206",
+    "title": "Sales Development Representative",
+    "company": "Beyondtrust",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-sales-development-representative-482-186-sponsorship",
+    "url": "jobs/sydney-sales-development-representative-482-186-sponsorship.html",
+    "description": "BeyondTrust is seeking a Sales Development Representative . This person will provide a “first touch” to prospects and will own the responsibility of engaging and nurturing leads until they are qualified sufficiently to p..."
+  },
+  {
+    "id": "jooble--2453422573400822506",
+    "title": "Customer Experience Specialist",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-customer-experience-specialist-482-186-sponsorship",
+    "url": "jobs/sydney-customer-experience-specialist-482-186-sponsorship.html",
+    "description": "Flexible locations: Melbourne, Sydney or Brisbane Hybrid working environment Secure a permanent, full-time role with stability and growth opportunities Build your skills with comprehensive training in life insurance Work..."
+  },
+  {
+    "id": "jooble-8626375190431886010",
+    "title": "Customer Service Representative (Fixed term 12 Months)",
+    "company": "Resmed",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-customer-service-representative-fixed-term-12-months-482-186-sponsorship",
+    "url": "jobs/sydney-customer-service-representative-fixed-term-12-months-482-186-sponsorship.html",
+    "description": "Role Overview The primary role of a Customer Service Representative in the Customer Care Team is to deliver exceptional customer service and support across multiple communication channels—phone, email and chat. This role..."
+  },
+  {
+    "id": "jooble--1748651098779039151",
+    "title": "Customer Representative",
+    "company": "Getaway",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$30k - $50k",
+    "type": "Part-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-customer-representative-482-186-sponsorship",
+    "url": "jobs/sydney-customer-representative-482-186-sponsorship.html",
+    "description": "Position Description As a Customer Representative, you will play a key role in supporting clients throughout their journey from the moment they book to the moment they return home. You will assist with inquiries, resolve..."
+  },
+  {
+    "id": "jooble--6467290327687843743",
+    "title": "Remote Custumer Service Representative",
+    "company": "Next Stop Travel",
+    "logoInitial": "N",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-remote-custumer-service-representative-482-186-sponsorship",
+    "url": "jobs/sydney-remote-custumer-service-representative-482-186-sponsorship.html",
+    "description": "Company Overview: Next Stop Travel is a remote-based organization providing structured planning and coordination services to a broad client base. Our team is committed to delivering organized, accurate, and responsive su..."
+  },
+  {
+    "id": "jooble-5780457250463978761",
+    "title": "Customer Experience Specialist",
+    "company": "Aphex",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-customer-experience-specialist-482-186-sponsorship",
+    "url": "jobs/sydney-customer-experience-specialist-482-186-sponsorship.html",
+    "description": "Our customers are the largest construction contractors, responsible for the tunnels, roads, bridges, and buildings we use daily. Our users are the engineers managing and planning these incredible projects. Instead of jug..."
+  },
+  {
+    "id": "jooble-8503850336727331001",
+    "title": "Outbound Sales Development Representative",
+    "company": "Remote",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$61k - $72k",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-outbound-sales-development-representative-482-186-sponsorship",
+    "url": "jobs/sydney-outbound-sales-development-representative-482-186-sponsorship.html",
+    "description": "About Remote Remote is solving modern organizations’ biggest challenge - navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams..."
+  },
+  {
+    "id": "jooble--4228791034412867333",
+    "title": "Complaints Analyst",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-complaints-analyst-482-186-sponsorship",
+    "url": "jobs/sydney-complaints-analyst-482-186-sponsorship.html",
+    "description": "~ Work alongside diverse, passionate colleagues and leaders who inspire, support, and value your contributions. ~ Enjoy benefits such as discounted insurance, health and well-being programs, and a range of employee benef..."
+  },
+  {
+    "id": "jooble--3064316231487687158",
+    "title": "SOC Analyst",
+    "company": "Volexity",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-soc-analyst-482-186-sponsorship",
+    "url": "jobs/sydney-soc-analyst-482-186-sponsorship.html",
+    "description": "Volexity’s Security Operation Center (SOC) Analysts work to protect organizations from a wide variety of threats, ranging from commodity phishing and malware campaigns to highly targeted attacks involving zero-day exploi..."
+  },
+  {
+    "id": "jooble--2403083749644169078",
+    "title": "Data Analyst",
+    "company": "TMGM",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-data-analyst-482-186-sponsorship",
+    "url": "jobs/sydney-data-analyst-482-186-sponsorship.html",
+    "description": "About TMGM TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and offices sp..."
+  },
+  {
+    "id": "jooble-6434595078029081107",
+    "title": "Analyst / Associate, Credit Management",
+    "company": "MUFG Bank, Ltd.",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-analyst-associate-credit-management-482-186-sponsorship",
+    "url": "jobs/sydney-analyst-associate-credit-management-482-186-sponsorship.html",
+    "description": "Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striv..."
+  },
+  {
+    "id": "jooble-1128607402377443527",
+    "title": "Partner Growth Manager",
+    "company": "Mx51",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-partner-growth-manager-482-186-sponsorship",
+    "url": "jobs/sydney-partner-growth-manager-482-186-sponsorship.html",
+    "description": "mx51 is a payments-as-a-service solution for banks, non-bank acquirers, and other merchant service providers. We are building a payment platform that allows merchants to accept payments in-store, in-app and online, whils..."
+  },
+  {
+    "id": "jooble-6497775021491221904",
+    "title": "Senior Project Engineer",
+    "company": "Lendlease",
+    "logoInitial": "L",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-project-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-senior-project-engineer-482-186-sponsorship.html",
+    "description": "Lendlease is a globally integrated real estate group with core expertise in Investment Management, Development, and Construction. For more than 60 years, we have created thriving places around the globe. About the Role: ..."
+  },
+  {
+    "id": "jooble--238663147548115435",
+    "title": "Windows System Engineer",
+    "company": "IMC",
+    "logoInitial": "I",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-windows-system-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-windows-system-engineer-482-186-sponsorship.html",
+    "description": "At IMC, technology is at the core of everything we do, and how we build and maintain our user space infrastructure is key to our global success. Our Operations Engineering team designs, automates, and scales the systems ..."
+  },
+  {
+    "id": "jooble--7065311519419085046",
+    "title": "Senior Sales Engineer",
+    "company": "Commvault",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-sales-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-senior-sales-engineer-482-186-sponsorship.html",
+    "description": "About Commvault Commvault (NASDAQ: CVLT) is the gold standard in cyber resilience. The company empowers customers to uncover, take action, and rapidly recover from cyberattacks - keeping data safe and businesses resilien..."
+  },
+  {
+    "id": "jooble-1121415002323553575",
+    "title": "Associate Managing Consultant - Marketing Services (12 months fixed term)",
+    "company": "Mastercard",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-associate-managing-consultant-marketing-services-12-months-fixed-term-482-186-sponsorship",
+    "url": "jobs/sydney-associate-managing-consultant-marketing-services-12-months-fixed-term-482-186-sponsorship.html",
+    "description": "&nbsp;...Ability to communicate effectively in English • Eligibility to work in the country where you are applying, as well as apply for travel visas as required by travel needs • Ability to travel and work on client sit..."
+  },
+  {
+    "id": "jooble--8253399206863186905",
+    "title": "Regional Partner Manager - MSP",
+    "company": "Lastpass",
+    "logoInitial": "L",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-regional-partner-manager-msp-482-186-sponsorship",
+    "url": "jobs/sydney-regional-partner-manager-msp-482-186-sponsorship.html",
+    "description": "LastPass is looking for a Regional Partner Manager - MSP . In this role, you will grow LastPass's MSP partner ecosystem across the ANZ region , using your channel expertise to drive partner success, accelerate adoption, ..."
+  },
+  {
+    "id": "jooble-8071614827880874431",
+    "title": "VCE Certified Teacher - Legal Studies Content Validator & Moderator",
+    "company": "Education Perfect",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$60 per hour",
+    "type": "Temporary",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-vce-certified-teacher-legal-studies-content-validator-moderator-482-186-sponsorship",
+    "url": "jobs/sydney-vce-certified-teacher-legal-studies-content-validator-moderator-482-186-sponsorship.html",
+    "description": "Education Perfect is an EdTech platform designed to empower educators and amplify their impact in the classroom. We aim to enable teachers to personalise learning at scale with powerful learning, assessment, and insights..."
+  },
+  {
+    "id": "jooble--7518171255931973860",
+    "title": "Digital Education Sales Consultant",
+    "company": "Peopleworth",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD + Super",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-digital-education-sales-consultant-482-186-sponsorship",
+    "url": "jobs/sydney-digital-education-sales-consultant-482-186-sponsorship.html",
+    "description": "The Role We are seeking an experienced Digital Education Sales Consultant to help professionals explore premium online education opportunities that can accelerate their careers. This is a consultative sales role focused ..."
+  },
+  {
+    "id": "adzuna-5828753149",
+    "title": "Clinical Nurse Specialist (Mental Health) - Permanent Contract - North West Tasmania - Visa Sponsorship Available!",
+    "company": "Skilled Nursing UK",
+    "logoInitial": "S",
+    "location": "Burnie, TAS",
+    "state": "TAS",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$109,767 - $109,767 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "burnie-clinical-nurse-specialist-mental-health-permanent-contract-north-west-tasmania-visa-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/burnie-clinical-nurse-specialist-mental-health-permanent-contract-north-west-tasmania-visa-sponsorship-available-482-494-sponsorship.html",
+    "description": "Details Title: Clinical Nurse Specialist (Community) - Older Persons Mental Health Services Location: North West Tasmania Position Type: Permanent full time, day worker position, working 76 hours per fortnight, commencin..."
+  },
+  {
+    "id": "adzuna-5878483720",
+    "title": "Dentist | Australian Visa Sponsorship Opportunities",
+    "company": "Gorilla Jobs",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$75 - $400 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-dentist-australian-visa-sponsorship-opportunities-482-186-sponsorship",
+    "url": "jobs/sydney-dentist-australian-visa-sponsorship-opportunities-482-186-sponsorship.html",
+    "description": "Gorilla Jobs is one of the largest healthcare recruitment providers in Australia for permanent staffing. We are partnered with most of the national dental corporates, as well as hundreds of private practices across Austr..."
+  },
+  {
+    "id": "adzuna-5834903573",
+    "title": "GP Opportunities - Perth, WA (DPA) | Visa Sponsorship",
+    "company": "Ozhealth Australasia",
+    "logoInitial": "O",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$6,240 - $312,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-gp-opportunities-perth-wa-dpa-visa-sponsorship-482-494-sponsorship",
+    "url": "jobs/perth-gp-opportunities-perth-wa-dpa-visa-sponsorship-482-494-sponsorship.html",
+    "description": "⭐ The Opportunity: We're working with a well-established network of medical centres across Perth seeking UK-trained GPs under the Expedited Specialist Pathway, as well as VR GPs (under moratorium or unrestricted). With m..."
+  },
+  {
+    "id": "adzuna-5759582745",
+    "title": "Physiotherapist - Training/Visa Sponsorship - Regional NSW",
+    "company": "HealthcareLink Support",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-physiotherapist-trainingvisa-sponsorship-regional-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-physiotherapist-trainingvisa-sponsorship-regional-nsw-482-186-sponsorship.html",
+    "description": "Job title: Physiotherapist/OT - Training/Visa Sponsorship - Regional NSW Working Days: 38 hours/week Salary: Competitive Salary Package (based on experience)  Incentives  CPD Location: Regional NSW About the Role: Our cl..."
+  },
+  {
+    "id": "adzuna-5650855975",
+    "title": "Registered Nurse (Visa Sponsorship Available) – Kimberley Region",
+    "company": "Juniper",
+    "logoInitial": "J",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "perth-registered-nurse-visa-sponsorship-available-kimberley-region-482-494-sponsorship",
+    "url": "jobs/perth-registered-nurse-visa-sponsorship-available-kimberley-region-482-494-sponsorship.html",
+    "description": "About Us: Juniper is a leading Western Australian not-for-profit aged care provider, supporting older people to live a life of meaning, connection and dignity across metropolitan, regional and remote WA. We are currently..."
+  },
+  {
+    "id": "adzuna-5794408463",
+    "title": "MSK Physiotherapist - Visa Sponsorship/Relocation Assist/Benefits",
+    "company": "HealthcareLink Support",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $100,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-msk-physiotherapist-visa-sponsorshiprelocation-assistbenefits-482-186-sponsorship",
+    "url": "jobs/sydney-msk-physiotherapist-visa-sponsorshiprelocation-assistbenefits-482-186-sponsorship.html",
+    "description": "Job title: MSK Physiotherapist - Visa Sponsorship/Relocation Assist - Regional NSW Working Hours: FT 38 hours/week Salary: Up to $100K per annum plus super  travel allowance  relocation assistance Location: Regional SA R..."
+  },
+  {
+    "id": "adzuna-5757864751",
+    "title": "Physiotherapist/OT - Training/Visa Sponsorship - Regional NSW",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-physiotherapistot-trainingvisa-sponsorship-regional-nsw-482-186-sponsorship",
+    "url": "jobs/canberra-physiotherapistot-trainingvisa-sponsorship-regional-nsw-482-186-sponsorship.html",
+    "description": "Job title: Physiotherapist/OT - Training/Visa Sponsorship - Regional NSW Working Days: 38 hours/week Salary: Competitive Salary Package (based on experience)  Incentives  CPD Location: Regional NSW About the company: Our..."
+  },
+  {
+    "id": "adzuna-5800540570",
+    "title": "Lead Data Engineer – Visa Sponsorship & Relocation to Australia",
+    "company": "Billigence",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-lead-data-engineer-visa-sponsorship-relocation-to-australia-482-186-sponsorship",
+    "url": "jobs/sydney-lead-data-engineer-visa-sponsorship-relocation-to-australia-482-186-sponsorship.html",
+    "description": "About Billigence Billigence is a boutique data consultancy with global outreach and clientele, transforming the way organizations work with data. We leverage cutting-edge technologies to design, tailor, and implement adv..."
+  },
+  {
+    "id": "adzuna-5757866110",
+    "title": "GP needed - DPA - Visa sponsorship - 2 hours from Melbourne",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-gp-needed-dpa-visa-sponsorship-2-hours-from-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-gp-needed-dpa-visa-sponsorship-2-hours-from-melbourne-482-186-sponsorship.html",
+    "description": "Well established busy practice Weekend work on roster Third-largest urban inland city in Australia and the third-largest city in Victoria. A well established practice in the Western District of Victoria approx 120 Km fro..."
+  },
+  {
+    "id": "adzuna-5759582413",
+    "title": "Clinic/Community Physiotherapist - Visa Sponsorship - Grafton, NSW",
+    "company": "Healthcarelink",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-cliniccommunity-physiotherapist-visa-sponsorship-grafton-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-cliniccommunity-physiotherapist-visa-sponsorship-grafton-nsw-482-186-sponsorship.html",
+    "description": "Job title: Clinic/Community Physiotherapist - Visa Sponsorship - Grafton, NSW Hours: 38 Hours a week Salary: Up to $105K (Based on experience)  Super  Bonus  Benefits Location: Grafton, NSW About the Role: We are looking..."
+  },
+  {
+    "id": "adzuna-5757864526",
+    "title": "Community-Based Occupational Therapist - Visa Sponsorship Available",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$75,000 - $92,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-community-based-occupational-therapist-visa-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/melbourne-community-based-occupational-therapist-visa-sponsorship-available-482-186-sponsorship.html",
+    "description": "Job title: Community-Based Occupational Therapist - Visa Sponsorship Available Work Hours: Full Time, 38hrs/week Salary: $75K to $92K per annum plus super Location: West Melbourne Roles & Responsibilities: Our Client is ..."
+  },
+  {
+    "id": "adzuna-5718451926",
+    "title": "Community-Based Speech Pathologist - Visa Sponsorship Available",
+    "company": "HealthcareLink Support",
+    "logoInitial": "H",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$89,000 - $120,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "adelaide-community-based-speech-pathologist-visa-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/adelaide-community-based-speech-pathologist-visa-sponsorship-available-482-494-sponsorship.html",
+    "description": "Job title: Community-Based Speech Pathologist - Visa Sponsorship Available Work Hours: Full Time, 38hrs/week Salary: $89K to $120K per annum plus super Location: Adelaide Roles & Responsibilities: Our Client is a registe..."
+  },
+  {
+    "id": "adzuna-5857619060",
+    "title": "Team Leader (EN Qualified)- Visa Sponsorship Available",
+    "company": "Calvary Care",
+    "logoInitial": "C",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-team-leader-en-qualified-visa-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/melbourne-team-leader-en-qualified-visa-sponsorship-available-482-186-sponsorship.html",
+    "description": "Progress with purpose at one of Australia’s largest health care providers Get ahead with salary packaging, benefits and professional development in a supportive team environment Permanent Full-time & Part-time roles avai..."
+  },
+  {
+    "id": "adzuna-5757865234",
+    "title": "GP - DPA - Gladstone - Visa sponsorship - Mixed billing",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "brisbane-gp-dpa-gladstone-visa-sponsorship-mixed-billing-482-494-sponsorship",
+    "url": "jobs/brisbane-gp-dpa-gladstone-visa-sponsorship-mixed-billing-482-494-sponsorship.html",
+    "description": "Location: Gladstone , QLD Position Summary A reputable doctor owned medical centre in Gladstone is urgently seeking a committed and enthusiastic GP to join their team. A replacement DPA is available to be claimed asap (D..."
+  },
+  {
+    "id": "adzuna-5877491916",
+    "title": "VR GP | DPA | 482 Visa Sponsorship | Mixed Billing",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-vr-gp-dpa-482-visa-sponsorship-mixed-billing-482-186-sponsorship",
+    "url": "jobs/melbourne-vr-gp-dpa-482-visa-sponsorship-mixed-billing-482-186-sponsorship.html",
+    "description": "Established Practice | Busy Patient Base | Melbourne South-East An exciting opportunity is available for a FRACGP, RACGP PEP Specialist Pathway or Expedited Specialist Pathway GP to join a well-established mixed billing ..."
+  },
+  {
+    "id": "adzuna-5877491881",
+    "title": "GP role - Bathurst - PEP - DPA- MMM3 - Visa Sponsorship",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-gp-role-bathurst-pep-dpa-mmm3-visa-sponsorship-482-186-sponsorship",
+    "url": "jobs/sydney-gp-role-bathurst-pep-dpa-mmm3-visa-sponsorship-482-186-sponsorship.html",
+    "description": "Practice Bathurst is the oldest inland settlement in Australia and has a population of over 36,000 and is located just over 2.5 hours to Sydney Our client is a doctor owned family practice and located near very busy shop..."
+  },
+  {
+    "id": "adzuna-5757864728",
+    "title": "Aged care Physiotherapist- Training/Visa Sponsorship - Parkes, NSW",
+    "company": "HealthcareLink Support",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-aged-care-physiotherapist-trainingvisa-sponsorship-parkes-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-aged-care-physiotherapist-trainingvisa-sponsorship-parkes-nsw-482-186-sponsorship.html",
+    "description": "Job title: Physiotherapist- Training/Visa Sponsorship - Parkes, NSW Salary: Competitive Salary Package (based on experience)  Incentives  CPD Location: Parkes, NSW The opportunity; We're looking for two physiotherapists ..."
+  },
+  {
+    "id": "adzuna-5733234115",
+    "title": "Community-Based Occupational Therapist - Visa Sponsorship for Onshore Applicants",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-community-based-occupational-therapist-visa-sponsorship-for-onshore-applicants-482-186-sponsorship",
+    "url": "jobs/melbourne-community-based-occupational-therapist-visa-sponsorship-for-onshore-applicants-482-186-sponsorship.html",
+    "description": "Job title: Community-Based Occupational Therapist - Visa Sponsorship Available Work Hours: Full Time, 38hrs/week Salary: $75K to $92K per annum plus super Location: West Melbourne Roles & Responsibilities: Our Client is ..."
+  },
+  {
+    "id": "adzuna-5757864198",
+    "title": "Community-Based Speech Pathologist - Visa Sponsorship for Onshore Applicants",
+    "company": "HealthcareLink Support",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-community-based-speech-pathologist-visa-sponsorship-for-onshore-applicants-482-186-sponsorship",
+    "url": "jobs/melbourne-community-based-speech-pathologist-visa-sponsorship-for-onshore-applicants-482-186-sponsorship.html",
+    "description": "Job title: Community-Based Speech Pathologist wanted in West Melbourne Work Hours: Full Time, 38hrs/week Salary: $89K to $120K per annum plus super Location: West Melbourne Roles & Responsibilities: Our Client is a regis..."
+  },
+  {
+    "id": "adzuna-5757865384",
+    "title": "GP role - Shepparton - 70% - DPA - Visa sponsorship - PEP",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-gp-role-shepparton-70-dpa-visa-sponsorship-pep-482-186-sponsorship",
+    "url": "jobs/melbourne-gp-role-shepparton-70-dpa-visa-sponsorship-pep-482-186-sponsorship.html",
+    "description": "Hours: Full time and part time roles available. Location: Regional VIC Practice: Our client located about 30 mins from the Shepparton region is urgently seeking an additional GP to join their team. The location can offer..."
+  },
+  {
+    "id": "adzuna-5877491691",
+    "title": "General practitioner - FSP - Visa sponsorship - 1.5 hrs from Melbourne",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-general-practitioner-fsp-visa-sponsorship-15-hrs-from-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-general-practitioner-fsp-visa-sponsorship-15-hrs-from-melbourne-482-186-sponsorship.html",
+    "description": "Location: Classified as DPA and MM5 1.5 hours from Melbourne Visa Sponsorship available Clinic Overview: Standalone building, previously residential and renovated to suit the needs of a medical centre Beautiful facilitie..."
+  },
+  {
+    "id": "adzuna-5794409049",
+    "title": "GP needed - PEP transfer - DPA - Visa sponsorship - 2 hours from Melbourne",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-gp-needed-pep-transfer-dpa-visa-sponsorship-2-hours-from-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-gp-needed-pep-transfer-dpa-visa-sponsorship-2-hours-from-melbourne-482-186-sponsorship.html",
+    "description": "Well established busy practice Suitable for PEP transfer, Temp resident profile Weekend work on roster A well established practice in the Western District of Victoria approx 150 Km from Melbourne is seeking an additional..."
+  },
+  {
+    "id": "adzuna-5874391239",
+    "title": "General Medicine PHO/Registrar - come work in Queensland",
+    "company": "ME Medical Recruitment",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-general-medicine-phoregistrar-come-work-in-queensland-482-186-sponsorship",
+    "url": "jobs/sydney-general-medicine-phoregistrar-come-work-in-queensland-482-186-sponsorship.html",
+    "description": "General Medicine Registrar – Relocate to Sunny Queensland, Australia Location: Hervey Bay Hospital, Queensland Position: General Medicine Registrar (PHO equivalent) Employment Type: Full-time Are you an Irish-trained doc..."
+  },
+  {
+    "id": "adzuna-5757865066",
+    "title": "GP - DPA - Gladstone - Visa sponsorship - 70% -$150 retainer for 3 months",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "brisbane-gp-dpa-gladstone-visa-sponsorship-70-150-retainer-for-3-months-482-494-sponsorship",
+    "url": "jobs/brisbane-gp-dpa-gladstone-visa-sponsorship-70-150-retainer-for-3-months-482-494-sponsorship.html",
+    "description": "Location: Gladstone , QLD Position Summary A reputable doctor owned medical centre in Gladstone is urgently seeking a committed and enthusiastic GP to join their team and take over the patient base from a GP who is leavi..."
+  },
+  {
+    "id": "adzuna-5875028578",
+    "title": "General Practitioner (VR GP) Melbourne South East, DPA and Visa Sponsorship Available",
+    "company": "WAVELENGTH",
+    "logoInitial": "W",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-general-practitioner-vr-gp-melbourne-south-east-dpa-and-visa-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/melbourne-general-practitioner-vr-gp-melbourne-south-east-dpa-and-visa-sponsorship-available-482-186-sponsorship.html",
+    "description": "Location available upon request, VIC Summary High‑demand clinic with strong patient flow and rapid book build Flexible part‑time or full‑time sessions with excellent income guarantee DPA location with visa sponsorship an..."
+  },
+  {
+    "id": "adzuna-5877491835",
+    "title": "GP - DPA - PEP - MDRAP - Visa sponsorship rural NSW - turning patients away",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-gp-dpa-pep-mdrap-visa-sponsorship-rural-nsw-turning-patients-away-482-186-sponsorship",
+    "url": "jobs/sydney-gp-dpa-pep-mdrap-visa-sponsorship-rural-nsw-turning-patients-away-482-186-sponsorship.html",
+    "description": "Location: Rural NSW Position Summary A well established country practice located in northern New South Wales at the mouth of the Clarence River is urgently seeking an additional GP due to patient demand. They are current..."
+  },
+  {
+    "id": "adzuna-5759582938",
+    "title": "2 x VR GPs Needed | Visa Sponsorship | 70 - 75% of Billings  Retainer | DPA",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-2-x-vr-gps-needed-visa-sponsorship-70-75-of-billings-retainer-dpa-482-186-sponsorship",
+    "url": "jobs/sydney-2-x-vr-gps-needed-visa-sponsorship-70-75-of-billings-retainer-dpa-482-186-sponsorship.html",
+    "description": "About the Opportunity A very busy bulk billing clinic in the Palmerston area is urgently needing two more vocationally registered general practitioners to cater for patient overflow. The clinic has long been short-staffe..."
+  },
+  {
+    "id": "adzuna-5870144083",
+    "title": "Registered Nurse - Aged Care RN",
+    "company": "Health X",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-aged-care-rn-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-aged-care-rn-482-186-sponsorship.html",
+    "description": "Job Description Registered Nurse (Aged Care) – Port Macquarie NSW | Permanent Role | 482 Sponsorship Available Up to $52 hr  super  penalties | Full-time permanent position | Onshore international applicants welcome | 48..."
+  },
+  {
+    "id": "adzuna-5876088557",
+    "title": "International Applicants only - Registered Nurse/Midwife - All specialities, all regions across NT Health",
+    "company": "Department of Health",
+    "logoInitial": "D",
+    "location": "Darwin, NT",
+    "state": "NT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "darwin-international-applicants-only-registered-nursemidwife-all-specialities-all-regions-across-nt-health-482-494-sponsorship",
+    "url": "jobs/darwin-international-applicants-only-registered-nursemidwife-all-specialities-all-regions-across-nt-health-482-494-sponsorship.html",
+    "description": "This position is a register of interest for Registered Nurse /Midwife (N2), INTERNATIONAL APPLICANTS ONLY. Please read the important information for applicants before applying. Visa sponsorship is not guaranteed and depe..."
+  },
+  {
+    "id": "adzuna-5870133101",
+    "title": "Registered Nurse - Aged Care",
+    "company": "Health X",
+    "logoInitial": "H",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "brisbane-registered-nurse-aged-care-482-494-sponsorship",
+    "url": "jobs/brisbane-registered-nurse-aged-care-482-494-sponsorship.html",
+    "description": "Job Description Registered Nurse (Aged Care) – Warwick QLD | 482 Sponsorship Available $80,000 to $105,000 per annum  super  penalties | Full-time permanent position | Onshore international applicants welcome Join Health..."
+  },
+  {
+    "id": "adzuna-5870139215",
+    "title": "Aged Care Registered Nurse - RN",
+    "company": "Health X",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-aged-care-registered-nurse-rn-482-186-sponsorship",
+    "url": "jobs/sydney-aged-care-registered-nurse-rn-482-186-sponsorship.html",
+    "description": "Job Description Registered Nurse (Aged Care) – Port Macquarie | Permanent Role | 482/186 Sponsorship Available Up to $55 hr  super  penalties | Full-time permanent position | Onshore international applicants welcome |App..."
+  },
+  {
+    "id": "adzuna-5839557478",
+    "title": "Staff Specialist - Radiology",
+    "company": "Tasmanian Health Service",
+    "logoInitial": "T",
+    "location": "Hobart, TAS",
+    "state": "TAS",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$222,789 - $222,789 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "hobart-staff-specialist-radiology-482-494-sponsorship",
+    "url": "jobs/hobart-staff-specialist-radiology-482-494-sponsorship.html",
+    "description": "Population Screening and Cancer Prevention (PSCP) service is seeking applications from interested suitably qualified Specialist Breast Radiologists to fill a permanent vacancy. We are seeking a dedicated and collaborativ..."
+  },
+  {
+    "id": "adzuna-5870155066",
+    "title": "Senior Manager | Capital Markets and Accounting Advisory Services",
+    "company": "PricewaterhouseCoopers",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "finance",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "221111",
+    "posted": "Recently",
+    "slug": "sydney-senior-manager-capital-markets-and-accounting-advisory-services-482-186-sponsorship",
+    "url": "jobs/sydney-senior-manager-capital-markets-and-accounting-advisory-services-482-186-sponsorship.html",
+    "description": "Line of Service Assurance Industry/Sector Not Applicable Specialism Assurance Management Level Senior Manager Job Description & Summary Education (if blank, degree and/or field of study not specified) Degrees/Field of St..."
+  },
+  {
+    "id": "adzuna-5870147131",
+    "title": "FY27 TEST Vacationer - Melbourne - Deals",
+    "company": "PricewaterhouseCoopers",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-fy27-test-vacationer-melbourne-deals-482-186-sponsorship",
+    "url": "jobs/melbourne-fy27-test-vacationer-melbourne-deals-482-186-sponsorship.html",
+    "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Advisory - Other Management Level Administrative Job Description & Summary LI-DNI Education (if blank, degree and/or field of study not specified) Degree..."
+  },
+  {
+    "id": "adzuna-5870144419",
+    "title": "FY27 TEST Vacationer - Sydney - Risk",
+    "company": "PricewaterhouseCoopers",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-fy27-test-vacationer-sydney-risk-482-186-sponsorship",
+    "url": "jobs/sydney-fy27-test-vacationer-sydney-risk-482-186-sponsorship.html",
+    "description": "Line of Service Assurance Industry/Sector Not Applicable Specialism Assurance Management Level Administrative Job Description & Summary LI-DNI Education (if blank, degree and/or field of study not specified) Degrees/Fiel..."
+  },
+  {
+    "id": "adzuna-5873279695",
+    "title": "Industry Driver - Health",
+    "company": "PricewaterhouseCoopers",
+    "logoInitial": "P",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-industry-driver-health-482-494-sponsorship",
+    "url": "jobs/perth-industry-driver-health-482-494-sponsorship.html",
+    "description": "Line of Service Internal Firm Services Industry/Sector Not Applicable Specialism IFS - Brand & Communications Management Level Senior Manager Job Description & Summary Education (if blank, degree and/or field of study no..."
+  },
+  {
+    "id": "adzuna-5875678070",
+    "title": "Domestic Applicants only - Registered Nurse/Midwife - All specialities, all regions across NT Health",
+    "company": "Department of Health",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-domestic-applicants-only-registered-nursemidwife-all-specialities-all-regions-across-nt-health-482-186-sponsorship",
+    "url": "jobs/sydney-domestic-applicants-only-registered-nursemidwife-all-specialities-all-regions-across-nt-health-482-186-sponsorship.html",
+    "description": "Note – if you are seeking visa sponsorship do not apply via this register of interest as your application will not be progressed. Please search vacancy 70252221 and apply through that register of interest. Nursing and mi..."
+  },
+  {
+    "id": "adzuna-5875678127",
+    "title": "Facilities Coordinator",
+    "company": "PricewaterhouseCoopers",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-facilities-coordinator-482-186-sponsorship",
+    "url": "jobs/sydney-facilities-coordinator-482-186-sponsorship.html",
+    "description": "Line of Service Internal Firm Services Industry/Sector Not Applicable Specialism Customer Support Management Level Senior Associate Job Description & Summary Education (if blank, degree and/or field of study not specifie..."
+  },
+  {
+    "id": "adzuna-5870135900",
+    "title": "Emergency Medicine Registrar ACEM Assessed please also apply",
+    "company": "ME Medical Recruitment",
+    "logoInitial": "M",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-emergency-medicine-registrar-acem-assessed-please-also-apply-482-494-sponsorship",
+    "url": "jobs/perth-emergency-medicine-registrar-acem-assessed-please-also-apply-482-494-sponsorship.html",
+    "description": "Emergency Department Registrar – Western Australia Take your emergency medicine career to the next level in a stunning coastal city in WA! We are seeking Emergency Department Registrars to join a leading hospital in a vi..."
+  },
+  {
+    "id": "adzuna-5870132489",
+    "title": "Cook (Hospitality)",
+    "company": "Worldpool Australia",
+    "logoInitial": "W",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-cook-hospitality-482-494-sponsorship",
+    "url": "jobs/perth-cook-hospitality-482-494-sponsorship.html",
+    "description": "Job Description: The Role: Wordpool Australia is currently recruiting for Cooks. If you meet the essential requirements listed below and want to take advantage of this fantastic opportunity, please send us your resume an..."
+  },
+  {
+    "id": "adzuna-5870156409",
+    "title": "Research Engineer – Matilda",
+    "company": "Maincode",
+    "logoInitial": "M",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-research-engineer-matilda-482-186-sponsorship",
+    "url": "jobs/melbourne-research-engineer-matilda-482-186-sponsorship.html",
+    "description": "Maincode is mission-focused. That means we care about shipping Matilda, and we care about the people we do it with. Everything else is secondary. Matilda is Australia's first publicly available conversational AI platform..."
+  },
+  {
+    "id": "adzuna-5870138522",
+    "title": "Hospitality Internship Trainee",
+    "company": "2coms",
+    "logoInitial": "2",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-hospitality-internship-trainee-482-186-sponsorship",
+    "url": "jobs/sydney-hospitality-internship-trainee-482-186-sponsorship.html",
+    "description": "Job Title: Hospitality Internship Trainee Location: Australia (Candidate must be willing to relocate to Australia) Internship Duration: 2 Years Departments Available: Front Office Food & Beverage Service Culinary / Food ..."
+  },
+  {
+    "id": "adzuna-5870155635",
+    "title": "Midwife",
+    "company": "ACM Recruitment",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-midwife-482-186-sponsorship",
+    "url": "jobs/sydney-midwife-482-186-sponsorship.html",
+    "description": "17th August, 2026 Sydney Metro Maternity Midwives | Contracts & Permanent Roles Take your midwifery career to the next level in Sydney. We’re currently seeking experienced Registered Midwives for both short-term contract..."
+  },
+  {
+    "id": "adzuna-5870136637",
+    "title": "Emergency Medicine Specialty Registrar - UK trained please apply",
+    "company": "ME Medical Recruitment",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-emergency-medicine-specialty-registrar-uk-trained-please-apply-482-186-sponsorship",
+    "url": "jobs/sydney-emergency-medicine-specialty-registrar-uk-trained-please-apply-482-186-sponsorship.html",
+    "description": "Emergency Department Registrar – Australia Wide Take your emergency medicine career to the next level in Australian Wide positions! We are seeking Emergency Department Registrars to join a leading hospitals in in a vibra..."
+  },
+  {
+    "id": "adzuna-5870156996",
+    "title": "Remote Data Entry Operator (Entry Level)",
+    "company": "Skillerszone",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-remote-data-entry-operator-entry-level-482-186-sponsorship",
+    "url": "jobs/sydney-remote-data-entry-operator-entry-level-482-186-sponsorship.html",
+    "description": "Job Title: Remote Data Entry Operator (Entry Level) Company: Optiboost Media Location: New York, USA (Remote / Work From Home) Job Type: Full-time / Part-time Company Overview: Optiboost Media is a growing professional s..."
+  },
+  {
+    "id": "adzuna-5870140825",
+    "title": "ICU Registrar / Senior Medical Officer",
+    "company": "Calvary Health Care",
+    "logoInitial": "C",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "adelaide-icu-registrar-senior-medical-officer-482-494-sponsorship",
+    "url": "jobs/adelaide-icu-registrar-senior-medical-officer-482-494-sponsorship.html",
+    "description": "ICU Registrar Calvary Adelaide & Calvary North Adelaide Hospitals | Adelaide, South Australia Build your critical care career in one of Australia's leading private ICU networks. If you're seeking outstanding clinical exp..."
+  },
+  {
+    "id": "adzuna-5870155053",
+    "title": "Signal Engineer",
+    "company": "Maincode",
+    "logoInitial": "M",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-signal-engineer-482-186-sponsorship",
+    "url": "jobs/melbourne-signal-engineer-482-186-sponsorship.html",
+    "description": "About the role Matilda is Australia's LLM. What ends up in the corpus is what the model learns, so the quality of the data sets the ceiling on the quality of the model. We're hiring a Signal Engineer to own that ceiling...."
+  },
+  {
+    "id": "jooble-3728892751639702341",
+    "title": "Quality Engineer",
+    "company": "Invictus People",
+    "logoInitial": "I",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$110k",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-quality-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-quality-engineer-482-186-sponsorship.html",
+    "description": " Position Description \r\n Quality Engineer \r\n About the Opportunity \r\n An exciting opportunity is available for an experienced Quality Engineer to join a growing advanced manufacturing organisation delivering high precisi..."
   }
 ];
 
