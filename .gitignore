@@ -25,3 +25,4 @@ google_client_secret.json
 google_tokens.json
 google_indexing_tool.py
 indexing_report.json
+indexing_history.json
