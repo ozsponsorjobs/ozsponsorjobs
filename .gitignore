@@ -21,3 +21,7 @@ requirements.txt
 .github/
 job_ledger.py
 job_ledger.json
+google_client_secret.json
+google_tokens.json
+google_indexing_tool.py
+indexing_report.json
