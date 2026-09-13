@@ -2266,6 +2266,18 @@ function initJobFilters() {
   const paramVisa = urlParams.get('visa');
   const paramCategory = urlParams.get('category') || urlParams.get('cat');
 
+  // Expired Job Redirect Banner Handler
+  const noticeParam = urlParams.get('notice');
+  const fromJobParam = urlParams.get('from_job') || urlParams.get('job');
+  const expiredBanner = document.getElementById('job-expired-banner');
+  if (expiredBanner && (noticeParam === 'expired' || urlParams.has('expired'))) {
+    expiredBanner.style.display = 'block';
+    const labelEl = document.getElementById('expired-job-label');
+    if (labelEl && fromJobParam) {
+      labelEl.textContent = `"${decodeURIComponent(fromJobParam)}"`;
+    }
+  }
+
   let hasUrlFilter = false;
 
   if (paramKeyword) {
