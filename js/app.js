@@ -5334,6 +5334,136 @@ const JOBS_DATA = [
     "url": "jobs/gold-coast-nightclub-positions-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5884957419?utm_medium=api&utm_source=13c876f1",
     "description": "We’re Hiring – Gold Coast Nightclub Staff Join the teams at Bedroom, Havana & TEMPO Love nightlife? We’re looking for confident, high-energy people to join the teams across Bedroom Lounge Bar, Havana R&B Nightclub and TE..."
+  },
+  {
+    "id": "adzuna-5885369076",
+    "title": "QUALIFIED MOTORCYCLE MECHANIC",
+    "company": "PRO MOTORCYCLES",
+    "logoInitial": "P",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$70,000 - $80,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "brisbane-qualified-motorcycle-mechanic-482-494-sponsorship",
+    "url": "jobs/brisbane-qualified-motorcycle-mechanic-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5885369076?utm_medium=api&utm_source=13c876f1",
+    "description": "Motorcycle Mechanic Pro Motorcycles – Moorooka QLD 4105 Salary: $70,000 – $80,000 per year Employment Type: Full-time, Permanent Visa Sponsorship: Considered for suitable candidates Pro Motorcycles is seeking a qualified..."
+  },
+  {
+    "id": "adzuna-5882475675",
+    "title": "Chef (Hospitality)",
+    "company": "Worldpool Australia",
+    "logoInitial": "W",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-chef-hospitality-482-494-sponsorship",
+    "url": "jobs/perth-chef-hospitality-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5882475675?se=bsroQMGx8RGB1oV7gG1NDw&utm_medium=api&utm_source=13c876f1&v=CB2F964996EAF82F6A893F766537392EC2C07E11",
+    "description": "Job Description: The Role: Wordpool Australia is currently recruiting for Chefs. If you meet the essential requirements listed below and want to take advantage of this fantastic opportunity, please send us your resume an..."
+  },
+  {
+    "id": "adzuna-5882235124",
+    "title": "Hiring Australian citizens to work in USA on E3 Visa",
+    "company": "Addon Technologies",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-hiring-australian-citizens-to-work-in-usa-on-e3-visa-482-186-sponsorship",
+    "url": "jobs/sydney-hiring-australian-citizens-to-work-in-usa-on-e3-visa-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5882235124?se=bsroQMGx8RGB1oV7gG1NDw&utm_medium=api&utm_source=13c876f1&v=D5E43CE0450EF189EED5E1100FD0367B2087E23F",
+    "description": "Company Description Addon Technologies Inc is a professional IT services company, with its Corporate Offices in Livonia, MI. We provide software consulting, development, support, maintenance and training services in USA ..."
+  },
+  {
+    "id": "adzuna-5885189555",
+    "title": "Cali Beach | All Positions",
+    "company": "Artesian Hospitality",
+    "logoInitial": "A",
+    "location": "Gold Coast, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "gold-coast-cali-beach-all-positions-482-494-sponsorship",
+    "url": "jobs/gold-coast-cali-beach-all-positions-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5885189555?se=Rr4vQsGx8RGST6GOnhWXLg&utm_medium=api&utm_source=13c876f1&v=D8E438871F43A1F54AC275E125562465B23BF650",
+    "description": "We’re Hiring – Cali Beach | All Positions Gold Coast’s ultimate beach club is looking for passionate, high-energy people to join the team at Cali Beach . Set in the heart of Surfers Paradise, Cali Beach combines poolside..."
+  },
+  {
+    "id": "adzuna-5883086845",
+    "title": "O&G Registrar | Supportive Regional Hospital in NSW | Coastal Lifestyle",
+    "company": "Mediix",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-og-registrar-supportive-regional-hospital-in-nsw-coastal-lifestyle-482-186-sponsorship",
+    "url": "jobs/sydney-og-registrar-supportive-regional-hospital-in-nsw-coastal-lifestyle-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5883086845?se=TCaXScGx8RGB1oV7gG1NDw&utm_medium=api&utm_source=13c876f1&v=5C1A9713100E161A67857F9AF2CCEE8018987086",
+    "description": "Description O&G Registrar – Large, Supportive Regional Health Service | Coastal Lifestyle | January 2026 Start Are you a motivated Obstetrics & Gynaecology Registrar looking to advance your training in a high-functioning..."
   }
 ];
 
@@ -5628,8 +5758,7 @@ function initJobFilters() {
             <span>Posted ${job.posted}</span>
           </div>
           <div class="card-actions">
-            <a href="${job.url || `jobs/${job.slug}.html`}" class="btn btn-outline btn-sm">Details & PR</a>
-            <a href="${job.apply_url || job.url || `jobs/${job.slug}.html`}" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-primary btn-sm">Apply &rarr;</a>
+            <a href="${job.url || `jobs/${job.slug}.html`}" class="btn btn-primary btn-sm">View Role & Apply &rarr;</a>
           </div>
         </div>
       `;
