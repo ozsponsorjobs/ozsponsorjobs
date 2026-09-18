@@ -5464,6 +5464,3516 @@ const JOBS_DATA = [
     "url": "jobs/sydney-og-registrar-supportive-regional-hospital-in-nsw-coastal-lifestyle-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/land/ad/5883086845?se=TCaXScGx8RGB1oV7gG1NDw&utm_medium=api&utm_source=13c876f1&v=5C1A9713100E161A67857F9AF2CCEE8018987086",
     "description": "Description O&G Registrar – Large, Supportive Regional Health Service | Coastal Lifestyle | January 2026 Start Are you a motivated Obstetrics & Gynaecology Registrar looking to advance your training in a high-functioning..."
+  },
+  {
+    "id": "adzuna-5886040536",
+    "title": "Full-Time Supervisors - Visa Sponsorship Available",
+    "company": "Zambrero",
+    "logoInitial": "Z",
+    "location": "Gold Coast, QLD",
+    "state": "QLD",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "gold-coast-full-time-supervisors-visa-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/gold-coast-full-time-supervisors-visa-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5886040536?utm_medium=api&utm_source=13c876f1",
+    "description": "· Fun, friendly culture · Roll with us and make a difference · Development opportunities – become the next leader in our team We are on the hunt for Shift Supervisors to join our Zam fam at our Broadbeach restaurant! App..."
+  },
+  {
+    "id": "adzuna-5887051673",
+    "title": "Occupational Therapist - 482 Visa Sponsorship Available!",
+    "company": "Better Rehab",
+    "logoInitial": "B",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "brisbane-occupational-therapist-482-visa-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/brisbane-occupational-therapist-482-visa-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887051673?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description What You'll Love About the Role Diverse & Rewarding Caseloads No two days are the same. You'll work with a varied caseload that challenges and develops your clinical skills while creating meaningful outco..."
+  },
+  {
+    "id": "adzuna-5888740021",
+    "title": "AHS Solutions Manager",
+    "company": "Caterpillar Inc.",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-ahs-solutions-manager-482-186-sponsorship",
+    "url": "jobs/sydney-ahs-solutions-manager-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5888740021?utm_medium=api&utm_source=13c876f1",
+    "description": "Career Area: Sales Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the m..."
+  },
+  {
+    "id": "adzuna-5880597796",
+    "title": "Chef Opportunities - Cibaria Noosa Restaurant",
+    "company": "AccorHotel",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-chef-opportunities-cibaria-noosa-restaurant-482-186-sponsorship",
+    "url": "jobs/sydney-chef-opportunities-cibaria-noosa-restaurant-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5880597796?utm_medium=api&utm_source=13c876f1",
+    "description": "Company Description Welcome to Elysium Noosa Resort an elegant retreat set in the heart of one of Australia’s most iconic coastal destinations. Elysium Noosa has been thoughtfully reimagined across every guest touchpoint..."
+  },
+  {
+    "id": "adzuna-5870915130",
+    "title": "Dual Degree Registered Nurse/Midwife",
+    "company": "Mater Group",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-dual-degree-registered-nursemidwife-482-186-sponsorship",
+    "url": "jobs/sydney-dual-degree-registered-nursemidwife-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870915130?utm_medium=api&utm_source=13c876f1",
+    "description": "About the role Mater Private Hospital Mackay are seeking Registered Nurse/Midwife (Dual Qualified) to come join our Maternity Paediatric unit. We offer excellent flexibility, with opportunities ranging from Permanent Par..."
+  },
+  {
+    "id": "adzuna-5887133338",
+    "title": "Vanguard Capital Management - Investment Stewardship Analyst",
+    "company": "The Vanguard Group",
+    "logoInitial": "T",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-vanguard-capital-management-investment-stewardship-analyst-482-186-sponsorship",
+    "url": "jobs/melbourne-vanguard-capital-management-investment-stewardship-analyst-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887133338?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Summary Serves as an analyst supporting day-to-day company engagement, research, and proxy voting activities. Analyzes proposals and contributes to proxy voting recommendations in alignment with Vanguard'..."
+  },
+  {
+    "id": "adzuna-5870152355",
+    "title": "Registered Midwife",
+    "company": "Calvary Health Care",
+    "logoInitial": "C",
+    "location": "Hobart, TAS",
+    "state": "TAS",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "hobart-registered-midwife-482-494-sponsorship",
+    "url": "jobs/hobart-registered-midwife-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870152355?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Midwife Permanent Full-Time, Part-Time & Casual Opportunities Midwives — Is It Time for Your Next Chapter? You became a midwife to make a difference. To support women through pregnancy, birth and the postnatal..."
+  },
+  {
+    "id": "adzuna-5888739973",
+    "title": "Head Chef - Carlingford Greens Care Community",
+    "company": "Opal HealthCare",
+    "logoInitial": "O",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-head-chef-carlingford-greens-care-community-482-186-sponsorship",
+    "url": "jobs/sydney-head-chef-carlingford-greens-care-community-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5888739973?utm_medium=api&utm_source=13c876f1",
+    "description": "At Opal HealthCare, we know that companies don’t succeed, people do. Opal Healthcare is Australia’s largest residential aged care provider, with 146 Care Communities and over 25,000 team members nationwide. Our values of..."
+  },
+  {
+    "id": "adzuna-5887139327",
+    "title": "Software Engineer (Model Inference)",
+    "company": "coreflow",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-software-engineer-model-inference-482-186-sponsorship",
+    "url": "jobs/sydney-software-engineer-model-inference-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887139327?utm_medium=api&utm_source=13c876f1",
+    "description": "About us We're building a new category of interactive entertainment powered by AI characters, image, video, and real-time experiences. We’re one of the most-visited AI products globally, serving millions of users every d..."
+  },
+  {
+    "id": "adzuna-5880597613",
+    "title": "Director of Revenue Management",
+    "company": "Talent on the Move Pty",
+    "logoInitial": "T",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-director-of-revenue-management-482-186-sponsorship",
+    "url": "jobs/melbourne-director-of-revenue-management-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5880597613?utm_medium=api&utm_source=13c876f1",
+    "description": "About the company Our client is a newly launched, dual-branded hotel located at a major Australian airport , representing two of the most recognisable global hospitality brands. This flagship property includes over 450 r..."
+  },
+  {
+    "id": "adzuna-5870152260",
+    "title": "Technical Field Engineer (VIC)",
+    "company": "St Vincent’s Health Australia",
+    "logoInitial": "S",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-technical-field-engineer-vic-482-186-sponsorship",
+    "url": "jobs/melbourne-technical-field-engineer-vic-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870152260?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description: Better and fairer care. Always . We are St Vincent’s Health Australia, Australia’s largest not-for-profit provider of health and aged care services. Founded by The Sisters of Charity in 1857, our 30,000 ..."
+  },
+  {
+    "id": "adzuna-5888740358",
+    "title": "Home Care Worker - Tullamarine VIC",
+    "company": "My Guardian",
+    "logoInitial": "M",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-home-care-worker-tullamarine-vic-482-186-sponsorship",
+    "url": "jobs/melbourne-home-care-worker-tullamarine-vic-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5888740358?utm_medium=api&utm_source=13c876f1",
+    "description": "Be Part of the Next Big Growth Story in Care At My Guardian, our goal is simple: to provide exceptional, deeply personalised care that helps people of all ages and abilities live with dignity, comfort, and true independe..."
+  },
+  {
+    "id": "adzuna-5887428849",
+    "title": "Family Support Worker – Rockhampton",
+    "company": "Catholic Care Central Queensland",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-family-support-worker-rockhampton-482-186-sponsorship",
+    "url": "jobs/sydney-family-support-worker-rockhampton-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887428849?utm_medium=api&utm_source=13c876f1",
+    "description": "Make a genuine difference in the lives of vulnerable people in your local community Permanent Full Time Position $40.49 per hour plus Superannuation and generous salary sacrificing options up to $18,550 per FBT year Ongo..."
+  },
+  {
+    "id": "adzuna-5887150743",
+    "title": "Clinical Nurse Manager - Katherine",
+    "company": "Australian Regional and Remote Community Services",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-clinical-nurse-manager-katherine-482-186-sponsorship",
+    "url": "jobs/sydney-clinical-nurse-manager-katherine-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887150743?utm_medium=api&utm_source=13c876f1",
+    "description": "About the role Experience working and living in Katherine, Northern Territory and care for First Nations people. ARRCS are currently sourcing a qualified and experienced Clinical Nurse Manager to support the management w..."
+  },
+  {
+    "id": "adzuna-5880597951",
+    "title": "School Operations Assistant, Engineering",
+    "company": "University of Wollongong",
+    "logoInitial": "U",
+    "location": "Wollongong, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "wollongong-school-operations-assistant-engineering-482-186-sponsorship",
+    "url": "jobs/wollongong-school-operations-assistant-engineering-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5880597951?utm_medium=api&utm_source=13c876f1",
+    "description": "Description Make an impact at the University of Wollongong (UOW) — a purpose-driven institution ranked in the top 1% of universities globally, with more than 33,000 students from over 130 countries. About the Role The Sc..."
+  },
+  {
+    "id": "adzuna-5889057605",
+    "title": "Team Leader – General Administration (UNSW Engineering School Shared Services)",
+    "company": "UNSW",
+    "logoInitial": "U",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-team-leader-general-administration-unsw-engineering-school-shared-services-482-186-sponsorship",
+    "url": "jobs/sydney-team-leader-general-administration-unsw-engineering-school-shared-services-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5889057605?utm_medium=api&utm_source=13c876f1",
+    "description": "The Opportunity: The Team Leader, General Administration is responsible for leading and managing administrative services and the general administration team within the Faculty of Engineering’s eight Schools. The role rep..."
+  },
+  {
+    "id": "adzuna-5870912970",
+    "title": "Finance Intern",
+    "company": "Boeing",
+    "logoInitial": "B",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "melbourne-finance-intern-482-186-sponsorship",
+    "url": "jobs/melbourne-finance-intern-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870912970?utm_medium=api&utm_source=13c876f1",
+    "description": "Finance Intern Company: Boeing Aerostructures Australia Pty Ltd About Boeing Aerostructures Australia (BAA) BAA produces flight control surfaces for Boeing Commercial Airplanes (737, 777 and 787) and has over 1,000 emplo..."
+  },
+  {
+    "id": "adzuna-5887136975",
+    "title": "AI Software Engineer (Front End)",
+    "company": "Maincode",
+    "logoInitial": "M",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-ai-software-engineer-front-end-482-186-sponsorship",
+    "url": "jobs/melbourne-ai-software-engineer-front-end-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887136975?utm_medium=api&utm_source=13c876f1",
+    "description": "About the role Maincode is training the next version of Matilda, the first large language model built and trained from scratch in Australia. We are now scaling the model and deploying it as a live production system. To d..."
+  },
+  {
+    "id": "adzuna-5870915306",
+    "title": "Registered Nurse - Medical",
+    "company": "MaterNews",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-medical-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-medical-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870915306?utm_medium=api&utm_source=13c876f1",
+    "description": "About the role Mater Private Hospital Townsville are currently seeking experienced Registered Nurses to join our Medical Ward . We offer excellent flexibility, with opportunities ranging from Permanent Part-Time (0.6 FTE..."
+  },
+  {
+    "id": "adzuna-5889057868",
+    "title": "Registered Nurse - Surgical",
+    "company": "MaterNews",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-surgical-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-surgical-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5889057868?utm_medium=api&utm_source=13c876f1",
+    "description": "About the role Mater Private Hospital Rockhampton has an exciting opportunity for a Registered Nurse to join their Surgical Ward. We offer excellent flexibility, with opportunities ranging from Permanent Part-Time (0.6 F..."
+  },
+  {
+    "id": "adzuna-5879229989",
+    "title": "Veterinary Criticalist (Emergency & Critical Care Specialist) BVSC - Brisbane - Days (No weekends)",
+    "company": "VetPartners",
+    "logoInitial": "V",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "brisbane-veterinary-criticalist-emergency-critical-care-specialist-bvsc-brisbane-days-no-weekends-482-494-sponsorship",
+    "url": "jobs/brisbane-veterinary-criticalist-emergency-critical-care-specialist-bvsc-brisbane-days-no-weekends-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5879229989?utm_medium=api&utm_source=13c876f1",
+    "description": "Description Brisbane Veterinary Specialist Centre (BVSC) is seeking a passionate and highly skilled Veterinary Criticalist (Emergency & Critical Care Specialist) to join our growing multidisciplinary referral and emergen..."
+  },
+  {
+    "id": "adzuna-5888489948",
+    "title": "Qualified Electrician — Brisbane North (QLD)",
+    "company": "ARC Staff - Australian Recruitment Company",
+    "logoInitial": "A",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "brisbane-qualified-electrician-brisbane-north-qld-482-494-sponsorship",
+    "url": "jobs/brisbane-qualified-electrician-brisbane-north-qld-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5888489948?utm_medium=api&utm_source=13c876f1",
+    "description": "$96,000  Super | 482 Visa Sponsorship Available ARC Staff is currently recruiting a Qualified Electrician to join our client’s growing team in Brisbane’s northern suburbs. The role: Predominantly residential/domestic wor..."
+  },
+  {
+    "id": "adzuna-5860532301",
+    "title": "Private Dentist",
+    "company": "Zest Business Group",
+    "logoInitial": "Z",
+    "location": "Newcastle, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$80,000 - $120,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "newcastle-private-dentist-482-186-sponsorship",
+    "url": "jobs/newcastle-private-dentist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5860532301?utm_medium=api&utm_source=13c876f1",
+    "description": "Private Dentist Jobs in Taree, New South Wales, Australia. Visa Sponsorship - Well-established family dental clinic in beautiful Taree, excellent work-life balance, superb earning potential and a supportive team with an ..."
+  },
+  {
+    "id": "adzuna-5881013433",
+    "title": "Veterinarian",
+    "company": "konnecting",
+    "logoInitial": "K",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$85,000 - $175,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-veterinarian-482-186-sponsorship",
+    "url": "jobs/sydney-veterinarian-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5881013433?utm_medium=api&utm_source=13c876f1",
+    "description": "Konnecting is recruiting passionate and dedicated Veterinarians for multiple opportunities across Australia. We are seeking experienced Veterinary Surgeons , Small Animal Veterinarians , Emergency Veterinarians , Mixed P..."
+  },
+  {
+    "id": "adzuna-5887429530",
+    "title": "Registered Nurse",
+    "company": "St Vincent’s Health Australia",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887429530?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description: Role title: Registered Nurse (Year 2 - 8) Role type: Permanent full time Shift details: 24/7 rotating roster Department and location: PANDA Unit , St Vincent’s Public Hospital, Sydney Salary: $86,183.34 ..."
+  },
+  {
+    "id": "adzuna-5870915410",
+    "title": "Senior HSSE Engineer (Gas Turbines)",
+    "company": "Caterpillar Inc.",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-hsse-engineer-gas-turbines-482-186-sponsorship",
+    "url": "jobs/sydney-senior-hsse-engineer-gas-turbines-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870915410?utm_medium=api&utm_source=13c876f1",
+    "description": "Career Area: Environmental Health and Safety Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also abou..."
+  },
+  {
+    "id": "adzuna-5870915412",
+    "title": "Technical Accountant | Senior Associate | Capital Markets and Accounting Advisory Services",
+    "company": "PricewaterhouseCoopers",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "finance",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "221111",
+    "posted": "Recently",
+    "slug": "melbourne-technical-accountant-senior-associate-capital-markets-and-accounting-advisory-services-482-186-sponsorship",
+    "url": "jobs/melbourne-technical-accountant-senior-associate-capital-markets-and-accounting-advisory-services-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870915412?utm_medium=api&utm_source=13c876f1",
+    "description": "Line of Service Assurance Industry/Sector Not Applicable Specialism Assurance Management Level Senior Associate Job Description & Summary At PwC, we work together to create a better tomorrow for our people, our clients, ..."
+  },
+  {
+    "id": "adzuna-5880597814",
+    "title": "Scrub Scout Registered Nurse",
+    "company": "St Vincent’s Health Australia",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-scrub-scout-registered-nurse-482-186-sponsorship",
+    "url": "jobs/sydney-scrub-scout-registered-nurse-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5880597814?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description: Role title: Registered Nurse Role type: Permanent or Perm Part time Department and location: Level 5 Theatres, St Vincent’s Private Hospital Sydney Salary: $39.23 - 55.09 AUD base per hour plus super Wel..."
+  },
+  {
+    "id": "adzuna-5870152177",
+    "title": "Registered Nurse - Central Allocations Unit (Acute & Aged)",
+    "company": "Grampians Health",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-central-allocations-unit-acute-aged-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-central-allocations-unit-acute-aged-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870152177?utm_medium=api&utm_source=13c876f1",
+    "description": "Casual Opportunity YP2 – YP9 | $41.36 - $52.82 per hour No visa sponsorship is available for this role About the Role We are seeking applications from passionate Registered Nurses to join our casual bank to provide care ..."
+  },
+  {
+    "id": "adzuna-5870151537",
+    "title": "Enrolled Nurse - Central Allocations Unit Horsham",
+    "company": "Grampians Health",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-enrolled-nurse-central-allocations-unit-horsham-482-186-sponsorship",
+    "url": "jobs/sydney-enrolled-nurse-central-allocations-unit-horsham-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870151537?utm_medium=api&utm_source=13c876f1",
+    "description": "Multiple Positions Available: Casual, Permanent Part Time and Full Time IB68 – IB72 | $37.03 - $39.40 per hour No visa sponsorship is available for this role Are you a passionate Enrolled Nurse ready to make a meaningful..."
+  },
+  {
+    "id": "adzuna-5886484763",
+    "title": "Aged or Disabled carer",
+    "company": "Pintupi Homelands Health Service",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$67,510 - $75,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-aged-or-disabled-carer-482-186-sponsorship",
+    "url": "jobs/sydney-aged-or-disabled-carer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5886484763?utm_medium=api&utm_source=13c876f1",
+    "description": "Designation: Aged or Disabled carer Location: Kintore, Northern Territory Employment: Full-time Salary: AUD $67,510– $75,000 per annum About Pintupi Homelands Health Service Pintupi Homelands Health Service (Aboriginal C..."
+  },
+  {
+    "id": "adzuna-5886245789",
+    "title": "Primary Teacher - Central Queensland",
+    "company": "Technical Focus Pty Ltd t/as Talent Focus",
+    "logoInitial": "T",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$80,000 - $80,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "brisbane-primary-teacher-central-queensland-482-494-sponsorship",
+    "url": "jobs/brisbane-primary-teacher-central-queensland-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5886245789?utm_medium=api&utm_source=13c876f1",
+    "description": "Primary Teacher – Central Queensland We are seeking a passionate and dedicated Primary Teacher to join a welcoming Christian school community in Central Queensland, with opportunities available for Term 4, 2026 or Term 1..."
+  },
+  {
+    "id": "adzuna-5888489866",
+    "title": "Primary Teacher – Central Queensland",
+    "company": "Talent Focus",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-primary-teacher-central-queensland-482-186-sponsorship",
+    "url": "jobs/sydney-primary-teacher-central-queensland-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5888489866?utm_medium=api&utm_source=13c876f1",
+    "description": "Primary Teacher – Central Queensland We are seeking a passionate and dedicated Primary Teacher to join a welcoming Christian school community in Central Queensland, with opportunities available for Term 4, 2026 or Term 1..."
+  },
+  {
+    "id": "adzuna-5887730523",
+    "title": "Trainee Seafood Processor",
+    "company": "Frontline Recruitment Group",
+    "logoInitial": "F",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$70,000 - $75,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "sydney-trainee-seafood-processor-482-186-sponsorship",
+    "url": "jobs/sydney-trainee-seafood-processor-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887730523?utm_medium=api&utm_source=13c876f1",
+    "description": "Our client is seeking a Trainee Seafood Processor to join their busy seafood production and retail team in Myaree . This hands-on role involves preparing premium fresh seafood to the highest quality standards while suppo..."
+  },
+  {
+    "id": "adzuna-5888739607",
+    "title": "Sous Chef",
+    "company": "Compass Group",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "sydney-sous-chef-482-186-sponsorship",
+    "url": "jobs/sydney-sous-chef-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5888739607?utm_medium=api&utm_source=13c876f1",
+    "description": "Sous Chef $91,000 base salary  $10,920 superannuation as a perm full-time employee Everything we do is motivated by excellence served with care. We believe that the best way to provide meaningful, genuine experiences for..."
+  },
+  {
+    "id": "adzuna-5884258736",
+    "title": "Head of Information Technology Operations",
+    "company": "Galileo Search",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$220 - $320 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-head-of-information-technology-operations-482-186-sponsorship",
+    "url": "jobs/sydney-head-of-information-technology-operations-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5884258736?utm_medium=api&utm_source=13c876f1",
+    "description": "Head of Technology Operations and Service Management | Sydney | Permanent, hybrid Employment type: Full-time permanent. Seniority: Executive, reports to the CIO. Package: exec package. The role A large Australian organis..."
+  },
+  {
+    "id": "adzuna-5746822233",
+    "title": "Radiation Therapist",
+    "company": "GenesisCare",
+    "logoInitial": "G",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-radiation-therapist-482-494-sponsorship",
+    "url": "jobs/perth-radiation-therapist-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5746822233?utm_medium=api&utm_source=13c876f1",
+    "description": "At GenesisCare we want to hear from people who are as passionate as we are about innovation and working together to drive better life outcomes for patients around the world . Care to join the team? Ready to take your Rad..."
+  },
+  {
+    "id": "adzuna-5650849007",
+    "title": "Building Associate | ANZSCO",
+    "company": "Dust Free Concrete Cutting Pty Ltd",
+    "logoInitial": "D",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$76,515 - $76,515 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "perth-building-associate-anzsco-482-494-sponsorship",
+    "url": "jobs/perth-building-associate-anzsco-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650849007?utm_medium=api&utm_source=13c876f1",
+    "description": "Building Associate | ANZSCO  Full Time | Perth, WA Salary: $76,515 – $90,000 plus superannuation (commensurate with experience) About the Opportunity Dust Free Concrete Cutting is a specialist contractor delivering preci..."
+  },
+  {
+    "id": "adzuna-5863631918",
+    "title": "Remote Community Store - Duty Supervisors - Couple Position",
+    "company": "North West Recruitment",
+    "logoInitial": "N",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "perth-remote-community-store-duty-supervisors-couple-position-482-494-sponsorship",
+    "url": "jobs/perth-remote-community-store-duty-supervisors-couple-position-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5863631918?utm_medium=api&utm_source=13c876f1",
+    "description": "A great chance to live & work in the beautiful Kimberley region close to Broome, WA Full training provided with career development opportunities Attractive salary and accommodation package provided The Company Our client..."
+  },
+  {
+    "id": "adzuna-5870683593",
+    "title": "Transmission Line Workers (Cert III)",
+    "company": "GenusPlusÂ Group",
+    "logoInitial": "G",
+    "location": "Burnie, TAS",
+    "state": "TAS",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$124,800 - $145,600 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "burnie-transmission-line-workers-cert-iii-482-494-sponsorship",
+    "url": "jobs/burnie-transmission-line-workers-cert-iii-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870683593?utm_medium=api&utm_source=13c876f1",
+    "description": "129 km of 220 kV. 3-4 years of work. 3:1 roster with accommodation covered. Genus is the head contractor delivering Stage 1 of TasNetworks' North West Transmission Developments (NWTD). It will be the biggest transmission..."
+  },
+  {
+    "id": "adzuna-5844189605",
+    "title": "Experienced Diploma Educator",
+    "company": "Early Years Talent",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-experienced-diploma-educator-482-186-sponsorship",
+    "url": "jobs/sydney-experienced-diploma-educator-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5844189605?utm_medium=api&utm_source=13c876f1",
+    "description": "We are looking for an experienced Diploma-qualified educator whose time in the sector has developed into sound judgement, confident family communication and dependable room leadership. This permanent full-time Lead Educa..."
+  },
+  {
+    "id": "adzuna-5862939030",
+    "title": "Electrical Project Managers - Growing Electrical Contractor",
+    "company": "Powerstaff",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$120,000 - $160,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-electrical-project-managers-growing-electrical-contractor-482-186-sponsorship",
+    "url": "jobs/sydney-electrical-project-managers-growing-electrical-contractor-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5862939030?utm_medium=api&utm_source=13c876f1",
+    "description": "Your Next Company Our client has built a strong reputation for delivering high-quality electrical construction across a diverse portfolio of commercial projects, including office buildings, healthcare facilities, educati..."
+  },
+  {
+    "id": "adzuna-5775841674",
+    "title": "Consultant/Specialist Psychiatrist – Forensic Mental Health",
+    "company": "CC Medical",
+    "logoInitial": "C",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-consultantspecialist-psychiatrist-forensic-mental-health-482-186-sponsorship",
+    "url": "jobs/melbourne-consultantspecialist-psychiatrist-forensic-mental-health-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5775841674?utm_medium=api&utm_source=13c876f1",
+    "description": "Consultant/Specialist Psychiatrist – Forensic Mental Health Melbourne, Victoria | Full-Time, Fractional & Sessional Opportunities | Visa Sponsorship Available Looking for a psychiatry role that offers genuine work-life b..."
+  },
+  {
+    "id": "adzuna-5716546160",
+    "title": "Pharmacist",
+    "company": "Aussie Locums",
+    "logoInitial": "A",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "cairns-pharmacist-482-494-sponsorship",
+    "url": "jobs/cairns-pharmacist-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5716546160?utm_medium=api&utm_source=13c876f1",
+    "description": "Cairns and surrounding region, enjoy the vibrant lifestyle, stunning natural scenery, and excellent work-life balance that Far North Queensland offer Community Pharmacist – Cairns, Far North QLD Full-Time Visa Sponsorshi..."
+  },
+  {
+    "id": "adzuna-5781409764",
+    "title": "Civil Leading Hand",
+    "company": "AR Developments",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "sydney-civil-leading-hand-482-186-sponsorship",
+    "url": "jobs/sydney-civil-leading-hand-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5781409764?utm_medium=api&utm_source=13c876f1",
+    "description": "About the Role AR Developments is seeking an experienced and motivated Civil Leading Hand to lead on-site civil construction teams delivering residential infrastructure and earthworks projects. This hands-on leadership r..."
+  },
+  {
+    "id": "adzuna-5858337975",
+    "title": "Registered Nurses",
+    "company": "Anglican Care",
+    "logoInitial": "A",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$114,400 - $124,800 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-registered-nurses-482-186-sponsorship",
+    "url": "jobs/canberra-registered-nurses-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5858337975?utm_medium=api&utm_source=13c876f1",
+    "description": "The Opportunity: We have permanent fulltime opportunities for Registered Nurses to join our Anglican Care aged care service at Mirrabooka Place - Gloucester NSW. We welcome applications from Registered Nurses seeking emp..."
+  },
+  {
+    "id": "adzuna-5858283662",
+    "title": "Transport - Road Worker - Hay (24992)",
+    "company": "Charter Diligence Pty Ltd",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$94,536 - $94,536 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-transport-road-worker-hay-24992-482-186-sponsorship",
+    "url": "jobs/sydney-transport-road-worker-hay-24992-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5858283662?utm_medium=api&utm_source=13c876f1",
+    "description": "Our Client Our client is a major NSW Government transport organisation responsible for keeping communities connected through safe and reliable road and transport infrastructure across metropolitan and regional NSW. This ..."
+  },
+  {
+    "id": "adzuna-5848184922",
+    "title": "Garden Labourer | ACT Government",
+    "company": "Charter Diligence Pty Ltd",
+    "logoInitial": "C",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$91,145 - $91,145 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "canberra-garden-labourer-act-government-482-186-sponsorship",
+    "url": "jobs/canberra-garden-labourer-act-government-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5848184922?utm_medium=api&utm_source=13c876f1",
+    "description": "Our Client Our client is an ACT Government responsible for delivering essential municipal, transport and city services across Canberra. Its broad operational remit includes maintaining parks, public spaces and community ..."
+  },
+  {
+    "id": "adzuna-5844189604",
+    "title": "Preschool Room Leader  Educational Leader",
+    "company": "Early Years Talent",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-preschool-room-leader-educational-leader-482-186-sponsorship",
+    "url": "jobs/sydney-preschool-room-leader-educational-leader-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5844189604?utm_medium=api&utm_source=13c876f1",
+    "description": "An established, privately owned early learning service in Sydney's Sutherland Shire is looking for a strong preschool leader who can take ownership of an established preschool room and, ideally, influence educational pra..."
+  },
+  {
+    "id": "adzuna-5876963009",
+    "title": "Graduate Internal Sales Representative - Mechanical/Engineering",
+    "company": "Applied Industrial Technologies",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "sydney-graduate-internal-sales-representative-mechanicalengineering-482-186-sponsorship",
+    "url": "jobs/sydney-graduate-internal-sales-representative-mechanicalengineering-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5876963009?utm_medium=api&utm_source=13c876f1",
+    "description": "About the Role We are looking for a recent Mechanical or Engineering graduat e to join our Kalgoorlie team as an Internal Sales Representative. This is a great opportunity to start your career within an established indus..."
+  },
+  {
+    "id": "adzuna-5883436108",
+    "title": "GRANTS AND GOVERNANCE OFFICER",
+    "company": "CBC Staff",
+    "logoInitial": "C",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "cairns-grants-and-governance-officer-482-494-sponsorship",
+    "url": "jobs/cairns-grants-and-governance-officer-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5883436108?utm_medium=api&utm_source=13c876f1",
+    "description": "Help secure funding, strengthen governance, and bring community-focused projects to life while making a genuine difference. Our Client: Our client is a forward-thinking regional council focused on delivering meaningful o..."
+  },
+  {
+    "id": "adzuna-5880591424",
+    "title": "Supervisor - Aircraft Maintenance Australia",
+    "company": "United Airlines",
+    "logoInitial": "U",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-supervisor-aircraft-maintenance-australia-482-186-sponsorship",
+    "url": "jobs/sydney-supervisor-aircraft-maintenance-australia-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5880591424?utm_medium=api&utm_source=13c876f1",
+    "description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route..."
+  },
+  {
+    "id": "adzuna-5828231892",
+    "title": "Club Manager in Melbourne",
+    "company": "Love Recruitment International",
+    "logoInitial": "L",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-club-manager-in-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-club-manager-in-melbourne-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5828231892?utm_medium=api&utm_source=13c876f1",
+    "description": "Club Manager in Melbourne, Australia - Award Winning 24/7 Gym Group AUD $80,000 base  circa AUD $1,000 per month commission  superannuation on top. Location: Open to candidates currently based in the United Kingdom, with..."
+  },
+  {
+    "id": "adzuna-5828214730",
+    "title": "Assistant Club Manager in Melbourne",
+    "company": "Love Recruitment International",
+    "logoInitial": "L",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-assistant-club-manager-in-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-assistant-club-manager-in-melbourne-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5828214730?utm_medium=api&utm_source=13c876f1",
+    "description": "Assistant Club Manager in Melbourne, Australia AUD $70,000 base  circa AUD $1,000 per month commission  superannuation on top. Location: Open to candidates currently based in the United Kingdom and Australia. You must be..."
+  },
+  {
+    "id": "adzuna-5883436122",
+    "title": "PROJECT MANAGER",
+    "company": "CBC Staff",
+    "logoInitial": "C",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "cairns-project-manager-482-494-sponsorship",
+    "url": "jobs/cairns-project-manager-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5883436122?utm_medium=api&utm_source=13c876f1",
+    "description": "Lead major civil construction projects across FNQ. Join a growing business with a strong pipeline and genuine career opportunities. Our Client: Our client is a successful civil construction business with a strong presenc..."
+  },
+  {
+    "id": "adzuna-5883436104",
+    "title": "COMMUNITY BUSINESS SUPPORT OFFICER",
+    "company": "CBC Staff",
+    "logoInitial": "C",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "cairns-community-business-support-officer-482-494-sponsorship",
+    "url": "jobs/cairns-community-business-support-officer-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5883436104?utm_medium=api&utm_source=13c876f1",
+    "description": "Join a community-focused team delivering exceptional customer service, facility bookings and administrative support! Our Client: Our client is a large and well-respected organisation delivering a diverse range of communi..."
+  },
+  {
+    "id": "adzuna-5886337826",
+    "title": "Physiotherapist - Coffs Harbour",
+    "company": "Mor. Healthcare",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-physiotherapist-coffs-harbour-482-186-sponsorship",
+    "url": "jobs/sydney-physiotherapist-coffs-harbour-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5886337826?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Physiotherapist | Sponsorship & PR Pathway | Regional VIC & NSW Secure your future in Australia with a clear pathway to Permanent Residency. Are you an onshore Physiotherapist looking for a role that offe..."
+  },
+  {
+    "id": "adzuna-5879097674",
+    "title": "General practitioner (GP) - Taree - PEP - DPA - Mixed billings - NSW",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-general-practitioner-gp-taree-pep-dpa-mixed-billings-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-general-practitioner-gp-taree-pep-dpa-mixed-billings-nsw-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5879097674?utm_medium=api&utm_source=13c876f1",
+    "description": "Summary: A primary care health practice in Taree, NSW, serving the population of Taree and surrounds and providing primary healthcare services, including: diagnosis, treatment, follow up, primary care, preventive medicin..."
+  },
+  {
+    "id": "adzuna-5754935149",
+    "title": "Sonographer",
+    "company": "Integral Diagnostics",
+    "logoInitial": "I",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-sonographer-482-494-sponsorship",
+    "url": "jobs/perth-sonographer-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5754935149?utm_medium=api&utm_source=13c876f1",
+    "description": " Claremont, Perth WA Full Time or Part Time | Permanent or Locum Opportunities Make the Move to Perth's Western Suburbs Join a leading medical imaging team in one of Perth's most sought-after locations. Situated just min..."
+  },
+  {
+    "id": "adzuna-5867137923",
+    "title": "Occupational Therapist - Tailored Caseloads",
+    "company": "Brightside Recruitment",
+    "logoInitial": "B",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$115,000 - $800,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-occupational-therapist-tailored-caseloads-482-186-sponsorship",
+    "url": "jobs/melbourne-occupational-therapist-tailored-caseloads-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5867137923?utm_medium=api&utm_source=13c876f1",
+    "description": "Occupational Therapist Location: West & North Melbourne Employment Type: Full-Time (Part-Time Also Considered) Salary: Up to $115k  Super  bonuses  car options We’re partnering with one of our long-standing and most trus..."
+  },
+  {
+    "id": "adzuna-5871214613",
+    "title": "Technician - Electrical",
+    "company": "Orica",
+    "logoInitial": "O",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "sydney-technician-electrical-482-186-sponsorship",
+    "url": "jobs/sydney-technician-electrical-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5871214613?utm_medium=api&utm_source=13c876f1",
+    "description": "About Orica At Orica, it’s the power of our people that leads change and shapes our futures. Every day, all around the world, our people help mobilise vital resources essential to progress. Established in 1874, we have g..."
+  },
+  {
+    "id": "adzuna-5856192063",
+    "title": "Sonographer",
+    "company": "Integral Diagnostics",
+    "logoInitial": "I",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-sonographer-482-186-sponsorship",
+    "url": "jobs/sydney-sonographer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5856192063?utm_medium=api&utm_source=13c876f1",
+    "description": "ABOUT THE ROLE We are seeking an experienced Sonographer to join our Apex Radiology team in Forrestfield on a full-time or part-time basis , working Monday to Friday. This is a fantastic opportunity to work within a well..."
+  },
+  {
+    "id": "adzuna-5533792088",
+    "title": "Doctors",
+    "company": "Mor. Healthcare",
+    "logoInitial": "M",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-doctors-482-186-sponsorship",
+    "url": "jobs/melbourne-doctors-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5533792088?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description GPs & Hospital Doctors | Multiple Locations Across Australia MOR. Healthcare is seeking experienced international doctors who are looking to take the next step in their medical career and relocate to Aust..."
+  },
+  {
+    "id": "adzuna-5873713150",
+    "title": "Consultant Psychiatrist",
+    "company": "Mediix",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-consultant-psychiatrist-482-186-sponsorship",
+    "url": "jobs/sydney-consultant-psychiatrist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5873713150?utm_medium=api&utm_source=13c876f1",
+    "description": "Consultant Psychiatrist | Hervey Bay & Maryborough | Total remuneration package up to AUD $564,548 p.a. We are currently hiring on behalf of a well-established Queensland public Hospital and Health Service to recruit Con..."
+  },
+  {
+    "id": "adzuna-5650802392",
+    "title": "Fitter Machinist / 1st Class Metal Machinist",
+    "company": "Skilled Jobs Australia",
+    "logoInitial": "S",
+    "location": "Geelong, VIC",
+    "state": "VIC",
+    "category": "trades",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "geelong-fitter-machinist-1st-class-metal-machinist-482-186-sponsorship",
+    "url": "jobs/geelong-fitter-machinist-1st-class-metal-machinist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650802392?utm_medium=api&utm_source=13c876f1",
+    "description": "Laverton Vic Our company is committed to ZERO Harm delivering exceptional performance to our clients. As an essential service provider, we offer continuity of employment including career development into leadership & man..."
+  },
+  {
+    "id": "adzuna-5650813744",
+    "title": "Fitter Machinist / 1st Class Metal Machinist",
+    "company": "Skilled Jobs Australia",
+    "logoInitial": "S",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "adelaide-fitter-machinist-1st-class-metal-machinist-482-494-sponsorship",
+    "url": "jobs/adelaide-fitter-machinist-1st-class-metal-machinist-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650813744?utm_medium=api&utm_source=13c876f1",
+    "description": "Athol Park Our company is committed to ZERO Harm delivering exceptional performance to our clients. As an essential service provider, we offer continuity of employment including career development into leadership & manag..."
+  },
+  {
+    "id": "adzuna-5650828124",
+    "title": "Vehicle Spray Painter",
+    "company": "Skilled Jobs Australia",
+    "logoInitial": "S",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "adelaide-vehicle-spray-painter-482-494-sponsorship",
+    "url": "jobs/adelaide-vehicle-spray-painter-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650828124?utm_medium=api&utm_source=13c876f1",
+    "description": "Adelaide, SA We are looking for skilled vehicle painters from local and international. We are interested in local placements as well as people who need sponsorship for Subclass 482 Visa's. You will also be responsible fo..."
+  },
+  {
+    "id": "adzuna-5864347810",
+    "title": "Fitter Machinist / 1st Class Metal Machinist",
+    "company": "Skilled Jobs Australia",
+    "logoInitial": "S",
+    "location": "Darwin, NT",
+    "state": "NT",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "darwin-fitter-machinist-1st-class-metal-machinist-482-494-sponsorship",
+    "url": "jobs/darwin-fitter-machinist-1st-class-metal-machinist-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5864347810?utm_medium=api&utm_source=13c876f1",
+    "description": "Our company is committed to ZERO Harm delivering exceptional performance to our clients. As an essential service provider, we offer continuity of employment including career development into leadership & management roles..."
+  },
+  {
+    "id": "adzuna-5653826634",
+    "title": "General Medicine Consultant - work in Australia FRACP- MRC",
+    "company": "Me Medical Recruitment",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-general-medicine-consultant-work-in-australia-fracp-mrc-482-186-sponsorship",
+    "url": "jobs/sydney-general-medicine-consultant-work-in-australia-fracp-mrc-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5653826634?utm_medium=api&utm_source=13c876f1",
+    "description": "Staff Specialist – General Medicine (Consultant Level) FRACP, M Launceston General Hospital – Tasmania, Australia ME Medical Recruitment Excellent Career Opportunity for UK-Trained General Physicians (General Medicine/ A..."
+  },
+  {
+    "id": "adzuna-5650828111",
+    "title": "Boilermaker/Welder First Class",
+    "company": "Skilled Jobs Australia",
+    "logoInitial": "S",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "adelaide-boilermakerwelder-first-class-482-494-sponsorship",
+    "url": "jobs/adelaide-boilermakerwelder-first-class-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650828111?utm_medium=api&utm_source=13c876f1",
+    "description": "Adelaide, SA Full-time position for the right candidate Salary of between $80k - $90k plus superannuation An outstanding opportunity awaits you! We are looking for full-time Boilermakers / Welders (First class). We are l..."
+  },
+  {
+    "id": "adzuna-5521459357",
+    "title": "O&G Registrar | Supportive Regional Hospital in NSW | Coastal Lifestyle",
+    "company": "Mediix",
+    "logoInitial": "M",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "canberra-og-registrar-supportive-regional-hospital-in-nsw-coastal-lifestyle-482-186-sponsorship",
+    "url": "jobs/canberra-og-registrar-supportive-regional-hospital-in-nsw-coastal-lifestyle-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5521459357?utm_medium=api&utm_source=13c876f1",
+    "description": "O&G Registrar – Large, Supportive Regional Health Service | Coastal Lifestyle | January 2026 Start Are you a motivated Obstetrics & Gynaecology Registrar looking to advance your training in a high-functioning, well-suppo..."
+  },
+  {
+    "id": "adzuna-5521459343",
+    "title": "O&G Registrar | Supportive Regional Hospital in NSW | Coastal Lifestyle",
+    "company": "Mediix",
+    "logoInitial": "M",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "brisbane-og-registrar-supportive-regional-hospital-in-nsw-coastal-lifestyle-482-494-sponsorship",
+    "url": "jobs/brisbane-og-registrar-supportive-regional-hospital-in-nsw-coastal-lifestyle-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5521459343?utm_medium=api&utm_source=13c876f1",
+    "description": "O&G Registrar – Large, Supportive Regional Health Service | Coastal Lifestyle | January 2026 Start Are you a motivated Obstetrics & Gynaecology Registrar looking to advance your training in a high-functioning, well-suppo..."
+  },
+  {
+    "id": "adzuna-5856835987",
+    "title": "Agricultural Diesel Fitter/Mechanic - Regional NSW (Multiple locations)",
+    "company": "konnecting",
+    "logoInitial": "K",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "trades",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$80,000 - $95,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "sydney-agricultural-diesel-fittermechanic-regional-nsw-multiple-locations-482-186-sponsorship",
+    "url": "jobs/sydney-agricultural-diesel-fittermechanic-regional-nsw-multiple-locations-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5856835987?utm_medium=api&utm_source=13c876f1",
+    "description": "Heavy Diesel Mechanic / Ag Equipment Technician | Regional NSW Are you an experienced Agricultural, Plant, or Heavy Diesel Mechanic located in Australia and looking for a rewarding career move? A progressive Ag Equipment..."
+  },
+  {
+    "id": "adzuna-5650820407",
+    "title": "Staff Specialist Paediatrican - Full time (Peer review candidate maybe considered",
+    "company": "Me Medical Recruitment",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-staff-specialist-paediatrican-full-time-peer-review-candidate-maybe-considered-482-186-sponsorship",
+    "url": "jobs/sydney-staff-specialist-paediatrican-full-time-peer-review-candidate-maybe-considered-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650820407?utm_medium=api&utm_source=13c876f1",
+    "description": "ME Medical Recruitment - Staff Specialist Paediatrician wanted - Full time (RACP assessed substantially comparable maybe considered) Position is flying distance from Sydney or 6 hour drive, 4 hours from Canberra. Hours P..."
+  },
+  {
+    "id": "adzuna-5870915262",
+    "title": "Brisbane Chefs and nearby suburbs for FIFO Central QLD mining sites (Sponsorship available)",
+    "company": "ISS Facility Services",
+    "logoInitial": "I",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "brisbane-brisbane-chefs-and-nearby-suburbs-for-fifo-central-qld-mining-sites-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/brisbane-brisbane-chefs-and-nearby-suburbs-for-fifo-central-qld-mining-sites-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870915262?utm_medium=api&utm_source=13c876f1",
+    "description": "Lead. Create. Inspire. ISS IS A PLACE TO BE YOU We have ambitious goals for how we work, how we impact our surroundings and how we treat our people. It’s you that makes the difference to making amazing places, and we bel..."
+  },
+  {
+    "id": "adzuna-5879138403",
+    "title": "Occupational Therapist (Clinic based / Sponsorship Available)",
+    "company": "Omega Medical Pty Ltd",
+    "logoInitial": "O",
+    "location": "Newcastle, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "newcastle-occupational-therapist-clinic-based-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/newcastle-occupational-therapist-clinic-based-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5879138403?utm_medium=api&utm_source=13c876f1",
+    "description": "Singleton NSW | Full-time or Part-time | $95K-$115K  super  40% bonus structure Are you an experienced Occupational Therapist ready to step into a role where your clinical expertise and leadership can genuinely make an i..."
+  },
+  {
+    "id": "adzuna-5886246905",
+    "title": "Customer Service Consultant - Sydney CBD | Sponsorship Available",
+    "company": "Arkadia Talent",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-customer-service-consultant-sydney-cbd-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-customer-service-consultant-sydney-cbd-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5886246905?utm_medium=api&utm_source=13c876f1",
+    "description": "About the Company Join one of Australia's most exciting start-ups as they reshape personal lending with empathy, speed and a customer-first mindset. Backed by rapid growth and purpose, they've significantly grown the pas..."
+  },
+  {
+    "id": "adzuna-5887746180",
+    "title": "Registered Nurse (Night Duty) - Unanderra - Sponsorship available",
+    "company": "Catholic Healthcare",
+    "logoInitial": "C",
+    "location": "Wollongong, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "wollongong-registered-nurse-night-duty-unanderra-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/wollongong-registered-nurse-night-duty-unanderra-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887746180?utm_medium=api&utm_source=13c876f1",
+    "description": "$48.50 - $60.30 per hour  Super  NFP tax benefits – take home more of what you earn Permanent Night Duty including weekends – secure hours with flexibility to suit your lifestyle Visa sponsorship available for suitable c..."
+  },
+  {
+    "id": "adzuna-5752591752",
+    "title": "FIFO Chefs from Brisbane and nearby suburbs (Sponsorship available)",
+    "company": "Privacy Copyright Disclaimer ISS Terms",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$93,000 - $110,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "sydney-fifo-chefs-from-brisbane-and-nearby-suburbs-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-fifo-chefs-from-brisbane-and-nearby-suburbs-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5752591752?utm_medium=api&utm_source=13c876f1",
+    "description": "Lead. Create. Inspire. ISS IS A PLACE TO BE YOU We have ambitious goals for how we work, how we impact our surroundings and how we treat our people. It’s you that makes the difference to making amazing places, and we bel..."
+  },
+  {
+    "id": "adzuna-5877797270",
+    "title": "FIFO Chefs from Brisbane and surrounding suburbs (Sponsorship available)",
+    "company": "ISS INTEGRATED SERV P/L",
+    "logoInitial": "I",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "sydney-fifo-chefs-from-brisbane-and-surrounding-suburbs-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-fifo-chefs-from-brisbane-and-surrounding-suburbs-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5877797270?utm_medium=api&utm_source=13c876f1",
+    "description": "Lead. Create. Inspire. ISS IS A PLACE TO BE YOU We have ambitious goals for how we work, how we impact our surroundings and how we treat our people. It’s you that makes the difference to making amazing places, and we bel..."
+  },
+  {
+    "id": "adzuna-5870147260",
+    "title": "FIFO Chefs from Brisbane and surrounding suburbs (Sponsorship available)",
+    "company": "ISS Facility Services",
+    "logoInitial": "I",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "brisbane-fifo-chefs-from-brisbane-and-surrounding-suburbs-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/brisbane-fifo-chefs-from-brisbane-and-surrounding-suburbs-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870147260?utm_medium=api&utm_source=13c876f1",
+    "description": "Lead. Create. Inspire. ISS IS A PLACE TO BE YOU We have ambitious goals for how we work, how we impact our surroundings and how we treat our people. It’s you that makes the difference to making amazing places, and we bel..."
+  },
+  {
+    "id": "adzuna-5859670653",
+    "title": "Speech Pathologist | New Graduate support program | Sponsorship Available",
+    "company": "Gorilla Jobs",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$80,000 - $86,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-speech-pathologist-new-graduate-support-program-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-speech-pathologist-new-graduate-support-program-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5859670653?utm_medium=api&utm_source=13c876f1",
+    "description": "Salary starting from $80,000 - $86,000  Super Mixed ages caseload - 80% in clinic & 20% in the community New Graduate support program With buzzing offices in vibrant Fraser and Sunshine Coast locations, this dynamic priv..."
+  },
+  {
+    "id": "adzuna-5867137489",
+    "title": "Speech Pathologist | Clinic & private hospital work | Sponsorship Available",
+    "company": "Gorilla Jobs",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$85,000 - $95,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-speech-pathologist-clinic-private-hospital-work-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-speech-pathologist-clinic-private-hospital-work-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5867137489?utm_medium=api&utm_source=13c876f1",
+    "description": "Salary starting from $85,000 - $95,000  Super  Benefits Mixed ages caseload in the clinic (80%) and out in the community (20%) Option to work in a hospital setting with an adult caseload Join a renowned multi-disciplinar..."
+  },
+  {
+    "id": "adzuna-5757865415",
+    "title": "VR GP - DPA - 70% - Sponsorship available - Flexible hours",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-vr-gp-dpa-70-sponsorship-available-flexible-hours-482-186-sponsorship",
+    "url": "jobs/melbourne-vr-gp-dpa-70-sponsorship-available-flexible-hours-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5757865415?utm_medium=api&utm_source=13c876f1",
+    "description": "Position Summary This practice located just 30 mins from Melbourne CBD is seeking a full time VR GP to replace a GP who is moving to another practice in 2 weeks time You will have a patient base to pick up immediately. F..."
+  },
+  {
+    "id": "adzuna-5867136633",
+    "title": "Head Chef, Sous Chef & Chef de Partie - Sponsorship Available",
+    "company": "Australia Chef Migration",
+    "logoInitial": "A",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$75,000 - $80,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "brisbane-head-chef-sous-chef-chef-de-partie-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/brisbane-head-chef-sous-chef-chef-de-partie-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5867136633?utm_medium=api&utm_source=13c876f1",
+    "description": "Are you an experienced Chef looking for your next career move? Do you want to work with an employer who will sponsor you through to the 186 visa? Are you currently on a 485 Graduate Visa or a 482 Skills in Demand Visa? A..."
+  },
+  {
+    "id": "adzuna-5856836599",
+    "title": "Speech Pathologist | Clinic Based Role | Sponsorship Available for SPA Members!",
+    "company": "Gorilla Jobs",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$85,000 - $110,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-speech-pathologist-clinic-based-role-sponsorship-available-for-spa-members-482-186-sponsorship",
+    "url": "jobs/sydney-speech-pathologist-clinic-based-role-sponsorship-available-for-spa-members-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5856836599?utm_medium=api&utm_source=13c876f1",
+    "description": "Salaries starting from $85,000 - $110,000  Super Paediatric Caseload - based in the Clinic near Daisy Hill State of the Art Training on innovative interventions and equipment including DMI, SpiderCage, Galileo Vibration ..."
+  },
+  {
+    "id": "adzuna-5734918976",
+    "title": "Practice Nurse (RN) - North Sydney - Part time - Sponsorship available",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-practice-nurse-rn-north-sydney-part-time-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-practice-nurse-rn-north-sydney-part-time-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5734918976?utm_medium=api&utm_source=13c876f1",
+    "description": "Summary: A part time nurse who is able to work Mon, Tues and Wed is needed for a well established mixed billing clinic in the North Sydney area. You will enjoy working in a modern purpose built medical centre Fully compu..."
+  },
+  {
+    "id": "adzuna-5859033804",
+    "title": "Special Education Teacher | P–12 | Small Classes | Sponsorship Available, MELBOURNE",
+    "company": "Prospero Teaching",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-special-education-teacher-p12-small-classes-sponsorship-available-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-special-education-teacher-p12-small-classes-sponsorship-available-melbourne-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5859033804?utm_medium=api&utm_source=13c876f1",
+    "description": "Special Education Teacher | P–12 | Small Classes | Sponsorship Available Location: Melbourne, VIC Start: ASAP or by negotiation Type: Full-time, Ongoing Salary: $90,000 – $118,000  super Sponsorship: Available for the ri..."
+  },
+  {
+    "id": "adzuna-5888766878",
+    "title": "Permanent Position - Registered Nurse (Paediatric) - North West Tasmania - Sponsorship Available!",
+    "company": "Skilled Nursing UK",
+    "logoInitial": "S",
+    "location": "Burnie, TAS",
+    "state": "TAS",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$80,524 - $80,524 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "burnie-permanent-position-registered-nurse-paediatric-north-west-tasmania-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/burnie-permanent-position-registered-nurse-paediatric-north-west-tasmania-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5888766878?utm_medium=api&utm_source=13c876f1",
+    "description": "Details Title: Registered Nurse - Paediatric Location: North West Tasmania Position Type: Multiple permanent full-time and part-time positions available. Shift worker (fully rotational), commencing as soon as possible. *..."
+  },
+  {
+    "id": "adzuna-5759582900",
+    "title": "GP role - 1 hr from Canberra - Part time - DPA - sponsorship available",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-gp-role-1-hr-from-canberra-part-time-dpa-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/canberra-gp-role-1-hr-from-canberra-part-time-dpa-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5759582900?utm_medium=api&utm_source=13c876f1",
+    "description": "Position Summary Part time GP position with established busy practice to replace a female GP leaving soon to return to Canberra. Very large patient number, good income and good percentage. Nurse support available 65% of ..."
+  },
+  {
+    "id": "adzuna-5757865548",
+    "title": "VR GP - DPA -70% of Billings - sponsorship available - 1 hour from Melbourne",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-vr-gp-dpa-70-of-billings-sponsorship-available-1-hour-from-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-vr-gp-dpa-70-of-billings-sponsorship-available-1-hour-from-melbourne-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5757865548?utm_medium=api&utm_source=13c876f1",
+    "description": "This reputable centre is owned and operated by committed doctors who are dedicated to providing better health and wellbeing to all their patients. The practice is fully accredited You will be part of a warm, friendly and..."
+  },
+  {
+    "id": "adzuna-5879097451",
+    "title": "VR GP - DPA -70% of Billings - sponsorship available - 1 hour from Melbourne",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-vr-gp-dpa-70-of-billings-sponsorship-available-1-hour-from-melbourne-482-186-sponsorship",
+    "url": "jobs/sydney-vr-gp-dpa-70-of-billings-sponsorship-available-1-hour-from-melbourne-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5879097451?utm_medium=api&utm_source=13c876f1",
+    "description": "This reputable centre is owned and operated by committed doctors who are dedicated to providing better health and wellbeing to all their patients. The practice is fully accredited You will be part of a warm, friendly and..."
+  },
+  {
+    "id": "adzuna-5696159532",
+    "title": "Brisbane Chefs and nearby suburbs for FIFO Central QLD mining sites (Sponsorship available)",
+    "company": "Privacy Copyright Disclaimer ISS Terms",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "sydney-brisbane-chefs-and-nearby-suburbs-for-fifo-central-qld-mining-sites-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-brisbane-chefs-and-nearby-suburbs-for-fifo-central-qld-mining-sites-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5696159532?utm_medium=api&utm_source=13c876f1",
+    "description": "Lead. Create. Inspire. ISS IS A PLACE TO BE YOU We have ambitious goals for how we work, how we impact our surroundings and how we treat our people. It’s you that makes the difference to making amazing places, and we bel..."
+  },
+  {
+    "id": "adzuna-5764096402",
+    "title": "Brisbane Chefs and nearby suburbs for FIFO Central QLD mining sites (Sponsorship available)",
+    "company": "ISS INTEGRATED SERV P/L",
+    "logoInitial": "I",
+    "location": "Gold Coast, QLD",
+    "state": "QLD",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "gold-coast-brisbane-chefs-and-nearby-suburbs-for-fifo-central-qld-mining-sites-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/gold-coast-brisbane-chefs-and-nearby-suburbs-for-fifo-central-qld-mining-sites-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5764096402?utm_medium=api&utm_source=13c876f1",
+    "description": "Lead. Create. Inspire. ISS IS A PLACE TO BE YOU We have ambitious goals for how we work, how we impact our surroundings and how we treat our people. It’s you that makes the difference to making amazing places, and we bel..."
+  },
+  {
+    "id": "adzuna-5757865448",
+    "title": "VR GP - DPA - 70% - Take over patient base - Sponsorship available - Melbourne",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-vr-gp-dpa-70-take-over-patient-base-sponsorship-available-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-vr-gp-dpa-70-take-over-patient-base-sponsorship-available-melbourne-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5757865448?utm_medium=api&utm_source=13c876f1",
+    "description": "Position Summary This practice located just 30 mins from Melbourne CBD is seeking a full time VR GP to replace a GP who is moving to another practice in 2 weeks time You will have a patient base to pick up immediately. F..."
+  },
+  {
+    "id": "adzuna-5885552619",
+    "title": "Heavy Vehicle Mechanic/Diesel Truck Mechanic x2 | AU Role, NZ Applicants Welcome",
+    "company": "Vize",
+    "logoInitial": "V",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$75,000 - $95,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "brisbane-heavy-vehicle-mechanicdiesel-truck-mechanic-x2-au-role-nz-applicants-welcome-482-494-sponsorship",
+    "url": "jobs/brisbane-heavy-vehicle-mechanicdiesel-truck-mechanic-x2-au-role-nz-applicants-welcome-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5885552619?utm_medium=api&utm_source=13c876f1",
+    "description": "Based in Australia – NZ Applicants Welcome Sponsorship available for suitable candidates. Job description Our client, a well-established Australia-wide freight company , for two full-time Truck Mechanics/Diesel Mechanics..."
+  },
+  {
+    "id": "adzuna-5868560001",
+    "title": "Aged Carer | Sponsorship Opportunities Available in NSW and SA!",
+    "company": "Roshana Care Group",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-aged-carer-sponsorship-opportunities-available-in-nsw-and-sa-482-186-sponsorship",
+    "url": "jobs/sydney-aged-carer-sponsorship-opportunities-available-in-nsw-and-sa-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5868560001?utm_medium=api&utm_source=13c876f1",
+    "description": "Join Roshana Care Group – Turn Your Passion into a Career Are you ready for a role where you can walk out the door knowing you have changed someone’s day for the better? At Roshana Care Group, we have been proudly caring..."
+  },
+  {
+    "id": "adzuna-5868559998",
+    "title": "Registered Nurse | Sponsorship Opportunities Available in Multiple Locations in WA, QLD, SA, NSW and VIC!",
+    "company": "Roshana Care Group",
+    "logoInitial": "R",
+    "location": "Newcastle, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "newcastle-registered-nurse-sponsorship-opportunities-available-in-multiple-locations-in-wa-qld-sa-nsw-and-vic-482-186-sponsorship",
+    "url": "jobs/newcastle-registered-nurse-sponsorship-opportunities-available-in-multiple-locations-in-wa-qld-sa-nsw-and-vic-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5868559998?utm_medium=api&utm_source=13c876f1",
+    "description": "Join Roshana Care Group – Shaping the Future of Aged Care Roshana Care Group is a leading aged care provider dedicated to delivering high-quality, compassionate care across Australia. With our head office in Western Aust..."
+  },
+  {
+    "id": "adzuna-5887746516",
+    "title": "Emergency & Critical Care Veterinarian | ARH Canberra Full-time, Part-time & Casual | Sponsorship & Relocation Available",
+    "company": "Greencross Pet Wellness Company",
+    "logoInitial": "G",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-emergency-critical-care-veterinarian-arh-canberra-full-time-part-time-casual-sponsorship-relocation-available-482-186-sponsorship",
+    "url": "jobs/canberra-emergency-critical-care-veterinarian-arh-canberra-full-time-part-time-casual-sponsorship-relocation-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887746516?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description The cases that keep you sharp. The team that has your back. ARH Canberra is a true multidisciplinary referral hospital - not just in name. When you're managing a complex critical case at 2am, you have dir..."
+  },
+  {
+    "id": "adzuna-5870151530",
+    "title": "Registered Nurse - Community Mental Health",
+    "company": "MOR. Healthcare",
+    "logoInitial": "M",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-registered-nurse-community-mental-health-482-186-sponsorship",
+    "url": "jobs/melbourne-registered-nurse-community-mental-health-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870151530?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Registered Nurse - Mental Health Hospital in the Home (HITH) - Sponsorship Available Location: Melbourne, Victoria Salary: $108,000 - $120,000 per annum  Super Employment Type: Full Time About the Opportu..."
+  },
+  {
+    "id": "adzuna-5889056127",
+    "title": "RN - Scrub/Scout Nurse",
+    "company": "Health X",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-rn-scrubscout-nurse-482-186-sponsorship",
+    "url": "jobs/sydney-rn-scrubscout-nurse-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5889056127?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Registered Nurse – PACU / Anaesthetics – Wagga Wagga Base Hospital | NSW Travel Contract $51.43 - $68.49 per hour  super  penalties | Travel & accommodation provided | 8–12 week contract | ASAP start Join..."
+  },
+  {
+    "id": "adzuna-5889057505",
+    "title": "RN - PACU/Anaesthetic Nurse",
+    "company": "Health X",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-rn-pacuanaesthetic-nurse-482-186-sponsorship",
+    "url": "jobs/sydney-rn-pacuanaesthetic-nurse-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5889057505?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Registered Nurse – PACU / Anaesthetics – Wagga Wagga Base Hospital | NSW Travel Contract $51.43 - $68.49 per hour  super  penalties | Travel & accommodation provided | 8–12 week contract | ASAP start Join..."
+  },
+  {
+    "id": "adzuna-5814243665",
+    "title": "Sponsorship for IMGs Available | VR or Non-VR General Practitioners | Mix Billed",
+    "company": "HealthcareLink",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-sponsorship-for-imgs-available-vr-or-non-vr-general-practitioners-mix-billed-482-186-sponsorship",
+    "url": "jobs/sydney-sponsorship-for-imgs-available-vr-or-non-vr-general-practitioners-mix-billed-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5814243665?utm_medium=api&utm_source=13c876f1",
+    "description": "About the Opportunity Due to increasing patient demand, our mixed billing client in the Para Vista area has an opportunity for VR and Non-VR GPs to join their experienced and committed team of medical professionals. In a..."
+  },
+  {
+    "id": "adzuna-5860860984",
+    "title": "Contract Administrator - Saltbush Contracting",
+    "company": "Saltbush Contracting",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$78,000 - $90,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "sydney-contract-administrator-saltbush-contracting-482-186-sponsorship",
+    "url": "jobs/sydney-contract-administrator-saltbush-contracting-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5860860984?se=dKhq5Wmz8RGSI57gYuD12g&utm_medium=api&utm_source=13c876f1&v=8E65DE2EF1D1BA38555F3447E058484433E202B4",
+    "description": "We are looking for a Contract Administrator to join our team. Vacancy listing dates: 29/08/2026 - 26/09/2026 Ref: 719733 About the company Saltbush Contracting is a Western Australian mining services business providing c..."
+  },
+  {
+    "id": "adzuna-5849605601",
+    "title": "General Practitioner l MM2 FSP Approved Site l 20m from Canberra",
+    "company": "Sante Recruitment",
+    "logoInitial": "S",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$400,000 - $400,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-general-practitioner-l-mm2-fsp-approved-site-l-20m-from-canberra-482-186-sponsorship",
+    "url": "jobs/canberra-general-practitioner-l-mm2-fsp-approved-site-l-20m-from-canberra-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5849605601?utm_medium=api&utm_source=13c876f1",
+    "description": "General Practitioner (VR / Non-VR) – DPA / MM2 | Near Canberra Mixed Billing | 65% of Billings | Onsite Supervision | Sponsorship Available Join a non-corporate, GP-owned practice located just 20–25 minutes from Canberra..."
+  },
+  {
+    "id": "adzuna-5857624272",
+    "title": "CNC Machine Operators New",
+    "company": "Aston Advantage",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-cnc-machine-operators-new-482-186-sponsorship",
+    "url": "jobs/sydney-cnc-machine-operators-new-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5857624272?utm_medium=api&utm_source=13c876f1",
+    "description": "CNC Operator | Tingalpa | $41.72/hr  Shift Allowance | Permanent | Sponsorship Available ️ Opportunity: Work on aerospace and defence components in a clean, organised workshop. Set up and operate 3–5 axis CNC machines , ..."
+  },
+  {
+    "id": "adzuna-5741748193",
+    "title": "CNC Machine Operators",
+    "company": "Aston Advantage",
+    "logoInitial": "A",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$83,723 - $83,723 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "brisbane-cnc-machine-operators-482-494-sponsorship",
+    "url": "jobs/brisbane-cnc-machine-operators-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5741748193?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description CNC Operator | Tingalpa | $41.72/hr  Shift Allowance | Permanent | Sponsorship Available ️ Opportunity: Work on aerospace and defence components in a clean, organised workshop. Set up and operate 3–5 axis..."
+  },
+  {
+    "id": "adzuna-5810895112",
+    "title": "Farm Hand, Great Southern WA (REF 1646437)",
+    "company": "Rural Enterprises",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "trades",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$75,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "sydney-farm-hand-great-southern-wa-ref-1646437-482-186-sponsorship",
+    "url": "jobs/sydney-farm-hand-great-southern-wa-ref-1646437-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5810895112?utm_medium=api&utm_source=13c876f1",
+    "description": "This position is not open to those on a Working Holiday Visa Full Job Description: A permanent Farm Hand position is available on a progressive broadacre cropping operation located in Western Australia's Great Southern r..."
+  },
+  {
+    "id": "adzuna-5799966756",
+    "title": "Senior Farm Hand, Esperance region WA (REF 1648460)",
+    "company": "Rural Enterprises",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "trades",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $90,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "sydney-senior-farm-hand-esperance-region-wa-ref-1648460-482-186-sponsorship",
+    "url": "jobs/sydney-senior-farm-hand-esperance-region-wa-ref-1648460-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5799966756?utm_medium=api&utm_source=13c876f1",
+    "description": "Full Job Description: A fantastic opportunity has become available with one of Rural Enterprises' highly regarded clients in the Esperance region. This progressive broadacre cropping enterprise is seeking an experienced ..."
+  },
+  {
+    "id": "adzuna-5868988822",
+    "title": "General Practitioner (VR/Non-VR) | 75% Billings | Narellan & Surrounds, NSW",
+    "company": "Gorilla Jobs",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-general-practitioner-vrnon-vr-75-billings-narellan-surrounds-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-general-practitioner-vrnon-vr-75-billings-narellan-surrounds-nsw-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5868988822?utm_medium=api&utm_source=13c876f1",
+    "description": "Flexible GP opportunity at a well-established, non-corporate medical group in Sydney's South West. With generous billings, full clinical support, and access to DPA/DWS replacement, this is a fantastic role for both VR an..."
+  },
+  {
+    "id": "adzuna-5862939147",
+    "title": "General Practitioner - Harvey, WA (MM5/DPA)",
+    "company": "Doctor Connect Pty Ltd",
+    "logoInitial": "D",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-general-practitioner-harvey-wa-mm5dpa-482-494-sponsorship",
+    "url": "jobs/perth-general-practitioner-harvey-wa-mm5dpa-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5862939147?utm_medium=api&utm_source=13c876f1",
+    "description": "THE PRACTICE Join a busy, fully accredited general practice in Harvey, WA (DPA/MM5), offering excellent clinical support, experienced RACGP mentoring, and a proven track record of Fellowship success in a welcoming rural ..."
+  },
+  {
+    "id": "adzuna-5847552683",
+    "title": "Special Needs teachers, South East Melbourne, January 2027",
+    "company": "Prospero Teaching",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-special-needs-teachers-south-east-melbourne-january-2027-482-186-sponsorship",
+    "url": "jobs/melbourne-special-needs-teachers-south-east-melbourne-january-2027-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5847552683?utm_medium=api&utm_source=13c876f1",
+    "description": "Special Education Teachers | Multiple Positions 9 Positions Available | P–12 Specialist School | Melbourne South-East | Sponsorship Available Prospero Teaching is proud to be partnered with a highly regarded Victorian Go..."
+  },
+  {
+    "id": "adzuna-5886954592",
+    "title": "Special Education teacher, Hoppers Crossing, Immediate start",
+    "company": "Prospero Teaching",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-special-education-teacher-hoppers-crossing-immediate-start-482-186-sponsorship",
+    "url": "jobs/melbourne-special-education-teacher-hoppers-crossing-immediate-start-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5886954592?utm_medium=api&utm_source=13c876f1",
+    "description": "Special Education Teacher | Immediate Start Melbourne’s Western Suburbs, Victoria P–12 Specialist School | Full-Time | Sponsorship Available Are you a passionate Special Education Teacher looking for a role where you can..."
+  },
+  {
+    "id": "adzuna-5847532191",
+    "title": "Special Development teacher, Melbourne",
+    "company": "Prospero Teaching",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-special-development-teacher-melbourne-482-186-sponsorship",
+    "url": "jobs/melbourne-special-development-teacher-melbourne-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5847532191?utm_medium=api&utm_source=13c876f1",
+    "description": "Special Education Teacher Melbourne's Western Suburbs, Victoria P–12 Specialist School | Individualised Learning | Strong Support | Sponsorship Available Are you a passionate Special Education Teacher looking for an oppo..."
+  },
+  {
+    "id": "adzuna-5856584739",
+    "title": "General Practitioner (VR GP) – Sunshine Coast, QLD",
+    "company": "WAVELENGTH",
+    "logoInitial": "W",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "brisbane-general-practitioner-vr-gp-sunshine-coast-qld-482-494-sponsorship",
+    "url": "jobs/brisbane-general-practitioner-vr-gp-sunshine-coast-qld-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5856584739?utm_medium=api&utm_source=13c876f1",
+    "description": "Location available upon request, QLD Summary Join a collaborative, GP-owned practice where clinical autonomy, flexibility and quality patient care come first, all while enjoying the lifestyle benefits of Queensland's stu..."
+  },
+  {
+    "id": "adzuna-5873535799",
+    "title": "General Practitioner - Darwin (MMM2/DPA)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Darwin, NT",
+    "state": "NT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "darwin-general-practitioner-darwin-mmm2dpa-482-494-sponsorship",
+    "url": "jobs/darwin-general-practitioner-darwin-mmm2dpa-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5873535799?utm_medium=api&utm_source=13c876f1",
+    "description": "• High earning potential | Private billing | Excellent facilities & support • No weekends | Great work-life balance | Reputable group practice • Darwin CBD | MMM2/DPA location | Visa Sponsorship available Are you a VR GP..."
+  },
+  {
+    "id": "adzuna-5834903247",
+    "title": "Dentist",
+    "company": "Stockton Dental",
+    "logoInitial": "S",
+    "location": "Newcastle, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "newcastle-dentist-482-186-sponsorship",
+    "url": "jobs/newcastle-dentist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5834903247?utm_medium=api&utm_source=13c876f1",
+    "description": "Dentist Wanted – Live by the Beach | Excellent Earning Potential | Visa Sponsorship Available Full-Time or Part-Time Stockton Dental & Medowie Dental | Newcastle, NSW, Australia Looking for a fresh start or your next car..."
+  },
+  {
+    "id": "adzuna-5860532330",
+    "title": "Periodontist",
+    "company": "Zest Business Group",
+    "logoInitial": "Z",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$150,000 - $250,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-periodontist-482-186-sponsorship",
+    "url": "jobs/melbourne-periodontist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5860532330?utm_medium=api&utm_source=13c876f1",
+    "description": "Periodontist Jobs in Melbourne, Victoria, Australia. Busy established books, strong referral base and high earning potential. Visa sponsorship available. ZEST Dental Recruitment is working in partnership with one of Melb..."
+  },
+  {
+    "id": "adzuna-5860532338",
+    "title": "Endodontist",
+    "company": "Zest Business Group",
+    "logoInitial": "Z",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$150,000 - $200,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-endodontist-482-186-sponsorship",
+    "url": "jobs/melbourne-endodontist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5860532338?utm_medium=api&utm_source=13c876f1",
+    "description": "Endodontist Jobs in Melbourne, Victoria, Australia. Fully Private, High-Earning Role in a Prestigious CBD Clinic. Visa Sponsorship Available. ZEST Dental Recruitment is proud to present an exceptional opportunity for a S..."
+  },
+  {
+    "id": "adzuna-5860532335",
+    "title": "Orthodontist",
+    "company": "Zest Business Group",
+    "logoInitial": "Z",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$150,000 - $300,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-orthodontist-482-186-sponsorship",
+    "url": "jobs/sydney-orthodontist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5860532335?utm_medium=api&utm_source=13c876f1",
+    "description": "Orthodontist Job in Regional Western Australia. Excellent earning potential, relocation support and visa sponsorship available if required. ZEST Dental Recruitment, working in partnership with a large and well-establishe..."
+  },
+  {
+    "id": "adzuna-5876246006",
+    "title": "VR GP | Whitsundays, Qld (DPA/MM5) MRCGP INT Dr Level 3 Supervision",
+    "company": "Susan Hill GP Jobs",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$270,400 - $353,600 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-vr-gp-whitsundays-qld-dpamm5-mrcgp-int-dr-level-3-supervision-482-186-sponsorship",
+    "url": "jobs/sydney-vr-gp-whitsundays-qld-dpamm5-mrcgp-int-dr-level-3-supervision-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5876246006?utm_medium=api&utm_source=13c876f1",
+    "description": "This Dr owned, mixed billing group practice needs a General Practitioner. $150 per hour guaranteed for 3 months or 65% Level 3 supervision Sponsorship available Standard Consult $90 Long Consult $140 2 RNs on at all time..."
+  },
+  {
+    "id": "adzuna-5650841015",
+    "title": "GP Job in DPA Location",
+    "company": "Alecto Australia",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-gp-job-in-dpa-location-482-186-sponsorship",
+    "url": "jobs/sydney-gp-job-in-dpa-location-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650841015?utm_medium=api&utm_source=13c876f1",
+    "description": "Home » GP Jobs GP Job in DPA Location Wollongong, Sydney, NSW | Job ID 21234 DPA location Mixed billing practice Visa sponsorship available Are you looking for a DPA GP role in a modern clinic with a family vibe , where ..."
+  },
+  {
+    "id": "adzuna-5851364666",
+    "title": "Maths Teacher – Melbourne, Victoria",
+    "company": "Prospero Teaching",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-maths-teacher-melbourne-victoria-482-186-sponsorship",
+    "url": "jobs/melbourne-maths-teacher-melbourne-victoria-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5851364666?utm_medium=api&utm_source=13c876f1",
+    "description": "Secondary Maths Teacher – Melbourne, Victoria Start Date: Term 3, 2025 (flexible) Contract: Permanent, Full-Time Sponsorship: Available Prospero Teaching is supporting a well-regarded co-educational secondary school in M..."
+  },
+  {
+    "id": "adzuna-5860532292",
+    "title": "Orthodontist",
+    "company": "Zest Business Group",
+    "logoInitial": "Z",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$400,000 - $450,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-orthodontist-482-186-sponsorship",
+    "url": "jobs/melbourne-orthodontist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5860532292?utm_medium=api&utm_source=13c876f1",
+    "description": "Orthodontist Jobs in Melbourne, Victoria, Australia. $800,000 Base Salary - Earnings Well in Excess of $1.2 Million. Visa Sponsorship Available for Metro Melbourne. ZEST Dental Recruitment is delighted to present an extr..."
+  },
+  {
+    "id": "adzuna-5860532316",
+    "title": "Peadiatric Dentist",
+    "company": "Zest Business Group",
+    "logoInitial": "Z",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$100,000 - $210,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-peadiatric-dentist-482-186-sponsorship",
+    "url": "jobs/melbourne-peadiatric-dentist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5860532316?utm_medium=api&utm_source=13c876f1",
+    "description": "Paediatric Dentist Jobs in Melbourne, Victoria, Australia. Dedicated Paediatric Department. High Earnings in a Fully Private, State-of-the-Art Clinic. Visa Sponsorship Available. ZEST Dental Recruitment is delighted to p..."
+  },
+  {
+    "id": "adzuna-5860532320",
+    "title": "Periodontist",
+    "company": "Zest Business Group",
+    "logoInitial": "Z",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$200,000 - $300,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "perth-periodontist-482-494-sponsorship",
+    "url": "jobs/perth-periodontist-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5860532320?utm_medium=api&utm_source=13c876f1",
+    "description": "Specialist Periodontist Job in Perth, WA, Australia. Private Independent Practice, High-Earning Opportunity, State-of-the-Art Technology, Superb Location, Visa Approved. ZEST Dental Recruitment, working in partnership wi..."
+  },
+  {
+    "id": "adzuna-5888490704",
+    "title": "Electrician - Perth Based",
+    "company": "Core Talent",
+    "logoInitial": "C",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "perth-electrician-perth-based-482-494-sponsorship",
+    "url": "jobs/perth-electrician-perth-based-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5888490704?utm_medium=api&utm_source=13c876f1",
+    "description": "Job description Role Available: Core Talent have partnered with a number of Perth based Electrical contractors who are looking for Electricians for local, Perth based works covering North & South of the river. What’s On ..."
+  },
+  {
+    "id": "adzuna-5859670899",
+    "title": "Scrub/Scout Permanent",
+    "company": "Henderson Recruitment Pty Ltd t/a Henderson Healthcare",
+    "logoInitial": "H",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "adelaide-scrubscout-permanent-482-494-sponsorship",
+    "url": "jobs/adelaide-scrubscout-permanent-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5859670899?utm_medium=api&utm_source=13c876f1",
+    "description": "We are currently seeking experienced Scrub/Scouts who are looking for Permanent Positions across private hospitals in Adelaide. Orthopaedic experience is highly sought after! WHATS ON OFFER: Permanent roles with flexible..."
+  },
+  {
+    "id": "adzuna-5879588072",
+    "title": "Experienced Immigration Lawyer",
+    "company": "Ironbrij Pty Ltd",
+    "logoInitial": "I",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-experienced-immigration-lawyer-482-186-sponsorship",
+    "url": "jobs/sydney-experienced-immigration-lawyer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5879588072?utm_medium=api&utm_source=13c876f1",
+    "description": "About Sellanes Farasat Immigration Sellanes Farasat Immigration is an established Australian immigration practice providing strategic and practical immigration assistance to individuals, families, employers and major cor..."
+  },
+  {
+    "id": "adzuna-5878778408",
+    "title": "Immigration Lawyer (2 yrs-Senior)",
+    "company": "AFL Recruitment",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-immigration-lawyer-2-yrs-senior-482-186-sponsorship",
+    "url": "jobs/sydney-immigration-lawyer-2-yrs-senior-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5878778408?utm_medium=api&utm_source=13c876f1",
+    "description": "Immigration Lawyer (2 yrs-Senior) Exhilaratingly different Unconventional 1st-Class firm. Corporate migration focus. A mentors/training. Visible advancement opps. Full-time/4 days. Work flexpart WFH. $75,000-$120,000Bonu..."
+  },
+  {
+    "id": "adzuna-5650803078",
+    "title": "Drivers",
+    "company": "Northline",
+    "logoInitial": "N",
+    "location": "Darwin, NT",
+    "state": "NT",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "darwin-drivers-482-494-sponsorship",
+    "url": "jobs/darwin-drivers-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650803078?utm_medium=api&utm_source=13c876f1",
+    "description": "We are looking to expand our fleet of Truck Drivers in Darwin or Alice Springs to service a new contract commencing in early 2025! Located at Darwin or Alice Springs, we are seeking truck drivers with either a: Heavy Rig..."
+  },
+  {
+    "id": "jooble--640062809315861748",
+    "title": "Business Development Analyst, APAC Residential Energy",
+    "company": "Tesla",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-business-development-analyst-apac-residential-energy-482-186-sponsorship",
+    "url": "jobs/sydney-business-development-analyst-apac-residential-energy-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-640062809315861748",
+    "description": " What To Expect \r\n The APAC Residential Energy team is looking for a Business Development Analyst. This role is responsible for creating market & competitive intelligence, and supporting the development of new commercial..."
+  },
+  {
+    "id": "jooble-8932105684766992932",
+    "title": "Deployment Manager, Supercharger (VIC)",
+    "company": "Tesla",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$10 per day",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-deployment-manager-supercharger-vic-482-186-sponsorship",
+    "url": "jobs/sydney-deployment-manager-supercharger-vic-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/8932105684766992932",
+    "description": " What To Expect \r\n We are looking for a highly motivated Deployment Manager to support the Supercharger deployment team in Australia & New Zealand. The Deployment Manager will oversee multiple construction projects and e..."
+  },
+  {
+    "id": "jooble-4636715622128084076",
+    "title": "Senior Manager, APJ Field & Channel Marketing",
+    "company": "Dropbox",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-senior-manager-apj-field-channel-marketing-482-186-sponsorship",
+    "url": "jobs/sydney-senior-manager-apj-field-channel-marketing-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/4636715622128084076",
+    "description": " Role Description As Senior Manager, APJ Field & Channel Marketing, you will lead the development and execution of Dropbox’s regional marketing strategy across the entire Asia-Pacific and Japan region. You will bring the..."
+  },
+  {
+    "id": "jooble-6699835679870350948",
+    "title": "Project Coordinator",
+    "company": "Greystar",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-project-coordinator-482-186-sponsorship",
+    "url": "jobs/sydney-project-coordinator-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/6699835679870350948",
+    "description": " ABOUT GREYSTAR \r\n Greystar is a leading, fully integrated global real estate platform offering expertise in property management, investment management, development, and construction services in institutional-quality ren..."
   }
 ];
 
