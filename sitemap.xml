@@ -3,81 +3,81 @@
   <!-- Core Site Pages -->
   <url>
     <loc>https://www.ozsponsorjobs.site/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/about.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/contact.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/privacy-policy.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/terms.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <!-- Programmatic Visa Category Hubs -->
   <url>
     <loc>https://www.ozsponsorjobs.site/visas/subclass-482-tss-jobs.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/visas/subclass-186-ens-jobs.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/visas/subclass-494-regional-jobs.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <!-- Programmatic Location Hubs -->
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/sydney-nsw-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/melbourne-vic-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/brisbane-qld-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/perth-wa-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/adelaide-sa-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -1625,18 +1625,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-club-manager-in-melbourne-482-186-sponsorship.html</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-assistant-club-manager-in-melbourne-482-186-sponsorship.html</loc>
-    <lastmod>2026-08-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://www.ozsponsorjobs.site/jobs/cairns-project-manager-482-494-sponsorship.html</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
@@ -2249,8 +2237,56 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-uk-registered-mental-health-nurses-make-the-move-to-melbourne-482-186-sponsorship.html</loc>
-    <lastmod>2026-08-01</lastmod>
+    <loc>https://www.ozsponsorjobs.site/jobs/perth-casual-associate-482-494-sponsorship.html</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-consumer-risk-manager-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-vet-director-emergency-critical-care-arh-greater-western-sydney-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/perth-home-care-worker-salisbury-sa-italian-speaking-482-494-sponsorship.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-radiation-therapist-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-food-beverage-supervisor-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-housekeeping-supervisor-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-head-chef-brand-new-regional-pub-opening-sponsorship-available-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-food-beverage-supervisor-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>

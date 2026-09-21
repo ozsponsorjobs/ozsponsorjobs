@@ -6688,58 +6688,6 @@ const JOBS_DATA = [
     "description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route..."
   },
   {
-    "id": "adzuna-5828231892",
-    "title": "Club Manager in Melbourne",
-    "company": "Love Recruitment International",
-    "logoInitial": "L",
-    "location": "Melbourne, VIC",
-    "state": "VIC",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "melbourne-club-manager-in-melbourne-482-186-sponsorship",
-    "url": "jobs/melbourne-club-manager-in-melbourne-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5828231892?utm_medium=api&utm_source=13c876f1",
-    "description": "Club Manager in Melbourne, Australia - Award Winning 24/7 Gym Group AUD $80,000 base  circa AUD $1,000 per month commission  superannuation on top. Location: Open to candidates currently based in the United Kingdom, with..."
-  },
-  {
-    "id": "adzuna-5828214730",
-    "title": "Assistant Club Manager in Melbourne",
-    "company": "Love Recruitment International",
-    "logoInitial": "L",
-    "location": "Melbourne, VIC",
-    "state": "VIC",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "melbourne-assistant-club-manager-in-melbourne-482-186-sponsorship",
-    "url": "jobs/melbourne-assistant-club-manager-in-melbourne-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5828214730?utm_medium=api&utm_source=13c876f1",
-    "description": "Assistant Club Manager in Melbourne, Australia AUD $70,000 base  circa AUD $1,000 per month commission  superannuation on top. Location: Open to candidates currently based in the United Kingdom and Australia. You must be..."
-  },
-  {
     "id": "adzuna-5883436122",
     "title": "PROJECT MANAGER",
     "company": "CBC Staff",
@@ -9392,13 +9340,39 @@ const JOBS_DATA = [
     "description": "Discover a career where care goes both ways! Permanent Full-time RN position – secure hours with flexibility to suit your lifestyle $48.50 - $60.30 per hour  Super  NFP tax benefits – take home more of what you earn Make..."
   },
   {
-    "id": "adzuna-5822411919",
-    "title": "UK - Registered Mental Health Nurses - Make the move to Melbourne!",
-    "company": "Forensicare",
-    "logoInitial": "F",
-    "location": "Melbourne, VIC",
-    "state": "VIC",
+    "id": "adzuna-5870144510",
+    "title": "Casual Associate",
+    "company": "PwC Australia",
+    "logoInitial": "P",
+    "location": "Perth, WA",
+    "state": "WA",
     "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "perth-casual-associate-482-494-sponsorship",
+    "url": "jobs/perth-casual-associate-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5870144510?se=rt5gJKm18RGc5IY_8jS9tg&utm_medium=api&utm_source=13c876f1&v=471602D2ECF46510A9CB58E42936F18E5DD2B793",
+    "description": "Line of Service Assurance Industry/Sector Not Applicable Specialism Risk Management Level Administrative Job Description & Summary Education (if blank, degree and/or field of study not specified) Degrees/Field of Study r..."
+  },
+  {
+    "id": "adzuna-5887134896",
+    "title": "Consumer Risk Manager",
+    "company": "Flight Centre Travel Group",
+    "logoInitial": "F",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
     "visas": [
       "482",
       "186"
@@ -9407,15 +9381,197 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$76,263 - $108,435 AUD",
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-consumer-risk-manager-482-186-sponsorship",
+    "url": "jobs/sydney-consumer-risk-manager-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5887134896?se=rK1MJam18RGk9fXOxIfQjQ&utm_medium=api&utm_source=13c876f1&v=6A591F020BF197690125E6E838C9433C4145E8DE",
+    "description": "About the Opportunity Are you an experienced travel professional who thrives on solving complex customer issues and influencing positive outcomes? As a Consumer Risk Manager within the Customer Care team, you will play a..."
+  },
+  {
+    "id": "adzuna-5891732989",
+    "title": "Vet Director - Emergency & Critical Care | ARH Greater Western Sydney",
+    "company": "Greencross Pet Wellness Company",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-vet-director-emergency-critical-care-arh-greater-western-sydney-482-186-sponsorship",
+    "url": "jobs/sydney-vet-director-emergency-critical-care-arh-greater-western-sydney-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5891732989?se=rK1MJam18RGk9fXOxIfQjQ&utm_medium=api&utm_source=13c876f1&v=594E94C095512C9FE21AFD6C2283A84332B5065B",
+    "description": "Job Description Lead from the front. Develop people with intention. Redefine what exceptional emergency veterinary care looks like. At ARH Greater Western Sydney, an uncommon opportunity is open to a seasoned Emergency &..."
+  },
+  {
+    "id": "adzuna-5890586630",
+    "title": "Home Care Worker - Salisbury SA - Italian Speaking",
+    "company": "My Guardian",
+    "logoInitial": "M",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
     "type": "Full-time",
     "verifiedSponsor": true,
     "anzsco": "261313",
     "posted": "Recently",
-    "slug": "melbourne-uk-registered-mental-health-nurses-make-the-move-to-melbourne-482-186-sponsorship",
-    "url": "jobs/melbourne-uk-registered-mental-health-nurses-make-the-move-to-melbourne-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5822411919?utm_medium=api&utm_source=13c876f1",
-    "description": "Make the Move to Melbourne Advance Your Career. Upgrade Your Lifestyle. UK Recruitment Tour | London & Manchester | September 2026 Registered Mental Health Nurses (RMNs) Salary: AUD $89,284 – $107,520, plus additional al..."
+    "slug": "perth-home-care-worker-salisbury-sa-italian-speaking-482-494-sponsorship",
+    "url": "jobs/perth-home-care-worker-salisbury-sa-italian-speaking-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5890586630?se=rK1MJam18RGk9fXOxIfQjQ&utm_medium=api&utm_source=13c876f1&v=1F46E3E00A0B378A5911BC9B08322DF99DD64716",
+    "description": "Be Part of the Next Big Growth Story in Care At My Guardian, our goal is simple: to provide exceptional, deeply personalised care that helps people of all ages and abilities live with dignity, comfort, and true independe..."
+  },
+  {
+    "id": "adzuna-5890696511",
+    "title": "Radiation therapist",
+    "company": "GenesisCare",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-radiation-therapist-482-186-sponsorship",
+    "url": "jobs/sydney-radiation-therapist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5890696511?utm_medium=api&utm_source=13c876f1",
+    "description": "At GenesisCare we want to hear from people who are as passionate as we are about innovation and working together to drive better life outcomes for patients around the world . Calling UK Radiation Therapists – South Austr..."
+  },
+  {
+    "id": "adzuna-5870158017",
+    "title": "Food & Beverage Supervisor",
+    "company": "Accor",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-food-beverage-supervisor-482-186-sponsorship",
+    "url": "jobs/sydney-food-beverage-supervisor-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5870158017?se=2paKOam18RGc5IY_8jS9tg&utm_medium=api&utm_source=13c876f1&v=D0362276A5E7B5EF931315B778777FBA0FE63AFA",
+    "description": "Company Description Joining Accor means more than just starting a new job — it’s the beginning of an exciting career journey with one of the world’s leading hospitality groups. With over 5,000 properties in 110 countries..."
+  },
+  {
+    "id": "adzuna-5890586584",
+    "title": "Housekeeping Supervisor",
+    "company": "Civeo",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-housekeeping-supervisor-482-186-sponsorship",
+    "url": "jobs/sydney-housekeeping-supervisor-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5890586584?se=2paKOam18RGc5IY_8jS9tg&utm_medium=api&utm_source=13c876f1&v=4834179D661EB305AD8618EBED08CE1830991FD8",
+    "description": "Description Housekeeping Supervisors | DIDO Have experience as a Supervisor in the Housekeeping field? We'd love to hear from you! Civeo is actively seeking Housekeeping Supervisors to join our Village teams, located thr..."
+  },
+  {
+    "id": "adzuna-5892223379",
+    "title": "Head Chef | Brand-New Regional Pub Opening | Sponsorship Available",
+    "company": "Frontline Recruitment",
+    "logoInitial": "F",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-head-chef-brand-new-regional-pub-opening-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-head-chef-brand-new-regional-pub-opening-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5892223379?utm_medium=api&utm_source=13c876f1",
+    "description": "$120K  Super  Sponsorship  Relocation Awesome mentorship from strong pub group Cheaper cost of living - looking to settle into a tree change? Take the lead at an exciting new hospitality venue opening in Regional NSW in ..."
+  },
+  {
+    "id": "adzuna-5870152614",
+    "title": "Food & Beverage Supervisor",
+    "company": "Accor",
+    "logoInitial": "A",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "melbourne-food-beverage-supervisor-482-186-sponsorship",
+    "url": "jobs/melbourne-food-beverage-supervisor-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5870152614?se=pA3giam18RGQT9YH7QD3rQ&utm_medium=api&utm_source=13c876f1&v=ACADC83E744C7B6BF3F04899E915BBDBD2A3B302",
+    "description": "Company Description Mercure Melbourne Doncaster is a 183 room & suite hotel is Australia’s first of the next generation Mercure brand, introducing approachable elegance in an untouched pocket of the Eastern Suburbs. Feat..."
   }
 ];
 
