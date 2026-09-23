@@ -9938,32 +9938,6 @@ const JOBS_DATA = [
     "description": "Job Opportunity: Registered Nurse (RN) – SummitCare Summary Join SummitCare, where our mission is to enhance wellbeing daily for those in need of aged care. We are seeking a dedicated and professional Registered Nurse to..."
   },
   {
-    "id": "jooble--2098366096133482983",
-    "title": "Manager, Business Development, Corporate Solutions, ANZ",
-    "company": "Mastercard",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-manager-business-development-corporate-solutions-anz-482-186-sponsorship",
-    "url": "jobs/sydney-manager-business-development-corporate-solutions-anz-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-2098366096133482983",
-    "description": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a w..."
-  },
-  {
     "id": "jooble--4422830714527212800",
     "title": "Operations Associate",
     "company": "Pluralis Research",
@@ -9988,32 +9962,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-operations-associate-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/-4422830714527212800",
     "description": " Pluralis Research is pioneering Protocol Learning, a fully decentralised way to train and deploy AI models that opens this layer to individuals rather than well resourced corporates. By pooling compute from many partici..."
-  },
-  {
-    "id": "jooble--1227481716859242111",
-    "title": "Specialist, Product Management",
-    "company": "Mastercard",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-specialist-product-management-482-186-sponsorship",
-    "url": "jobs/sydney-specialist-product-management-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-1227481716859242111",
-    "description": "&nbsp;...• English required \r\n• Additional languages a plus \r\n Please note that Mastercard Australia will not be able to sponsor employment <b>visa </b>therefore only candidates who possess full legal working rights in A..."
   },
   {
     "id": "jooble-8374687189091709631",
@@ -10042,32 +9990,6 @@ const JOBS_DATA = [
     "description": " Sigma Prime is looking for a Business Development & Growth Manager to help expand our security services and develop commercial opportunities around our emerging products.  We’re looking for someone proactive who underst..."
   },
   {
-    "id": "jooble-3364200371339244593",
-    "title": "Account Manager - ANZ",
-    "company": "Valor Capital Group",
-    "logoInitial": "V",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-account-manager-anz-482-186-sponsorship",
-    "url": "jobs/sydney-account-manager-anz-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/3364200371339244593",
-    "description": " About ElevenLabs  ElevenLabs is an AI research and product company transforming how we interact with technology. \r\n We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users..."
-  },
-  {
     "id": "jooble-6389390238918799170",
     "title": "Junior HR Operations Specialist - Mandarin Speaking",
     "company": "TMGM",
@@ -10092,58 +10014,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-junior-hr-operations-specialist-mandarin-speaking-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/6389390238918799170",
     "description": " About the Company:  TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and ..."
-  },
-  {
-    "id": "jooble-1558607745430918586",
-    "title": "Product Director, Core Banking and Payments",
-    "company": "Crypto.com",
-    "logoInitial": "C",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-product-director-core-banking-and-payments-482-186-sponsorship",
-    "url": "jobs/sydney-product-director-core-banking-and-payments-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/1558607745430918586",
-    "description": "&nbsp;...Aspire career alternatives through us. Our internal mobility program can offer employees a diverse scope. \r\n Work Perks: [crypto.com]( <b>visa </b>card provided upon joining \r\n Our [Crypto.com]( benefits package..."
-  },
-  {
-    "id": "jooble--6925341560090744272",
-    "title": "Support Account Manager",
-    "company": "Ping Identity",
-    "logoInitial": "P",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-support-account-manager-482-186-sponsorship",
-    "url": "jobs/sydney-support-account-manager-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-6925341560090744272",
-    "description": " About Ping Identity:  At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our custo..."
   },
   {
     "id": "jooble--6316539584662801519",
@@ -10796,32 +10666,6 @@ const JOBS_DATA = [
     "description": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a w..."
   },
   {
-    "id": "jooble-149137221069431613",
-    "title": "Detection Engineer - APAC",
-    "company": "Valor Capital Group",
-    "logoInitial": "V",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-detection-engineer-apac-482-186-sponsorship",
-    "url": "jobs/sydney-detection-engineer-apac-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/149137221069431613",
-    "description": " About ElevenLabs  ElevenLabs is an AI research and product company transforming how we interact with technology. \r\n We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users..."
-  },
-  {
     "id": "jooble--5250715975649265363",
     "title": "Head of Growth Marketing",
     "company": "TMGM",
@@ -10950,32 +10794,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-manager-trading-operations-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/-3844822619036675737",
     "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
-  },
-  {
-    "id": "jooble--4758808298468224923",
-    "title": "Manager, Security Operations Center",
-    "company": "Forgepoint Capital",
-    "logoInitial": "F",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$800 per month",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-manager-security-operations-center-482-186-sponsorship",
-    "url": "jobs/sydney-manager-security-operations-center-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-4758808298468224923",
-    "description": " Reports to: Senior Manager, Security Operations Center  Location: Remote Australia  Schedule:  Standard business week (Monday to Friday) with flexible coverage across 6:00 AM – 4:00 PM AWST  Weekend Flexibility:  Capabi..."
   },
   {
     "id": "jooble--4453596275930770346",
@@ -11262,32 +11080,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-managersenior-analyst-internal-audit-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/-4355768278381392308",
     "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
-  },
-  {
-    "id": "jooble--7776307937668254547",
-    "title": "Senior Specialist, Product Enablement and Sales",
-    "company": "Mastercard",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-senior-specialist-product-enablement-and-sales-482-186-sponsorship",
-    "url": "jobs/sydney-senior-specialist-product-enablement-and-sales-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-7776307937668254547",
-    "description": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a w..."
   },
   {
     "id": "jooble--2917747428602314164",
@@ -11862,32 +11654,6 @@ const JOBS_DATA = [
     "description": "~ Help protect over 5 million Australians, making a real difference in their lives during their most challenging times. \r\n~ Be part of a team that invests in your growth, offering exclusive industry accreditation and a v..."
   },
   {
-    "id": "jooble--6240431668598828687",
-    "title": "Senior Specialist, Technical Product Enablement and Sales - Digital Issuing",
-    "company": "Mastercard",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-senior-specialist-technical-product-enablement-and-sales-digital-issuing-482-186-sponsorship",
-    "url": "jobs/sydney-senior-specialist-technical-product-enablement-and-sales-digital-issuing-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-6240431668598828687",
-    "description": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a w..."
-  },
-  {
     "id": "jooble-2587788241984477795",
     "title": "Senior Associate, Specialist, Global Financial Markets & Cash Operations, DBS Australia (Sydney)",
     "company": "DBS Bank Ltd",
@@ -12068,6 +11834,396 @@ const JOBS_DATA = [
     "url": "jobs/sydney-application-support-lead-swift-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/2719440955017947204",
     "description": "&nbsp;...brings together talented people from a diverse range of disciplines. \r\n We run critical market infrastructure, with 1 in 3 people <b>employed </b>within technology. Yet we have a unique complexity of roles acros..."
+  },
+  {
+    "id": "adzuna-5893967575",
+    "title": "Hastings Family Medical Centre | General Practitioner",
+    "company": "Partnered Health",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$300,000 - $300,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-hastings-family-medical-centre-general-practitioner-482-186-sponsorship",
+    "url": "jobs/sydney-hastings-family-medical-centre-general-practitioner-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5893967575?utm_medium=api&utm_source=13c876f1",
+    "description": "Are you looking to combine an exceptional medical career with an enviable coastal lifestyle? Hastings Family Medical Centre is seeking a Female General Practitioner to join our thriving, well-established mixed billing pr..."
+  },
+  {
+    "id": "adzuna-5895467640",
+    "title": "Chef/ Cook",
+    "company": "Lincy Pty Ltd",
+    "logoInitial": "L",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$77,000 - $80,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-chef-cook-482-186-sponsorship",
+    "url": "jobs/melbourne-chef-cook-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5895467640?utm_medium=api&utm_source=13c876f1",
+    "description": "CHEF/ COOK required Lincy Pty Ltd T/A Chilli India Position: CHEF/ COOK Salary: $77,000 to 80,000 plus Super Vacancies: Multiple Vacancies Hours: 38 hours Mode: Full time Location: ChilliIndia Lincy Pty Ltd Unit 1 59 Mil..."
+  },
+  {
+    "id": "adzuna-5870131253",
+    "title": "Registered Nurse Anaesthetics - Casual",
+    "company": "Nexus",
+    "logoInitial": "N",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-registered-nurse-anaesthetics-casual-482-494-sponsorship",
+    "url": "jobs/perth-registered-nurse-anaesthetics-casual-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5870131253?se=jDpkQ3i38RGz-cafFv7gOA&utm_medium=api&utm_source=13c876f1&v=E165A90A2084F36F17509E36236F98AB97BCE141",
+    "description": "About the role: We have a great opportunity for an enthusiastic Perioperative Registered Nurse with experience in Anaesthetics to join our clinical team on a Casual basis. Monday to Friday flexible roster, some Saturday ..."
+  },
+  {
+    "id": "adzuna-5887148162",
+    "title": "Housekeeping Supervisor - QLD/9:5",
+    "company": "Civeo",
+    "logoInitial": "C",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "management",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "brisbane-housekeeping-supervisor-qld95-482-494-sponsorship",
+    "url": "jobs/brisbane-housekeeping-supervisor-qld95-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5887148162?se=jDpkQ3i38RGz-cafFv7gOA&utm_medium=api&utm_source=13c876f1&v=A602313F435EE2DB2B05A812E3319F2BB62E170B",
+    "description": "Description Housekeeping Supervisors | FIFO Have experience as a Supervisor in the Housekeeping field? We'd love to hear from you! Civeo is actively seeking Housekeeping Supervisors to join our Village teams, located thr..."
+  },
+  {
+    "id": "jooble--5516667540170944609",
+    "title": "Senior Growth Manager - Lifecycle & Product",
+    "company": "OKX",
+    "logoInitial": "O",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-growth-manager-lifecycle-product-482-186-sponsorship",
+    "url": "jobs/sydney-senior-growth-manager-lifecycle-product-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-5516667540170944609",
+    "description": " Who We Are  At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. \r\n OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions a..."
+  },
+  {
+    "id": "jooble-2666108477776387579",
+    "title": "Automation Test Engineer",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-automation-test-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-automation-test-engineer-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/2666108477776387579",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
+    "id": "jooble--1708111920967463090",
+    "title": "Network Engineer (Japan / Australia), Commercial Energy Storage, APAC",
+    "company": "Tesla",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-network-engineer-japan-australia-commercial-energy-storage-apac-482-186-sponsorship",
+    "url": "jobs/sydney-network-engineer-japan-australia-commercial-energy-storage-apac-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-1708111920967463090",
+    "description": " What To Expect \r\n This role will support sites in both Japan and Australia, with Japan being the primary focus; the candidate MUST be fluent in verbal and written Japanese. The role is open to candidates based in both J..."
+  },
+  {
+    "id": "jooble--5787757491874586614",
+    "title": "Customer Experience Manager",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-customer-experience-manager-482-186-sponsorship",
+    "url": "jobs/sydney-customer-experience-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-5787757491874586614",
+    "description": " Enjoy work-life balance with flexible working options, and well-being initiatives that prioritise your health \r\n Enjoy benefits such as discounted insurance, health and well-being programs, and a range of employee benef..."
+  },
+  {
+    "id": "jooble--8004746967029747897",
+    "title": "Performance Marketing Manager",
+    "company": "CloudTech Group",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-performance-marketing-manager-482-186-sponsorship",
+    "url": "jobs/sydney-performance-marketing-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-8004746967029747897",
+    "description": " CloudTechX is a blockchain-based financial technology platform specialising in over-the-counter (OTC) trading and near-instant settlement services. The core offering revolves around fast, compliant AUD settlement for ma..."
+  },
+  {
+    "id": "jooble--4077524952396918529",
+    "title": "Customer Communications Manager",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-customer-communications-manager-482-186-sponsorship",
+    "url": "jobs/sydney-customer-communications-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-4077524952396918529",
+    "description": " Shape the future of insurance with innovative ideas and technologies that improve the lives of millions of Australians \r\n Take advantage of well-being initiatives designed to support your mental and physical health, ens..."
+  },
+  {
+    "id": "jooble--7978218948990326837",
+    "title": "Partner Success Manager",
+    "company": "MoneyLion",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-partner-success-manager-482-186-sponsorship",
+    "url": "jobs/sydney-partner-success-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-7978218948990326837",
+    "description": " About Gen:  Gen is a global company dedicated to powering Digital Freedom through its trusted consumer brands including Norton, Avast, LifeLock, MoneyLion and more. Our combined heritage is rooted in financial empowerme..."
+  },
+  {
+    "id": "jooble--668632767387578925",
+    "title": "Customer Floor and Catering Services Coordinator (Contractor)",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-customer-floor-and-catering-services-coordinator-contractor-482-186-sponsorship",
+    "url": "jobs/sydney-customer-floor-and-catering-services-coordinator-contractor-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-668632767387578925",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
+    "id": "jooble-986344647686441974",
+    "title": "AVP, Project Manager, Risk Controls & Process Uplift, DBS Australia (Sydney) - 12-Month Contract",
+    "company": "DBS Bank Ltd",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-avp-project-manager-risk-controls-process-uplift-dbs-australia-sydney-12-month-contract-482-186-sponsorship",
+    "url": "jobs/sydney-avp-project-manager-risk-controls-process-uplift-dbs-australia-sydney-12-month-contract-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/986344647686441974",
+    "description": " DBS Australia is seeking an experienced Project Manager to support a portfolio of strategic risk, controls and process uplift initiatives across the Branch.  Reporting directly to the Australia Unit Operational Risk Man..."
+  },
+  {
+    "id": "jooble-3215519613622165690",
+    "title": "Delivery Lead - Culture and Leadership Resource Sufficiency (12MFTC)",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-delivery-lead-culture-and-leadership-resource-sufficiency-12mftc-482-186-sponsorship",
+    "url": "jobs/sydney-delivery-lead-culture-and-leadership-resource-sufficiency-12mftc-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/3215519613622165690",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
+    "id": "jooble-4442432604502586961",
+    "title": "Onboarding Delivery Manager, Group Digital",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-onboarding-delivery-manager-group-digital-482-186-sponsorship",
+    "url": "jobs/sydney-onboarding-delivery-manager-group-digital-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/4442432604502586961",
+    "description": " Join us in shaping the future of the insurance industry, driven by innovation and a 150-year legacy of protecting people \r\n Be part of a team that invests in your growth, offering exclusive industry accreditation and a ..."
   }
 ];
 
