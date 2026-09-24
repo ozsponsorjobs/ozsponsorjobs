@@ -12336,6 +12336,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initMobileNav();
   initJobFilters();
   initContactForm();
+  initCookieConsent();
 });
 
 /**
@@ -12666,5 +12667,68 @@ function initContactForm() {
         form.reset();
       }
     });
+  }
+}
+
+/**
+ * Cookie Consent Banner (Google AdSense & GDPR Compliance)
+ */
+function initCookieConsent() {
+  const CONSENT_KEY = 'osj_cookie_consent';
+  try {
+    const existingConsent = localStorage.getItem(CONSENT_KEY);
+    if (existingConsent) return;
+  } catch (e) {
+    // LocalStorage might be restricted in private browsing
+  }
+
+  // Determine relative path for privacy policy link
+  const isSubdir = window.location.pathname.includes('/jobs/') || 
+                   window.location.pathname.includes('/locations/') || 
+                   window.location.pathname.includes('/visas/');
+  const privacyUrl = isSubdir ? '../privacy-policy.html' : 'privacy-policy.html';
+
+  const banner = document.createElement('aside');
+  banner.className = 'cookie-consent-banner';
+  banner.setAttribute('role', 'dialog');
+  banner.setAttribute('aria-label', 'Cookie consent banner');
+  banner.innerHTML = `
+    <div class="cookie-consent-content">
+      <div class="cookie-consent-icon">&#127850;</div>
+      <div class="cookie-consent-text">
+        <strong>We value your privacy.</strong> We and trusted partners use cookies and related technologies to personalize content, deliver relevant advertisements (including via Google AdSense), and analyze platform traffic. By clicking <strong>"Accept All"</strong>, you consent to our use of cookies as detailed in our <a href="${privacyUrl}">Privacy Policy</a>.
+      </div>
+    </div>
+    <div class="cookie-consent-actions">
+      <button type="button" class="btn-cookie-decline" id="btn-cookie-decline">Necessary Only</button>
+      <button type="button" class="btn-cookie-accept" id="btn-cookie-accept">Accept All</button>
+    </div>
+  `;
+
+  document.body.appendChild(banner);
+
+  // Trigger slide-in animation smoothly
+  setTimeout(() => {
+    banner.classList.add('show');
+  }, 600);
+
+  const acceptBtn = document.getElementById('btn-cookie-accept');
+  const declineBtn = document.getElementById('btn-cookie-decline');
+
+  const closeBanner = (status) => {
+    try {
+      localStorage.setItem(CONSENT_KEY, status);
+    } catch (e) {}
+    banner.classList.remove('show');
+    setTimeout(() => {
+      banner.remove();
+    }, 400);
+  };
+
+  if (acceptBtn) {
+    acceptBtn.addEventListener('click', () => closeBanner('accepted'));
+  }
+  if (declineBtn) {
+    declineBtn.addEventListener('click', () => closeBanner('necessary_only'));
   }
 }
