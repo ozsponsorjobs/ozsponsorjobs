@@ -10380,32 +10380,6 @@ const JOBS_DATA = [
     "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
   },
   {
-    "id": "jooble--4802832625462435816",
-    "title": "Junior Risk Analyst - Dealing Desk",
-    "company": "TMGM",
-    "logoInitial": "T",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-junior-risk-analyst-dealing-desk-482-186-sponsorship",
-    "url": "jobs/sydney-junior-risk-analyst-dealing-desk-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-4802832625462435816",
-    "description": " About TMGM  TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and offices ..."
-  },
-  {
     "id": "jooble--3487876652181029503",
     "title": "Senior Analyst - Technology Risk Transformation & Governance (Line 1 - max term 2 years)",
     "company": "ASX Limited",
@@ -10664,32 +10638,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-specialist-product-and-sales-analyst-digital-product-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/5583812160920551153",
     "description": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a w..."
-  },
-  {
-    "id": "jooble--5250715975649265363",
-    "title": "Head of Growth Marketing",
-    "company": "TMGM",
-    "logoInitial": "T",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-head-of-growth-marketing-482-186-sponsorship",
-    "url": "jobs/sydney-head-of-growth-marketing-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-5250715975649265363",
-    "description": " About TMGM  TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and offices ..."
   },
   {
     "id": "jooble-1025510433812539227",
@@ -11210,32 +11158,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-trading-systems-engineer-linux-operating-systems-12mftc-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/304905933300764271",
     "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
-  },
-  {
-    "id": "jooble--8425597476291993307",
-    "title": "Director of Strategy & Business Operations - CEO Office",
-    "company": "TMGM",
-    "logoInitial": "T",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-director-of-strategy-business-operations-ceo-office-482-186-sponsorship",
-    "url": "jobs/sydney-director-of-strategy-business-operations-ceo-office-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-8425597476291993307",
-    "description": " About the Company:  TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and ..."
   },
   {
     "id": "jooble--6368027314907780463",
@@ -12224,6 +12146,188 @@ const JOBS_DATA = [
     "url": "jobs/sydney-onboarding-delivery-manager-group-digital-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/4442432604502586961",
     "description": " Join us in shaping the future of the insurance industry, driven by innovation and a 150-year legacy of protecting people \r\n Be part of a team that invests in your growth, offering exclusive industry accreditation and a ..."
+  },
+  {
+    "id": "adzuna-5896056638",
+    "title": "Specialist Consultant - Psychiatry",
+    "company": "Medrecruit",
+    "logoInitial": "M",
+    "location": "Wollongong, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "wollongong-specialist-consultant-psychiatry-482-186-sponsorship",
+    "url": "jobs/wollongong-specialist-consultant-psychiatry-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896056638?utm_medium=api&utm_source=13c876f1",
+    "description": "Consultant Psychiatrist – Inpatient Mental Health Unit Location: Illawarra and Shoalhaven, NSW, Australia Employment Type: Permanent Full-Time (part-time hours can be negotiated) Start Date: Negotiable Salary: Competitiv..."
+  },
+  {
+    "id": "adzuna-5896056659",
+    "title": "Specialist Consultant - Psychiatry",
+    "company": "Medrecruit",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-specialist-consultant-psychiatry-482-186-sponsorship",
+    "url": "jobs/sydney-specialist-consultant-psychiatry-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896056659?utm_medium=api&utm_source=13c876f1",
+    "description": "Location : Coffs Harbour, NSW, Australia Employment Type : Permanent Full-Time (part time hours can be negotiated) Start date: Negotiable Salary : Competitive (aligned with NSW Health Staff Specialist Award), with reloca..."
+  },
+  {
+    "id": "adzuna-5896451357",
+    "title": "Head Chef – Live the mountain lifestyle year-round.",
+    "company": "Traverse Alpine Operations Pty",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "sydney-head-chef-live-the-mountain-lifestyle-year-round-482-186-sponsorship",
+    "url": "jobs/sydney-head-chef-live-the-mountain-lifestyle-year-round-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896451357?utm_medium=api&utm_source=13c876f1",
+    "description": "Live Two Remarkable Seasons. Lead Two Exceptional Kitchens. Imagine building seasonal menus from the finest local produce in Victoria’s food-rich High Country, then spending winter at one of Australia’s most celebrated a..."
+  },
+  {
+    "id": "adzuna-5896056635",
+    "title": "Specialist Consultant - Psychiatry",
+    "company": "Medrecruit",
+    "logoInitial": "M",
+    "location": "Newcastle, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "newcastle-specialist-consultant-psychiatry-482-186-sponsorship",
+    "url": "jobs/newcastle-specialist-consultant-psychiatry-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896056635?utm_medium=api&utm_source=13c876f1",
+    "description": "Our client is advertising an opportunity for a Consultant Psychiatrist to permanently join their team at a public hospital in NSW. Position Details: Consultant Psychiatrist – Adult Inpatient & Community Mental Health Loc..."
+  },
+  {
+    "id": "adzuna-5896051984",
+    "title": "Clinical Director - Emergency Medicine (ED)",
+    "company": "Medrecruit",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-clinical-director-emergency-medicine-ed-482-186-sponsorship",
+    "url": "jobs/sydney-clinical-director-emergency-medicine-ed-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896051984?utm_medium=api&utm_source=13c876f1",
+    "description": "Director - Emergency Medicine Location: Queanbeyan, NSW Employment Type: Staff Specialist or VMO (Min. 30 hrs/week) Salary: NSW Health rates Start Date: TBC About the Role Lead a busy Emergency Department managing approx..."
+  },
+  {
+    "id": "adzuna-5896452854",
+    "title": "Perinatal Psychiatry Registrar",
+    "company": "St John of God Health Care",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-perinatal-psychiatry-registrar-482-186-sponsorship",
+    "url": "jobs/sydney-perinatal-psychiatry-registrar-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896452854?utm_medium=api&utm_source=13c876f1",
+    "description": "St John of God Burwood Hospital is a 95-bed private mental health hospital providing comprehensive mental health care services. Our committed team of psychiatrists, psychologists, specialist mental health nurses and othe..."
+  },
+  {
+    "id": "adzuna-5870612539",
+    "title": "Registrar/ Senior Registrar - Emergency",
+    "company": "St John of God Health Care",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-registrar-senior-registrar-emergency-482-186-sponsorship",
+    "url": "jobs/sydney-registrar-senior-registrar-emergency-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870612539?utm_medium=api&utm_source=13c876f1",
+    "description": "Your Role at St John of God Midland Public Hospital Are you driven, ambitious, and ready to take the next step in your Emergency Medicine career? Join a high-performing, forward-thinking Emergency Department where energy..."
   }
 ];
 

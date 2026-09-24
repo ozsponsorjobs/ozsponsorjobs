@@ -1,0 +1,164 @@
+[
+  {
+    "label": "Homepage",
+    "url": "https://www.ozsponsorjobs.site/",
+    "verdict": "PASS",
+    "coverage": "Submitted and indexed",
+    "crawl_time": "2026-09-11T11:56:23Z",
+    "fetch_state": "SUCCESSFUL",
+    "sitemap_found": true
+  },
+  {
+    "label": "About",
+    "url": "https://www.ozsponsorjobs.site/about.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Contact",
+    "url": "https://www.ozsponsorjobs.site/contact.html",
+    "verdict": "NEUTRAL",
+    "coverage": "Discovered - currently not indexed",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": true
+  },
+  {
+    "label": "Hub Sydney",
+    "url": "https://www.ozsponsorjobs.site/locations/sydney-nsw-visa-sponsorship-jobs.html",
+    "verdict": "PASS",
+    "coverage": "Submitted and indexed",
+    "crawl_time": "2026-09-21T10:45:39Z",
+    "fetch_state": "SUCCESSFUL",
+    "sitemap_found": false
+  },
+  {
+    "label": "Hub Melbourne",
+    "url": "https://www.ozsponsorjobs.site/locations/melbourne-vic-visa-sponsorship-jobs.html",
+    "verdict": "PASS",
+    "coverage": "Submitted and indexed",
+    "crawl_time": "2026-09-21T10:45:39Z",
+    "fetch_state": "SUCCESSFUL",
+    "sitemap_found": false
+  },
+  {
+    "label": "Hub Visa 482",
+    "url": "https://www.ozsponsorjobs.site/visas/subclass-482-tss-jobs.html",
+    "verdict": "PASS",
+    "coverage": "Submitted and indexed",
+    "crawl_time": "2026-09-23T11:13:38Z",
+    "fetch_state": "SUCCESSFUL",
+    "sitemap_found": false
+  },
+  {
+    "label": "Hub Visa 186",
+    "url": "https://www.ozsponsorjobs.site/visas/subclass-186-ens-jobs.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 18 (Nurse)",
+    "url": "https://www.ozsponsorjobs.site/jobs/burnie-clinical-nurse-specialist-mental-health-permanent-contract-north-west-tasmania-visa-sponsorship-available-482-494-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 18 (Dev)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-senior-full-stack-software-engineer-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 18 (GP)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-gp-job-20-mins-from-byron-bay-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "Discovered - currently not indexed",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": true
+  },
+  {
+    "label": "Job Sep 19 (Neara)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-senior-software-engineer-australia-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 19 (Chef)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-chef-charlotte-pass-snow-resort-summer-2026-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "Discovered - currently not indexed",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": true
+  },
+  {
+    "label": "Job Sep 21 (Vet)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-vet-director-emergency-critical-care-arh-greater-western-sydney-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 21 (Therapist)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-radiation-therapist-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 22 (Actuary)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-actuarial-analyst-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 22 (FPGA)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-principal-fpga-engineer-markets-technology-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 23 (Hastings GP)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-hastings-family-medical-centre-general-practitioner-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  },
+  {
+    "label": "Job Sep 23 (Network Eng)",
+    "url": "https://www.ozsponsorjobs.site/jobs/sydney-network-engineer-japan-australia-commercial-energy-storage-apac-482-186-sponsorship.html",
+    "verdict": "NEUTRAL",
+    "coverage": "URL is unknown to Google",
+    "crawl_time": null,
+    "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
+    "sitemap_found": false
+  }
+]
