@@ -7728,32 +7728,6 @@ const JOBS_DATA = [
     "description": "• High earning potential | Private billing | Excellent facilities & support • No weekends | Great work-life balance | Reputable group practice • Darwin CBD | MMM2/DPA location | Visa Sponsorship available Are you a VR GP..."
   },
   {
-    "id": "adzuna-5834903247",
-    "title": "Dentist",
-    "company": "Stockton Dental",
-    "logoInitial": "S",
-    "location": "Newcastle, NSW",
-    "state": "NSW",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "254415",
-    "posted": "Recently",
-    "slug": "newcastle-dentist-482-186-sponsorship",
-    "url": "jobs/newcastle-dentist-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5834903247?utm_medium=api&utm_source=13c876f1",
-    "description": "Dentist Wanted – Live by the Beach | Excellent Earning Potential | Visa Sponsorship Available Full-Time or Part-Time Stockton Dental & Medowie Dental | Newcastle, NSW, Australia Looking for a fresh start or your next car..."
-  },
-  {
     "id": "adzuna-5860532330",
     "title": "Periodontist",
     "company": "Zest Business Group",
@@ -12328,6 +12302,708 @@ const JOBS_DATA = [
     "url": "jobs/sydney-registrar-senior-registrar-emergency-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5870612539?utm_medium=api&utm_source=13c876f1",
     "description": "Your Role at St John of God Midland Public Hospital Are you driven, ambitious, and ready to take the next step in your Emergency Medicine career? Join a high-performing, forward-thinking Emergency Department where energy..."
+  },
+  {
+    "id": "adzuna-5890016651",
+    "title": "General Practitioner - Queanbeyan (DPA)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-general-practitioner-queanbeyan-dpa-482-186-sponsorship",
+    "url": "jobs/canberra-general-practitioner-queanbeyan-dpa-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5890016651?utm_medium=api&utm_source=13c876f1",
+    "description": "• Well-established private billing medical • DPA location • 20 mins south of Canberra CBD and a variety of private schools Are you looking for for DPA GP Jobs at a well-established, private billing practice close to Canb..."
+  },
+  {
+    "id": "adzuna-5650834081",
+    "title": "Staff Specialist FRANZCA or equivalent",
+    "company": "Me Medical Recruitment",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-staff-specialist-franzca-or-equivalent-482-186-sponsorship",
+    "url": "jobs/sydney-staff-specialist-franzca-or-equivalent-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650834081?utm_medium=api&utm_source=13c876f1",
+    "description": "Staff Specialist – Anaesthetist (Anaesthesia) – Mackay Base Hospital, Queensland, Australia Permanent | Flexible Full-Time | Total Package up to AUD $603,633 Location: Mackay, Queensland, Australia Classification: L18–L2..."
+  },
+  {
+    "id": "adzuna-5146458101",
+    "title": "Fitter and Turner",
+    "company": "GENXT BT Solutions Pty",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "trades",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "sydney-fitter-and-turner-482-186-sponsorship",
+    "url": "jobs/sydney-fitter-and-turner-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5146458101?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Dreaming of a rewarding career in Australia's beautiful countryside? A leading timber company in a picturesque regional area of New South Wales is seeking several skilled Fitter & Turner to join their tea..."
+  },
+  {
+    "id": "adzuna-5878483313",
+    "title": "Podiatrist",
+    "company": "konnecting",
+    "logoInitial": "K",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$80,000 - $135,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-podiatrist-482-186-sponsorship",
+    "url": "jobs/sydney-podiatrist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5878483313?utm_medium=api&utm_source=13c876f1",
+    "description": "Our client is a well-established healthcare clinic committed to providing high-quality services to the community. They are seeking Podiatrists, to join a dynamic and supportive team that will play a crucial role in ensur..."
+  },
+  {
+    "id": "adzuna-5807573935",
+    "title": "General Practitioner - Wodonga (DPA/MMM2)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-general-practitioner-wodonga-dpammm2-482-186-sponsorship",
+    "url": "jobs/melbourne-general-practitioner-wodonga-dpammm2-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5807573935?utm_medium=api&utm_source=13c876f1",
+    "description": "• 60% - 70%  income guarantee • DPA, MMM2 location - eligible for PFP, RACGP & PEP • Visa Sponsorship, including permanent residency Are looking for DPA GP Jobs in rural VIC? This high quality, well established medical c..."
+  },
+  {
+    "id": "adzuna-5871216422",
+    "title": "General Practitioner - Footscray",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-general-practitioner-footscray-482-186-sponsorship",
+    "url": "jobs/melbourne-general-practitioner-footscray-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5871216422?utm_medium=api&utm_source=13c876f1",
+    "description": "• Earn up to 70% with a range of corporate benefits • Locum position available $150 p/h Mon to Fri • Inner western suburb of Melbourne | Visa sponsorship Are you a VR General Practitioner looking to work close to Melbour..."
+  },
+  {
+    "id": "adzuna-5835374830",
+    "title": "General Practitioner - Greenway (DPA)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-general-practitioner-greenway-dpa-482-186-sponsorship",
+    "url": "jobs/canberra-general-practitioner-greenway-dpa-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5835374830?utm_medium=api&utm_source=13c876f1",
+    "description": "• Private Billing | Lucrative sign-on payment • Well-established | 15 minutes from Canberra CBD • Close to Canberra's top private schools | Visa sponsorship provided This high quality, state-of-the-art, private billing p..."
+  },
+  {
+    "id": "adzuna-5810533609",
+    "title": "A1 Offset Printer",
+    "company": "Wood Recruitment",
+    "logoInitial": "W",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-a1-offset-printer-482-186-sponsorship",
+    "url": "jobs/sydney-a1-offset-printer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5810533609?utm_medium=api&utm_source=13c876f1",
+    "description": "Our client is seeking an experienced A1 Offset Printer to join their production team on a full-time basis in New Zealand. This is a hands-on role suited to a trade-qualified printer who takes pride in producing high-qual..."
+  },
+  {
+    "id": "adzuna-5877183601",
+    "title": "Store Person",
+    "company": "Rockmount",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$10,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-store-person-482-186-sponsorship",
+    "url": "jobs/sydney-store-person-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5877183601?utm_medium=api&utm_source=13c876f1",
+    "description": "About the role: Rockmount is recruiting on behalf of a construction and building supplies business based in Kings Park. This is a full time, permanent role — not labour hire, not casual — with the entitlements that come ..."
+  },
+  {
+    "id": "adzuna-5817243819",
+    "title": "General Practitioner - Horsham (DPA/MMM3)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-general-practitioner-horsham-dpammm3-482-186-sponsorship",
+    "url": "jobs/melbourne-general-practitioner-horsham-dpammm3-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5817243819?utm_medium=api&utm_source=13c876f1",
+    "description": "• Up to 60% of Billings  Guaranteed Income & Visa Sponsorship • PFP, FSP, PEP, ACRRM IP & ESP • Horsham, 300km North West of Melbourne The Practice Long-standing, high-demand medical centre 20 spacious consult rooms & Ho..."
+  },
+  {
+    "id": "adzuna-5882053955",
+    "title": "General Practitioner - Macleay Island (DPA/MMM5)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "brisbane-general-practitioner-macleay-island-dpammm5-482-494-sponsorship",
+    "url": "jobs/brisbane-general-practitioner-macleay-island-dpammm5-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5882053955?utm_medium=api&utm_source=13c876f1",
+    "description": "• 70%  income guarantee | Mixed billing | Suitable for Expedited Pathway • DPA/MMM5 location eligible for all GP training pathways | Visa Sponsorship • Live in Brisbane | 18 min ferry ride from Redland Bay Are you lookin..."
+  },
+  {
+    "id": "adzuna-5890016557",
+    "title": "General Practitioner - Belconnen (DPA)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-general-practitioner-belconnen-dpa-482-186-sponsorship",
+    "url": "jobs/canberra-general-practitioner-belconnen-dpa-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5890016557?utm_medium=api&utm_source=13c876f1",
+    "description": "• 70% of mixed-billings  sign on payment | $500k billing potential • Flexible open term contracts with no restraint • Popular north Canberra suburb | Visa sponsorship including permanent residency Are looking for DPA GP ..."
+  },
+  {
+    "id": "adzuna-5890016278",
+    "title": "General Practitioner - Carrum Downs (DPA)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-general-practitioner-carrum-downs-dpa-482-186-sponsorship",
+    "url": "jobs/melbourne-general-practitioner-carrum-downs-dpa-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5890016278?utm_medium=api&utm_source=13c876f1",
+    "description": "• 70% of the billings  Income guarantee for 3 months • Busy practice with a big patient base • DPA Location I Suitable for Expedited Specialist Pathway with Visa Sponsorship Are you a VR GP looking for DPA GP Jobs close ..."
+  },
+  {
+    "id": "adzuna-5890016538",
+    "title": "General Practitioner - Charters Towers (DPA/MMM4)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-general-practitioner-charters-towers-dpammm4-482-186-sponsorship",
+    "url": "jobs/sydney-general-practitioner-charters-towers-dpammm4-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5890016538?utm_medium=api&utm_source=13c876f1",
+    "description": "• Up to 65% private billings | Initial Accommodations Available • DPA/MMM4 location eligible for PFP, PEP, FSP, RVTS & ACRRM IP • 1.5 Hrs from Townsville | Excellent Regional Schools | Visa Sponsorship Excellent opportun..."
+  },
+  {
+    "id": "adzuna-5862222503",
+    "title": "Consultant Paediatrics - Australia (NSW,Vic & Other Locations)",
+    "company": "Sante Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$480,000 - $480,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-consultant-paediatrics-australia-nswvic-other-locations-482-186-sponsorship",
+    "url": "jobs/sydney-consultant-paediatrics-australia-nswvic-other-locations-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5862222503?utm_medium=api&utm_source=13c876f1",
+    "description": "Consultant PaediatricianMultiple Opportunities Across New South Wales, Victoria & AustraliaBuild a Rewarding Paediatric Career While Enjoying the Australian Lifestyle Are you a dedicated Consultant Paediatrician looking ..."
+  },
+  {
+    "id": "adzuna-5862222504",
+    "title": "Consultant Obstetrics and Gynaecology - Australia NSW,Vic.",
+    "company": "Sante Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$480,000 - $480,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-consultant-obstetrics-and-gynaecology-australia-nswvic-482-186-sponsorship",
+    "url": "jobs/sydney-consultant-obstetrics-and-gynaecology-australia-nswvic-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5862222504?utm_medium=api&utm_source=13c876f1",
+    "description": "Consultant Obstetrician & GynaecologistMultiple Opportunities Across New South Wales & AustraliaAdvance Your Career in One of the World's Leading Healthcare Systems Are you a Consultant Obstetrician & Gynaecologist seeki..."
+  },
+  {
+    "id": "adzuna-5644822797",
+    "title": "Diploma Educators | Child Care | Multiple Roles in NSW",
+    "company": "C2C Recruitment Group",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$65,000 - $95,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-diploma-educators-child-care-multiple-roles-in-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-diploma-educators-child-care-multiple-roles-in-nsw-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5644822797?utm_medium=api&utm_source=13c876f1",
+    "description": "About Us C2C Recruitment Group partners with leading Early Childhood Education and Outside School Hours Care (OSHC) providers across New South Wales, connecting them with experienced, passionate Diploma-qualified Educato..."
+  },
+  {
+    "id": "adzuna-5519760493",
+    "title": "Diploma Educators | Child Care | Multiple Roles in the NT",
+    "company": "C2C Recruitment Group",
+    "logoInitial": "C",
+    "location": "Darwin, NT",
+    "state": "NT",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$65,000 - $95,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "darwin-diploma-educators-child-care-multiple-roles-in-the-nt-482-494-sponsorship",
+    "url": "jobs/darwin-diploma-educators-child-care-multiple-roles-in-the-nt-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5519760493?utm_medium=api&utm_source=13c876f1",
+    "description": "About Us C2C Recruitment Group partners with leading Early Childhood Education and Outside School Hours Care (OSHC) providers across the Northern Territory, connecting them with experienced, passionate Diploma-qualified ..."
+  },
+  {
+    "id": "adzuna-5519760496",
+    "title": "Diploma Educators | Child Care | Multiple Roles in WA",
+    "company": "C2C Recruitment Group",
+    "logoInitial": "C",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$65,000 - $95,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "perth-diploma-educators-child-care-multiple-roles-in-wa-482-494-sponsorship",
+    "url": "jobs/perth-diploma-educators-child-care-multiple-roles-in-wa-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5519760496?utm_medium=api&utm_source=13c876f1",
+    "description": "About Us C2C Recruitment Group partners with leading Early Childhood Education and Outside School Hours Care (OSHC) providers across Western Australia, connecting them with experienced, passionate Diploma-qualified Educa..."
+  },
+  {
+    "id": "adzuna-5896948899",
+    "title": "Autoglazier – Essendon Fields",
+    "company": "NWG ADAS & Windscreens",
+    "logoInitial": "N",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$80,000 - $100,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-autoglazier-essendon-fields-482-186-sponsorship",
+    "url": "jobs/sydney-autoglazier-essendon-fields-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896948899?utm_medium=api&utm_source=13c876f1",
+    "description": "About Us NWG (National Windscreens Group) is one of Australia’s largest independent automotive glass companies, with over 30 years of experience servicing customers across the country. As part of the growing NWG, we are ..."
+  },
+  {
+    "id": "adzuna-5896953644",
+    "title": "Heavy Commercial Autoglazier",
+    "company": "NWG ADAS & Windscreens",
+    "logoInitial": "N",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "trades",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "sydney-heavy-commercial-autoglazier-482-186-sponsorship",
+    "url": "jobs/sydney-heavy-commercial-autoglazier-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896953644?utm_medium=api&utm_source=13c876f1",
+    "description": "About the role Working across a combination of workshop and mobile jobs, you will provide specialist automotive glazing services for heavy commercial vehicles and machinery. Your responsibilities will include: Removing, ..."
+  },
+  {
+    "id": "adzuna-5896950798",
+    "title": "Visa Sponsored Registered Nurses | SA | NSW | QLD",
+    "company": "Estia Health",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-visa-sponsored-registered-nurses-sa-nsw-qld-482-186-sponsorship",
+    "url": "jobs/sydney-visa-sponsored-registered-nurses-sa-nsw-qld-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896950798?utm_medium=api&utm_source=13c876f1",
+    "description": "At Estia Health, we’re more than just a workplace: we’re a community dedicated to enriching lives and making a difference. If you’re passionate about aged care and want to be part of something meaningful, then we want to..."
+  },
+  {
+    "id": "adzuna-5896952069",
+    "title": "Occupational Therapist - Melton",
+    "company": "Everyday Independence",
+    "logoInitial": "E",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$82,106 - $110,143 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-occupational-therapist-melton-482-186-sponsorship",
+    "url": "jobs/melbourne-occupational-therapist-melton-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896952069?utm_medium=api&utm_source=13c876f1",
+    "description": "Job title - Occupational Therapist Location - Melton and surrounding suburbs including: Caroline Springs, Taylors Hill, St Albans, Sunbury, Keilor, Diggers Rest, Fraser Rise, Woodend and Bacchus Marsh. Employment Type - ..."
+  },
+  {
+    "id": "adzuna-5890016197",
+    "title": "General Practitioner - Lenah Valley (DPA/MMM2)",
+    "company": "DXC Medical Recruitment",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-general-practitioner-lenah-valley-dpammm2-482-186-sponsorship",
+    "url": "jobs/sydney-general-practitioner-lenah-valley-dpammm2-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5890016197?utm_medium=api&utm_source=13c876f1",
+    "description": "• 65%  guarantee incentive • Eligible location for RACGP FSP & PEP Specialist Stream • Eligible for PFP, RACGP FSP Fellowship Support Program & PEP Specialist Stream Are you a VR GP looking for your next challenge in Tas..."
+  },
+  {
+    "id": "adzuna-5897335678",
+    "title": "Dentist | Maven Dental Port Lincoln",
+    "company": "Maven Dental",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-dentist-maven-dental-port-lincoln-482-186-sponsorship",
+    "url": "jobs/sydney-dentist-maven-dental-port-lincoln-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5897335678?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description We’re seeking a passionate and motivated Full‑Time Dentist to join our thriving practice. Whether you’re an experienced clinician or an ADC graduate, this role offers the opportunity to build a long‑term,..."
+  },
+  {
+    "id": "adzuna-5897686784",
+    "title": "Special Needs teacher, Victoria",
+    "company": "Prospero Teaching",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-special-needs-teacher-victoria-482-186-sponsorship",
+    "url": "jobs/melbourne-special-needs-teacher-victoria-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5897686784?utm_medium=api&utm_source=13c876f1",
+    "description": "Special Education Teacher | P–12 | Small Classes | High Support Location: Melton, Melbourne, VIC Start: ASAP or by negotiation Type: Full-time, Ongoing Salary: $80,000 – $118,000  super Sponsorship: Available About the R..."
+  },
+  {
+    "id": "adzuna-5884110001",
+    "title": "Literacy Generalist Teacher, Gippsland, January 2027",
+    "company": "Prospero Teaching",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-literacy-generalist-teacher-gippsland-january-2027-482-186-sponsorship",
+    "url": "jobs/sydney-literacy-generalist-teacher-gippsland-january-2027-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5884110001?utm_medium=api&utm_source=13c876f1",
+    "description": "Literacy Generalist Teacher Latrobe Valley, Victoria January 2027 Full-time Specialist School | Literacy Focus | Individualised Learning | Strong Support | Sponsorship Available Are you a passionate Literacy or English T..."
   }
 ];
 

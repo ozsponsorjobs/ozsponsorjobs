@@ -3,81 +3,81 @@
   <!-- Core Site Pages -->
   <url>
     <loc>https://www.ozsponsorjobs.site/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/about.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/contact.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/privacy-policy.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/terms.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <!-- Programmatic Visa Category Hubs -->
   <url>
     <loc>https://www.ozsponsorjobs.site/visas/subclass-482-tss-jobs.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/visas/subclass-186-ens-jobs.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/visas/subclass-494-regional-jobs.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <!-- Programmatic Location Hubs -->
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/sydney-nsw-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/melbourne-vic-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/brisbane-qld-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/perth-wa-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.ozsponsorjobs.site/locations/adelaide-sa-visa-sponsorship-jobs.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.85</priority>
   </url>
@@ -1865,12 +1865,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.ozsponsorjobs.site/jobs/newcastle-dentist-482-186-sponsorship.html</loc>
-    <lastmod>2026-08-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://www.ozsponsorjobs.site/jobs/melbourne-periodontist-482-186-sponsorship.html</loc>
     <lastmod>2026-08-29</lastmod>
     <changefreq>daily</changefreq>
@@ -2923,6 +2917,168 @@
   <url>
     <loc>https://www.ozsponsorjobs.site/jobs/sydney-registrar-senior-registrar-emergency-482-186-sponsorship.html</loc>
     <lastmod>2026-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/canberra-general-practitioner-queanbeyan-dpa-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-staff-specialist-franzca-or-equivalent-482-186-sponsorship.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-fitter-and-turner-482-186-sponsorship.html</loc>
+    <lastmod>2025-04-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-podiatrist-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-general-practitioner-wodonga-dpammm2-482-186-sponsorship.html</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-general-practitioner-footscray-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/canberra-general-practitioner-greenway-dpa-482-186-sponsorship.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-a1-offset-printer-482-186-sponsorship.html</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-store-person-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-general-practitioner-horsham-dpammm3-482-186-sponsorship.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/brisbane-general-practitioner-macleay-island-dpammm5-482-494-sponsorship.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/canberra-general-practitioner-belconnen-dpa-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-general-practitioner-carrum-downs-dpa-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-general-practitioner-charters-towers-dpammm4-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-consultant-paediatrics-australia-nswvic-other-locations-482-186-sponsorship.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-consultant-obstetrics-and-gynaecology-australia-nswvic-482-186-sponsorship.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-diploma-educators-child-care-multiple-roles-in-nsw-482-186-sponsorship.html</loc>
+    <lastmod>2026-02-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/darwin-diploma-educators-child-care-multiple-roles-in-the-nt-482-494-sponsorship.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/perth-diploma-educators-child-care-multiple-roles-in-wa-482-494-sponsorship.html</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-autoglazier-essendon-fields-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-heavy-commercial-autoglazier-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-visa-sponsored-registered-nurses-sa-nsw-qld-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-occupational-therapist-melton-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-general-practitioner-lenah-valley-dpammm2-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-dentist-maven-dental-port-lincoln-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/melbourne-special-needs-teacher-victoria-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.ozsponsorjobs.site/jobs/sydney-literacy-generalist-teacher-gippsland-january-2027-482-186-sponsorship.html</loc>
+    <lastmod>2026-09-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
