@@ -13420,6 +13420,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-talent-acquisition-partner-technology-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/-1827890220843356322",
     "description": " Take your career further than you ever imagined with diverse roles and opportunities for personal and professional development. \r\n Enjoy work-life balance with flexible working options, and well-being initiatives that p..."
+  },
+  {
+    "id": "adzuna-5862938502",
+    "title": "Regioanl Registered Nurse contracts & Permanent roles | Aged Care",
+    "company": "Redstone Recruitment",
+    "logoInitial": "R",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$40 - $120 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "adelaide-regioanl-registered-nurse-contracts-permanent-roles-aged-care-482-494-sponsorship",
+    "url": "jobs/adelaide-regioanl-registered-nurse-contracts-permanent-roles-aged-care-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5862938502?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Regional South Australia Contract & Permanent Opportunities | Aged Care | Sponsorship Available Redstone Recruitment is currently seeking experienced Registered Nurses (RNs) for a range of contract and..."
   }
 ];
 

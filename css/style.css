@@ -1534,3 +1534,105 @@ textarea.form-control {
   }
 }
 
+/* ==========================================================================
+   Programmatic E-E-A-T Components: TSMIT & Visa Comparison Table
+   ========================================================================== */
+.tsmit-box {
+  background: #ffffff;
+  border: 1px solid var(--color-border);
+  border-left: 4px solid #10b981;
+  border-radius: var(--radius-md);
+  padding: 1.25rem 1.5rem;
+  margin: 1.25rem 0 1.75rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.tsmit-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.tsmit-badge-pass {
+  background: #ecfdf5;
+  color: #065f46;
+  border: 1px solid #a7f3d0;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 0.3rem 0.75rem;
+  border-radius: var(--radius-full);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.tsmit-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--color-border);
+}
+
+.tsmit-col span.label {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  font-weight: 600;
+}
+
+.tsmit-col span.value {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-top: 0.2rem;
+}
+
+.visa-comparison-wrapper {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: #ffffff;
+  box-shadow: var(--shadow-sm);
+}
+
+.visa-comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.885rem;
+  text-align: left;
+}
+
+.visa-comparison-table th {
+  background: var(--color-primary);
+  color: #ffffff;
+  padding: 0.85rem 1rem;
+  font-weight: 600;
+  font-size: 0.825rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.visa-comparison-table td {
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid var(--color-border-light);
+  color: var(--color-text);
+  line-height: 1.5;
+}
+
+.visa-comparison-table tr:last-child td {
+  border-bottom: none;
+}
+
+.visa-comparison-table tr:hover td {
+  background: var(--color-surface-hover);
+}
+
