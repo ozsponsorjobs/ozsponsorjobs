@@ -12694,13 +12694,91 @@ const JOBS_DATA = [
     "description": "SustainHealth Recruitment is currently seeking an experienced Registered Nurse for a permanent full-time Primary Health nursing opportunity within a correctional healthcare service in regional Northern NSW . This is a gr..."
   },
   {
-    "id": "jooble-6929528022394037803",
-    "title": "Head of Human Resources",
-    "company": "TMGM",
-    "logoInitial": "T",
+    "id": "adzuna-5890015657",
+    "title": "Trainee Seafood Processor",
+    "company": "Frontline Recruitment",
+    "logoInitial": "F",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "management",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "brisbane-trainee-seafood-processor-482-494-sponsorship",
+    "url": "jobs/brisbane-trainee-seafood-processor-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5890015657?utm_medium=api&utm_source=13c876f1",
+    "description": "Drive the sales strategy - Own functions, events & new business Growing Brisbane venue | Incentives, progression & real influence Amazing and achievable commission structure Our client is seeking a Trainee Seafood Proces..."
+  },
+  {
+    "id": "adzuna-5877124413",
+    "title": "Maintenance and Grounds Coordinator",
+    "company": "UniLodge",
+    "logoInitial": "U",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$69,088 - $69,088 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "cairns-maintenance-and-grounds-coordinator-482-494-sponsorship",
+    "url": "jobs/cairns-maintenance-and-grounds-coordinator-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5877124413?utm_medium=api&utm_source=13c876f1",
+    "description": "About UniLodge UniLodge is the leading student accommodation provider in Australia and New Zealand, with over 110 student accommodation properties across major cities. As part of the broader UniLodge Living Group, we man..."
+  },
+  {
+    "id": "jooble-522675594270398885",
+    "title": "Structural Manager",
+    "company": "Invictus People",
+    "logoInitial": "I",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$200k",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "brisbane-structural-manager-482-494-sponsorship",
+    "url": "jobs/brisbane-structural-manager-482-494-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/522675594270398885",
+    "description": " The Opportunity  An opportunity exists for an experienced Structural Engineer to lead and grow a structural engineering team in Brisbane. This role combines technical leadership, project delivery and business developmen..."
+  },
+  {
+    "id": "jooble--6741752858076328875",
+    "title": "Claims Change Manager",
+    "company": "BNB Chain",
+    "logoInitial": "B",
     "location": "Sydney, NSW",
     "state": "NSW",
-    "category": "technology",
+    "category": "management",
     "visas": [
       "482",
       "186"
@@ -12712,12 +12790,12 @@ const JOBS_DATA = [
     "salary": "$95,000 - $130,000 AUD",
     "type": "Full-time",
     "verifiedSponsor": true,
-    "anzsco": "261313",
+    "anzsco": "222311",
     "posted": "Recently",
-    "slug": "sydney-head-of-human-resources-482-186-sponsorship",
-    "url": "jobs/sydney-head-of-human-resources-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/6929528022394037803",
-    "description": "&nbsp;...relations matters, including workplace investigations, performance management, disciplinary actions, grievances, restructures, and <b>employment-</b>related risk. \r\n~ Develop, implement, and continuously improve..."
+    "slug": "sydney-claims-change-manager-482-186-sponsorship",
+    "url": "jobs/sydney-claims-change-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-6741752858076328875",
+    "description": "&nbsp;...life insurers, committed to inclusion, and supporting the career growth of our diverse workforce. We’re proud to be: \r\n An Inclusive <b>Employer </b>– Recognised as Employer of Choice for Gender Equality by the ..."
   }
 ];
 
