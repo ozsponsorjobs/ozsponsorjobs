@@ -10016,32 +10016,6 @@ const JOBS_DATA = [
     "description": " At TAL, we’re supported to live our best lives. With flexible and blended working options, discounted insurance, and wellbeing initiatives, we know we’re valued.  You’ll work alongside some of the brightest and most cap..."
   },
   {
-    "id": "jooble-6824783208596831735",
-    "title": "Head of Interest Rate Sales- Director",
-    "company": "MUFG Bank, Ltd.",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-head-of-interest-rate-sales-director-482-186-sponsorship",
-    "url": "jobs/sydney-head-of-interest-rate-sales-director-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/6824783208596831735",
-    "description": " Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, stri..."
-  },
-  {
     "id": "jooble-1579125609709979225",
     "title": "Evergreen - Sales Development Representative",
     "company": "Forgepoint Capital",
@@ -11028,32 +11002,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-customer-floor-and-catering-services-coordinator-contractor-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/-668632767387578925",
     "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
-  },
-  {
-    "id": "jooble-986344647686441974",
-    "title": "AVP, Project Manager, Risk Controls & Process Uplift, DBS Australia (Sydney) - 12-Month Contract",
-    "company": "DBS Bank Ltd",
-    "logoInitial": "D",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-avp-project-manager-risk-controls-process-uplift-dbs-australia-sydney-12-month-contract-482-186-sponsorship",
-    "url": "jobs/sydney-avp-project-manager-risk-controls-process-uplift-dbs-australia-sydney-12-month-contract-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/986344647686441974",
-    "description": " DBS Australia is seeking an experienced Project Manager to support a portfolio of strategic risk, controls and process uplift initiatives across the Branch.  Reporting directly to the Australia Unit Operational Risk Man..."
   },
   {
     "id": "jooble-4442432604502586961",
@@ -12484,6 +12432,292 @@ const JOBS_DATA = [
     "url": "jobs/adelaide-regioanl-registered-nurse-contracts-permanent-roles-aged-care-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5862938502?utm_medium=api&utm_source=13c876f1",
     "description": "Registered Nurse – Regional South Australia Contract & Permanent Opportunities | Aged Care | Sponsorship Available Redstone Recruitment is currently seeking experienced Registered Nurses (RNs) for a range of contract and..."
+  },
+  {
+    "id": "adzuna-5901617645",
+    "title": "fixed plant fitter",
+    "company": "MOLMUC Integrated Engineering Pty Ltd",
+    "logoInitial": "M",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$118,560 - $138,320 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "perth-fixed-plant-fitter-482-494-sponsorship",
+    "url": "jobs/perth-fixed-plant-fitter-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5901617645?utm_medium=api&utm_source=13c876f1",
+    "description": "Fixed Plant Mechanical Fitter – Mining MOLMUC Integrated Engineering Pty Ltd Kalgoorlie / Goldfields, WA | Full-Time Permanent MOLMUC Integrated Engineering is seeking an experienced Fixed Plant Mechanical Fitter to supp..."
+  },
+  {
+    "id": "adzuna-5894810090",
+    "title": "Category Manager",
+    "company": "Likewize",
+    "logoInitial": "L",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-category-manager-482-186-sponsorship",
+    "url": "jobs/melbourne-category-manager-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5894810090?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description: Who We Are At Likewize, we help people stay connected to the technology they love. As a global leader in device protection, warranty, repair, and logistics solutions, we partner with some of the world’s ..."
+  },
+  {
+    "id": "adzuna-5893580952",
+    "title": "Dental Assistant",
+    "company": "Woods Co",
+    "logoInitial": "W",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-dental-assistant-482-186-sponsorship",
+    "url": "jobs/melbourne-dental-assistant-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5893580952?utm_medium=api&utm_source=13c876f1",
+    "description": "Woods & Co Recruitment have partnered with a boutique dental clinic in Melbourne's inner south-east, known for their unique, science-based approach to holistic dentistry. Combining advanced technology with a minimally in..."
+  },
+  {
+    "id": "adzuna-5887137933",
+    "title": "Software Engineer (Model Deployment)",
+    "company": "coreflow",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-software-engineer-model-deployment-482-186-sponsorship",
+    "url": "jobs/sydney-software-engineer-model-deployment-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5887137933?utm_medium=api&utm_source=13c876f1",
+    "description": "About us We're building a new category of interactive entertainment powered by AI characters, image, video, and real-time experiences. We’re one of the most-visited AI products globally, serving millions of users every d..."
+  },
+  {
+    "id": "adzuna-5899229073",
+    "title": "Senior Emergency Veterinarian | Greencross Veterinary Hospital - Werribee",
+    "company": "Greencross Pet Wellness Company",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-senior-emergency-veterinarian-greencross-veterinary-hospital-werribee-482-186-sponsorship",
+    "url": "jobs/sydney-senior-emergency-veterinarian-greencross-veterinary-hospital-werribee-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5899229073?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Greencross Veterinary Hospital Werribee is seeking a Senior Emergency Veterinarian to join our growing team on a permanent full-time or part-time basis. Why GVH? This is an opportunity to work alongside a..."
+  },
+  {
+    "id": "adzuna-5901243388",
+    "title": "ASPIRE Associate - Sales & Commercial",
+    "company": "Baker Hughes",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-aspire-associate-sales-commercial-482-186-sponsorship",
+    "url": "jobs/sydney-aspire-associate-sales-commercial-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5901243388?utm_medium=api&utm_source=13c876f1",
+    "description": "Would you like to learn how Baker Hughes creates value through customer engagement? Do you enjoy building relationships and working across a global organization? Join our Sales and Commercial team The ASPIRE program is a..."
+  },
+  {
+    "id": "adzuna-5870139045",
+    "title": "Part-time Housekeeping Attendant",
+    "company": "Accor",
+    "logoInitial": "A",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-part-time-housekeeping-attendant-482-186-sponsorship",
+    "url": "jobs/melbourne-part-time-housekeeping-attendant-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870139045?utm_medium=api&utm_source=13c876f1",
+    "description": "Company Description “Hospitality is a work of Heart” - At Mövenpick Hotel Melbourne we do ordinary things in an extraordinary way. We believe true hospitality is about turning small gestures into heartwarming moments and..."
+  },
+  {
+    "id": "adzuna-5902215739",
+    "title": "General Practitioner (VR) | Newstead | Launceston, TAS",
+    "company": "Ochre Recruitment",
+    "logoInitial": "O",
+    "location": "Hobart, TAS",
+    "state": "TAS",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "hobart-general-practitioner-vr-newstead-launceston-tas-482-494-sponsorship",
+    "url": "jobs/hobart-general-practitioner-vr-newstead-launceston-tas-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5902215739?utm_medium=api&utm_source=13c876f1",
+    "description": "Modern facility with strong chronic disease management demand. full-time or part-time rosters in one of Launceston’s most desirable suburbs Work in an affluent community clinic minutes from top schools and CBD. General P..."
+  },
+  {
+    "id": "adzuna-5884506971",
+    "title": "REGISTERED NURSE - RESIDENTIAL AGED CARE",
+    "company": "McLean Care",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-residential-aged-care-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-residential-aged-care-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5884506971?utm_medium=api&utm_source=13c876f1",
+    "description": "REGISTERED NURSE | RESIDENTIAL AGED CARE Lead with purpose! Make a difference! Be part of something bigger! Following Respect’s acquisition of McLean Care , our organisation is entering an exciting new chapter, bringing ..."
+  },
+  {
+    "id": "adzuna-5901612088",
+    "title": "Correctional Permanent vacancies available | Sponsorship available | RNs",
+    "company": "SustainHealth Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $114,379 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-correctional-permanent-vacancies-available-sponsorship-available-rns-482-186-sponsorship",
+    "url": "jobs/sydney-correctional-permanent-vacancies-available-sponsorship-available-rns-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5901612088?utm_medium=api&utm_source=13c876f1",
+    "description": "SustainHealth Recruitment is currently seeking an experienced Registered Nurse for a permanent full-time Primary Health nursing opportunity within a correctional healthcare service in regional Northern NSW . This is a gr..."
+  },
+  {
+    "id": "jooble-6929528022394037803",
+    "title": "Head of Human Resources",
+    "company": "TMGM",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-head-of-human-resources-482-186-sponsorship",
+    "url": "jobs/sydney-head-of-human-resources-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/6929528022394037803",
+    "description": "&nbsp;...relations matters, including workplace investigations, performance management, disciplinary actions, grievances, restructures, and <b>employment-</b>related risk. \r\n~ Develop, implement, and continuously improve..."
   }
 ];
 
