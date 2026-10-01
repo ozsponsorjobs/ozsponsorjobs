@@ -13474,8 +13474,320 @@ const JOBS_DATA = [
     "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
   },
   {
-    "id": "jooble-5629837624428614448",
-    "title": "Customer Support Case Manager",
+    "id": "adzuna-5904773336",
+    "title": "Speech Pathologist - 482 Visa Sponsorship Available",
+    "company": "Better Rehab",
+    "logoInitial": "B",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-speech-pathologist-482-visa-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/perth-speech-pathologist-482-visa-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904773336?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description As a speech pathologist, you'll provide assessments and therapy to children, adolescents and adults with a range of speech, language, communication, feeding and swallowing needs. You'll: Deliver therapy i..."
+  },
+  {
+    "id": "adzuna-5904773334",
+    "title": "Speech Pathologist - 482 Visa Sponsorship Available",
+    "company": "Better Rehab",
+    "logoInitial": "B",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "brisbane-speech-pathologist-482-visa-sponsorship-available-482-494-sponsorship",
+    "url": "jobs/brisbane-speech-pathologist-482-visa-sponsorship-available-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904773334?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description As a speech pathologist, you'll provide assessments and therapy to children, adolescents and adults with a range of speech, language, communication, feeding and swallowing needs. You'll: Deliver therapy i..."
+  },
+  {
+    "id": "adzuna-5904773333",
+    "title": "Speech Pathologist - 482 Visa Sponsorship Available",
+    "company": "Better Rehab",
+    "logoInitial": "B",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-speech-pathologist-482-visa-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/melbourne-speech-pathologist-482-visa-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904773333?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description As a speech pathologist, you'll provide assessments and therapy to children, adolescents and adults with a range of speech, language, communication, feeding and swallowing needs. You'll: Deliver therapy i..."
+  },
+  {
+    "id": "adzuna-5904360141",
+    "title": "Advanced Child Protection Practitioner",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-advanced-child-protection-practitioner-482-186-sponsorship",
+    "url": "jobs/sydney-advanced-child-protection-practitioner-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904360141?utm_medium=api&utm_source=13c876f1",
+    "description": "As an advanced child protection practitioner, you will receive and assess reports of alleged abuse and neglect of children and young people. Conduct investigations and develop plans to ensure the safety and wellbeing of ..."
+  },
+  {
+    "id": "adzuna-5904359717",
+    "title": "Senior Child Protection Practitioner, Western Melbourne Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-senior-child-protection-practitioner-western-melbourne-area-482-186-sponsorship",
+    "url": "jobs/melbourne-senior-child-protection-practitioner-western-melbourne-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904359717?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Western Melbourne Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex, with..."
+  },
+  {
+    "id": "adzuna-5904360122",
+    "title": "Senior Child Protection Practitioner, Mallee Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-senior-child-protection-practitioner-mallee-area-482-186-sponsorship",
+    "url": "jobs/sydney-senior-child-protection-practitioner-mallee-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904360122?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Mallee Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex, with their own ..."
+  },
+  {
+    "id": "adzuna-5904360058",
+    "title": "Team Manager, Child Protection",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-team-manager-child-protection-482-186-sponsorship",
+    "url": "jobs/melbourne-team-manager-child-protection-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904360058?utm_medium=api&utm_source=13c876f1",
+    "description": "Team Manager, Child Protection roles in Western Melbourne Area: The Child Protection Team Manager is responsible for effective service delivery, managing resources and budget, cases awaiting allocation and small teams of..."
+  },
+  {
+    "id": "adzuna-5904359937",
+    "title": "Senior Child Protection Practitioner, Brimbank Melton Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-senior-child-protection-practitioner-brimbank-melton-area-482-186-sponsorship",
+    "url": "jobs/melbourne-senior-child-protection-practitioner-brimbank-melton-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904359937?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Brimbank Melton Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex, with t..."
+  },
+  {
+    "id": "adzuna-5904359838",
+    "title": "Senior Child Protection Practitioner, Wimmera South West Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-senior-child-protection-practitioner-wimmera-south-west-area-482-186-sponsorship",
+    "url": "jobs/sydney-senior-child-protection-practitioner-wimmera-south-west-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904359838?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Wimmera South West Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex, wit..."
+  },
+  {
+    "id": "jooble--5721114694026614434",
+    "title": "Analyst, Treasury Settlements",
+    "company": "MUFG Bank, Ltd.",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-analyst-treasury-settlements-482-186-sponsorship",
+    "url": "jobs/sydney-analyst-treasury-settlements-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-5721114694026614434",
+    "description": " Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, stri..."
+  },
+  {
+    "id": "jooble-6265564579630129658",
+    "title": "Claims Governance & Risk Specialist",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-claims-governance-risk-specialist-482-186-sponsorship",
+    "url": "jobs/sydney-claims-governance-risk-specialist-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/6265564579630129658",
+    "description": " Enjoy work-life balance with flexible working options, and well-being initiatives that prioritise your health \r\n Work alongside diverse, passionate colleagues and leaders who inspire, support, and value your contributio..."
+  },
+  {
+    "id": "jooble--3333975422946487295",
+    "title": "Civil Manager",
+    "company": "Invictus People",
+    "logoInitial": "I",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$200k",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "adelaide-civil-manager-482-494-sponsorship",
+    "url": "jobs/adelaide-civil-manager-482-494-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-3333975422946487295",
+    "description": " An opportunity exists for an experienced  Civil Manager  to join a growing engineering consultancy in Adelaide. This is a senior role combining technical leadership, project delivery, team management and client developm..."
+  },
+  {
+    "id": "jooble-4791992919476454213",
+    "title": "Manager - Default Management",
     "company": "ASX Limited",
     "logoInitial": "A",
     "location": "Sydney, NSW",
@@ -13494,10 +13806,36 @@ const JOBS_DATA = [
     "verifiedSponsor": true,
     "anzsco": "222311",
     "posted": "Recently",
-    "slug": "sydney-customer-support-case-manager-482-186-sponsorship",
-    "url": "jobs/sydney-customer-support-case-manager-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/5629837624428614448",
-    "description": "&nbsp;...brings together talented people from a diverse range of disciplines. \r\n We run critical market infrastructure, with 1 in 3 people <b>employed </b>within technology. Yet we have a unique complexity of roles acros..."
+    "slug": "sydney-manager-default-management-482-186-sponsorship",
+    "url": "jobs/sydney-manager-default-management-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/4791992919476454213",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
+    "id": "jooble-586657431847569396",
+    "title": "Correspondence Governance Manager",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-correspondence-governance-manager-482-186-sponsorship",
+    "url": "jobs/sydney-correspondence-governance-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/586657431847569396",
+    "description": "&nbsp;...life insurers, committed to inclusion, and supporting the career growth of our diverse workforce. We’re proud to be: \r\n An Inclusive <b>Employer </b>– Recognised as Employer of Choice for Gender Equality by the ..."
   }
 ];
 
