@@ -6454,32 +6454,6 @@ const JOBS_DATA = [
     "description": "129 km of 220 kV. 3-4 years of work. 3:1 roster with accommodation covered. Genus is the head contractor delivering Stage 1 of TasNetworks' North West Transmission Developments (NWTD). It will be the biggest transmission..."
   },
   {
-    "id": "adzuna-5844189605",
-    "title": "Experienced Diploma Educator",
-    "company": "Early Years Talent",
-    "logoInitial": "E",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-experienced-diploma-educator-482-186-sponsorship",
-    "url": "jobs/sydney-experienced-diploma-educator-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5844189605?utm_medium=api&utm_source=13c876f1",
-    "description": "We are looking for an experienced Diploma-qualified educator whose time in the sector has developed into sound judgement, confident family communication and dependable room leadership. This permanent full-time Lead Educa..."
-  },
-  {
     "id": "adzuna-5862939030",
     "title": "Electrical Project Managers - Growing Electrical Contractor",
     "company": "Powerstaff",
@@ -6582,32 +6556,6 @@ const JOBS_DATA = [
     "url": "jobs/canberra-garden-labourer-act-government-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5848184922?utm_medium=api&utm_source=13c876f1",
     "description": "Our Client Our client is an ACT Government responsible for delivering essential municipal, transport and city services across Canberra. Its broad operational remit includes maintaining parks, public spaces and community ..."
-  },
-  {
-    "id": "adzuna-5844189604",
-    "title": "Preschool Room Leader  Educational Leader",
-    "company": "Early Years Talent",
-    "logoInitial": "E",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-preschool-room-leader-educational-leader-482-186-sponsorship",
-    "url": "jobs/sydney-preschool-room-leader-educational-leader-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5844189604?utm_medium=api&utm_source=13c876f1",
-    "description": "An established, privately owned early learning service in Sydney's Sutherland Shire is looking for a strong preschool leader who can take ownership of an established preschool room and, ideally, influence educational pra..."
   },
   {
     "id": "adzuna-5876963009",
@@ -10068,32 +10016,6 @@ const JOBS_DATA = [
     "description": " Shape the future of insurance with innovative ideas and technologies that improve the lives of millions of Australians \r\n Enjoy work-life balance with flexible working options, and well-being initiatives that prioritise..."
   },
   {
-    "id": "jooble-7412226133857081289",
-    "title": "Analyst, Account Management",
-    "company": "Mastercard",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-analyst-account-management-482-186-sponsorship",
-    "url": "jobs/sydney-analyst-account-management-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/7412226133857081289",
-    "description": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a w..."
-  },
-  {
     "id": "jooble--4609129753058659633",
     "title": "Analyst, Business Excellence",
     "company": "Mastercard",
@@ -10898,32 +10820,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-network-engineer-japan-australia-commercial-energy-storage-apac-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/-1708111920967463090",
     "description": " What To Expect \r\n This role will support sites in both Japan and Australia, with Japan being the primary focus; the candidate MUST be fluent in verbal and written Japanese. The role is open to candidates based in both J..."
-  },
-  {
-    "id": "jooble--8004746967029747897",
-    "title": "Performance Marketing Manager",
-    "company": "CloudTech Group",
-    "logoInitial": "C",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-performance-marketing-manager-482-186-sponsorship",
-    "url": "jobs/sydney-performance-marketing-manager-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-8004746967029747897",
-    "description": " CloudTechX is a blockchain-based financial technology platform specialising in over-the-counter (OTC) trading and near-instant settlement services. The core offering revolves around fast, compliant AUD settlement for ma..."
   },
   {
     "id": "jooble--4077524952396918529",
@@ -13836,6 +13732,630 @@ const JOBS_DATA = [
     "url": "jobs/sydney-correspondence-governance-manager-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/586657431847569396",
     "description": "&nbsp;...life insurers, committed to inclusion, and supporting the career growth of our diverse workforce. We’re proud to be: \r\n An Inclusive <b>Employer </b>– Recognised as Employer of Choice for Gender Equality by the ..."
+  },
+  {
+    "id": "adzuna-5907735774",
+    "title": "IT System Analyst",
+    "company": "Hays",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-it-system-analyst-482-186-sponsorship",
+    "url": "jobs/sydney-it-system-analyst-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5907735774?utm_medium=api&utm_source=13c876f1",
+    "description": "IT Systems Analyst | Permanent Role | Visa Sponsorship AvailableYour New Company Visa Sponsorship Available for Sydney-Based Candidates Join a well-established Australian business operating across a complex infrastructur..."
+  },
+  {
+    "id": "adzuna-5907792694",
+    "title": "Hand Therapist (Occupational Therapist) | Perth",
+    "company": "Mediix",
+    "logoInitial": "M",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "perth-hand-therapist-occupational-therapist-perth-482-494-sponsorship",
+    "url": "jobs/perth-hand-therapist-occupational-therapist-perth-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5907792694?utm_medium=api&utm_source=13c876f1",
+    "description": "Permanent Full Time (ideally) | Senior roles available | Visa sponsorship offered for the right candidate A well-established private practice in Perth is looking for experienced hand therapy Occupational Therapists to jo..."
+  },
+  {
+    "id": "adzuna-5905821042",
+    "title": "Garden Labourer/General Service Officer | ACT Government",
+    "company": "Charter Diligence Pty Ltd",
+    "logoInitial": "C",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$91,145 - $91,145 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "canberra-garden-labourergeneral-service-officer-act-government-482-186-sponsorship",
+    "url": "jobs/canberra-garden-labourergeneral-service-officer-act-government-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5905821042?utm_medium=api&utm_source=13c876f1",
+    "description": "Our Client Our client is an ACT Government directorate responsible for delivering essential municipal, transport and city services across Canberra. Its broad operational remit includes maintaining parks, public spaces an..."
+  },
+  {
+    "id": "adzuna-5904359991",
+    "title": "Senior Child Protection Practitioner, Hume Merri-Bek and North Eastern Melbourne Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-senior-child-protection-practitioner-hume-merri-bek-and-north-eastern-melbourne-area-482-186-sponsorship",
+    "url": "jobs/melbourne-senior-child-protection-practitioner-hume-merri-bek-and-north-eastern-melbourne-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904359991?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Hume Merri-Bek and North Eastern Melbourne Areas (Preston) To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and underst..."
+  },
+  {
+    "id": "adzuna-5904360013",
+    "title": "Senior Child Protection Practitioner, Goulburn Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-senior-child-protection-practitioner-goulburn-area-482-186-sponsorship",
+    "url": "jobs/sydney-senior-child-protection-practitioner-goulburn-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904360013?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Goulburn Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex, with their ow..."
+  },
+  {
+    "id": "adzuna-5904360029",
+    "title": "Senior Child Protection Practitioner, Bayside Peninsula Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-senior-child-protection-practitioner-bayside-peninsula-area-482-186-sponsorship",
+    "url": "jobs/sydney-senior-child-protection-practitioner-bayside-peninsula-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904360029?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Bayside Peninsula Area (Frankston Office): To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that familie..."
+  },
+  {
+    "id": "adzuna-5904359980",
+    "title": "Senior Child Protection Practitioner, Inner Eastern Melbourne Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-senior-child-protection-practitioner-inner-eastern-melbourne-area-482-186-sponsorship",
+    "url": "jobs/melbourne-senior-child-protection-practitioner-inner-eastern-melbourne-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904359980?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles, Inner Eastern Melbourne Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex, ..."
+  },
+  {
+    "id": "adzuna-5904359933",
+    "title": "Senior Child Protection Practitioner, Outer Eastern Melbourne Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "melbourne-senior-child-protection-practitioner-outer-eastern-melbourne-area-482-186-sponsorship",
+    "url": "jobs/melbourne-senior-child-protection-practitioner-outer-eastern-melbourne-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904359933?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Outer Eastern Melbourne Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex..."
+  },
+  {
+    "id": "adzuna-5904360107",
+    "title": "Team Manager, Child Protection",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-team-manager-child-protection-482-186-sponsorship",
+    "url": "jobs/sydney-team-manager-child-protection-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904360107?utm_medium=api&utm_source=13c876f1",
+    "description": "Team Manager, Child Protection roles in Goulburn Area: The Child Protection Team Manager is responsible for effective service delivery, managing resources and budget, cases awaiting allocation and small teams of practiti..."
+  },
+  {
+    "id": "adzuna-5904359714",
+    "title": "Senior Child Protection Practitioner, Barwon Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Geelong, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "geelong-senior-child-protection-practitioner-barwon-area-482-186-sponsorship",
+    "url": "jobs/geelong-senior-child-protection-practitioner-barwon-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904359714?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Barwon Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex, with their own ..."
+  },
+  {
+    "id": "adzuna-5904359736",
+    "title": "Senior Child Protection Practitioner",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-senior-child-protection-practitioner-482-186-sponsorship",
+    "url": "jobs/sydney-senior-child-protection-practitioner-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904359736?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles: Various metro and regional opportunities are currently available across the state, you will be able to select your office preference as part of the application process. To be a..."
+  },
+  {
+    "id": "adzuna-5904360085",
+    "title": "Senior Child Protection Practitioner, Loddon Area",
+    "company": "Victorian Government",
+    "logoInitial": "V",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-senior-child-protection-practitioner-loddon-area-482-186-sponsorship",
+    "url": "jobs/sydney-senior-child-protection-practitioner-loddon-area-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5904360085?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Child Protection Practitioner roles in Loddon Area: To be an effective Senior Child Protection Practitioner, you will have a strong sense of social justice and understand that families are complex, with their own ..."
+  },
+  {
+    "id": "adzuna-5903387303",
+    "title": "Veterinary Associate - Greencross Robina",
+    "company": "Greencross Pet Wellness Company",
+    "logoInitial": "G",
+    "location": "Gold Coast, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "gold-coast-veterinary-associate-greencross-robina-482-494-sponsorship",
+    "url": "jobs/gold-coast-veterinary-associate-greencross-robina-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5903387303?utm_medium=api&utm_source=13c876f1",
+    "description": "Company Description Picture your morning. Park on site a few metres from the door and step straight inside. No circling for a spot. No ticket machines. Coffee from the French patisserie next door, then a calm start with ..."
+  },
+  {
+    "id": "adzuna-5909098304",
+    "title": "Commercial Electrical Supervisor - Perth Based",
+    "company": "Core Talent",
+    "logoInitial": "C",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$124,800 - $133,120 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "perth-commercial-electrical-supervisor-perth-based-482-494-sponsorship",
+    "url": "jobs/perth-commercial-electrical-supervisor-perth-based-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5909098304?utm_medium=api&utm_source=13c876f1",
+    "description": "Role Available: Core Talent have partnered with a leading Perth based commercial contractor who are looking for an Electrical Supervisor with Commercial experience to join their team in a permanent capacity. What’s On Of..."
+  },
+  {
+    "id": "adzuna-5905820395",
+    "title": "OHT/ Hygienist - Regional Australia",
+    "company": "Gorilla Jobs",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$60 - $75 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-oht-hygienist-regional-australia-482-186-sponsorship",
+    "url": "jobs/sydney-oht-hygienist-regional-australia-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5905820395?utm_medium=api&utm_source=13c876f1",
+    "description": "Are you an Oral Health Therapist or Dental Hygienist looking for a rewarding role with strong patient demand, supportive teams and the chance to make a genuine impact in regional communities? Multiple opportunities are c..."
+  },
+  {
+    "id": "jooble-7852354542268900856",
+    "title": "Client Funding Operations Specialist",
+    "company": "TMGM",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-client-funding-operations-specialist-482-186-sponsorship",
+    "url": "jobs/sydney-client-funding-operations-specialist-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/7852354542268900856",
+    "description": " TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and offices spanning thr..."
+  },
+  {
+    "id": "jooble--3801283907477993987",
+    "title": "Dispute Resolution Coordinator - 12-month fixed term contract",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-dispute-resolution-coordinator-12-month-fixed-term-contract-482-186-sponsorship",
+    "url": "jobs/sydney-dispute-resolution-coordinator-12-month-fixed-term-contract-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-3801283907477993987",
+    "description": " Help protect over 5 million Australians, making a real difference in their lives during their most challenging times. \r\n Work with experienced and skilled colleagues who support and inspire one another to achieve collec..."
+  },
+  {
+    "id": "jooble-2678041044398409102",
+    "title": "Education Consultant - Australian Student Admissions & Visa Processing",
+    "company": "recruitometry",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-education-consultant-australian-student-admissions-visa-processing-482-186-sponsorship",
+    "url": "jobs/sydney-education-consultant-australian-student-admissions-visa-processing-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/desc/2678041044398409102",
+    "description": "&nbsp;...Education Consultant Australian Student Admissions & <b>Visa </b>Processing  \r\n \r\n  About the Role:  \r\n  We are seeking a motivated and detail-oriented Education Consultant to join a growing international educat..."
+  },
+  {
+    "id": "jooble--6843180445478003773",
+    "title": "Senior Liquidity Analyst",
+    "company": "TMGM",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-liquidity-analyst-482-186-sponsorship",
+    "url": "jobs/sydney-senior-liquidity-analyst-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-6843180445478003773",
+    "description": " About TMGM  TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and offices ..."
+  },
+  {
+    "id": "jooble-1939831225563013561",
+    "title": "Third Party Risk Specialist",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-third-party-risk-specialist-482-186-sponsorship",
+    "url": "jobs/sydney-third-party-risk-specialist-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/1939831225563013561",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
+    "id": "jooble--535695097121289701",
+    "title": "Senior Risk Governance Officer (2-year Max Term)",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-risk-governance-officer-2-year-max-term-482-186-sponsorship",
+    "url": "jobs/sydney-senior-risk-governance-officer-2-year-max-term-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-535695097121289701",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
+    "id": "jooble-2364463742214588503",
+    "title": "Analyst, Transaction Monitoring",
+    "company": "MUFG Bank, Ltd.",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-analyst-transaction-monitoring-482-186-sponsorship",
+    "url": "jobs/sydney-analyst-transaction-monitoring-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/2364463742214588503",
+    "description": " Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, stri..."
+  },
+  {
+    "id": "jooble--3217465336710098149",
+    "title": "Senior Automation Engineer",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-automation-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-senior-automation-engineer-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-3217465336710098149",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
+    "id": "jooble-1913775257676325605",
+    "title": "Assistant Vice President, Transaction Monitoring",
+    "company": "MUFG Bank, Ltd.",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-assistant-vice-president-transaction-monitoring-482-186-sponsorship",
+    "url": "jobs/sydney-assistant-vice-president-transaction-monitoring-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/1913775257676325605",
+    "description": " Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, stri..."
   }
 ];
 
