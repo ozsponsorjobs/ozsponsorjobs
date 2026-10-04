@@ -7546,32 +7546,6 @@ const JOBS_DATA = [
     "description": "THE PRACTICE Join a busy, fully accredited general practice in Harvey, WA (DPA/MM5), offering excellent clinical support, experienced RACGP mentoring, and a proven track record of Fellowship success in a welcoming rural ..."
   },
   {
-    "id": "adzuna-5847552683",
-    "title": "Special Needs teachers, South East Melbourne, January 2027",
-    "company": "Prospero Teaching",
-    "logoInitial": "P",
-    "location": "Melbourne, VIC",
-    "state": "VIC",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "melbourne-special-needs-teachers-south-east-melbourne-january-2027-482-186-sponsorship",
-    "url": "jobs/melbourne-special-needs-teachers-south-east-melbourne-january-2027-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5847552683?utm_medium=api&utm_source=13c876f1",
-    "description": "Special Education Teachers | Multiple Positions 9 Positions Available | P–12 Specialist School | Melbourne South-East | Sponsorship Available Prospero Teaching is proud to be partnered with a highly regarded Victorian Go..."
-  },
-  {
     "id": "adzuna-5886954592",
     "title": "Special Education teacher, Hoppers Crossing, Immediate start",
     "company": "Prospero Teaching",
@@ -7596,32 +7570,6 @@ const JOBS_DATA = [
     "url": "jobs/melbourne-special-education-teacher-hoppers-crossing-immediate-start-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5886954592?utm_medium=api&utm_source=13c876f1",
     "description": "Special Education Teacher | Immediate Start Melbourne’s Western Suburbs, Victoria P–12 Specialist School | Full-Time | Sponsorship Available Are you a passionate Special Education Teacher looking for a role where you can..."
-  },
-  {
-    "id": "adzuna-5847532191",
-    "title": "Special Development teacher, Melbourne",
-    "company": "Prospero Teaching",
-    "logoInitial": "P",
-    "location": "Melbourne, VIC",
-    "state": "VIC",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "melbourne-special-development-teacher-melbourne-482-186-sponsorship",
-    "url": "jobs/melbourne-special-development-teacher-melbourne-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5847532191?utm_medium=api&utm_source=13c876f1",
-    "description": "Special Education Teacher Melbourne's Western Suburbs, Victoria P–12 Specialist School | Individualised Learning | Strong Support | Sponsorship Available Are you a passionate Special Education Teacher looking for an oppo..."
   },
   {
     "id": "adzuna-5856584739",
@@ -14356,6 +14304,84 @@ const JOBS_DATA = [
     "url": "jobs/sydney-assistant-vice-president-transaction-monitoring-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/1913775257676325605",
     "description": " Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, stri..."
+  },
+  {
+    "id": "adzuna-5909695341",
+    "title": "Staff Software Engineer, Social & Store - Unpublished R&D Product ( Australia-based, Relocation and Visa Sponsorship provided)",
+    "company": "Riot Games",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$180 - $240 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-staff-software-engineer-social-store-unpublished-rd-product-australia-based-relocation-and-visa-sponsorship-provided-482-186-sponsorship",
+    "url": "jobs/sydney-staff-software-engineer-social-store-unpublished-rd-product-australia-based-relocation-and-visa-sponsorship-provided-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5909695341?utm_medium=api&utm_source=13c876f1",
+    "description": "As a Staff Software Engineer on an unpublished R&D project, you will architect the foundational social and store systems for one of Riot’s Unpublished R&D products. You will work closely with leadership, Product, and UX ..."
+  },
+  {
+    "id": "adzuna-5900652594",
+    "title": "Occupational Therapist - Sponsorship available for candidates with AHPRA seeking PR",
+    "company": "Catholic Healthcare",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$118,560 - $118,560 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-occupational-therapist-sponsorship-available-for-candidates-with-ahpra-seeking-pr-482-186-sponsorship",
+    "url": "jobs/sydney-occupational-therapist-sponsorship-available-for-candidates-with-ahpra-seeking-pr-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5900652594?utm_medium=api&utm_source=13c876f1",
+    "description": "Location – travel around Dubbo and surrounds Part Time (min 3 days, flexible on days and hours) Pay rate – up to $57 per hour (based on experience)  up to $18,550 tax free superannuation Sponsorship available for candida..."
+  },
+  {
+    "id": "adzuna-5908010071",
+    "title": "Blue Yonder System Functional / Technical Consultant",
+    "company": "The HR Ally",
+    "logoInitial": "T",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-blue-yonder-system-functional-technical-consultant-482-186-sponsorship",
+    "url": "jobs/melbourne-blue-yonder-system-functional-technical-consultant-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5908010071?utm_medium=api&utm_source=13c876f1",
+    "description": "Location: Melbourne, VIC, Australia Job Type: Full-Time Experience: 4–12 Years Australian Citizens and Permanent Residents (PR) only. No sponsorship available. About the Role We are seeking an experienced BY TMS Function..."
   }
 ];
 
