@@ -6532,32 +6532,6 @@ const JOBS_DATA = [
     "description": "Our Client Our client is a major NSW Government transport organisation responsible for keeping communities connected through safe and reliable road and transport infrastructure across metropolitan and regional NSW. This ..."
   },
   {
-    "id": "adzuna-5848184922",
-    "title": "Garden Labourer | ACT Government",
-    "company": "Charter Diligence Pty Ltd",
-    "logoInitial": "C",
-    "location": "Canberra, ACT",
-    "state": "ACT",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$91,145 - $91,145 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "canberra-garden-labourer-act-government-482-186-sponsorship",
-    "url": "jobs/canberra-garden-labourer-act-government-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5848184922?utm_medium=api&utm_source=13c876f1",
-    "description": "Our Client Our client is an ACT Government responsible for delivering essential municipal, transport and city services across Canberra. Its broad operational remit includes maintaining parks, public spaces and community ..."
-  },
-  {
     "id": "adzuna-5876963009",
     "title": "Graduate Internal Sales Representative - Mechanical/Engineering",
     "company": "Applied Industrial Technologies",
@@ -10068,32 +10042,6 @@ const JOBS_DATA = [
     "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
   },
   {
-    "id": "jooble-5603957710021108086",
-    "title": "Data Analyst - 12 Month Max Term Contract",
-    "company": "ASX Limited",
-    "logoInitial": "A",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-data-analyst-12-month-max-term-contract-482-186-sponsorship",
-    "url": "jobs/sydney-data-analyst-12-month-max-term-contract-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/5603957710021108086",
-    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
-  },
-  {
     "id": "jooble--4118563257887367581",
     "title": "Digital Channel Manager",
     "company": "BNB Chain",
@@ -10118,32 +10066,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-digital-channel-manager-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/-4118563257887367581",
     "description": " Shape the future of insurance with innovative ideas and technologies that improve the lives of millions of Australians \r\n Take advantage of well-being initiatives designed to support your mental and physical health, ens..."
-  },
-  {
-    "id": "jooble-3896552043646238525",
-    "title": "Manager, Business Excellence",
-    "company": "Mastercard",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "222311",
-    "posted": "Recently",
-    "slug": "sydney-manager-business-excellence-482-186-sponsorship",
-    "url": "jobs/sydney-manager-business-excellence-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/3896552043646238525",
-    "description": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a w..."
   },
   {
     "id": "jooble-5583812160920551153",
@@ -14382,6 +14304,162 @@ const JOBS_DATA = [
     "url": "jobs/melbourne-blue-yonder-system-functional-technical-consultant-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5908010071?utm_medium=api&utm_source=13c876f1",
     "description": "Location: Melbourne, VIC, Australia Job Type: Full-Time Experience: 4–12 Years Australian Citizens and Permanent Residents (PR) only. No sponsorship available. About the Role We are seeking an experienced BY TMS Function..."
+  },
+  {
+    "id": "adzuna-5912395207",
+    "title": "Developer Programmer",
+    "company": "OneStop IT Talents Pty Ltd",
+    "logoInitial": "O",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $90,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-developer-programmer-482-186-sponsorship",
+    "url": "jobs/melbourne-developer-programmer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5912395207?utm_medium=api&utm_source=13c876f1",
+    "description": "About us OneStop IT Talents Pty Ltd is a Melbourne-based technology consulting and software development company, founded in 2018. We deliver integration, development, testing and delivery services to enterprise clients a..."
+  },
+  {
+    "id": "adzuna-5903360192",
+    "title": "Panel Beater",
+    "company": "Chelsea AiCademy",
+    "logoInitial": "C",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "melbourne-panel-beater-482-186-sponsorship",
+    "url": "jobs/melbourne-panel-beater-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5903360192?utm_medium=api&utm_source=13c876f1",
+    "description": "Position Title: Qualified Panel Beater Location: Melbourne, Victoria, Australia Employment Type: Full-Time Salary: Up to $95,000 -105,000 AUD per annum (approx. ₹50 Lakhs INR)  12% Superannuation  Overtime About the Role..."
+  },
+  {
+    "id": "adzuna-5903363005",
+    "title": "Auto Mechanic / Heavy Commercial Mechanic",
+    "company": "Chelsea AiCademy",
+    "logoInitial": "C",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "melbourne-auto-mechanic-heavy-commercial-mechanic-482-186-sponsorship",
+    "url": "jobs/melbourne-auto-mechanic-heavy-commercial-mechanic-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5903363005?utm_medium=api&utm_source=13c876f1",
+    "description": "Position Title: Auto Mechanic / Heavy Commercial Mechanic Location: Melbourne, Victoria, Australia Employment Type: Full-Time Salary: Up to $80,000-$90,000 AUD per annum (approx. ₹50 Lakhs INR)  12% Superannuation  Overt..."
+  },
+  {
+    "id": "adzuna-5911614950",
+    "title": "Other Skills",
+    "company": "PinoyPro GlobalTalent Sync",
+    "logoInitial": "P",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "adelaide-other-skills-482-494-sponsorship",
+    "url": "jobs/adelaide-other-skills-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5911614950?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Title: Skilled Professional / Tradesperson (Expression of Interest – Australia Pathway) Location: Dubai, UAE – Relocation to Australia upon visa approval Department: International Workforce Deployment Employment Type..."
+  },
+  {
+    "id": "jooble--7248750468831544848",
+    "title": "Junior Client Funding Operations Specialist (12-Month Fixed Term)",
+    "company": "TMGM",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-junior-client-funding-operations-specialist-12-month-fixed-term-482-186-sponsorship",
+    "url": "jobs/sydney-junior-client-funding-operations-specialist-12-month-fixed-term-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-7248750468831544848",
+    "description": " TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and offices spanning thr..."
+  },
+  {
+    "id": "jooble-5594049704557780495",
+    "title": "Network Development Manager (Automotive/OEM)",
+    "company": "Zeekr International",
+    "logoInitial": "Z",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-network-development-manager-automotiveoem-482-186-sponsorship",
+    "url": "jobs/sydney-network-development-manager-automotiveoem-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/5594049704557780495",
+    "description": " Role Summary: \r\n This role is focused on developing, growing and supporting the Zeekr dealer network. \r\n Key focus of the role is on developing and implementing programs that support the growth of dealer’s retail busine..."
   }
 ];
 
