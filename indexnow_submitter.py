@@ -21,8 +21,10 @@ HOST = "www.ozsponsorjobs.site"
 SITEMAP_FILE = os.path.join(BASE_DIR, "sitemap.xml")
 
 INDEXNOW_ENDPOINTS = [
-    "https://api.indexnow.org/indexnow",
-    "https://www.bing.com/indexnow"
+    ("IndexNow Central Hub", "https://api.indexnow.org/indexnow"),
+    ("Microsoft Bing & Yahoo", "https://www.bing.com/indexnow"),
+    ("Seznam.cz", "https://search.seznam.cz/indexnow"),
+    ("Yandex", "https://yandex.com/indexnow")
 ]
 
 
@@ -68,8 +70,8 @@ def submit_urls_indexnow(urls):
     }
 
     all_success = True
-    for endpoint in INDEXNOW_ENDPOINTS:
-        print(f"[*] Pinging IndexNow endpoint: {endpoint} with {len(urls)} URLs...")
+    for name, endpoint in INDEXNOW_ENDPOINTS:
+        print(f"[*] Pinging {name} ({endpoint}) with {len(urls)} URLs...")
         req = urllib.request.Request(endpoint, data=data, headers=headers)
         try:
             with urllib.request.urlopen(req, timeout=15) as resp:
