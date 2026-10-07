@@ -6,6 +6,110 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5917261819",
+    "title": "Remote Community Store & Takeaway Positions",
+    "company": "North West Recruitment",
+    "logoInitial": "N",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-remote-community-store-takeaway-positions-482-186-sponsorship",
+    "url": "jobs/sydney-remote-community-store-takeaway-positions-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5917261819?utm_medium=api&utm_source=13c876f1",
+    "description": "The Positions Our clients are well managed remote communities who seek couples and individuals to join them in a variety of full-time roles including: Store Manager/s Assistant Store Manager/s Takeaway Manager/s Kitchenh..."
+  },
+  {
+    "id": "adzuna-5917192176",
+    "title": "Electrical Project Manager - Commercial Projects",
+    "company": "Powerstaff",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$120,000 - $160,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-electrical-project-manager-commercial-projects-482-186-sponsorship",
+    "url": "jobs/sydney-electrical-project-manager-commercial-projects-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5917192176?utm_medium=api&utm_source=13c876f1",
+    "description": "Electrical Project Manager | Brentwood, CA (Office-Based) ABOUT THE COMPANY Powerstaff is partnering with an established commercial electrical contractor that is adding a Project Manager to its Brentwood office. They del..."
+  },
+  {
+    "id": "adzuna-5914924939",
+    "title": "Remote Community Store & Takeaway Positions",
+    "company": "North West Recruitment",
+    "logoInitial": "N",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "management",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "perth-remote-community-store-takeaway-positions-482-494-sponsorship",
+    "url": "jobs/perth-remote-community-store-takeaway-positions-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5914924939?utm_medium=api&utm_source=13c876f1",
+    "description": "Seeking Expressions of Interest for upcoming permanent and relief job vacancies in the Kimberley , WA Exciting and diverse positions perfect for individuals or couples looking to work together. Generous remuneration & ac..."
+  },
+  {
+    "id": "adzuna-5913903645",
+    "title": "Secondary Teachers | All Subject Areas | Permanent & Fixed-Term | Queensland",
+    "company": "Killeen Education Recruitment",
+    "logoInitial": "K",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$86,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-secondary-teachers-all-subject-areas-permanent-fixed-term-queensland-482-186-sponsorship",
+    "url": "jobs/sydney-secondary-teachers-all-subject-areas-permanent-fixed-term-queensland-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5913903645?utm_medium=api&utm_source=13c876f1",
+    "description": "Looking for your next teaching opportunity? Killeen Education Recruitment is seeking expressions of interest from qualified secondary teachers across all subject areas for permanent and fixed-term opportunities across Qu..."
+  },
+  {
     "id": "adzuna-5913469135",
     "title": "Midwife | Relocate to Coastal Melbourne | 482 Sponsorship & PR Pathway",
     "company": "The Hassett Group",
@@ -212,6 +316,32 @@ const JOBS_DATA = [
     "url": "jobs/perth-commercial-electrical-supervisor-perth-based-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5909098304?utm_medium=api&utm_source=13c876f1",
     "description": "Role Available: Core Talent have partnered with a leading Perth based commercial contractor who are looking for an Electrical Supervisor with Commercial experience to join their team in a permanent capacity. What’s On Of..."
+  },
+  {
+    "id": "jooble-5523778012256094839",
+    "title": "Marketing Manager",
+    "company": "Penumbra",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-marketing-manager-482-186-sponsorship",
+    "url": "jobs/sydney-marketing-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/5523778012256094839",
+    "description": " Penumbra seeks a Marketing Manager to drive commercial growth across Australia and New Zealand. The role combines day-to-day marketing execution with strategic planning, including product launches, event management, and..."
   },
   {
     "id": "adzuna-5908010071",
@@ -1616,6 +1746,84 @@ const JOBS_DATA = [
     "url": "jobs/sydney-fractional-senior-marketing-director-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5903348028?utm_medium=api&utm_source=13c876f1",
     "description": "Company Description Who is HelloKindred? HelloKindred are specialists in staffing marketing, creative and technology roles, offering a range of talent solutions that can be delivered on-site, remotely or hybrid. Our visi..."
+  },
+  {
+    "id": "adzuna-5903344550",
+    "title": "FY27 TEST Vacationer - Perth - Consulting",
+    "company": "PwC Australia",
+    "logoInitial": "P",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "management",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "perth-fy27-test-vacationer-perth-consulting-482-494-sponsorship",
+    "url": "jobs/perth-fy27-test-vacationer-perth-consulting-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903344550?se=ZjrrP3nC8RG_dfJx5Ytquw&utm_medium=api&utm_source=13c876f1&v=11DC68D8B558248536AE0F28CE3DC0B99E1CEE31",
+    "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Advisory - Other Management Level Administrative Job Description & Summary LI-DNI Education (if blank, degree and/or field of study not specified) Degree..."
+  },
+  {
+    "id": "adzuna-5903344458",
+    "title": "FY27 TEST Trainee - Melbourne - Deals",
+    "company": "PwC Australia",
+    "logoInitial": "P",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "melbourne-fy27-test-trainee-melbourne-deals-482-186-sponsorship",
+    "url": "jobs/melbourne-fy27-test-trainee-melbourne-deals-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903344458?se=ZjrrP3nC8RG_dfJx5Ytquw&utm_medium=api&utm_source=13c876f1&v=3C25E34BA50EDDF54ED14CD9836CBA1DE6434311",
+    "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Advisory - Other Management Level Intern/Trainee Job Description & Summary LI-DNI Education (if blank, degree and/or field of study not specified) Degree..."
+  },
+  {
+    "id": "adzuna-5903344184",
+    "title": "FY27 TEST Trainee - Perth - Consulting",
+    "company": "PwC Australia",
+    "logoInitial": "P",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "perth-fy27-test-trainee-perth-consulting-482-494-sponsorship",
+    "url": "jobs/perth-fy27-test-trainee-perth-consulting-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903344184?se=ZjrrP3nC8RG_dfJx5Ytquw&utm_medium=api&utm_source=13c876f1&v=D200C58EC5E65AE9272B99F3A71A266B165A9BD3",
+    "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Advisory - Other Management Level Intern/Trainee Job Description & Summary LI-DNI Education (if blank, degree and/or field of study not specified) Degree..."
   },
   {
     "id": "adzuna-5903342767",
@@ -14798,58 +15006,6 @@ const JOBS_DATA = [
     "url": "jobs/melbourne-account-manager-physician-enterprise-partnerships-australia-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5853681706?utm_medium=api&utm_source=13c876f1",
     "description": "About Us At Prenuvo , we are on a mission to flip the paradigm from reactive “sick-care” to proactive health care. Our award-winning whole body scan is fast (under 1 hour), safe (MRI has no ionizing radiation), and non-i..."
-  },
-  {
-    "id": "adzuna-5851364666",
-    "title": "Maths Teacher – Melbourne, Victoria",
-    "company": "Prospero Teaching",
-    "logoInitial": "P",
-    "location": "Melbourne, VIC",
-    "state": "VIC",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "melbourne-maths-teacher-melbourne-victoria-482-186-sponsorship",
-    "url": "jobs/melbourne-maths-teacher-melbourne-victoria-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5851364666?utm_medium=api&utm_source=13c876f1",
-    "description": "Secondary Maths Teacher – Melbourne, Victoria Start Date: Term 3, 2025 (flexible) Contract: Permanent, Full-Time Sponsorship: Available Prospero Teaching is supporting a well-regarded co-educational secondary school in M..."
-  },
-  {
-    "id": "adzuna-5851099600",
-    "title": "Production Operator",
-    "company": "Sensient",
-    "logoInitial": "S",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "engineering",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "233512",
-    "posted": "Recently",
-    "slug": "sydney-production-operator-482-186-sponsorship",
-    "url": "jobs/sydney-production-operator-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5851099600?utm_medium=api&utm_source=13c876f1",
-    "description": "Description Come join the skilled team at Sensient Technologies . We are collaborative and hard working. We solve tough problems. And we will be better with you. We are seeking a self-motivated Production Operator. The s..."
   }
 ];
 
