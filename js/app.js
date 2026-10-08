@@ -6,6 +6,136 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5918561458",
+    "title": "Business Operations & Office Manager",
+    "company": "Hays",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-business-operations-office-manager-482-186-sponsorship",
+    "url": "jobs/sydney-business-operations-office-manager-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5918561458?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=217C700BD6D79A0287FECBBFDABB2C6B78505BA3",
+    "description": "Permanent | Operations & Office Manager | North Sydney | Up to $120k DOE Your new company Our client is a high-growth professional services organisation with a strong reputation in its sector and a collaborative, high-pe..."
+  },
+  {
+    "id": "adzuna-5918561077",
+    "title": "Talent Acquisition Specialist",
+    "company": "Hays",
+    "logoInitial": "H",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233512",
+    "posted": "Recently",
+    "slug": "brisbane-talent-acquisition-specialist-482-494-sponsorship",
+    "url": "jobs/brisbane-talent-acquisition-specialist-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5918561077?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=689F120F19394F25E6D0224ABB34C449F786EDB1",
+    "description": "Work within a business that values safety, collaboration, integrity and innovation. Your new company Hays has partnered with an established civil construction organisation delivering major projects across Australia. The ..."
+  },
+  {
+    "id": "adzuna-5917979447",
+    "title": "Sales Development Representative, ANZ",
+    "company": "Harvey",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-sales-development-representative-anz-482-186-sponsorship",
+    "url": "jobs/sydney-sales-development-representative-anz-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5917979447?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=D3524F922E88F5BB2826E50148D3BC0CC8910EDC",
+    "description": "Why Harvey At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work..."
+  },
+  {
+    "id": "jooble-31133491301133625",
+    "title": "Senior Business Analyst",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-business-analyst-482-186-sponsorship",
+    "url": "jobs/sydney-senior-business-analyst-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/31133491301133625",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
+    "id": "jooble--1534773662634965216",
+    "title": "Lead Business Analyst",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-lead-business-analyst-482-186-sponsorship",
+    "url": "jobs/sydney-lead-business-analyst-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-1534773662634965216",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
     "id": "adzuna-5917261819",
     "title": "Remote Community Store & Takeaway Positions",
     "company": "North West Recruitment",
@@ -56,6 +186,58 @@ const JOBS_DATA = [
     "url": "jobs/sydney-electrical-project-manager-commercial-projects-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5917192176?utm_medium=api&utm_source=13c876f1",
     "description": "Electrical Project Manager | Brentwood, CA (Office-Based) ABOUT THE COMPANY Powerstaff is partnering with an established commercial electrical contractor that is adding a Project Manager to its Brentwood office. They del..."
+  },
+  {
+    "id": "adzuna-5916804533",
+    "title": "Physiotherapist - Full Time | 1.5h from Melbourne CBD | Visa Sponsorship",
+    "company": "Mediix",
+    "logoInitial": "M",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-physiotherapist-full-time-15h-from-melbourne-cbd-visa-sponsorship-482-186-sponsorship",
+    "url": "jobs/melbourne-physiotherapist-full-time-15h-from-melbourne-cbd-visa-sponsorship-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5916804533?utm_medium=api&utm_source=13c876f1",
+    "description": "Physiotherapist – Full Time | Visa Sponsorship Available Location: Regional Victoria (about 1.5 hours from Melbourne) Employment: Full-time, 2-year contract, with sponsorship available Build your career and your future i..."
+  },
+  {
+    "id": "adzuna-5916804534",
+    "title": "Physiotherapist | Full Time | Sponsorship | Regional SA",
+    "company": "Mediix",
+    "logoInitial": "M",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "adelaide-physiotherapist-full-time-sponsorship-regional-sa-482-494-sponsorship",
+    "url": "jobs/adelaide-physiotherapist-full-time-sponsorship-regional-sa-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5916804534?utm_medium=api&utm_source=13c876f1",
+    "description": "Physiotherapist – Full Time | Visa Sponsorship Available Location: Coastal city in regional South Australia (about 4 hours from Adelaide) Employment: Full-time, 2-year contract, with sponsorship available Build your care..."
   },
   {
     "id": "adzuna-5914924939",
@@ -240,6 +422,84 @@ const JOBS_DATA = [
     "description": "Job Title: Skilled Professional / Tradesperson (Expression of Interest – Australia Pathway) Location: Dubai, UAE – Relocation to Australia upon visa approval Department: International Workforce Deployment Employment Type..."
   },
   {
+    "id": "adzuna-5911279023",
+    "title": "Assistant in Nursing - Moree",
+    "company": "Whiddon",
+    "logoInitial": "W",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-assistant-in-nursing-moree-482-186-sponsorship",
+    "url": "jobs/sydney-assistant-in-nursing-moree-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5911279023?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=078307EC5B4D96CE03315670DC89D4D4B7F4619E",
+    "description": "You are passionate about your residents. Here, you will be with like-minded colleagues who understand how important teamwork, open communication and a positive attitude are to both you and our residents. We know you want..."
+  },
+  {
+    "id": "adzuna-5911027130",
+    "title": "Assistant in Nursing - Kyogle",
+    "company": "Whiddon",
+    "logoInitial": "W",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-assistant-in-nursing-kyogle-482-186-sponsorship",
+    "url": "jobs/sydney-assistant-in-nursing-kyogle-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5911027130?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=666DDD83DD3D8E707D2470B0775CE4412F12144C",
+    "description": "You are passionate about your residents. Here, you will be with like-minded colleagues who understand how important teamwork, open communication and a positive attitude are to both you and our residents. We know you want..."
+  },
+  {
+    "id": "adzuna-5911007167",
+    "title": "Head Chef - Coffs Harbour Grange Care Community",
+    "company": "Opal HealthCare",
+    "logoInitial": "O",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-head-chef-coffs-harbour-grange-care-community-482-186-sponsorship",
+    "url": "jobs/sydney-head-chef-coffs-harbour-grange-care-community-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5911007167?se=MpL3UUXD8RGKlPimNLdoEw&utm_medium=api&utm_source=13c876f1&v=F6F3919DBA957DA160BF7BC276E6A142FA1265D8",
+    "description": "\"At Opal HealthCare, we know that companies don't succeed, people do.\"Our purpose is to bring joy to those we care for and our values of Compassion, Accountability, Respect and Excellence reflect that C.A.R.E is at the h..."
+  },
+  {
     "id": "jooble-5594049704557780495",
     "title": "Network Development Manager (Automotive/OEM)",
     "company": "Zeekr International",
@@ -290,6 +550,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-staff-software-engineer-social-store-unpublished-rd-product-australia-based-relocation-and-visa-sponsorship-provided-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5909695341?utm_medium=api&utm_source=13c876f1",
     "description": "As a Staff Software Engineer on an unpublished R&D project, you will architect the foundational social and store systems for one of Riot’s Unpublished R&D products. You will work closely with leadership, Product, and UX ..."
+  },
+  {
+    "id": "adzuna-5909305682",
+    "title": "Restaurant Reservations",
+    "company": "Cafe Sydney",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-restaurant-reservations-482-186-sponsorship",
+    "url": "jobs/sydney-restaurant-reservations-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5909305682?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=9AF0938BC210AB97CA0A02AA67DCC741EA04CCA7",
+    "description": "Cafe Sydney is hiring a full-time Food & Beverage Attendant to join our front-of-house Reservations Team! About Us Cafe Sydney is one of Australia’s most iconic dining destinations, located on the rooftop of Customs Hous..."
   },
   {
     "id": "adzuna-5909098304",
@@ -784,6 +1070,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-dubbo-case-worker-fixed-term-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/land/ad/5904687907?se=VDNJ-nXB8RG6ObUVOas6lg&utm_medium=api&utm_source=13c876f1&v=2D8E39EE162C1619DEDA697AE9CF077D9D7710A0",
     "description": "Do you have a genuine commitment to child safety and a passion for advocating for children and young people with disability? Location: Dubbo, NSW Position Type: 6 Month Fixed-Term Contract Competitive Salary: Level 4, Pa..."
+  },
+  {
+    "id": "adzuna-5904687649",
+    "title": "Payroll Intern",
+    "company": "TFE Hotels",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "sydney-payroll-intern-482-186-sponsorship",
+    "url": "jobs/sydney-payroll-intern-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5904687649?se=MpL3UUXD8RGKlPimNLdoEw&utm_medium=api&utm_source=13c876f1&v=A42C77A8F177EECB2464C55C976299242E8DF558",
+    "description": "Payroll Intern TFE Hotels – Australian Global Hotel Group 12-month Internship Work Location: UltimoCurious about what happens behind the scenes to ensure that everyone is paid on time and correctly? At TFE Hotels, an Aus..."
   },
   {
     "id": "adzuna-5904687359",
@@ -1488,6 +1800,136 @@ const JOBS_DATA = [
     "description": "ContiTech Australia is part of the global Continental Group of Companies and is a world leader in the manufacture and service of Conveyor Belting. We pride ourselves on providing quality solutions to all of our customers..."
   },
   {
+    "id": "adzuna-5903370316",
+    "title": "GTS General Adjuster",
+    "company": "Crawford",
+    "logoInitial": "C",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "perth-gts-general-adjuster-482-494-sponsorship",
+    "url": "jobs/perth-gts-general-adjuster-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903370316?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=1A105A85C4329CD4720CF54664AD0B6FA04ECFB9",
+    "description": "Description The Opportunity Crawford & Company, the world’s largest publicly listed claims management organisation, is seeking a high-calibre Major & Complex Loss Adjuster to join its GTS team in Perth. This is a strateg..."
+  },
+  {
+    "id": "adzuna-5903369191",
+    "title": "Casualty Schemes Lead, Australia",
+    "company": "AIG Insurance",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-casualty-schemes-lead-australia-482-186-sponsorship",
+    "url": "jobs/sydney-casualty-schemes-lead-australia-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903369191?se=KEesR0XD8RGFeJNPAywTzg&utm_medium=api&utm_source=13c876f1&v=00AC6780CDEC33E65DF6AB8D863D3162DB8ABB58",
+    "description": "LI-JC1 At AIG, we are reimagining the way we help customers to manage risk. Join us as a Casualty Schemes Lead, Australia to play your part in that transformation. It’s an opportunity to grow your skills and experience a..."
+  },
+  {
+    "id": "adzuna-5903366811",
+    "title": "GTS General Adjuster",
+    "company": "Crawford",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-gts-general-adjuster-482-186-sponsorship",
+    "url": "jobs/sydney-gts-general-adjuster-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903366811?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=714D2739653F825C31B8D907E9FF942EB1E487FD",
+    "description": "Description The Opportunity Crawford & Company, the world’s largest publicly listed claims management organisation, is seeking a high-calibre Major & Complex Loss Adjuster to join its GTS team in Sydney. This is a strate..."
+  },
+  {
+    "id": "adzuna-5903366239",
+    "title": "GTS General Adjuster",
+    "company": "Crawford",
+    "logoInitial": "C",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "adelaide-gts-general-adjuster-482-494-sponsorship",
+    "url": "jobs/adelaide-gts-general-adjuster-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903366239?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=31E3E158C16524C55F90E68AE8BCD7C6383FD821",
+    "description": "Description The Opportunity Crawford & Company, the world’s largest publicly listed claims management organisation, is seeking a high-calibre Major & Complex Loss Adjuster to join its GTS team in Adelaide. This is a stra..."
+  },
+  {
+    "id": "adzuna-5903365374",
+    "title": "Senior Liability Adjuster",
+    "company": "Crawford",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-liability-adjuster-482-186-sponsorship",
+    "url": "jobs/sydney-senior-liability-adjuster-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903365374?se=YrZYQkXD8RGYlKz4wh8B5A&utm_medium=api&utm_source=13c876f1&v=EFB02896FC1CBD2029F23F44166F2B49C0D75912",
+    "description": "Description Attractive remuneration aligned with experience Genuine long-term career progression within a global organisation Work alongside a respected leader and high-performing specialist team Crawford is seeking an a..."
+  },
+  {
     "id": "adzuna-5903364376",
     "title": "General Practitioner | Perth, Western Australia",
     "company": "Advantage Medical Staffing",
@@ -1538,6 +1980,32 @@ const JOBS_DATA = [
     "url": "jobs/melbourne-auto-mechanic-heavy-commercial-mechanic-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5903363005?utm_medium=api&utm_source=13c876f1",
     "description": "Position Title: Auto Mechanic / Heavy Commercial Mechanic Location: Melbourne, Victoria, Australia Employment Type: Full-Time Salary: Up to $80,000-$90,000 AUD per annum (approx. ₹50 Lakhs INR)  12% Superannuation  Overt..."
+  },
+  {
+    "id": "adzuna-5903362017",
+    "title": "General Adjuster",
+    "company": "Crawford",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-general-adjuster-482-186-sponsorship",
+    "url": "jobs/sydney-general-adjuster-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903362017?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=FCE57FDED639DC49A0F5FA27FCAB8CFD0819F409",
+    "description": "Description The Opportunity Crawford & Company, the world’s largest publicly listed claims management organisation, is seeking a high-calibre Major & Complex Loss Adjuster to join its GTS team. This is a strategic opport..."
   },
   {
     "id": "adzuna-5903361600",
@@ -1748,6 +2216,32 @@ const JOBS_DATA = [
     "description": "Company Description Who is HelloKindred? HelloKindred are specialists in staffing marketing, creative and technology roles, offering a range of talent solutions that can be delivered on-site, remotely or hybrid. Our visi..."
   },
   {
+    "id": "adzuna-5903344713",
+    "title": "O&G Consultant - Regional NSW",
+    "company": "Mediix",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-og-consultant-regional-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-og-consultant-regional-nsw-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903344713?se=YrZYQkXD8RGYlKz4wh8B5A&utm_medium=api&utm_source=13c876f1&v=C325493F1ECDFA8169B51931ED865E4A4F1C48D3",
+    "description": "Description Location: Regional NSW Job Type: Full Time Join a prestigious healthcare facility located in a vibrant regional city renowned for its landscapes and vibrant community. The elusive life balance you’ve been loo..."
+  },
+  {
     "id": "adzuna-5903344550",
     "title": "FY27 TEST Vacationer - Perth - Consulting",
     "company": "PwC Australia",
@@ -1826,6 +2320,32 @@ const JOBS_DATA = [
     "description": "Line of Service Advisory Industry/Sector Not Applicable Specialism Advisory - Other Management Level Intern/Trainee Job Description & Summary LI-DNI Education (if blank, degree and/or field of study not specified) Degree..."
   },
   {
+    "id": "adzuna-5903344051",
+    "title": "One Advisory",
+    "company": "Calculated Solutions",
+    "logoInitial": "C",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "finance",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "221111",
+    "posted": "Recently",
+    "slug": "adelaide-one-advisory-482-494-sponsorship",
+    "url": "jobs/adelaide-one-advisory-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903344051?se=YrZYQkXD8RGYlKz4wh8B5A&utm_medium=api&utm_source=13c876f1&v=824C0A740A1D2A7FF9E6FF495CF3CD2A48A5BA35",
+    "description": "Senior Bookkeeper - Leading Accounting Practice | Up to $85K  Super Our client, a well-established accounting practice, is seeking an experienced Senior Bookkeeper to join their growing team. This is an excellent opportu..."
+  },
+  {
     "id": "adzuna-5903342767",
     "title": "Senior Recruitment Consultant",
     "company": "Red Earth Recruitment",
@@ -1850,6 +2370,84 @@ const JOBS_DATA = [
     "url": "jobs/brisbane-senior-recruitment-consultant-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/land/ad/5903342767?se=Ns--AXbB8RG-V75y7ZstFQ&utm_medium=api&utm_source=13c876f1&v=E9F49418443341CCC6DBF7057DFE60A433414841",
     "description": "Senior Recruitment Consultant Tech Sector Brisbane Up to $100k base salary  super  uncapped commissions Quarterly commissions of up to 40%, with achievable thresholds Flexible working arrangements: Hybrid/WFH Positive, h..."
+  },
+  {
+    "id": "adzuna-5903341536",
+    "title": "HR and Recruitment Co-rdinator",
+    "company": "National Health Recruitment",
+    "logoInitial": "N",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-hr-and-recruitment-co-rdinator-482-494-sponsorship",
+    "url": "jobs/perth-hr-and-recruitment-co-rdinator-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903341536?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=83222F4EF92FD67F6D4D5C9099C7D4446591BDE8",
+    "description": "11th September, 2026 About NHR Staffing Group NHR Staffing Group is a leading WA workforce solutions provider, delivering high‑quality recruitment, labour hire, and HR support across healthcare, community services, and s..."
+  },
+  {
+    "id": "adzuna-5903339961",
+    "title": "Senior Business Analyst (Process)",
+    "company": "LVT People",
+    "logoInitial": "L",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-senior-business-analyst-process-482-186-sponsorship",
+    "url": "jobs/sydney-senior-business-analyst-process-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903339961?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=8304160E040584151FC8DDDDA790B5150E195E49",
+    "description": "We are looking for an experienced Senior Business Analyst for a leading IT consulting client in Sydney. Our client is a dynamic and growing consulting firm with a focus on delivering innovative digital solutions to leadi..."
+  },
+  {
+    "id": "adzuna-5903339470",
+    "title": "Recruitment Consultant",
+    "company": "Red Earth Recruitment",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-recruitment-consultant-482-186-sponsorship",
+    "url": "jobs/sydney-recruitment-consultant-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903339470?se=ugSVUEXD8RGKlPimNLdoEw&utm_medium=api&utm_source=13c876f1&v=DA29D1A42DE9383DCC5DBA2B16DE0DB9FB75892D",
+    "description": "Recruitment Consultant - IT/Technology Sydney CBD IT/Technology sector Up to A$90k salary  super  comms Uncapped commission with no threshold, paid monthly 6 weeks leave plus 4 days carers with birthday & Xmas off! Spons..."
   },
   {
     "id": "adzuna-5903277378",
@@ -2164,6 +2762,32 @@ const JOBS_DATA = [
     "description": " Help protect over 5 million Australians, making a real difference in their lives during their most challenging times. \r\n Work with experienced and skilled colleagues who support and inspire one another to achieve collec..."
   },
   {
+    "id": "jooble--4203461732050595105",
+    "title": "Delivery Lead, compliance and governance (12MFTC)",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-delivery-lead-compliance-and-governance-12mftc-482-186-sponsorship",
+    "url": "jobs/sydney-delivery-lead-compliance-and-governance-12mftc-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-4203461732050595105",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
     "id": "adzuna-5901617645",
     "title": "fixed plant fitter",
     "company": "MOLMUC Integrated Engineering Pty Ltd",
@@ -2292,6 +2916,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-occupational-therapist-sponsorship-available-for-candidates-with-ahpra-seeking-pr-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5900652594?utm_medium=api&utm_source=13c876f1",
     "description": "Location – travel around Dubbo and surrounds Part Time (min 3 days, flexible on days and hours) Pay rate – up to $57 per hour (based on experience)  up to $18,550 tax free superannuation Sponsorship available for candida..."
+  },
+  {
+    "id": "adzuna-5900303755",
+    "title": "Regional Manager Customer Value Enablement",
+    "company": "Caterpillar Inc.",
+    "logoInitial": "C",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "brisbane-regional-manager-customer-value-enablement-482-494-sponsorship",
+    "url": "jobs/brisbane-regional-manager-customer-value-enablement-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5900303755?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=3C7B716EDBE10C87AC1E250914D1A283B8C1FAAF",
+    "description": "Career Area: Product Support Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We..."
   },
   {
     "id": "adzuna-5900303441",
@@ -2684,6 +3334,32 @@ const JOBS_DATA = [
     "description": "About Us NWG (National Windscreens Group) is one of Australia’s largest independent automotive glass companies, with over 30 years of experience servicing customers across the country. As part of the growing NWG, we are ..."
   },
   {
+    "id": "adzuna-5896453219",
+    "title": "Registered Nurse Swansea Part Time / Casual",
+    "company": "Celebrate Health Care",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-swansea-part-time-casual-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-swansea-part-time-casual-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5896453219?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=B7E9F08E6261A012F1EAD51F1C55280FD8E00296",
+    "description": "Registered Nurses - Swansea & Scottsdale - Part Time / Casual Celebrate Health Care Opportunity for AHPRA Registered Nurses at Celebrate May Shaw Swansea Celebrate Health Care offers visa sponsorship. Why Celebrate Healt..."
+  },
+  {
     "id": "adzuna-5896452854",
     "title": "Perinatal Psychiatry Registrar",
     "company": "St John of God Health Care",
@@ -2994,6 +3670,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-hastings-family-medical-centre-general-practitioner-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5893967575?utm_medium=api&utm_source=13c876f1",
     "description": "Are you looking to combine an exceptional medical career with an enviable coastal lifestyle? Hastings Family Medical Centre is seeking a Female General Practitioner to join our thriving, well-established mixed billing pr..."
+  },
+  {
+    "id": "adzuna-5893966177",
+    "title": "English & Drama Teacher",
+    "company": "Technical Focus Pty Ltd t/as Talent Focus",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-english-drama-teacher-482-186-sponsorship",
+    "url": "jobs/sydney-english-drama-teacher-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5893966177?utm_medium=api&utm_source=13c876f1",
+    "description": "Secondary English Teacher Northern Queensland | Commencing 2027 | Relocation Assistance Available SPONSORSHIP AVAILABLE FOR THE RIGHT CANDIDATE Talent Focus Education is partnering with a well-established Christian schoo..."
   },
   {
     "id": "adzuna-5893580952",
@@ -12770,6 +13472,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-marketing-manager-social-influence-authority-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/3612639519514729102",
     "description": "~ Enjoy work-life balance with flexible working options, and well-being initiatives that prioritise your health \r\n~ Work alongside diverse, passionate colleagues and leaders who inspire, support, and value your contribut..."
+  },
+  {
+    "id": "adzuna-5874383661",
+    "title": "YOW! Expression of Interest - Software Engineer",
+    "company": "Optiver",
+    "logoInitial": "O",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-yow-expression-of-interest-software-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-yow-expression-of-interest-software-engineer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5874383661?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=BD1B5E8D4811C8DBF7D71111B8EA696E71E32A7B",
+    "description": "WHO WE ARE Optiver is a proprietary trading firm and leading global market maker. As one of the oldest market making institutions, we are a trusted partner of 50 exchanges across the globe. Our mission is to constantly i..."
   },
   {
     "id": "adzuna-5873713150",
