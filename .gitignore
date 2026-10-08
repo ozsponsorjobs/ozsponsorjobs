@@ -31,3 +31,6 @@ twitter_credentials.json
 x_publisher.py
 twitter_publisher.py
 twitter_history.json
+telegram_credentials.json
+telegram_publisher.py
+telegram_history.json
