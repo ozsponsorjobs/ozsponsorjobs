@@ -6,6 +6,136 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5922278806",
+    "title": "Welder | Industrial Refrigeration & Pressure Piping",
+    "company": "You Solved",
+    "logoInitial": "Y",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$80,000 - $100,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "brisbane-welder-industrial-refrigeration-pressure-piping-482-494-sponsorship",
+    "url": "jobs/brisbane-welder-industrial-refrigeration-pressure-piping-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5922278806?utm_medium=api&utm_source=13c876f1",
+    "description": "Introduction Welder | Industrial Refrigeration & Pressure Piping | Brisbane $80,000–$100,000  482 Visa Sponsorship Available Exceptional TIG welder? Ready to lead from the front? We're looking for a seriously skilled Lea..."
+  },
+  {
+    "id": "adzuna-5922278371",
+    "title": "Residential Care Officer",
+    "company": "Connectus Home Care Pty",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$80,000 - $80,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-residential-care-officer-482-186-sponsorship",
+    "url": "jobs/sydney-residential-care-officer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5922278371?utm_medium=api&utm_source=13c876f1",
+    "description": "EMPLOYER SPONSORSHIP OPPORTUNITY Residential Care Officer Connect Home Care Employment Type: Full-time Annual Salary: $80,000 per annum Location: Tamworth, New South Wales About Connect Home Care Connect Home Care provid..."
+  },
+  {
+    "id": "adzuna-5922259517",
+    "title": "General Surgery Registrar NSW",
+    "company": "Sante Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$180,000 - $180,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-general-surgery-registrar-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-general-surgery-registrar-nsw-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5922259517?utm_medium=api&utm_source=13c876f1",
+    "description": "Advance Your Surgical Career: General Surgery Registrar Opportunities Across NSW Are you a dedicated medical professional looking for a new challenge? We are currently partnering with top-tier hospitals across New South ..."
+  },
+  {
+    "id": "adzuna-5921898274",
+    "title": "Manager Workplaces",
+    "company": "PwC Australia",
+    "logoInitial": "P",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "adelaide-manager-workplaces-482-494-sponsorship",
+    "url": "jobs/adelaide-manager-workplaces-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5921898274?utm_medium=api&utm_source=13c876f1",
+    "description": "Line of Service Internal Firm Services Industry/Sector Not Applicable Specialism Customer Support Management Level Manager Job Description & Summary Education (if blank, degree and/or field of study not specified) Degree..."
+  },
+  {
+    "id": "adzuna-5921676789",
+    "title": "360 Permanent Recruitment Consultant – Adelaide CBD",
+    "company": "Employment Group Pty",
+    "logoInitial": "E",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "technology",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "adelaide-360-permanent-recruitment-consultant-adelaide-cbd-482-494-sponsorship",
+    "url": "jobs/adelaide-360-permanent-recruitment-consultant-adelaide-cbd-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5921676789?utm_medium=api&utm_source=13c876f1",
+    "description": "Employment Group has multiple opportunities for experienced Perm recruiters within our various Divisions based in our Adelaide CBD office. We are looking for seasoned recruiters with a minimum of 2 years experience. Flex..."
+  },
+  {
     "id": "adzuna-5921650135",
     "title": "360 Permanent Recruitment Consultant – Auckland Airport",
     "company": "Employment Group Pty",
@@ -2942,6 +3072,32 @@ const JOBS_DATA = [
     "url": "jobs/melbourne-podiatrist-melbourne-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5903359244?utm_medium=api&utm_source=13c876f1",
     "description": "Registered Podiatrists Melbourne | Sponsorship Available Are you a dedicated AHPRA-registered Podiatrist looking for your next opportunity in Melbourne? We are recruiting for two full-time podiatrist roles with a well-es..."
+  },
+  {
+    "id": "adzuna-5903357974",
+    "title": "Executive Liability Adjuster/NSW Liability Manager",
+    "company": "Crawford",
+    "logoInitial": "C",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "canberra-executive-liability-adjusternsw-liability-manager-482-186-sponsorship",
+    "url": "jobs/canberra-executive-liability-adjusternsw-liability-manager-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5903357974?se=iOvMLXnF8RGEhPbAVXetLQ&utm_medium=api&utm_source=13c876f1&v=63656C87946D08A6C2BA09C35BDBD5FE9C236B09",
+    "description": "Description Crawford is seeking an accomplished Senior / Executive Liability Adjuster to lead high-value, complex liability claims and act as the senior technical and market authority for the local liability practice. Th..."
   },
   {
     "id": "adzuna-5903357099",
@@ -15398,6 +15554,32 @@ const JOBS_DATA = [
     "description": "Cook Permanent Full Time Seaview Village Aged Care Facility JOIN YADU AND EXPERIEN CE A FULFILLING CAREER AND AN UNMATCHED LIFESTYLE! About Yadu Health Yadu Health Aboriginal Corporation is a not-for-profit, community-co..."
   },
   {
+    "id": "adzuna-5870134118",
+    "title": "Venue Manager",
+    "company": "Beerfarm",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-venue-manager-482-186-sponsorship",
+    "url": "jobs/sydney-venue-manager-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870134118?utm_medium=api&utm_source=13c876f1",
+    "description": "About Beerfarm Beerfarm was founded in 2015 on a 1940s dairy farm in Metricup, in the Margaret River Region. Once an old dairy farm, we converted the hay shed into a tavern, built a brewery in the roundhouse and created ..."
+  },
+  {
     "id": "adzuna-5870133643",
     "title": "Family Dispute Resolution Advisor – Mackay",
     "company": "Catholic Care Central Queensland",
@@ -16722,32 +16904,6 @@ const JOBS_DATA = [
     "url": "jobs/brisbane-general-practitioner-vr-gp-sunshine-coast-qld-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5856584739?utm_medium=api&utm_source=13c876f1",
     "description": "Location available upon request, QLD Summary Join a collaborative, GP-owned practice where clinical autonomy, flexibility and quality patient care come first, all while enjoying the lifestyle benefits of Queensland's stu..."
-  },
-  {
-    "id": "adzuna-5856192063",
-    "title": "Sonographer",
-    "company": "Integral Diagnostics",
-    "logoInitial": "I",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "254415",
-    "posted": "Recently",
-    "slug": "sydney-sonographer-482-186-sponsorship",
-    "url": "jobs/sydney-sonographer-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5856192063?utm_medium=api&utm_source=13c876f1",
-    "description": "ABOUT THE ROLE We are seeking an experienced Sonographer to join our Apex Radiology team in Forrestfield on a full-time or part-time basis , working Monday to Friday. This is a fantastic opportunity to work within a well..."
   }
 ];
 
