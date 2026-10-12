@@ -238,10 +238,38 @@ ANZSCO_CATALOG = {
         "skills_list": "Short-term Skilled Occupation List (STSOL) / Core Skills",
         "sector": "management"
     },
-    # 12. Corporate, Sales & Management
-    "sales_marketing_bd": {
+    # 12. Corporate Sales, Marketing & Channel Management
+    "marketing_channel_specialist": {
+        "anzsco": "225113",
+        "title": "Marketing Specialist / Channel Development Specialist",
+        "authority": "VETASSESS",
+        "skills_list": "Short-term Skilled Occupation List (STSOL) / Core Skills",
+        "sector": "management"
+    },
+    "sales_marketing_director": {
+        "anzsco": "131112",
+        "title": "Sales and Marketing Manager / Commercial Channel Director",
+        "authority": "VETASSESS",
+        "skills_list": "Core Skills Stream / CSOL",
+        "sector": "management"
+    },
+    "sales_rep_industrial": {
+        "anzsco": "225412",
+        "title": "Sales Representative (Industrial & Commercial Products)",
+        "authority": "VETASSESS",
+        "skills_list": "Short-term Skilled Occupation List (STSOL)",
+        "sector": "management"
+    },
+    "ict_business_development_manager": {
         "anzsco": "225212",
-        "title": "ICT / Technical Business Development Manager",
+        "title": "ICT Account & Technical Business Development Manager",
+        "authority": "VETASSESS",
+        "skills_list": "Short-term Skilled Occupation List (STSOL) / Core Skills",
+        "sector": "technology"
+    },
+    "sales_marketing_bd": {
+        "anzsco": "225113",
+        "title": "Marketing Specialist / Channel Development Specialist",
         "authority": "VETASSESS",
         "skills_list": "Short-term Skilled Occupation List (STSOL) / Core Skills",
         "sector": "management"
@@ -308,12 +336,42 @@ ANZSCO_CATALOG = {
 }
 
 
+def clean_job_title(raw_title: str) -> str:
+    """
+    Cleans raw scraped job titles by removing full-width brackets,
+    redundant locations, scraping tags, and messy artifacts.
+    """
+    if not raw_title:
+        return ""
+    
+    # 1. Replace Chinese / full-width brackets with standard ASCII or remove
+    t = raw_title.replace("（", "(").replace("）", ")").replace("【", "[").replace("】", "]")
+    t = t.replace("［", "[").replace("］", "]").replace("«", "").replace("»", "")
+    t = t.replace("`", "'").replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
+    
+    # 2. Remove parenthetical location redundancies, e.g. ( Sydney, Melbourne ), (Sydney CBD), (Australia)
+    t = re.sub(r"\s*\(\s*(?:sydney|melbourne|brisbane|perth|adelaide|hobart|darwin|canberra|gold coast|geelong|cairns|newcastle|wollongong|nsw|vic|qld|wa|sa|tas|act|nt|australia|\s*,\s*)+\s*\)", "", t, flags=re.IGNORECASE)
+    
+    # 3. Remove trailing scraping junk like "- Immediate Start", "[Hiring Now]", "- 482 / 186", "| Visa Sponsorship"
+    t = re.sub(r"\s*[-|–—]\s*(?:visa\s+sponsorship(?:\s+available)?|482|186|494|immediate\s+start|hiring\s+now|urgent|full\s*time|contract)\b.*$", "", t, flags=re.IGNORECASE)
+    t = re.sub(r"\s*\[(?:hiring\s+now|immediate\s+start|urgent|sponsorship|visa)\]", "", t, flags=re.IGNORECASE)
+    
+    # 4. Clean up any leftover empty brackets or double spaces
+    t = re.sub(r"\(\s*\)", "", t)
+    t = re.sub(r"\[\s*\]", "", t)
+    t = re.sub(r"\s{2,}", " ", t).strip()
+    t = re.sub(r"^[-,–—\s]+|[-,–—\s]+$", "", t)
+    
+    return t
+
+
 def classify_job_anzsco(title: str, description: str = "") -> dict:
     """
     Precision multi-stage classification that evaluates Job Title first, then Description.
     Guarantees no false 261313 assignment for administrative, medical, trade, or hospitality jobs.
     """
-    t = title.lower()
+    clean_t = clean_job_title(title)
+    t = clean_t.lower()
     d = description.lower()
     text = f"{t} {d}"
 
@@ -393,11 +451,33 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
             return ANZSCO_CATALOG["hr_recruitment_consultant"]
         return ANZSCO_CATALOG["project_production_admin"]
 
-    # 12. Recruitment, Sales, Marketing, Business Development
+    # 12. Recruitment, Sales, Marketing, Channel Management
     if any(k in t for k in ["recruitment", "recruiter", "talent acquisition"]):
         return ANZSCO_CATALOG["hr_recruitment_consultant"]
-    if any(k in t for k in ["sales", "account manager", "business development", "marketing", "channel management"]):
-        return ANZSCO_CATALOG["sales_marketing_bd"]
+
+    # Genuine ICT / Tech Sales ONLY if clear software/cloud/ICT context exists
+    is_tech_sales = any(k in t for k in ["ict", "software", "saas", "cloud", "technology solutions", "solution sales", "systems engineer", "it sales"]) or (
+        any(k in d for k in ["saas", "software as a service", "cloud platform", "ict sales"]) and "sales" in t
+    )
+    if is_tech_sales and any(k in t for k in ["business development", "account manager", "sales manager", "sales executive", "sales engineer"]):
+        return ANZSCO_CATALOG["ict_business_development_manager"]
+
+    # Channel Management & Marketing Specialists (e.g. BYD, Automotive, Consumer Distribution)
+    if any(k in t for k in ["channel management", "channel specialist", "channel development", "marketing specialist", "brand manager", "marketing coordinator", "campaign manager", "market research", "marketing lead"]):
+        return ANZSCO_CATALOG["marketing_channel_specialist"]
+
+    # Sales & Marketing Leadership / Directors
+    if any(k in t for k in ["sales manager", "marketing manager", "commercial manager", "head of sales", "sales director", "general manager sales"]):
+        return ANZSCO_CATALOG["sales_marketing_director"]
+
+    # Industrial & Commercial Sales Representatives
+    if any(k in t for k in ["sales representative", "account executive", "territory manager", "sales consultant", "sales executive", "sales advisor", "dealer"]):
+        return ANZSCO_CATALOG["sales_rep_industrial"]
+
+    # General Business Development & Marketing Specialist
+    if any(k in t for k in ["sales", "account manager", "business development", "marketing", "channel"]):
+        return ANZSCO_CATALOG["marketing_channel_specialist"]
+
     if any(k in t for k in ["general manager", "operations manager", "workplaces", "branch manager", "centre manager", "practice manager"]):
         return ANZSCO_CATALOG["business_operations_manager"]
 
