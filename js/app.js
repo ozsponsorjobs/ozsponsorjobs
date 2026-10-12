@@ -6,6 +6,84 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "jooble-2768804826604169478",
+    "title": "Channel Management Specialist（ Sydney, Melbourne）",
+    "company": "BYD",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-channel-management-specialist-sydney-melbourne-482-186-sponsorship",
+    "url": "jobs/sydney-channel-management-specialist-sydney-melbourne-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/2768804826604169478",
+    "description": "Your main responsibilities \r\n1, Execute sales targets and business development plans for the designated city/region in alignment with the company's overall strategy \r\n2, Develop, manage, and maintain relationships with k..."
+  },
+  {
+    "id": "adzuna-5923054217",
+    "title": "Head of Coffee",
+    "company": "Employer Sponsored Jobs",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$180 - $240 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-head-of-coffee-482-186-sponsorship",
+    "url": "jobs/sydney-head-of-coffee-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5923054217?utm_medium=api&utm_source=13c876f1",
+    "description": "The Opportunity Anexcitingopportunityisavailableforanexperiencedspecialtycoffeeleadertojoinafast-growinghospitalitygroupoperatingmultiplepremiumcafélocations.Thisseniorleadershiproleisresponsiblefordrivingtheoverallcoffe..."
+  },
+  {
+    "id": "jooble--8378042823875121577",
+    "title": "Retail Electricity Analyst",
+    "company": "Tesla",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-retail-electricity-analyst-482-186-sponsorship",
+    "url": "jobs/sydney-retail-electricity-analyst-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-8378042823875121577",
+    "description": " What To Expect \r\n Tesla is redefining energy retail through our Virtual Power Plant (VPP) and retail energy platform, seamlessly integrating Tesla Powerwall batteries, EV charging, and electric vehicles to deliver smart..."
+  },
+  {
     "id": "adzuna-5922278806",
     "title": "Welder | Industrial Refrigeration & Pressure Piping",
     "company": "You Solved",
@@ -134,6 +212,58 @@ const JOBS_DATA = [
     "url": "jobs/adelaide-360-permanent-recruitment-consultant-adelaide-cbd-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5921676789?utm_medium=api&utm_source=13c876f1",
     "description": "Employment Group has multiple opportunities for experienced Perm recruiters within our various Divisions based in our Adelaide CBD office. We are looking for seasoned recruiters with a minimum of 2 years experience. Flex..."
+  },
+  {
+    "id": "adzuna-5921674929",
+    "title": "Aged Care Registered Nurse",
+    "company": "Yadu Health Aboriginal Corporation",
+    "logoInitial": "Y",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "adelaide-aged-care-registered-nurse-482-494-sponsorship",
+    "url": "jobs/adelaide-aged-care-registered-nurse-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5921674929?utm_medium=api&utm_source=13c876f1",
+    "description": "Aged Care Registered Nurses Various Permanent Full Time and Part Time Positions Ceduna, SA JOIN YADU AND EXPERIENCE A FULFILLING CAREER AND AN UNMATCHED LIFESTYLE! About Yadu Health Yadu Health Aboriginal Corporation is ..."
+  },
+  {
+    "id": "adzuna-5921673511",
+    "title": "Travel Aged Care Registered Nurse – RN",
+    "company": "Health X",
+    "logoInitial": "H",
+    "location": "Darwin, NT",
+    "state": "NT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "darwin-travel-aged-care-registered-nurse-rn-482-494-sponsorship",
+    "url": "jobs/darwin-travel-aged-care-registered-nurse-rn-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5921673511?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Travel Aged Care Registered Nurse – Darwin, Palmerston, Alice Springs & Katherine, NT Up to $70.00/hr  super  penalties | Travel, accommodation & allowances provided | Short-term contract opportunities Jo..."
   },
   {
     "id": "adzuna-5921650135",
@@ -422,6 +552,32 @@ const JOBS_DATA = [
     "description": "We know who thrives at Solution. Could it be you? We did something a little different before writing this ad. We asked our team and leaders to describe the kind of psychologist who genuinely thrives at Solution—not simpl..."
   },
   {
+    "id": "adzuna-5920708858",
+    "title": "Visa Sponsorship OFF SHORE Metal Fabricators/Welders ANSCO 322311/322313",
+    "company": "Bowhill Engineering",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "trades",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "321212",
+    "posted": "Recently",
+    "slug": "sydney-visa-sponsorship-off-shore-metal-fabricatorswelders-ansco-322311322313-482-186-sponsorship",
+    "url": "jobs/sydney-visa-sponsorship-off-shore-metal-fabricatorswelders-ansco-322311322313-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5920708858?utm_medium=api&utm_source=13c876f1",
+    "description": "PRIORITY APPLICATIONS – Applications for this position are only accepted for Applicants who have Trade Skills Recognition or VETAssess to Australian Standards in place. A copy of your Assessment will need to be attached ..."
+  },
+  {
     "id": "adzuna-5920707834",
     "title": "Autoglazier – Rydalmere",
     "company": "NWG ADAS & Windscreens",
@@ -498,6 +654,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-air-conditioning-service-technician-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5920635558?utm_medium=api&utm_source=13c876f1",
     "description": "Air Conditioning & Refrigeration Technician (HVAC) Sydney, NSW | Permanent Full-Time $80K - $90K annually  Super  Company Vehicle  Overtime  Visa Sponsorship Available Join a Growing Industry Leader and Build Your Career..."
+  },
+  {
+    "id": "jooble-77500802479299322",
+    "title": "Research Staff, Voice AI Foundations [Remote]",
+    "company": "Deepgram",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-research-staff-voice-ai-foundations-remote-482-186-sponsorship",
+    "url": "jobs/sydney-research-staff-voice-ai-foundations-remote-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/77500802479299322",
+    "description": " COMPANY OVERVIEW Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice ..."
   },
   {
     "id": "adzuna-5920352604",
@@ -1280,6 +1462,32 @@ const JOBS_DATA = [
     "description": "Non VR General Practitioner – General AHPRA Registration | Bulk Billing | DPA/MM4 | Near Canberra Fantastic opportunity for a non-VR GP to work in a supportive, well-established clinic just outside Canberra. ME Medical R..."
   },
   {
+    "id": "jooble-3070020416186341771",
+    "title": "Sr. Application Engineer, Virtual Power Plants - Residential Energy",
+    "company": "Tesla",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$10 per day",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-sr-application-engineer-virtual-power-plants-residential-energy-482-186-sponsorship",
+    "url": "jobs/sydney-sr-application-engineer-virtual-power-plants-residential-energy-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/3070020416186341771",
+    "description": " What To Expect \r\n Join Tesla Energy’s Residential Product Management and Application Engineering team in shaping the future of distributed energy systems. We’re looking for a degree-qualified, driven, motivated, and col..."
+  },
+  {
     "id": "adzuna-5912395207",
     "title": "Developer Programmer",
     "company": "OneStop IT Talents Pty Ltd",
@@ -1304,6 +1512,32 @@ const JOBS_DATA = [
     "url": "jobs/melbourne-developer-programmer-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5912395207?utm_medium=api&utm_source=13c876f1",
     "description": "About us OneStop IT Talents Pty Ltd is a Melbourne-based technology consulting and software development company, founded in 2018. We deliver integration, development, testing and delivery services to enterprise clients a..."
+  },
+  {
+    "id": "jooble-8752900059249463693",
+    "title": "Environment and Delivery Manager, 12 MFTC",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-environment-and-delivery-manager-12-mftc-482-186-sponsorship",
+    "url": "jobs/sydney-environment-and-delivery-manager-12-mftc-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/8752900059249463693",
+    "description": "&nbsp;...brings together talented people from a diverse range of disciplines. \r\n We run critical market infrastructure, with 1 in 3 people <b>employed </b>within technology. Yet we have a unique complexity of roles acros..."
   },
   {
     "id": "adzuna-5911614950",
@@ -15996,6 +16230,32 @@ const JOBS_DATA = [
     "description": " Shape the future of insurance with innovative ideas and technologies that improve the lives of millions of Australians \r\n Work with experienced and skilled colleagues who support and inspire one another to achieve colle..."
   },
   {
+    "id": "jooble-7303840785842415962",
+    "title": "Customer Success Manager, Economics Intelligence Solutions",
+    "company": "Mastercard",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-customer-success-manager-economics-intelligence-solutions-482-186-sponsorship",
+    "url": "jobs/sydney-customer-success-manager-economics-intelligence-solutions-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/7303840785842415962",
+    "description": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a w..."
+  },
+  {
     "id": "adzuna-5864347810",
     "title": "Fitter Machinist / 1st Class Metal Machinist",
     "company": "Skilled Jobs Australia",
@@ -16280,6 +16540,58 @@ const JOBS_DATA = [
     "url": "jobs/sydney-application-support-lead-swift-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/2719440955017947204",
     "description": "&nbsp;...brings together talented people from a diverse range of disciplines. \r\n We run critical market infrastructure, with 1 in 3 people <b>employed </b>within technology. Yet we have a unique complexity of roles acros..."
+  },
+  {
+    "id": "jooble--5902568790677314914",
+    "title": "Group Administrator",
+    "company": "BNB Chain",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-group-administrator-482-186-sponsorship",
+    "url": "jobs/sydney-group-administrator-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-5902568790677314914",
+    "description": "~12-month fixed term contract role \r\n~ Sydney based (363 George Street)\r\n~ Hybrid working (3 days in office, 2 working from home)Welcome to TAL. As a leading life insurer, we’ve been protecting Australians for over 150 y..."
+  },
+  {
+    "id": "jooble-5863742163043471893",
+    "title": "Senior Manager - Resilience Culture & Capability lead",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "222311",
+    "posted": "Recently",
+    "slug": "sydney-senior-manager-resilience-culture-capability-lead-482-186-sponsorship",
+    "url": "jobs/sydney-senior-manager-resilience-culture-capability-lead-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/5863742163043471893",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
   },
   {
     "id": "adzuna-5862939147",
@@ -16774,136 +17086,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-transport-road-worker-hay-24992-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5858283662?utm_medium=api&utm_source=13c876f1",
     "description": "Our Client Our client is a major NSW Government transport organisation responsible for keeping communities connected through safe and reliable road and transport infrastructure across metropolitan and regional NSW. This ..."
-  },
-  {
-    "id": "adzuna-5857624272",
-    "title": "CNC Machine Operators New",
-    "company": "Aston Advantage",
-    "logoInitial": "A",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-cnc-machine-operators-new-482-186-sponsorship",
-    "url": "jobs/sydney-cnc-machine-operators-new-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5857624272?utm_medium=api&utm_source=13c876f1",
-    "description": "CNC Operator | Tingalpa | $41.72/hr  Shift Allowance | Permanent | Sponsorship Available ️ Opportunity: Work on aerospace and defence components in a clean, organised workshop. Set up and operate 3–5 axis CNC machines , ..."
-  },
-  {
-    "id": "adzuna-5856836599",
-    "title": "Speech Pathologist | Clinic Based Role | Sponsorship Available for SPA Members!",
-    "company": "Gorilla Jobs",
-    "logoInitial": "G",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$85,000 - $110,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-speech-pathologist-clinic-based-role-sponsorship-available-for-spa-members-482-186-sponsorship",
-    "url": "jobs/sydney-speech-pathologist-clinic-based-role-sponsorship-available-for-spa-members-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5856836599?utm_medium=api&utm_source=13c876f1",
-    "description": "Salaries starting from $85,000 - $110,000  Super Paediatric Caseload - based in the Clinic near Daisy Hill State of the Art Training on innovative interventions and equipment including DMI, SpiderCage, Galileo Vibration ..."
-  },
-  {
-    "id": "adzuna-5856835987",
-    "title": "Agricultural Diesel Fitter/Mechanic - Regional NSW (Multiple locations)",
-    "company": "konnecting",
-    "logoInitial": "K",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "trades",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$80,000 - $95,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "321212",
-    "posted": "Recently",
-    "slug": "sydney-agricultural-diesel-fittermechanic-regional-nsw-multiple-locations-482-186-sponsorship",
-    "url": "jobs/sydney-agricultural-diesel-fittermechanic-regional-nsw-multiple-locations-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5856835987?utm_medium=api&utm_source=13c876f1",
-    "description": "Heavy Diesel Mechanic / Ag Equipment Technician | Regional NSW Are you an experienced Agricultural, Plant, or Heavy Diesel Mechanic located in Australia and looking for a rewarding career move? A progressive Ag Equipment..."
-  },
-  {
-    "id": "adzuna-5856584888",
-    "title": "General Practitioner (VR GP) – North of Brisbane/ near Sunshine Coast, QLD (DPA position)",
-    "company": "WAVELENGTH",
-    "logoInitial": "W",
-    "location": "Brisbane, QLD",
-    "state": "QLD",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "254415",
-    "posted": "Recently",
-    "slug": "brisbane-general-practitioner-vr-gp-north-of-brisbane-near-sunshine-coast-qld-dpa-position-482-494-sponsorship",
-    "url": "jobs/brisbane-general-practitioner-vr-gp-north-of-brisbane-near-sunshine-coast-qld-dpa-position-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5856584888?utm_medium=api&utm_source=13c876f1",
-    "description": "Location available upon request, QLD Summary Embrace the wonderful QLD lifestyle between Brisbane and the Sunshine coast and work as a GP at an established private billing practice that is experiencing growth in patient ..."
-  },
-  {
-    "id": "adzuna-5856584739",
-    "title": "General Practitioner (VR GP) – Sunshine Coast, QLD",
-    "company": "WAVELENGTH",
-    "logoInitial": "W",
-    "location": "Brisbane, QLD",
-    "state": "QLD",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "254415",
-    "posted": "Recently",
-    "slug": "brisbane-general-practitioner-vr-gp-sunshine-coast-qld-482-494-sponsorship",
-    "url": "jobs/brisbane-general-practitioner-vr-gp-sunshine-coast-qld-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5856584739?utm_medium=api&utm_source=13c876f1",
-    "description": "Location available upon request, QLD Summary Join a collaborative, GP-owned practice where clinical autonomy, flexibility and quality patient care come first, all while enjoying the lifestyle benefits of Queensland's stu..."
   }
 ];
 
