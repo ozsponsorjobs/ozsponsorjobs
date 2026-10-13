@@ -456,8 +456,8 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
         return ANZSCO_CATALOG["hr_recruitment_consultant"]
 
     # Genuine ICT / Tech Sales ONLY if clear software/cloud/ICT context exists
-    is_tech_sales = any(k in t for k in ["ict", "software", "saas", "cloud", "technology solutions", "solution sales", "systems engineer", "it sales"]) or (
-        any(k in d for k in ["saas", "software as a service", "cloud platform", "ict sales"]) and "sales" in t
+    is_tech_sales = any(k in t for k in ["ict", "software", "saas", "cloud", "technology solutions", "solution sales", "systems engineer", "it sales", "technical account", "tam"]) or (
+        any(k in d for k in ["saas", "software as a service", "cloud platform", "ict sales", "digital identity", "cybersecurity"]) and any(w in t for w in ["sales", "account manager"])
     )
     if is_tech_sales and any(k in t for k in ["business development", "account manager", "sales manager", "sales executive", "sales engineer"]):
         return ANZSCO_CATALOG["ict_business_development_manager"]

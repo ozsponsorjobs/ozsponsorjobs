@@ -6,6 +6,240 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5925213899",
+    "title": "Team Manager, Child Protection After Hours",
+    "company": "Department of Families, Fairness and Housing",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "272511",
+    "posted": "Recently",
+    "slug": "sydney-team-manager-child-protection-after-hours-482-186-sponsorship",
+    "url": "jobs/sydney-team-manager-child-protection-after-hours-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5925213899?se=6rZfegHH8RGoaItcvmTvnw&utm_medium=api&utm_source=13c876f1&v=79322F009B982D0EA0190D40E91DD0D51B5B2E89",
+    "description": "The Department of Families, Fairness and Housing (DFFH) works hard to create equal opportunities for all Victorians to live a safe, respected and valued life. Our areas of focus are child protection, housing, disability,..."
+  },
+  {
+    "id": "adzuna-5924290533",
+    "title": "PEP GP - $150/hr Guarantee 482 Visa Sponsorship | Level 3 Supervisor Available",
+    "company": "Doctors&Co",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$250,000 - $250,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "253111",
+    "posted": "Recently",
+    "slug": "sydney-pep-gp-150hr-guarantee-482-visa-sponsorship-level-3-supervisor-available-482-186-sponsorship",
+    "url": "jobs/sydney-pep-gp-150hr-guarantee-482-visa-sponsorship-level-3-supervisor-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5924290533?utm_medium=api&utm_source=13c876f1",
+    "description": "Your Pathway to Fellowship Starts in Tumbarumba Are you on the RACGP Practice Experience Program and looking for a role where you can grow your skills, gain broad clinical experience, and become a trusted local doctor? R..."
+  },
+  {
+    "id": "adzuna-5924093957",
+    "title": "Aged Care Registered Nurse - Central Coast, Newcastle, Hunter area NSW",
+    "company": "Curamoir HR Bullhorn",
+    "logoInitial": "C",
+    "location": "Newcastle, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "newcastle-aged-care-registered-nurse-central-coast-newcastle-hunter-area-nsw-482-186-sponsorship",
+    "url": "jobs/newcastle-aged-care-registered-nurse-central-coast-newcastle-hunter-area-nsw-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924093957?se=KgBcgQHH8RGde-6MbVqpLg&utm_medium=api&utm_source=13c876f1&v=8DE3943878F4757536DBB4287DFE72327B34CAE3",
+    "description": "Join a leading Aged Care provider as a Registered Nurse in one of their facilities in NSW - positions available in Central Coast, Newcastle or the Hunter region On Offer $36.99 - $48.20 RN1-6, $53.06 NUM  Penalties  Supe..."
+  },
+  {
+    "id": "adzuna-5924092831",
+    "title": "English Teacher",
+    "company": "Inspired Recruitment",
+    "logoInitial": "I",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "241411",
+    "posted": "Recently",
+    "slug": "melbourne-english-teacher-482-186-sponsorship",
+    "url": "jobs/melbourne-english-teacher-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5924092831?utm_medium=api&utm_source=13c876f1",
+    "description": "English Teacher (Full-Time, Ongoing) – Great School near Morwell, VIC Are you a passionate English teacher looking for your next opportunity? We are recruiting on behalf of a fantastic school located near Morwell, in the..."
+  },
+  {
+    "id": "adzuna-5924090783",
+    "title": "Associate Nurse Unit Manager - Relocate to Regional Victoria",
+    "company": "Talent Quarter Pty Limited",
+    "logoInitial": "T",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-associate-nurse-unit-manager-relocate-to-regional-victoria-482-186-sponsorship",
+    "url": "jobs/melbourne-associate-nurse-unit-manager-relocate-to-regional-victoria-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924090783?se=rqk3ggHH8RGW3rMFv5U8bA&utm_medium=api&utm_source=13c876f1&v=80E4B4F878F368F901EEAB01571F3467D8BA0482",
+    "description": "Talent Quarter are proud to partner with a well established regional health service who have an exciting opportunity an experienced and motivated Associate Nurse Unit Manager (ANUM) to join their team.This role is ideal ..."
+  },
+  {
+    "id": "adzuna-5924090683",
+    "title": "Recruitment Consultant - Psychiatry",
+    "company": "Sorciety",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "223112",
+    "posted": "Recently",
+    "slug": "sydney-recruitment-consultant-psychiatry-482-186-sponsorship",
+    "url": "jobs/sydney-recruitment-consultant-psychiatry-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924090683?se=KgBcgQHH8RGde-6MbVqpLg&utm_medium=api&utm_source=13c876f1&v=671CF64518B97461FA641EC11F8D1E969F446A4E",
+    "description": "The opportunity A specialist medical recruitment agency in the Sydney CBD is adding to its psychiatry team. The role Work alongside the team lead, sharing coverage and live work from the start Build the junior psychiatry..."
+  },
+  {
+    "id": "adzuna-5924090280",
+    "title": "Head of Communications",
+    "company": "Think Talent Bullhorn",
+    "logoInitial": "T",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "melbourne-head-of-communications-482-186-sponsorship",
+    "url": "jobs/melbourne-head-of-communications-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924090280?se=rqk3ggHH8RGW3rMFv5U8bA&utm_medium=api&utm_source=13c876f1&v=F36A8AD47B2D9EC5C4B96F15F99DB63C8D08EC85",
+    "description": "Support a critical mission in the emerging food innovation and technology sector Engage, influence and mobilise diverse government, sector and donor audiences Work remotely and enjoy in-person collaboration and learning ..."
+  },
+  {
+    "id": "adzuna-5924090116",
+    "title": "Executive Housekeeping Manager - Crown Plaza Shell Cove Marina",
+    "company": "AHS AU",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-executive-housekeeping-manager-crown-plaza-shell-cove-marina-482-186-sponsorship",
+    "url": "jobs/sydney-executive-housekeeping-manager-crown-plaza-shell-cove-marina-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924090116?se=rqk3ggHH8RGW3rMFv5U8bA&utm_medium=api&utm_source=13c876f1&v=7809127936EA16CE5BFE5BB14155D06C30E1E0F5",
+    "description": "Executive Housekeeping Manager ahs hospitality, part of RGF Staffing ANZ, is Australia and New Zealand’s largest provider of outsourced housekeeping management services and partners with the most iconic hotel brands. We ..."
+  },
+  {
+    "id": "jooble--5212033971521795543",
+    "title": "Senior Manager, Technical Account Manager",
+    "company": "Ping Identity",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "225113",
+    "posted": "Recently",
+    "slug": "sydney-senior-manager-technical-account-manager-482-186-sponsorship",
+    "url": "jobs/sydney-senior-manager-technical-account-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-5212033971521795543",
+    "description": " About Ping Identity:  At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our custo..."
+  },
+  {
     "id": "jooble-2768804826604169478",
     "title": "Channel Management Specialist",
     "company": "BYD",
@@ -17007,84 +17241,6 @@ const JOBS_DATA = [
     "slug": "sydney-speech-pathologist-new-graduate-support-program-sponsorship-available-482-186-sponsorship",
     "url": "jobs/sydney-speech-pathologist-new-graduate-support-program-sponsorship-available-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5859670653?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5859033804",
-    "title": "Special Education Teacher | P–12 | Small Classes | Sponsorship Available, MELBOURNE",
-    "company": "Prospero Teaching",
-    "logoInitial": "P",
-    "location": "Melbourne, VIC",
-    "state": "VIC",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "241411",
-    "posted": "Recently",
-    "slug": "melbourne-special-education-teacher-p12-small-classes-sponsorship-available-melbourne-482-186-sponsorship",
-    "url": "jobs/melbourne-special-education-teacher-p12-small-classes-sponsorship-available-melbourne-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5859033804?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5858337975",
-    "title": "Registered Nurses",
-    "company": "Anglican Care",
-    "logoInitial": "A",
-    "location": "Canberra, ACT",
-    "state": "ACT",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$114,400 - $124,800 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "254415",
-    "posted": "Recently",
-    "slug": "canberra-registered-nurses-482-186-sponsorship",
-    "url": "jobs/canberra-registered-nurses-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5858337975?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5858283662",
-    "title": "Transport - Road Worker - Hay (24992)",
-    "company": "Charter Diligence Pty Ltd",
-    "logoInitial": "C",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "trades",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$94,536 - $94,536 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "733111",
-    "posted": "Recently",
-    "slug": "sydney-transport-road-worker-hay-24992-482-186-sponsorship",
-    "url": "jobs/sydney-transport-road-worker-hay-24992-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5858283662?utm_medium=api&utm_source=13c876f1",
     "description": ""
   }
 ];
