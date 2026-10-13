@@ -16,8 +16,8 @@ import xml.etree.ElementTree as ET
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 KEY = "e8f41c2a0b394d679015c8e3f2a71b4d"
-KEY_LOCATION = f"https://www.ozsponsorjobs.site/{KEY}.txt"
-HOST = "www.ozsponsorjobs.site"
+KEY_LOCATION = f"https://www.visamigrate.com/{KEY}.txt"
+HOST = "www.visamigrate.com"
 SITEMAP_FILE = os.path.join(BASE_DIR, "sitemap.xml")
 
 INDEXNOW_ENDPOINTS = [

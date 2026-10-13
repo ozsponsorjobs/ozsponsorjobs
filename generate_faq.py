@@ -15,7 +15,7 @@ import re
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FAQ_DIR = os.path.join(BASE_DIR, "faq")
 FAQ_HTML_PATH = os.path.join(FAQ_DIR, "index.html")
-SITE_DOMAIN = "https://www.ozsponsorjobs.site"
+SITE_DOMAIN = "https://www.visamigrate.com"
 
 GA_TAG_SCRIPT = """  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LMMF0YJPDV"></script>
@@ -987,7 +987,7 @@ def build_faq_html() -> str:
 
       <div class="footer-bottom">
         <div>
-          &copy; 2026 OZ Sponsor Jobs (<a href="https://www.ozsponsorjobs.site/" style="color:#cbd5e1;">ozsponsorjobs.site</a>). All rights reserved.
+          &copy; 2026 OZ Sponsor Jobs (<a href="https://www.visamigrate.com/" style="color:#cbd5e1;">visamigrate.com</a>). All rights reserved.
         </div>
         <div>
           Hosted on GitHub Pages &bull; Fast, static & secure

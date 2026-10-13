@@ -82,7 +82,7 @@ html_content = f"""<!DOCTYPE html>
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   
   <!-- Absolute Canonical URL -->
-  <link rel="canonical" href="https://www.ozsponsorjobs.site/sponsors/australia-visa-sponsorship-companies-list.html">
+  <link rel="canonical" href="https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html">
 
   <!-- Favicon & App Icons -->
   <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
@@ -91,7 +91,7 @@ html_content = f"""<!DOCTYPE html>
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.ozsponsorjobs.site/sponsors/australia-visa-sponsorship-companies-list.html">
+  <meta property="og:url" content="https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html">
   <meta property="og:title" content="Australia Visa Sponsorship Companies List (2026 Directory) | OZ Sponsor Jobs">
   <meta property="og:description" content="Searchable directory of {total_cos}+ verified Australian employers holding active Standard Business Sponsorship (SBS) accreditation with live vacancies.">
   <meta property="og:site_name" content="OZ Sponsor Jobs">
@@ -99,7 +99,7 @@ html_content = f"""<!DOCTYPE html>
 
   <!-- Twitter Card -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://www.ozsponsorjobs.site/sponsors/australia-visa-sponsorship-companies-list.html">
+  <meta property="twitter:url" content="https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html">
   <meta property="twitter:title" content="Australia Visa Sponsorship Companies List (2026 Directory)">
   <meta property="twitter:description" content="Searchable directory of {total_cos}+ verified Australian employers holding active Standard Business Sponsorship (SBS) accreditation.">
 
@@ -116,38 +116,38 @@ html_content = f"""<!DOCTYPE html>
     "@graph": [
       {{
         "@type": "CollectionPage",
-        "@id": "https://www.ozsponsorjobs.site/sponsors/australia-visa-sponsorship-companies-list.html#webpage",
+        "@id": "https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html#webpage",
         "isPartOf": {{
           "@type": "WebSite",
-          "@id": "https://www.ozsponsorjobs.site/#website",
+          "@id": "https://www.visamigrate.com/#website",
           "name": "OZ Sponsor Jobs",
-          "url": "https://www.ozsponsorjobs.site/"
+          "url": "https://www.visamigrate.com/"
         }},
         "name": "Australia Visa Sponsorship Companies List (2026 Directory)",
         "description": "Comprehensive directory of verified Australian Standard Business Sponsors (SBS) actively nominating international workers under Subclass 482, 186, and 494 visas.",
-        "url": "https://www.ozsponsorjobs.site/sponsors/australia-visa-sponsorship-companies-list.html"
+        "url": "https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html"
       }},
       {{
         "@type": "BreadcrumbList",
-        "@id": "https://www.ozsponsorjobs.site/sponsors/australia-visa-sponsorship-companies-list.html#breadcrumb",
+        "@id": "https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html#breadcrumb",
         "itemListElement": [
           {{
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://www.ozsponsorjobs.site/"
+            "item": "https://www.visamigrate.com/"
           }},
           {{
             "@type": "ListItem",
             "position": 2,
             "name": "Sponsors Directory",
-            "item": "https://www.ozsponsorjobs.site/sponsors/australia-visa-sponsorship-companies-list.html"
+            "item": "https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html"
           }}
         ]
       }},
       {{
         "@type": "FAQPage",
-        "@id": "https://www.ozsponsorjobs.site/sponsors/australia-visa-sponsorship-companies-list.html#faq",
+        "@id": "https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html#faq",
         "mainEntity": [
           {{
             "@type": "Question",
@@ -548,7 +548,7 @@ html_content += """
 
       <div class="footer-bottom">
         <div>
-          &copy; 2026 OZ Sponsor Jobs (<a href="https://www.ozsponsorjobs.site/" style="color:#cbd5e1;">ozsponsorjobs.site</a>). All rights reserved.
+          &copy; 2026 OZ Sponsor Jobs (<a href="https://www.visamigrate.com/" style="color:#cbd5e1;">visamigrate.com</a>). All rights reserved.
         </div>
         <div>
           Hosted on GitHub Pages &bull; Fast, static &amp; secure

@@ -3,7 +3,7 @@
   "indexed_tally": 4,
   "unindexed_tally": 16,
   "sitemap": {
-    "path": "https://www.ozsponsorjobs.site/sitemap.xml",
+    "path": "https://www.visamigrate.com/sitemap.xml",
     "lastSubmitted": "2026-09-15T16:30:06.179Z",
     "isPending": false,
     "isSitemapsIndex": false,
@@ -78,7 +78,7 @@
   "analytics_pages": [
     {
       "keys": [
-        "https://www.ozsponsorjobs.site/2026/07/junior-growth-analyst-sydney-earn-a200k.html"
+        "https://www.visamigrate.com/2026/07/junior-growth-analyst-sydney-earn-a200k.html"
       ],
       "clicks": 1,
       "impressions": 1,
@@ -87,7 +87,7 @@
     },
     {
       "keys": [
-        "https://www.ozsponsorjobs.site/2026/07/principal-threat-intelligence-analyst.html"
+        "https://www.visamigrate.com/2026/07/principal-threat-intelligence-analyst.html"
       ],
       "clicks": 1,
       "impressions": 1,
@@ -96,7 +96,7 @@
     },
     {
       "keys": [
-        "https://www.ozsponsorjobs.site/"
+        "https://www.visamigrate.com/"
       ],
       "clicks": 0,
       "impressions": 7,
@@ -105,7 +105,7 @@
     },
     {
       "keys": [
-        "https://www.ozsponsorjobs.site/2026/07/junior-growth-analyst-sydney-earn-a200k_015887949.html"
+        "https://www.visamigrate.com/2026/07/junior-growth-analyst-sydney-earn-a200k_015887949.html"
       ],
       "clicks": 0,
       "impressions": 1,
@@ -114,7 +114,7 @@
     },
     {
       "keys": [
-        "https://www.ozsponsorjobs.site/locations/melbourne-vic-visa-sponsorship-jobs.html"
+        "https://www.visamigrate.com/locations/melbourne-vic-visa-sponsorship-jobs.html"
       ],
       "clicks": 0,
       "impressions": 3,
@@ -123,7 +123,7 @@
     },
     {
       "keys": [
-        "https://www.ozsponsorjobs.site/locations/sydney-nsw-visa-sponsorship-jobs.html"
+        "https://www.visamigrate.com/locations/sydney-nsw-visa-sponsorship-jobs.html"
       ],
       "clicks": 0,
       "impressions": 6,
@@ -132,7 +132,7 @@
     },
     {
       "keys": [
-        "https://www.ozsponsorjobs.site/p/contact-us.html"
+        "https://www.visamigrate.com/p/contact-us.html"
       ],
       "clicks": 0,
       "impressions": 2,
@@ -141,7 +141,7 @@
     },
     {
       "keys": [
-        "https://www.ozsponsorjobs.site/visas/subclass-482-tss-jobs.html"
+        "https://www.visamigrate.com/visas/subclass-482-tss-jobs.html"
       ],
       "clicks": 0,
       "impressions": 4,
@@ -152,19 +152,19 @@
   "inspections": [
     {
       "label": "Homepage",
-      "url": "https://www.ozsponsorjobs.site/",
+      "url": "https://www.visamigrate.com/",
       "verdict": "PASS",
       "coverage": "Submitted and indexed",
       "crawl_time": "2026-09-11T11:56:23Z",
       "fetch_state": "SUCCESSFUL",
       "sitemap_info": [
-        "https://www.ozsponsorjobs.site/atom.xml?redirect=false&start-index=1&max-results=500",
-        "https://www.ozsponsorjobs.site/sitemap.xml"
+        "https://www.visamigrate.com/atom.xml?redirect=false&start-index=1&max-results=500",
+        "https://www.visamigrate.com/sitemap.xml"
       ]
     },
     {
       "label": "About",
-      "url": "https://www.ozsponsorjobs.site/about.html",
+      "url": "https://www.visamigrate.com/about.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
@@ -173,18 +173,18 @@
     },
     {
       "label": "Contact",
-      "url": "https://www.ozsponsorjobs.site/contact.html",
+      "url": "https://www.visamigrate.com/contact.html",
       "verdict": "NEUTRAL",
       "coverage": "Discovered - currently not indexed",
       "crawl_time": null,
       "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
       "sitemap_info": [
-        "https://www.ozsponsorjobs.site/sitemap.xml"
+        "https://www.visamigrate.com/sitemap.xml"
       ]
     },
     {
       "label": "Hub: Sydney",
-      "url": "https://www.ozsponsorjobs.site/locations/sydney-nsw-visa-sponsorship-jobs.html",
+      "url": "https://www.visamigrate.com/locations/sydney-nsw-visa-sponsorship-jobs.html",
       "verdict": "PASS",
       "coverage": "Submitted and indexed",
       "crawl_time": "2026-09-21T10:45:39Z",
@@ -193,7 +193,7 @@
     },
     {
       "label": "Hub: Melbourne",
-      "url": "https://www.ozsponsorjobs.site/locations/melbourne-vic-visa-sponsorship-jobs.html",
+      "url": "https://www.visamigrate.com/locations/melbourne-vic-visa-sponsorship-jobs.html",
       "verdict": "PASS",
       "coverage": "Submitted and indexed",
       "crawl_time": "2026-09-21T10:45:39Z",
@@ -202,7 +202,7 @@
     },
     {
       "label": "Hub: Brisbane",
-      "url": "https://www.ozsponsorjobs.site/locations/brisbane-qld-visa-sponsorship-jobs.html",
+      "url": "https://www.visamigrate.com/locations/brisbane-qld-visa-sponsorship-jobs.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
@@ -211,7 +211,7 @@
     },
     {
       "label": "Hub: Perth",
-      "url": "https://www.ozsponsorjobs.site/locations/perth-wa-visa-sponsorship-jobs.html",
+      "url": "https://www.visamigrate.com/locations/perth-wa-visa-sponsorship-jobs.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
@@ -220,18 +220,18 @@
     },
     {
       "label": "Hub: Adelaide",
-      "url": "https://www.ozsponsorjobs.site/locations/adelaide-sa-visa-sponsorship-jobs.html",
+      "url": "https://www.visamigrate.com/locations/adelaide-sa-visa-sponsorship-jobs.html",
       "verdict": "NEUTRAL",
       "coverage": "Discovered - currently not indexed",
       "crawl_time": null,
       "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
       "sitemap_info": [
-        "https://www.ozsponsorjobs.site/sitemap.xml"
+        "https://www.visamigrate.com/sitemap.xml"
       ]
     },
     {
       "label": "Hub: Visa 482",
-      "url": "https://www.ozsponsorjobs.site/visas/subclass-482-tss-jobs.html",
+      "url": "https://www.visamigrate.com/visas/subclass-482-tss-jobs.html",
       "verdict": "PASS",
       "coverage": "Submitted and indexed",
       "crawl_time": "2026-09-23T11:13:38Z",
@@ -240,18 +240,18 @@
     },
     {
       "label": "Hub: Visa 186",
-      "url": "https://www.ozsponsorjobs.site/visas/subclass-186-ens-jobs.html",
+      "url": "https://www.visamigrate.com/visas/subclass-186-ens-jobs.html",
       "verdict": "NEUTRAL",
       "coverage": "Discovered - currently not indexed",
       "crawl_time": null,
       "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
       "sitemap_info": [
-        "https://www.ozsponsorjobs.site/sitemap.xml"
+        "https://www.visamigrate.com/sitemap.xml"
       ]
     },
     {
       "label": "Hub: Visa 494",
-      "url": "https://www.ozsponsorjobs.site/visas/subclass-494-regional-jobs.html",
+      "url": "https://www.visamigrate.com/visas/subclass-494-regional-jobs.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
@@ -260,51 +260,51 @@
     },
     {
       "label": "Job Sep 18 (Full Stack)",
-      "url": "https://www.ozsponsorjobs.site/jobs/sydney-senior-full-stack-software-engineer-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/sydney-senior-full-stack-software-engineer-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "Discovered - currently not indexed",
       "crawl_time": null,
       "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
       "sitemap_info": [
-        "https://www.ozsponsorjobs.site/sitemap.xml"
+        "https://www.visamigrate.com/sitemap.xml"
       ]
     },
     {
       "label": "Job Sep 18 (GP Byron Bay)",
-      "url": "https://www.ozsponsorjobs.site/jobs/sydney-gp-job-20-mins-from-byron-bay-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/sydney-gp-job-20-mins-from-byron-bay-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "Discovered - currently not indexed",
       "crawl_time": null,
       "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
       "sitemap_info": [
-        "https://www.ozsponsorjobs.site/sitemap.xml"
+        "https://www.visamigrate.com/sitemap.xml"
       ]
     },
     {
       "label": "Job Sep 19 (Neara Dev)",
-      "url": "https://www.ozsponsorjobs.site/jobs/sydney-senior-software-engineer-australia-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/sydney-senior-software-engineer-australia-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "Discovered - currently not indexed",
       "crawl_time": null,
       "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
       "sitemap_info": [
-        "https://www.ozsponsorjobs.site/sitemap.xml"
+        "https://www.visamigrate.com/sitemap.xml"
       ]
     },
     {
       "label": "Job Sep 19 (Chef)",
-      "url": "https://www.ozsponsorjobs.site/jobs/sydney-chef-charlotte-pass-snow-resort-summer-2026-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/sydney-chef-charlotte-pass-snow-resort-summer-2026-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "Discovered - currently not indexed",
       "crawl_time": null,
       "fetch_state": "PAGE_FETCH_STATE_UNSPECIFIED",
       "sitemap_info": [
-        "https://www.ozsponsorjobs.site/sitemap.xml"
+        "https://www.visamigrate.com/sitemap.xml"
       ]
     },
     {
       "label": "Job Sep 22 (Actuarial)",
-      "url": "https://www.ozsponsorjobs.site/jobs/sydney-actuarial-analyst-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/sydney-actuarial-analyst-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
@@ -313,7 +313,7 @@
     },
     {
       "label": "Job Sep 23 (Hastings GP)",
-      "url": "https://www.ozsponsorjobs.site/jobs/sydney-hastings-family-medical-centre-general-practitioner-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/sydney-hastings-family-medical-centre-general-practitioner-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
@@ -322,7 +322,7 @@
     },
     {
       "label": "Job Sep 24 (ED Director)",
-      "url": "https://www.ozsponsorjobs.site/jobs/sydney-clinical-director-emergency-medicine-ed-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/sydney-clinical-director-emergency-medicine-ed-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
@@ -331,7 +331,7 @@
     },
     {
       "label": "Job Sep 25 (Nurse Estia)",
-      "url": "https://www.ozsponsorjobs.site/jobs/sydney-visa-sponsored-registered-nurses-sa-nsw-qld-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/sydney-visa-sponsored-registered-nurses-sa-nsw-qld-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
@@ -340,7 +340,7 @@
     },
     {
       "label": "Job Sep 25 (OT Melton)",
-      "url": "https://www.ozsponsorjobs.site/jobs/melbourne-occupational-therapist-melton-482-186-sponsorship.html",
+      "url": "https://www.visamigrate.com/jobs/melbourne-occupational-therapist-melton-482-186-sponsorship.html",
       "verdict": "NEUTRAL",
       "coverage": "URL is unknown to Google",
       "crawl_time": null,
