@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ozsponsorjobs.site/sitemap.xml
+Sitemap: https://www.visamigrate.com/sitemap.xml

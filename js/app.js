@@ -17450,32 +17450,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-consultant-obstetrics-and-gynaecology-australia-nswvic-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5862222504?utm_medium=api&utm_source=13c876f1",
     "description": ""
-  },
-  {
-    "id": "adzuna-5650840666",
-    "title": "Emergency Medicine Registrar",
-    "company": "Me Medical Recruitment",
-    "logoInitial": "M",
-    "location": "Brisbane, QLD",
-    "state": "QLD",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "253399",
-    "posted": "Recently",
-    "slug": "brisbane-emergency-medicine-registrar-482-494-sponsorship",
-    "url": "jobs/brisbane-emergency-medicine-registrar-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5650840666?utm_medium=api&utm_source=13c876f1",
-    "description": "ME Medical Recruitment is currently recruiting for an Emergency Medicine Registrar – ACEM assessed as partially comparable and Emergency Registrars from Comparable Pathway please apply. Location: Mackay, Queensland, Aust..."
   }
 ];
 
