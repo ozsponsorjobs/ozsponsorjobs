@@ -32,6 +32,32 @@ const JOBS_DATA = [
     "description": "YOUR NEXT COMPANY Powerstaff is partnering with an established, owner-led electrical contractor in Brentwood, California to hire a Safety Manager. Our client delivers technical electrical work across data center, life sc..."
   },
   {
+    "id": "jooble--515508225448041749",
+    "title": "Sales Manager/ Director - Australian Market (ESS & EV)",
+    "company": "Gotion",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "131112",
+    "posted": "Recently",
+    "slug": "sydney-sales-manager-director-australian-market-ess-ev-482-186-sponsorship",
+    "url": "jobs/sydney-sales-manager-director-australian-market-ess-ev-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-515508225448041749",
+    "description": " Key Responsibilities \r\n Develop and execute sales strategies for the Australian ESS & EV markets. \r\n Identify and engage new customers, distributors, and partners. \r\n Manage end-to-end sales processes including proposal..."
+  },
+  {
     "id": "adzuna-5927512913",
     "title": "Permanent Registered Nurse – Aged Care",
     "company": "Blu Healthcare",
@@ -56,6 +82,32 @@ const JOBS_DATA = [
     "url": "jobs/brisbane-permanent-registered-nurse-aged-care-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/land/ad/5927512913?se=oiAFOfjH8RGMeuQWzwoBfw&utm_medium=api&utm_source=13c876f1&v=5739799EA9BD66003F0B40B565EB4C739FF57DF8",
     "description": "About BLU Healthcare BLU Healthcare is a leading healthcare recruitment agency supporting aged care facilities, hospitals, NDIS providers and community care services across Australia. We connect healthcare professionals ..."
+  },
+  {
+    "id": "adzuna-5927213863",
+    "title": "Skilled Scaffolder – 40–60h/Wk, Visa Sponsorship",
+    "company": "Employer Sponsored Jobs",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$34,440 - $55,104 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-skilled-scaffolder-4060hwk-visa-sponsorship-482-186-sponsorship",
+    "url": "jobs/sydney-skilled-scaffolder-4060hwk-visa-sponsorship-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5927213863?utm_medium=api&utm_source=13c876f1",
+    "description": "Agrowingscaffoldingteam is seeking dependable Scaffolders and Scaffold Labourers who take pride in safe, quality work. This opportunity suits people who can demonstrate the right experience, practical skills and professi..."
   },
   {
     "id": "jooble--2500625842554656686",
@@ -994,6 +1046,32 @@ const JOBS_DATA = [
     "description": ""
   },
   {
+    "id": "adzuna-5921409078",
+    "title": "Welder",
+    "company": "2coms",
+    "logoInitial": "2",
+    "location": "Gold Coast, QLD",
+    "state": "QLD",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "322313",
+    "posted": "Recently",
+    "slug": "gold-coast-welder-482-494-sponsorship",
+    "url": "jobs/gold-coast-welder-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5921409078?utm_medium=api&utm_source=13c876f1",
+    "description": "We are actively seeking experienced Welders from Australia and around the world for long-term positions with reputable Australian employers. Our clients are looking for skilled Welders with strong experience across struc..."
+  },
+  {
     "id": "adzuna-5921363849",
     "title": "Sales Executive (WHV Accepted, Sponsorship Available)",
     "company": "Business Show Media Ltd",
@@ -1122,6 +1200,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-autoglazier-rydalmere-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5920707834?utm_medium=api&utm_source=13c876f1",
     "description": ""
+  },
+  {
+    "id": "adzuna-5920706884",
+    "title": "Metal Fabricator ANSCO 322311/322313 – ONSHORE VISA",
+    "company": "Bowhill Engineering",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "trades",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "322313",
+    "posted": "Recently",
+    "slug": "sydney-metal-fabricator-ansco-322311322313-onshore-visa-482-186-sponsorship",
+    "url": "jobs/sydney-metal-fabricator-ansco-322311322313-onshore-visa-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5920706884?utm_medium=api&utm_source=13c876f1",
+    "description": "Bowhill Engineering is fortunate to be able to offer limited Visa Sponsorship opportunities to Trade Qualified Metal Fabricators looking for Visa Sponsorship in regional country, South Australia. Specialising in large he..."
   },
   {
     "id": "adzuna-5920637490",
@@ -1538,6 +1642,32 @@ const JOBS_DATA = [
     "url": "jobs/newcastle-restaurant-manager-award-winning-gastro-pub-newcastle100k-super-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5919100439?utm_medium=api&utm_source=13c876f1",
     "description": ""
+  },
+  {
+    "id": "adzuna-5919098616",
+    "title": "Glazier Installer - Glass Shower Screens, Mirrors & Robe Doors",
+    "company": "konnecting",
+    "logoInitial": "K",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "trades",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$76,515 - $76,515 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "324311",
+    "posted": "Recently",
+    "slug": "brisbane-glazier-installer-glass-shower-screens-mirrors-robe-doors-482-494-sponsorship",
+    "url": "jobs/brisbane-glazier-installer-glass-shower-screens-mirrors-robe-doors-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5919098616?utm_medium=api&utm_source=13c876f1",
+    "description": "Glazier Installer – Glass Shower Screens, Mirrors & Robe Doors Location: Brisbane Annual salary: $79,499 annually plus vehicle Employment: Full-Time , Visa Sponsorship Available A leading glazing specialist in Brisbane i..."
   },
   {
     "id": "adzuna-5918561458",
@@ -2266,6 +2396,32 @@ const JOBS_DATA = [
     "url": "jobs/melbourne-deployment-lead-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5909305360?utm_medium=api&utm_source=13c876f1",
     "description": ""
+  },
+  {
+    "id": "adzuna-5909305100",
+    "title": "Associate Lecturer (Level A) - Nursing",
+    "company": "Griffith University",
+    "logoInitial": "G",
+    "location": "Gold Coast, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "gold-coast-associate-lecturer-level-a-nursing-482-494-sponsorship",
+    "url": "jobs/gold-coast-associate-lecturer-level-a-nursing-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5909305100?utm_medium=api&utm_source=13c876f1",
+    "description": "Company Description Every institution values excellence. What matters most is why. Griffith was created to be a different type of university. You’ll find we’re about leading research, academic excellence, and the transfo..."
   },
   {
     "id": "adzuna-5909098304",
@@ -16464,6 +16620,32 @@ const JOBS_DATA = [
     "description": ""
   },
   {
+    "id": "adzuna-5870130516",
+    "title": "Personal Care Worker - APY Lands",
+    "company": "Australian Regional and Remote Community Services",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "423111",
+    "posted": "Recently",
+    "slug": "sydney-personal-care-worker-apy-lands-482-186-sponsorship",
+    "url": "jobs/sydney-personal-care-worker-apy-lands-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5870130516?utm_medium=api&utm_source=13c876f1",
+    "description": "About the role ARRCS are currently sourcing multiple experienced and qualified Personal Care Worker to support the clinical care of our residents and home care consumers within our Aged Care Facility Tjilpiku Pampaku Ngu..."
+  },
+  {
     "id": "adzuna-5868988822",
     "title": "General Practitioner (VR/Non-VR) | 75% Billings | Narellan & Surrounds, NSW",
     "company": "Gorilla Jobs",
@@ -17270,30 +17452,30 @@ const JOBS_DATA = [
     "description": ""
   },
   {
-    "id": "adzuna-5861362283",
-    "title": "General Practitioner | Rockingham | Sign-On Incentive",
-    "company": "Healthcare Professionals Group",
-    "logoInitial": "H",
-    "location": "Sydney, NSW",
-    "state": "NSW",
+    "id": "adzuna-5650840666",
+    "title": "Emergency Medicine Registrar",
+    "company": "Me Medical Recruitment",
+    "logoInitial": "M",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
     "category": "healthcare",
     "visas": [
       "482",
-      "186"
+      "494"
     ],
     "visaLabels": [
       "Subclass 482 TSS",
-      "Subclass 186 ENS"
+      "Subclass 494 SESR"
     ],
     "salary": "$90,000 - $140,000 AUD",
     "type": "Full-time",
     "verifiedSponsor": true,
-    "anzsco": "253111",
+    "anzsco": "253399",
     "posted": "Recently",
-    "slug": "sydney-general-practitioner-rockingham-sign-on-incentive-482-186-sponsorship",
-    "url": "jobs/sydney-general-practitioner-rockingham-sign-on-incentive-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5861362283?utm_medium=api&utm_source=13c876f1",
-    "description": ""
+    "slug": "brisbane-emergency-medicine-registrar-482-494-sponsorship",
+    "url": "jobs/brisbane-emergency-medicine-registrar-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5650840666?utm_medium=api&utm_source=13c876f1",
+    "description": "ME Medical Recruitment is currently recruiting for an Emergency Medicine Registrar – ACEM assessed as partially comparable and Emergency Registrars from Comparable Pathway please apply. Location: Mackay, Queensland, Aust..."
   }
 ];
 
