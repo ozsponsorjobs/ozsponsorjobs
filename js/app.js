@@ -6,6 +6,136 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5930021961",
+    "title": "Senior Consultant",
+    "company": "PwC Australia",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-senior-consultant-482-186-sponsorship",
+    "url": "jobs/sydney-senior-consultant-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5930021961?se=yKCIIFTJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=13c876f1&v=051AB88F2A6A20881ED2FE325B6A5FD22523F88F",
+    "description": "Line of Service Tax Industry/Sector Not Applicable Specialism International Tax Services Management Level Senior Associate Job Description & Summary Education (if blank, degree and/or field of study not specified) Degree..."
+  },
+  {
+    "id": "adzuna-5930017307",
+    "title": "JUNIOR PUBLICIST",
+    "company": "Simone Development",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-junior-publicist-482-186-sponsorship",
+    "url": "jobs/sydney-junior-publicist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5930017307?se=yKCIIFTJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=13c876f1&v=851DE6FF21F341098731B9718B2BAE557A900668",
+    "description": "The Job Profile Simon & Schuster Australia are looking for a dynamic and creative Junior Publicist to join the Marketing & Publicity team. Reporting to the Publicity Manager, the Junior Publicist role will be focused on ..."
+  },
+  {
+    "id": "adzuna-5930017072",
+    "title": "Project Control Manager - New Zealand",
+    "company": "ConsultANZ",
+    "logoInitial": "C",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "management",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "brisbane-project-control-manager-new-zealand-482-494-sponsorship",
+    "url": "jobs/brisbane-project-control-manager-new-zealand-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5930017072?se=yKCIIFTJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=13c876f1&v=43AD935933BD5C4A705C3032D5A762CC260F847B",
+    "description": "About the Company ConsultANZ is seeking a Project Control Manager to join a top civil engineering and construction company in New Zealand. This role involves working across New Zealand on large and challenging civil engi..."
+  },
+  {
+    "id": "jooble-5878508792206929253",
+    "title": "Network Operation Manager (Automotive/OEM)",
+    "company": "Zeekr International",
+    "logoInitial": "Z",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-network-operation-manager-automotiveoem-482-186-sponsorship",
+    "url": "jobs/sydney-network-operation-manager-automotiveoem-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/5878508792206929253",
+    "description": " About ZEEKR  ZEEKR is a premium electric vehicle brand under the Geely Group, dedicated to pioneering innovation in smart, sustainable mobility. As part of Geely’s ecosystem, ZEEKR embodies cutting-edge design, advanced..."
+  },
+  {
+    "id": "adzuna-5928466890",
+    "title": "Head Chef - Camberwell Gables",
+    "company": "Opal HealthCare",
+    "logoInitial": "O",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "sydney-head-chef-camberwell-gables-482-186-sponsorship",
+    "url": "jobs/sydney-head-chef-camberwell-gables-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5928466890?se=_qagP1TJ8RGndsMxFMANcw&utm_medium=api&utm_source=13c876f1&v=944B7C075B086ACE19D1AA016DA9CB68AAC12C70",
+    "description": "\"At Opal HealthCare, we know that companies don't succeed, people do.\"Our purpose is to bring joy to those we care for and our values of Compassion, Accountability, Respect and Excellence reflect that C.A.R.E is at the h..."
+  },
+  {
     "id": "adzuna-5927590645",
     "title": "Safety Manager I Electrical Contractor",
     "company": "Powerstaff",
@@ -240,6 +370,32 @@ const JOBS_DATA = [
     "description": "About the Role We’re looking for an Accounts & Administration Officer to support the financial and administrative operations of our busy insurance building company. This is a hands-on role best suited to someone with an ..."
   },
   {
+    "id": "adzuna-5925213114",
+    "title": "Pharmacist",
+    "company": "Douglas Chemists Group",
+    "logoInitial": "D",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "management",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "brisbane-pharmacist-482-494-sponsorship",
+    "url": "jobs/brisbane-pharmacist-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5925213114?se=4qjEIVTJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=13c876f1&v=1EFA5E333794156E307D676E261447B0805D4BD5",
+    "description": "Full-Time Pharmacist – Glenmore Priceline Pharmacy Location: Glenmore, QLD Hours: Full-time – 38 hours per week Salary: From $50 per hour for a first-year pharmacist, more by negotiation based on experience. Join our gro..."
+  },
+  {
     "id": "adzuna-5925069123",
     "title": "Electric Motor Winder – Electrical Engineering Technician",
     "company": "2coms",
@@ -448,6 +604,32 @@ const JOBS_DATA = [
     "description": "Talent Quarter are proudly partnered with a leading NFP provider who have an opportunity for an experienced head chef to join a supportive aged care team in Townsville. This is a great opportunity to lead a kitchen where..."
   },
   {
+    "id": "adzuna-5924090615",
+    "title": "People & Culture Advisor",
+    "company": "Stellar Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-people-culture-advisor-482-186-sponsorship",
+    "url": "jobs/sydney-people-culture-advisor-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924090615?se=4qjEIVTJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=13c876f1&v=5175598C52FE159251F9994B6510DF693E609801",
+    "description": "The Opportunity: An industry-leading organisation is seeking an experienced HR Advisor to join its People & Culture team. Supporting senior HR leaders, you'll provide practical HR advice across a diverse workforce while ..."
+  },
+  {
     "id": "adzuna-5924090536",
     "title": "Travel Nurse Opportunities Across Australia | Registered Nurses & Midwives",
     "company": "Talent Quarter Pty Limited",
@@ -576,6 +758,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-senior-manager-technical-account-manager-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/-5212033971521795543",
     "description": " About Ping Identity:  At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our custo..."
+  },
+  {
+    "id": "adzuna-5923683315",
+    "title": "Housekeeping Attendant",
+    "company": "Minnikin & Co",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-housekeeping-attendant-482-186-sponsorship",
+    "url": "jobs/sydney-housekeeping-attendant-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5923683315?se=4qjEIVTJ8RGBMbk-mPfQEA&utm_medium=api&utm_source=13c876f1&v=CBFCED8C5B2DE207C6E673B2BCCFCF6315A33756",
+    "description": "Work in a Beautiful Rainforest Setting Tamborine Mountain Glades is a unique rainforest retreat located within Thunderbird Park on beautiful Tamborine Mountain. Our guests visit to relax, reconnect with nature, and enjoy..."
   },
   {
     "id": "jooble-2768804826604169478",
@@ -1174,6 +1382,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-visa-sponsorship-off-shore-metal-fabricatorswelders-ansco-322311322313-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5920708858?utm_medium=api&utm_source=13c876f1",
     "description": ""
+  },
+  {
+    "id": "adzuna-5920708788",
+    "title": "Registered Nurse | Relocation Assistance & Sponsorship Available",
+    "company": "Opal HealthCare",
+    "logoInitial": "O",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$60,000 - $60,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-relocation-assistance-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-relocation-assistance-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5920708788?utm_medium=api&utm_source=13c876f1",
+    "description": "Love where you work and live. Make a meaningful impact in the lives of our residents while enjoying the lifestyle that Denhams Beach has to offer. Join Opal HealthCare as a Registered Nurse and apply today.Permanent oppo..."
   },
   {
     "id": "adzuna-5920707834",
@@ -16022,6 +16256,58 @@ const JOBS_DATA = [
     "description": ""
   },
   {
+    "id": "adzuna-5870155767",
+    "title": "Registered Nurses - Cath Lab",
+    "company": "St John of God Health Care",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurses-cath-lab-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurses-cath-lab-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5870155767?se=XmPXI1TJ8RG6k4pKWxwyUg&utm_medium=api&utm_source=13c876f1&v=323DA24698F671E089BAFC05961202AAC1F7D3EF",
+    "description": "Welcome to St John of God Health Care St John of God Health Care (SJGHC) is one of the largest private providers of health care services in Australia, employing more than 16,000 employees (caregivers). We operate 26 hosp..."
+  },
+  {
+    "id": "adzuna-5870154307",
+    "title": "Duty Manager | World Square Bar",
+    "company": "Brickfield Hospitality Group",
+    "logoInitial": "B",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-duty-manager-world-square-bar-482-186-sponsorship",
+    "url": "jobs/sydney-duty-manager-world-square-bar-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5870154307?se=_qagP1TJ8RGndsMxFMANcw&utm_medium=api&utm_source=13c876f1&v=4A85E928B9774190399F810C6C2AEB52ABE66CD4",
+    "description": "Summary: As a Duty Manager at World Square Bar, you will play a pivotal role in ensuring the smooth operation of our hospitality services. This position is essential for maintaining high standards of customer service and..."
+  },
+  {
     "id": "adzuna-5870152614",
     "title": "Food & Beverage Supervisor",
     "company": "Accor",
@@ -17397,58 +17683,6 @@ const JOBS_DATA = [
     "slug": "adelaide-regioanl-registered-nurse-contracts-permanent-roles-aged-care-482-494-sponsorship",
     "url": "jobs/adelaide-regioanl-registered-nurse-contracts-permanent-roles-aged-care-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5862938502?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5862222503",
-    "title": "Consultant Paediatrics - Australia (NSW,Vic & Other Locations)",
-    "company": "Sante Recruitment",
-    "logoInitial": "S",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$480,000 - $480,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-consultant-paediatrics-australia-nswvic-other-locations-482-186-sponsorship",
-    "url": "jobs/sydney-consultant-paediatrics-australia-nswvic-other-locations-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5862222503?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5862222504",
-    "title": "Consultant Obstetrics and Gynaecology - Australia NSW,Vic.",
-    "company": "Sante Recruitment",
-    "logoInitial": "S",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$480,000 - $480,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-consultant-obstetrics-and-gynaecology-australia-nswvic-482-186-sponsorship",
-    "url": "jobs/sydney-consultant-obstetrics-and-gynaecology-australia-nswvic-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5862222504?utm_medium=api&utm_source=13c876f1",
     "description": ""
   }
 ];
