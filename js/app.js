@@ -474,6 +474,32 @@ const JOBS_DATA = [
     "description": "About the Company ConsultANZ is seeking a Project Control Manager to join a top civil engineering and construction company in New Zealand. This role involves working across New Zealand on large and challenging civil engi..."
   },
   {
+    "id": "jooble-7557463839661273902",
+    "title": "Creative & Digital Project Manager",
+    "company": "TMGM",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-creative-digital-project-manager-482-186-sponsorship",
+    "url": "jobs/sydney-creative-digital-project-manager-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/7557463839661273902",
+    "description": " About TMGM  TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and offices ..."
+  },
+  {
     "id": "jooble-2179717376314482115",
     "title": "Director, Specialist Sales, Transfer Solutions",
     "company": "Mastercard",
@@ -17268,6 +17294,32 @@ const JOBS_DATA = [
     "url": "jobs/perth-casual-associate-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/land/ad/5870144510?se=rt5gJKm18RGc5IY_8jS9tg&utm_medium=api&utm_source=13c876f1&v=471602D2ECF46510A9CB58E42936F18E5DD2B793",
     "description": ""
+  },
+  {
+    "id": "adzuna-5870139061",
+    "title": "Tandoori Chef",
+    "company": "Cafe Sydney",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "hospitality",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "351311",
+    "posted": "Recently",
+    "slug": "sydney-tandoori-chef-482-186-sponsorship",
+    "url": "jobs/sydney-tandoori-chef-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5870139061?se=iEjiZyvL8RGjutuTSb6jOA&utm_medium=api&utm_source=13c876f1&v=D594C4CA038494FA6542CF92AAE964AE5C357476",
+    "description": "Cafe Sydney is seeking a Full/Part time Tandoori Chef to in our bustling kitchen! This is a salaried position. About Us Cafe Sydney is one of Australia’s most iconic dining destinations, located on the rooftop of Customs..."
   },
   {
     "id": "adzuna-5870139045",
