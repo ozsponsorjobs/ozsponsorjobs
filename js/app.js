@@ -6,6 +6,32 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5932305356",
+    "title": "Systems Engineer",
+    "company": "GE Vernova",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "263111",
+    "posted": "Recently",
+    "slug": "sydney-systems-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-systems-engineer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5932305356?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Summary Your role as the Systems Engineer will be part of the multi-disciplined engineering team, that sits within the global engineering organisation and will execute technical projects of world class po..."
+  },
+  {
     "id": "adzuna-5931981437",
     "title": "HR Admin contracts in Milton! Immediate start till April 2027",
     "company": "Davidson",
@@ -32,6 +58,32 @@ const JOBS_DATA = [
     "description": "HR Administrator | 2 Contract Opportunities Immediate Start | Milton | Contract to April 2027 $ 43.94 - $49.90  super per hour (dependent on experience) Are you an experienced HR Administrator who enjoys being hands-on, ..."
   },
   {
+    "id": "adzuna-5931939788",
+    "title": "Senior Shotcreter",
+    "company": "The Rix Group",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-senior-shotcreter-482-186-sponsorship",
+    "url": "jobs/sydney-senior-shotcreter-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5931939788?utm_medium=api&utm_source=13c876f1",
+    "description": "Senior Shotcreter Immediate Start- Sydney About Us The Rix Group is a progressive specialist contractor who leads the way in managing challenging and diverse ground engineering projects . We provide a multitude of ground..."
+  },
+  {
     "id": "adzuna-5931937076",
     "title": "Piling Rig Operators",
     "company": "The Rix Group",
@@ -56,6 +108,58 @@ const JOBS_DATA = [
     "url": "jobs/sydney-piling-rig-operators-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5931937076?utm_medium=api&utm_source=13c876f1",
     "description": "Piling Rig Operators - Immediate Start Sydney About Us The Rix Group is a progressive specialist contractor who leads the way in managing challenging and diverse ground engineering projects . We provide a multitude of gr..."
+  },
+  {
+    "id": "adzuna-5931470328",
+    "title": "Private Dentist",
+    "company": "Zest Business Group",
+    "logoInitial": "Z",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$100,000 - $200,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "252312",
+    "posted": "Recently",
+    "slug": "cairns-private-dentist-482-494-sponsorship",
+    "url": "jobs/cairns-private-dentist-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5931470328?utm_medium=api&utm_source=13c876f1",
+    "description": "Private Dentist Jobs in Cairns, Queensland, Australia. Established private dental practice, excellent earning potential, busy patient base, 40% of fees less laboratory costs, visa sponsorship available, potential future ..."
+  },
+  {
+    "id": "jooble-8190222152388991298",
+    "title": "Sales Commercial and Rebate Coordinator",
+    "company": "Zeekr International",
+    "logoInitial": "Z",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-sales-commercial-and-rebate-coordinator-482-186-sponsorship",
+    "url": "jobs/sydney-sales-commercial-and-rebate-coordinator-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/8190222152388991298",
+    "description": " About ZEEKR  ZEEKR is a premium electric vehicle brand under the Geely Group, dedicated to pioneering innovation in smart, sustainable mobility. As part of Geely’s ecosystem, ZEEKR embodies cutting-edge design, advanced..."
   },
   {
     "id": "adzuna-5930952647",
@@ -916,6 +1020,32 @@ const JOBS_DATA = [
     "description": "Registered Nurse | Permanent Roles | Regional Aged Care Are you an Registered Nurse looking for your next opportunity? Whether you're after a stable permanent position , MyCare Talent is here to connect you with roles th..."
   },
   {
+    "id": "adzuna-5924091241",
+    "title": "Production Operations Engineer",
+    "company": "PRA",
+    "logoInitial": "P",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-production-operations-engineer-482-186-sponsorship",
+    "url": "jobs/sydney-production-operations-engineer-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5924091241?utm_medium=api&utm_source=13c876f1",
+    "description": "A leading global proprietary trading firm is growing its production operations engineering team in Sydney. The firm trades its own capital and provides liquidity across listed derivatives, equities, ETFs, bonds and FX, w..."
+  },
+  {
     "id": "adzuna-5924090783",
     "title": "Associate Nurse Unit Manager - Relocate to Regional Victoria",
     "company": "Talent Quarter Pty Limited",
@@ -1356,6 +1486,32 @@ const JOBS_DATA = [
     "url": "jobs/adelaide-manager-workplaces-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5921898274?utm_medium=api&utm_source=13c876f1",
     "description": ""
+  },
+  {
+    "id": "adzuna-5921677775",
+    "title": "Support Workers - High Care experience",
+    "company": "Just Better Care",
+    "logoInitial": "J",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "423111",
+    "posted": "Recently",
+    "slug": "sydney-support-workers-high-care-experience-482-186-sponsorship",
+    "url": "jobs/sydney-support-workers-high-care-experience-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5921677775?utm_medium=api&utm_source=13c876f1",
+    "description": "Just Better Care Eastern Suburbs is seeking compassionate, reliable and dedicated Community Support Professionals in the Eastern Suburbs area. We provide high-quality in-home aged care and disability support services, em..."
   },
   {
     "id": "adzuna-5921676789",
@@ -17605,110 +17761,6 @@ const JOBS_DATA = [
     "slug": "brisbane-head-chef-sous-chef-chef-de-partie-sponsorship-available-482-494-sponsorship",
     "url": "jobs/brisbane-head-chef-sous-chef-chef-de-partie-sponsorship-available-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5867136633?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "jooble--3487876652181029503",
-    "title": "Senior Analyst - Technology Risk Transformation & Governance (Line 1 - max term 2 years)",
-    "company": "ASX Limited",
-    "logoInitial": "A",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-senior-analyst-technology-risk-transformation-governance-line-1-max-term-2-years-482-186-sponsorship",
-    "url": "jobs/sydney-senior-analyst-technology-risk-transformation-governance-line-1-max-term-2-years-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-3487876652181029503",
-    "description": ""
-  },
-  {
-    "id": "jooble-915373189732194715",
-    "title": "Actuary, Strategic Capital",
-    "company": "BNB Chain",
-    "logoInitial": "B",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-actuary-strategic-capital-482-186-sponsorship",
-    "url": "jobs/sydney-actuary-strategic-capital-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/915373189732194715",
-    "description": ""
-  },
-  {
-    "id": "jooble-7303840785842415962",
-    "title": "Customer Success Manager, Economics Intelligence Solutions",
-    "company": "Mastercard",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-customer-success-manager-economics-intelligence-solutions-482-186-sponsorship",
-    "url": "jobs/sydney-customer-success-manager-economics-intelligence-solutions-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/7303840785842415962",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5864347810",
-    "title": "Fitter Machinist / 1st Class Metal Machinist",
-    "company": "Skilled Jobs Australia",
-    "logoInitial": "S",
-    "location": "Darwin, NT",
-    "state": "NT",
-    "category": "trades",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "323212",
-    "posted": "Recently",
-    "slug": "darwin-fitter-machinist-1st-class-metal-machinist-482-494-sponsorship",
-    "url": "jobs/darwin-fitter-machinist-1st-class-metal-machinist-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5864347810?utm_medium=api&utm_source=13c876f1",
     "description": ""
   }
 ];
