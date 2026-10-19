@@ -6,6 +6,84 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5934126270",
+    "title": "Experienced Registered Migration Agent",
+    "company": "Ironbrij Pty Ltd",
+    "logoInitial": "I",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-experienced-registered-migration-agent-482-186-sponsorship",
+    "url": "jobs/sydney-experienced-registered-migration-agent-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5934126270?utm_medium=api&utm_source=13c876f1",
+    "description": "About Sellanes Farasat Immigration Sellanes Farasat Immigration is an established Australian immigration practice providing strategic and practical immigration assistance to individuals, families, employers and major cor..."
+  },
+  {
+    "id": "adzuna-5933863113",
+    "title": "Business Development Manager NSW - Luxaflex",
+    "company": "Hunter Douglas",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "225113",
+    "posted": "Recently",
+    "slug": "sydney-business-development-manager-nsw-luxaflex-482-186-sponsorship",
+    "url": "jobs/sydney-business-development-manager-nsw-luxaflex-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5933863113?se=SnLoO9PL8RGS5dXBZxj2tQ&utm_medium=api&utm_source=13c876f1&v=6B9540897BCD49356352887818AE2738FDE15793",
+    "description": "Hunter Douglas is the world’s leading manufacturer of window coverings and a major manufacturer of architectural products. We are a brand that you know and trust. With more than 100 years of innovation, we’ve defined our..."
+  },
+  {
+    "id": "jooble--1574321566576245437",
+    "title": "HR Business Partner",
+    "company": "TMGM",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-hr-business-partner-482-186-sponsorship",
+    "url": "jobs/sydney-hr-business-partner-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-1574321566576245437",
+    "description": " About the Company:  TMGM stands at the forefront of online trading and investment services, proudly serving as Chelsea FC's Official Regional Online Forex and Trading Partner in Asia Pacific. With a global presence and ..."
+  },
+  {
     "id": "adzuna-5932305356",
     "title": "Systems Engineer",
     "company": "GE Vernova",
@@ -1098,6 +1176,32 @@ const JOBS_DATA = [
     "description": "Talent Quarter are proud to partner with a well established regional health service who have an exciting opportunity an experienced and motivated Associate Nurse Unit Manager (ANUM) to join their team.This role is ideal ..."
   },
   {
+    "id": "adzuna-5924090775",
+    "title": "Clinical Nurse Educator - Aged Care",
+    "company": "Talent Quarter Pty Limited",
+    "logoInitial": "T",
+    "location": "Newcastle, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "newcastle-clinical-nurse-educator-aged-care-482-186-sponsorship",
+    "url": "jobs/newcastle-clinical-nurse-educator-aged-care-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924090775?se=4u67OtPL8RGS5dXBZxj2tQ&utm_medium=api&utm_source=13c876f1&v=686DC8B8375E0F0D949452D6F78BC04118E31F4A",
+    "description": "Talent Quarter are proud to partner with a leading Not-for-Profit aged care provider who are seeking an experienced Clinical Nurse Educator to support the ongoing development of their nursing and care teams across multip..."
+  },
+  {
     "id": "adzuna-5924090683",
     "title": "Recruitment Consultant - Psychiatry",
     "company": "Sorciety",
@@ -1148,6 +1252,58 @@ const JOBS_DATA = [
     "url": "jobs/sydney-head-chef-relocate-to-townsville-qld-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/land/ad/5924090724?se=FmkVOvjH8RG3cvu8UsIQxQ&utm_medium=api&utm_source=13c876f1&v=6C2CC34A75C25DA1D8DFFF82374E4632DD5E56BC",
     "description": "Talent Quarter are proudly partnered with a leading NFP provider who have an opportunity for an experienced head chef to join a supportive aged care team in Townsville. This is a great opportunity to lead a kitchen where..."
+  },
+  {
+    "id": "adzuna-5924090727",
+    "title": "Clinical Nurse Educator - Aged Care",
+    "company": "Talent Quarter Pty Limited",
+    "logoInitial": "T",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-clinical-nurse-educator-aged-care-482-186-sponsorship",
+    "url": "jobs/sydney-clinical-nurse-educator-aged-care-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924090727?se=4u67OtPL8RGS5dXBZxj2tQ&utm_medium=api&utm_source=13c876f1&v=BAD4554D445ADCE7CCF1369A68A2C87399B2BEEC",
+    "description": "Talent Quarter are proud to partner with a leading Not-for-Profit aged care provider who are seeking an experienced Clinical Nurse Educator to support the ongoing development of their nursing and care teams across multip..."
+  },
+  {
+    "id": "adzuna-5924090768",
+    "title": "Clinical Nurse Educator - Aged Care",
+    "company": "Talent Quarter Pty Limited",
+    "logoInitial": "T",
+    "location": "Canberra, ACT",
+    "state": "ACT",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "canberra-clinical-nurse-educator-aged-care-482-186-sponsorship",
+    "url": "jobs/canberra-clinical-nurse-educator-aged-care-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5924090768?se=4u67OtPL8RGS5dXBZxj2tQ&utm_medium=api&utm_source=13c876f1&v=749BB83683087625F1BE549552232B35C357454C",
+    "description": "Talent Quarter are proud to partner with a leading Not-for-Profit aged care provider who are seeking an experienced Clinical Nurse Educator to support the ongoing development of their nursing and care teams across multip..."
   },
   {
     "id": "adzuna-5924090615",
@@ -1564,6 +1720,32 @@ const JOBS_DATA = [
     "url": "jobs/adelaide-360-permanent-recruitment-consultant-adelaide-cbd-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5921676789?utm_medium=api&utm_source=13c876f1",
     "description": ""
+  },
+  {
+    "id": "adzuna-5921675931",
+    "title": "Child and Youth Worker – Casual",
+    "company": "Rise Child and Youth Services PTY",
+    "logoInitial": "R",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "272511",
+    "posted": "Recently",
+    "slug": "sydney-child-and-youth-worker-casual-482-186-sponsorship",
+    "url": "jobs/sydney-child-and-youth-worker-casual-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5921675931?se=3DZ4RtPL8RGS5dXBZxj2tQ&utm_medium=api&utm_source=13c876f1&v=165889273A887D08D0180423455A0F8672CDB89F",
+    "description": "We are inviting dedicated, compassionate, and dynamic individuals to join our team in the Toowoomba area as Casual Child and Youth Workers. Who we are: At RISE Child and Youth Services, we are dedicated to making differe..."
   },
   {
     "id": "adzuna-5921674929",
@@ -16828,6 +17010,32 @@ const JOBS_DATA = [
     "description": ""
   },
   {
+    "id": "adzuna-5870156988",
+    "title": "Customer Service Specialist - Permanent",
+    "company": "Hunter Douglas",
+    "logoInitial": "H",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-customer-service-specialist-permanent-482-186-sponsorship",
+    "url": "jobs/sydney-customer-service-specialist-permanent-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/land/ad/5870156988?se=SnLoO9PL8RGS5dXBZxj2tQ&utm_medium=api&utm_source=13c876f1&v=E74401A67E95B24816F00838614AA9B019583A8F",
+    "description": "Hunter Douglas is the world’s leading manufacturer of window coverings and a major manufacturer of architectural products. We are a brand that you know and trust. With more than 100 years of innovation, we’ve defined our..."
+  },
+  {
     "id": "adzuna-5870156427",
     "title": "Chefs | DIDO | 2:1 | Chinchilla / Dalby",
     "company": "Sodexo",
@@ -17631,188 +17839,6 @@ const JOBS_DATA = [
     "slug": "newcastle-registered-nurse-sponsorship-opportunities-available-in-multiple-locations-in-wa-qld-sa-nsw-and-vic-482-186-sponsorship",
     "url": "jobs/newcastle-registered-nurse-sponsorship-opportunities-available-in-multiple-locations-in-wa-qld-sa-nsw-and-vic-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5868559998?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "jooble--5054508518561796816",
-    "title": "Senior Business Analyst, Calypso, Eqlipse",
-    "company": "ASX Limited",
-    "logoInitial": "A",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-senior-business-analyst-calypso-eqlipse-482-186-sponsorship",
-    "url": "jobs/sydney-senior-business-analyst-calypso-eqlipse-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-5054508518561796816",
-    "description": ""
-  },
-  {
-    "id": "jooble-5583812160920551153",
-    "title": "Specialist, Product and Sales Analyst - Digital Product",
-    "company": "Mastercard",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "225113",
-    "posted": "Recently",
-    "slug": "sydney-specialist-product-and-sales-analyst-digital-product-482-186-sponsorship",
-    "url": "jobs/sydney-specialist-product-and-sales-analyst-digital-product-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/5583812160920551153",
-    "description": ""
-  },
-  {
-    "id": "jooble--7978218948990326837",
-    "title": "Partner Success Manager",
-    "company": "MoneyLion",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-partner-success-manager-482-186-sponsorship",
-    "url": "jobs/sydney-partner-success-manager-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-7978218948990326837",
-    "description": ""
-  },
-  {
-    "id": "jooble--668632767387578925",
-    "title": "Customer Floor and Catering Services Coordinator (Contractor)",
-    "company": "ASX Limited",
-    "logoInitial": "A",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-customer-floor-and-catering-services-coordinator-contractor-482-186-sponsorship",
-    "url": "jobs/sydney-customer-floor-and-catering-services-coordinator-contractor-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-668632767387578925",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5867137923",
-    "title": "Occupational Therapist - Tailored Caseloads",
-    "company": "Brightside Recruitment",
-    "logoInitial": "B",
-    "location": "Melbourne, VIC",
-    "state": "VIC",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$115,000 - $800,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "252411",
-    "posted": "Recently",
-    "slug": "melbourne-occupational-therapist-tailored-caseloads-482-186-sponsorship",
-    "url": "jobs/melbourne-occupational-therapist-tailored-caseloads-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5867137923?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5867137489",
-    "title": "Speech Pathologist | Clinic & private hospital work | Sponsorship Available",
-    "company": "Gorilla Jobs",
-    "logoInitial": "G",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$85,000 - $95,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "252712",
-    "posted": "Recently",
-    "slug": "sydney-speech-pathologist-clinic-private-hospital-work-sponsorship-available-482-186-sponsorship",
-    "url": "jobs/sydney-speech-pathologist-clinic-private-hospital-work-sponsorship-available-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5867137489?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5867136633",
-    "title": "Head Chef, Sous Chef & Chef de Partie - Sponsorship Available",
-    "company": "Australia Chef Migration",
-    "logoInitial": "A",
-    "location": "Brisbane, QLD",
-    "state": "QLD",
-    "category": "hospitality",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$75,000 - $80,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "351311",
-    "posted": "Recently",
-    "slug": "brisbane-head-chef-sous-chef-chef-de-partie-sponsorship-available-482-494-sponsorship",
-    "url": "jobs/brisbane-head-chef-sous-chef-chef-de-partie-sponsorship-available-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5867136633?utm_medium=api&utm_source=13c876f1",
     "description": ""
   }
 ];
