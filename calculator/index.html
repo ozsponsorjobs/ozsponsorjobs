@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
+  <title>Australian Visa Sponsorship Eligibility Calculator (2026) | OZ Sponsor Jobs</title>
+  <meta name="title" content="Australian Visa Sponsorship Eligibility Calculator (2026) | OZ Sponsor Jobs">
+  <meta name="description" content="Calculate your eligibility for Australian employer visa sponsorship in under 2 minutes. Check Subclass 482 TSS, 186 ENS, 494 Regional, TSMIT $73,150 compliance, and matched live vacancies.">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+  
+  <!-- Absolute Canonical URL -->
+  <link rel="canonical" href="https://www.visamigrate.com/calculator/">
+
+  <!-- Favicon & App Icons -->
+  <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+  <link rel="alternate icon" href="../favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.visamigrate.com/calculator/">
+  <meta property="og:title" content="Australian Visa Sponsorship Eligibility Calculator (2026) | OZ Sponsor Jobs">
+  <meta property="og:description" content="Calculate your eligibility for Australian employer visa sponsorship in under 2 minutes. Check Subclass 482 TSS, 186 ENS, 494 Regional, TSMIT $73,150 compliance, and matched live vacancies.">
+  <meta property="og:site_name" content="OZ Sponsor Jobs">
+  <meta property="og:locale" content="en_AU">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://www.visamigrate.com/calculator/">
+  <meta property="twitter:title" content="Australian Visa Sponsorship Eligibility Calculator (2026) | OZ Sponsor Jobs">
+  <meta property="twitter:description" content="Calculate your eligibility for Australian employer visa sponsorship in under 2 minutes. Check Subclass 482 TSS, 186 ENS, 494 Regional, TSMIT $73,150 compliance, and matched live vacancies.">
+
+  <!-- Fonts & Stylesheet -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+
+  <!-- Schema.org JSON-LD (WebApplication & Breadcrumbs & FAQ) -->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Australian Visa Sponsorship Eligibility Calculator",
+  "description": "Interactive assessment tool calculating candidate eligibility for Australian employer visa sponsorship under Subclass 482 TSS, Subclass 186 ENS, Subclass 494 Regional, and TSMIT requirements.",
+  "url": "https://www.visamigrate.com/calculator/",
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "All",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "AUD"
+  }
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.visamigrate.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Eligibility Calculator",
+      "item": "https://www.visamigrate.com/calculator/"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum salary required for Australian visa sponsorship in 2026?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The statutory Temporary Skilled Migration Income Threshold (TSMIT) is currently set at $73,150 AUD plus mandatory 11.5% superannuation. Sponsoring employers must guarantee remuneration at or above this threshold, or satisfy regional DAMA concessions where available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many years of work experience do I need for a 482 TSS visa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Subclass 482 Temporary Skill Shortage (TSS) visa requires a minimum of 2 years of relevant full-time post-qualification work experience in your nominated occupation or a closely related field."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can offshore applicants apply directly for Australian visa sponsorship?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Australian Standard Business Sponsors (SBS) actively recruit overseas candidates directly for Subclass 482 TSS, Subclass 186 Direct Entry PR, and Subclass 494 Regional visas when local talent shortages exist."
+      }
+    }
+  ]
+}
+  </script>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LMMF0YJPDV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-LMMF0YJPDV');
+  </script>
+
+  <style>
+    .calc-container {
+      max-width: 840px;
+      margin: 0 auto;
+    }
+    .stepper-wrap {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 2rem;
+      position: relative;
+    }
+    .stepper-progress-bg {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: var(--color-border);
+      transform: translateY(-50%);
+      z-index: 1;
+    }
+    .stepper-progress-bar {
+      height: 100%;
+      background: var(--color-primary);
+      width: 20%;
+      transition: width 0.3s ease;
+    }
+    .step-circle {
+      position: relative;
+      z-index: 2;
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      background: #ffffff;
+      border: 3px solid var(--color-border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: var(--color-text-muted);
+      transition: all 0.25s ease;
+    }
+    .step-circle.active {
+      border-color: var(--color-primary);
+      background: var(--color-primary);
+      color: #ffffff;
+      box-shadow: 0 0 0 4px var(--color-primary-subtle);
+    }
+    .step-circle.completed {
+      border-color: #059669;
+      background: #059669;
+      color: #ffffff;
+    }
+    .calc-card {
+      background: #ffffff;
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      padding: 2.25rem;
+      box-shadow: var(--shadow-md);
+      margin-bottom: 2rem;
+    }
+    .option-card {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem 1.25rem;
+      border: 2px solid var(--color-border);
+      border-radius: var(--radius-md);
+      margin-bottom: 0.85rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      background: #ffffff;
+    }
+    .option-card:hover {
+      border-color: var(--color-primary-light);
+      background: var(--color-surface-hover);
+    }
+    .option-card.selected {
+      border-color: var(--color-primary);
+      background: var(--color-primary-subtle);
+    }
+    .option-radio {
+      width: 20px;
+      height: 20px;
+      accent-color: var(--color-primary);
+      cursor: pointer;
+    }
+    .option-label {
+      font-weight: 600;
+      color: var(--color-text);
+      display: block;
+      font-size: 1rem;
+    }
+    .option-sub {
+      font-size: 0.85rem;
+      color: var(--color-text-secondary);
+      margin-top: 0.15rem;
+    }
+    .calc-nav-buttons {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 1.75rem;
+    }
+    .result-score-circle {
+      width: 110px;
+      height: 110px;
+      border-radius: 50%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 2.25rem;
+      color: #ffffff;
+      margin: 0 auto 1.5rem auto;
+      box-shadow: var(--shadow-lg);
+    }
+    .result-visa-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+    .result-visa-card {
+      padding: 1.25rem;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--color-border);
+      background: var(--color-bg);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="../" class="brand-logo" aria-label="OZ Sponsor Jobs Homepage">
+        <span class="flag-icon" aria-hidden="true">&#9733;</span>
+        <span><span class="accent-oz">OZ</span> Sponsor Jobs</span>
+      </a>
+
+      <nav class="main-nav" id="primary-navigation" aria-label="Main Navigation">
+        <ul class="nav-links">
+          <li><a href="../" class="nav-link">Find Jobs</a></li>
+          <li><a href="../occupations/" class="nav-link">Occupations</a></li>
+          <li><a href="../calculator/" class="nav-link active">Calculator</a></li>
+          <li><a href="../visas/subclass-482-tss-jobs.html" class="nav-link">Visa Guides</a></li>
+          <li><a href="../faq/" class="nav-link">FAQ</a></li>
+          <li><a href="../about.html" class="nav-link">About Us</a></li>
+          <li><a href="../contact.html" class="nav-link">Contact</a></li>
+        </ul>
+        <div class="header-cta">
+          <a href="../contact.html?type=employer" class="btn btn-primary btn-sm">Post a Sponsor Job</a>
+        </div>
+      </nav>
+
+      <button class="mobile-nav-toggle" aria-controls="primary-navigation" aria-expanded="false" aria-label="Toggle navigation menu">
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Hero Banner -->
+  <section class="page-header" style="background:linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);">
+    <div class="container page-header-content text-center" style="max-width:760px; margin:0 auto; text-align:center;">
+      <div style="margin-bottom:0.75rem;">
+        <span class="info-pill" style="background:rgba(255,255,255,0.15); color:#ffffff; font-weight:700; border:1px solid rgba(255,255,255,0.25);">
+          Interactive Migration Tool (2026)
+        </span>
+      </div>
+      <h1 style="color:#ffffff; font-size:2.35rem; font-weight:800; line-height:1.25; margin-bottom:0.75rem;">
+        Australian Visa Sponsorship Eligibility Calculator
+      </h1>
+      <p style="color:#e2e8f0; font-size:1.1rem; line-height:1.6;">
+        Evaluate your qualifications, English proficiency, and TSMIT salary requirements in 60 seconds. Get an instant compatibility rating for Subclass 482 TSS, Subclass 186 ENS, and Subclass 494 Regional sponsorship.
+      </p>
+    </div>
+  </section>
+
+  <!-- Calculator Main Layout -->
+  <main class="main-layout" style="padding-top:2.5rem; padding-bottom:4rem;">
+    <div class="container calc-container">
+
+      <!-- Stepper Indicator -->
+      <div class="stepper-wrap" id="stepper">
+        <div class="stepper-progress-bg">
+          <div class="stepper-progress-bar" id="stepper-progress"></div>
+        </div>
+        <div class="step-circle active" id="step-dot-1">1</div>
+        <div class="step-circle" id="step-dot-2">2</div>
+        <div class="step-circle" id="step-dot-3">3</div>
+        <div class="step-circle" id="step-dot-4">4</div>
+        <div class="step-circle" id="step-dot-5">5</div>
+      </div>
+
+      <!-- Step 1: Primary Occupation -->
+      <section class="calc-card" id="step-1">
+        <span style="font-size:0.85rem; font-weight:700; color:var(--color-primary); text-transform:uppercase; letter-spacing:0.05em; display:block; margin-bottom:0.35rem;">
+          Step 1 of 5
+        </span>
+        <h2 style="font-size:1.6rem; font-weight:800; margin-bottom:0.5rem; color:var(--color-text);">
+          What is your primary profession / nominated occupation?
+        </h2>
+        <p style="color:var(--color-text-secondary); margin-bottom:1.5rem; font-size:0.95rem;">
+          Australian employer sponsorship requires alignment with an official 6-digit ANZSCO occupation. Select your field below:
+        </p>
+
+        <div style="margin-bottom:1.5rem;">
+          <label for="occupation-select" style="display:block; font-weight:700; margin-bottom:0.5rem; font-size:0.95rem;">
+            Select Occupation (ANZSCO Code):
+          </label>
+          <select id="occupation-select" style="width:100%; padding:0.85rem 1rem; border:2px solid var(--color-border); border-radius:var(--radius-md); font-size:1rem; background:#ffffff; font-weight:500;">
+            <option value="">-- Choose Your Nominated Occupation --</option>
+            <optgroup label="🍳 Hospitality & Culinary">
+              <option value="351311" data-title="Chef / Executive Head Chef" data-authority="TRA" data-sector="hospitality" data-slug="351311-chef-visa-sponsorship-jobs">Chef / Executive Head Chef (ANZSCO 351311)</option>
+              <option value="351411" data-title="Cook / Pastrycook" data-authority="TRA" data-sector="hospitality" data-slug="351411-cook-pastrycook-visa-sponsorship-jobs">Cook / Pastrycook (ANZSCO 351411)</option>
+              <option value="141111" data-title="Cafe or Restaurant Manager" data-authority="VETASSESS" data-sector="hospitality" data-slug="141111-restaurant-cafe-manager-visa-sponsorship-jobs">Restaurant / Venue Manager (ANZSCO 141111)</option>
+            </optgroup>
+            <optgroup label="🏥 Healthcare & Medical">
+              <option value="254415" data-title="Registered Nurse" data-authority="ANMAC" data-sector="healthcare" data-slug="254415-registered-nurse-visa-sponsorship-jobs">Registered Nurse (ANZSCO 254415)</option>
+              <option value="253111" data-title="General Practitioner (GP)" data-authority="MBA / AMC" data-sector="healthcare" data-slug="253111-general-practitioner-gp-visa-sponsorship-jobs">General Practitioner / GP (ANZSCO 253111)</option>
+              <option value="423111" data-title="Aged or Disabled Carer" data-authority="ANMAC (Labour Agreement)" data-sector="healthcare" data-slug="423111-aged-care-worker-visa-sponsorship-jobs">Aged Care Support Worker (ANZSCO 423111)</option>
+              <option value="252411" data-title="Occupational Therapist" data-authority="OTC" data-sector="healthcare" data-slug="252411-occupational-therapist-visa-sponsorship-jobs">Occupational Therapist (ANZSCO 252411)</option>
+              <option value="252511" data-title="Physiotherapist" data-authority="APC" data-sector="healthcare" data-slug="252511-physiotherapist-visa-sponsorship-jobs">Physiotherapist (ANZSCO 252511)</option>
+              <option value="252312" data-title="Dentist" data-authority="ADC" data-sector="healthcare" data-slug="252312-dentist-visa-sponsorship-jobs">Dentist / Dental Practitioner (ANZSCO 252312)</option>
+              <option value="272511" data-title="Social Worker" data-authority="AASW" data-sector="healthcare" data-slug="272511-social-worker-child-protection-visa-sponsorship-jobs">Social Worker / Child Protection (ANZSCO 272511)</option>
+            </optgroup>
+            <optgroup label="💻 IT & Technology">
+              <option value="261313" data-title="Software & Applications Programmer" data-authority="ACS" data-sector="technology" data-slug="261313-software-programmer-engineer-visa-sponsorship-jobs">Software Programmer / Engineer (ANZSCO 261313)</option>
+              <option value="263111" data-title="Computer Network & Systems Engineer" data-authority="ACS" data-sector="technology" data-slug="263111-systems-network-engineer-visa-sponsorship-jobs">Network & Systems Engineer (ANZSCO 263111)</option>
+              <option value="262112" data-title="Cyber Security Analyst" data-authority="ACS" data-sector="technology" data-slug="262112-cyber-security-analyst-visa-sponsorship-jobs">Cyber Security Analyst (ANZSCO 262112)</option>
+            </optgroup>
+            <optgroup label="🔧 Skilled Trades & Construction">
+              <option value="321212" data-title="Diesel Motor Mechanic" data-authority="TRA" data-sector="trades" data-slug="321212-diesel-motor-mechanic-visa-sponsorship-jobs">Diesel Motor Mechanic (ANZSCO 321212)</option>
+              <option value="322313" data-title="Welder / Boilermaker" data-authority="TRA" data-sector="trades" data-slug="322313-welder-boilermaker-visa-sponsorship-jobs">Welder (First Class) / Boilermaker (ANZSCO 322313)</option>
+              <option value="341111" data-title="Electrician" data-authority="TRA" data-sector="trades" data-slug="341111-electrician-visa-sponsorship-jobs">Electrician (General) (ANZSCO 341111)</option>
+              <option value="324311" data-title="Vehicle Spray Painter / Panel Beater" data-authority="TRA" data-sector="trades" data-slug="324311-spray-painter-panel-beater-visa-sponsorship-jobs">Spray Painter / Panel Beater (ANZSCO 324311)</option>
+              <option value="733111" data-title="Truck Driver" data-authority="DAMA Regional" data-sector="trades" data-slug="733111-truck-driver-visa-sponsorship-jobs">Truck Driver (HC/MC) (ANZSCO 733111)</option>
+            </optgroup>
+            <optgroup label="⚙️ Engineering & Resources">
+              <option value="233211" data-title="Civil Engineer" data-authority="Engineers Australia" data-sector="engineering" data-slug="233211-civil-engineer-visa-sponsorship-jobs">Civil Engineer (ANZSCO 233211)</option>
+              <option value="233512" data-title="Mechanical Engineer" data-authority="Engineers Australia" data-sector="engineering" data-slug="233512-mechanical-engineer-visa-sponsorship-jobs">Mechanical Engineer (ANZSCO 233512)</option>
+              <option value="233311" data-title="Electrical Engineer" data-authority="Engineers Australia" data-sector="engineering" data-slug="233311-electrical-engineer-visa-sponsorship-jobs">Electrical Engineer (ANZSCO 233311)</option>
+            </optgroup>
+            <optgroup label="📊 Management, Finance & Education">
+              <option value="511112" data-title="Project Administrator" data-authority="VETASSESS" data-sector="management" data-slug="511112-project-administrator-visa-sponsorship-jobs">Project / Program Administrator (ANZSCO 511112)</option>
+              <option value="225113" data-title="Marketing Specialist" data-authority="VETASSESS" data-sector="management" data-slug="225113-marketing-specialist-visa-sponsorship-jobs">Marketing Specialist (ANZSCO 225113)</option>
+              <option value="221111" data-title="Accountant" data-authority="CPA / CA ANZ" data-sector="finance" data-slug="221111-accountant-auditor-visa-sponsorship-jobs">Accountant / Auditor (ANZSCO 221111)</option>
+              <option value="241411" data-title="Teacher" data-authority="AITSL" data-sector="management" data-slug="241411-teacher-early-childhood-secondary-visa-sponsorship-jobs">Secondary / Early Childhood Teacher (ANZSCO 241411)</option>
+            </optgroup>
+          </select>
+        </div>
+
+        <div class="calc-nav-buttons">
+          <div></div>
+          <button type="button" class="btn btn-primary" onclick="goToStep(2)">Next: Work Experience &rarr;</button>
+        </div>
+      </section>
+
+      <!-- Step 2: Work Experience -->
+      <section class="calc-card" id="step-2" style="display:none;">
+        <span style="font-size:0.85rem; font-weight:700; color:var(--color-primary); text-transform:uppercase; letter-spacing:0.05em; display:block; margin-bottom:0.35rem;">
+          Step 2 of 5
+        </span>
+        <h2 style="font-size:1.6rem; font-weight:800; margin-bottom:0.5rem; color:var(--color-text);">
+          How many years of relevant full-time work experience do you have?
+        </h2>
+        <p style="color:var(--color-text-secondary); margin-bottom:1.5rem; font-size:0.95rem;">
+          Australian visas require verifiable post-qualification experience:
+        </p>
+
+        <label class="option-card" onclick="selectRadio('exp', 'exp-3plus')">
+          <input type="radio" name="exp" id="exp-3plus" value="3plus" class="option-radio" checked>
+          <div>
+            <span class="option-label">3 or More Years Full-Time Experience</span>
+            <span class="option-sub">Meets requirements for Subclass 482 (TSS), Subclass 494 Regional, AND Subclass 186 Direct Entry PR.</span>
+          </div>
+        </label>
+
+        <label class="option-card" onclick="selectRadio('exp', 'exp-2yrs')">
+          <input type="radio" name="exp" id="exp-2yrs" value="2yrs" class="option-radio">
+          <div>
+            <span class="option-label">2 to 3 Years Full-Time Experience</span>
+            <span class="option-sub">Eligible for Subclass 482 TSS sponsorship with transition to PR after 2 years.</span>
+          </div>
+        </label>
+
+        <label class="option-card" onclick="selectRadio('exp', 'exp-under2')">
+          <input type="radio" name="exp" id="exp-under2" value="under2" class="option-radio">
+          <div>
+            <span class="option-label">Less than 2 Years Full-Time Experience</span>
+            <span class="option-sub">May require DAMA Regional concessions or Australian Graduate Work (Subclass 485).</span>
+          </div>
+        </label>
+
+        <div class="calc-nav-buttons">
+          <button type="button" class="btn btn-outline" onclick="goToStep(1)">&larr; Back</button>
+          <button type="button" class="btn btn-primary" onclick="goToStep(3)">Next: English Proficiency &rarr;</button>
+        </div>
+      </section>
+
+      <!-- Step 3: English Proficiency -->
+      <section class="calc-card" id="step-3" style="display:none;">
+        <span style="font-size:0.85rem; font-weight:700; color:var(--color-primary); text-transform:uppercase; letter-spacing:0.05em; display:block; margin-bottom:0.35rem;">
+          Step 3 of 5
+        </span>
+        <h2 style="font-size:1.6rem; font-weight:800; margin-bottom:0.5rem; color:var(--color-text);">
+          What is your English language proficiency level?
+        </h2>
+        <p style="color:var(--color-text-secondary); margin-bottom:1.5rem; font-size:0.95rem;">
+          Based on standard IELTS, PTE Academic, TOEFL iBT, or exempt passport holders:
+        </p>
+
+        <label class="option-card" onclick="selectRadio('english', 'eng-proficient')">
+          <input type="radio" name="english" id="eng-proficient" value="proficient" class="option-radio" checked>
+          <div>
+            <span class="option-label">Proficient / Superior (IELTS 7.0+ / PTE 65+)</span>
+            <span class="option-sub">Full compliance for all Subclasses (482, 186, 494) and professional registration bodies.</span>
+          </div>
+        </label>
+
+        <label class="option-card" onclick="selectRadio('english', 'eng-competent')">
+          <input type="radio" name="english" id="eng-competent" value="competent" class="option-radio">
+          <div>
+            <span class="option-label">Competent English (IELTS 6.0 / PTE 50 in each band)</span>
+            <span class="option-sub">Meets baseline threshold for Subclass 482 Core Stream and Subclass 186 ENS.</span>
+          </div>
+        </label>
+
+        <label class="option-card" onclick="selectRadio('english', 'eng-native')">
+          <input type="radio" name="english" id="eng-native" value="native" class="option-radio">
+          <div>
+            <span class="option-label">Passport Holder of UK, USA, Canada, Ireland, or NZ</span>
+            <span class="option-sub">Exempt from formal English language testing under Australian immigration regulations.</span>
+          </div>
+        </label>
+
+        <label class="option-card" onclick="selectRadio('english', 'eng-vocational')">
+          <input type="radio" name="english" id="eng-vocational" value="vocational" class="option-radio">
+          <div>
+            <span class="option-label">Vocational / Basic (IELTS 5.0 / PTE 36)</span>
+            <span class="option-sub">Eligible for Subclass 482 Short-Term stream or regional DAMA English concessions.</span>
+          </div>
+        </label>
+
+        <div class="calc-nav-buttons">
+          <button type="button" class="btn btn-outline" onclick="goToStep(2)">&larr; Back</button>
+          <button type="button" class="btn btn-primary" onclick="goToStep(4)">Next: Location & Visa Status &rarr;</button>
+        </div>
+      </section>
+
+      <!-- Step 4: Current Location & Visa Status -->
+      <section class="calc-card" id="step-4" style="display:none;">
+        <span style="font-size:0.85rem; font-weight:700; color:var(--color-primary); text-transform:uppercase; letter-spacing:0.05em; display:block; margin-bottom:0.35rem;">
+          Step 4 of 5
+        </span>
+        <h2 style="font-size:1.6rem; font-weight:800; margin-bottom:0.5rem; color:var(--color-text);">
+          Where are you currently located?
+        </h2>
+        <p style="color:var(--color-text-secondary); margin-bottom:1.5rem; font-size:0.95rem;">
+          Your current geographic location affects processing pathways and employer preferences:
+        </p>
+
+        <label class="option-card" onclick="selectRadio('loc', 'loc-onshore')">
+          <input type="radio" name="loc" id="loc-onshore" value="onshore" class="option-radio" checked>
+          <div>
+            <span class="option-label">Onshore in Australia (Holding Valid Visa)</span>
+            <span class="option-sub">Currently in Australia on Subclass 485, 417/462 Working Holiday, 500 Student, or bridging visa.</span>
+          </div>
+        </label>
+
+        <label class="option-card" onclick="selectRadio('loc', 'loc-offshore')">
+          <input type="radio" name="loc" id="loc-offshore" value="offshore" class="option-radio">
+          <div>
+            <span class="option-label">Offshore (Applying from Overseas)</span>
+            <span class="option-sub">Seeking direct Australian employer sponsorship with relocation support.</span>
+          </div>
+        </label>
+
+        <div class="calc-nav-buttons">
+          <button type="button" class="btn btn-outline" onclick="goToStep(3)">&larr; Back</button>
+          <button type="button" class="btn btn-primary" onclick="goToStep(5)">Next: Salary & Assessment &rarr;</button>
+        </div>
+      </section>
+
+      <!-- Step 5: Qualifications & Salary Baseline -->
+      <section class="calc-card" id="step-5" style="display:none;">
+        <span style="font-size:0.85rem; font-weight:700; color:var(--color-primary); text-transform:uppercase; letter-spacing:0.05em; display:block; margin-bottom:0.35rem;">
+          Step 5 of 5
+        </span>
+        <h2 style="font-size:1.6rem; font-weight:800; margin-bottom:0.5rem; color:var(--color-text);">
+          Qualifications & Australian Remuneration (TSMIT)
+        </h2>
+        <p style="color:var(--color-text-secondary); margin-bottom:1.5rem; font-size:0.95rem;">
+          The legal baseline requires earnings at or above $73,150 AUD + Superannuation:
+        </p>
+
+        <label class="option-card" onclick="selectRadio('qual', 'qual-degree')">
+          <input type="radio" name="qual" id="qual-degree" value="degree" class="option-radio" checked>
+          <div>
+            <span class="option-label">Formal Degree or Recognized Trade Diploma</span>
+            <span class="option-sub">Bachelor, Master, or Australian Certificate III/IV matching your nominated ANZSCO.</span>
+          </div>
+        </label>
+
+        <label class="option-card" onclick="selectRadio('qual', 'qual-rpl')">
+          <input type="radio" name="qual" id="qual-rpl" value="rpl" class="option-radio">
+          <div>
+            <span class="option-label">Extensive Practical Experience (Seeking RPL Assessment)</span>
+            <span class="option-sub">5+ years of verified industry experience substituting for formal qualifications.</span>
+          </div>
+        </label>
+
+        <div style="margin-top:1.5rem; padding-top:1.25rem; border-top:1px solid var(--color-border);">
+          <label class="option-card" onclick="selectRadio('salary', 'sal-compliant')">
+            <input type="radio" name="salary" id="sal-compliant" value="compliant" class="option-radio" checked>
+            <div>
+              <span class="option-label">Target Salary Above $73,150 AUD (TSMIT Compliant)</span>
+              <span class="option-sub">Full adherence to Australian Fair Work and Department of Home Affairs salary regulations.</span>
+            </div>
+          </label>
+        </div>
+
+        <div class="calc-nav-buttons">
+          <button type="button" class="btn btn-outline" onclick="goToStep(4)">&larr; Back</button>
+          <button type="button" class="btn btn-primary" onclick="calculateResults()">Generate My Eligibility Report &rarr;</button>
+        </div>
+      </section>
+
+      <!-- Results View -->
+      <section class="calc-card" id="step-results" style="display:none;">
+        <div style="text-align:center; margin-bottom:2rem;">
+          <div class="result-score-circle" id="result-score-bg" style="background:#059669;">
+            <span id="result-score-val">95%</span>
+          </div>
+          <h2 style="font-size:1.85rem; font-weight:800; color:var(--color-text); margin-bottom:0.5rem;" id="result-headline">
+            High Compatibility for Australian Visa Sponsorship
+          </h2>
+          <p style="color:var(--color-text-secondary); max-width:620px; margin:0 auto; font-size:1.05rem;" id="result-sub">
+            Your profile demonstrates strong alignment with Australian immigration regulations under current Standard Business Sponsorship guidelines.
+          </p>
+        </div>
+
+        <!-- Visa Compatibility Matrix -->
+        <h3 style="font-size:1.25rem; font-weight:700; margin-bottom:0.75rem;">Visa Subclass Compatibility</h3>
+        <div class="result-visa-row">
+          <div class="result-visa-card" id="card-482">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+              <strong style="color:var(--color-primary); font-size:1.1rem;">Subclass 482 (TSS)</strong>
+              <span class="info-pill badge-482" id="badge-482">High</span>
+            </div>
+            <p style="font-size:0.875rem; color:var(--color-text-secondary); line-height:1.5;">
+              Employer-sponsored temporary work authorization (up to 4 years) with direct transition to PR after 2 years.
+            </p>
+          </div>
+
+          <div class="result-visa-card" id="card-186">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+              <strong style="color:#7e22ce; font-size:1.1rem;">Subclass 186 (ENS PR)</strong>
+              <span class="info-pill badge-186" id="badge-186">Eligible</span>
+            </div>
+            <p style="font-size:0.875rem; color:var(--color-text-secondary); line-height:1.5;">
+              Immediate Permanent Residency on arrival for candidates with 3+ years post-qualification experience.
+            </p>
+          </div>
+
+          <div class="result-visa-card" id="card-494">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+              <strong style="color:#b45309; font-size:1.1rem;">Subclass 494 (Regional)</strong>
+              <span class="info-pill badge-494" id="badge-494">High</span>
+            </div>
+            <p style="font-size:0.875rem; color:var(--color-text-secondary); line-height:1.5;">
+              Regional priority processing with fast-track transition to Subclass 191 Permanent Residency.
+            </p>
+          </div>
+        </div>
+
+        <!-- Custom Guidance Box -->
+        <div style="background:var(--color-primary-subtle); border-left:4px solid var(--color-primary); border-radius:0 var(--radius-md) var(--radius-md) 0; padding:1.5rem; margin:1.75rem 0;">
+          <h4 style="font-size:1.1rem; font-weight:700; color:var(--color-primary); margin-bottom:0.5rem;">
+            Your Personalized Next Steps:
+          </h4>
+          <ul style="padding-left:1.25rem; font-size:0.95rem; color:var(--color-text); line-height:1.7;">
+            <li><strong>Assessing Authority:</strong> Prepare documentation for <span id="res-authority" style="font-weight:700;">TRA / ANMAC / ACS</span> to verify formal qualification equivalence.</li>
+            <li><strong>Salary Compliance:</strong> Guaranteed nomination at or above <strong>$73,150 AUD TSMIT</strong> statutory minimum.</li>
+            <li><strong>Active Openings:</strong> Explore verified employers hiring now in your specialized category.</li>
+          </ul>
+        </div>
+
+        <!-- Dynamic Action Buttons -->
+        <div style="display:flex; flex-direction:column; gap:0.85rem; margin-top:2rem;">
+          <a href="#" id="res-occ-link" class="btn btn-primary btn-lg" style="text-align:center; font-weight:700;">
+            Browse Verified Roles in My Occupation &rarr;
+          </a>
+          <a href="https://t.me/australiajobsvisa09" target="_blank" rel="noopener noreferrer" class="btn btn-outline" style="text-align:center; display:flex; align-items:center; justify-content:center; gap:0.5rem;">
+            <svg style="width:20px;height:20px;" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.75-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/>
+            </svg>
+            Join Telegram Alert Channel for Daily Sponsorship Roles
+          </a>
+          <button type="button" class="btn btn-sm" onclick="restartCalculator()" style="background:none; border:none; color:var(--color-text-muted); cursor:pointer; text-decoration:underline; margin-top:0.5rem;">
+            Start Calculator Over
+          </button>
+        </div>
+      </section>
+
+      <!-- FAQ Section -->
+      <section style="margin-top:4rem; border-top:1px solid var(--color-border); padding-top:2.5rem;">
+        <h2 style="font-size:1.6rem; font-weight:800; color:var(--color-text); margin-bottom:1.5rem;">
+          Frequently Asked Questions (Sponsorship Eligibility)
+        </h2>
+        
+        <div style="margin-bottom:1.5rem;">
+          <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-primary); margin-bottom:0.35rem;">
+            What is the TSMIT threshold and why is it mandatory?
+          </h3>
+          <p style="color:var(--color-text-secondary); font-size:0.95rem; line-height:1.6;">
+            The Temporary Skilled Migration Income Threshold (TSMIT) is set by the Australian Department of Home Affairs at $73,150 AUD. Employers cannot sponsor an overseas applicant for Subclass 482 or 494 unless the guaranteed earnings equal or exceed this statutory baseline.
+          </p>
+        </div>
+
+        <div style="margin-bottom:1.5rem;">
+          <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-primary); margin-bottom:0.35rem;">
+            Can I qualify for Subclass 186 ENS without working in Australia first?
+          </h3>
+          <p style="color:var(--color-text-secondary); font-size:0.95rem; line-height:1.6;">
+            Yes, under the <strong>Direct Entry (DE) stream</strong>, international professionals who have a positive skills assessment and at least 3 years of post-qualification full-time experience can be nominated directly by an Australian employer for permanent residency without living in Australia beforehand.
+          </p>
+        </div>
+
+        <div style="margin-bottom:1.5rem;">
+          <h3 style="font-size:1.15rem; font-weight:700; color:var(--color-primary); margin-bottom:0.35rem;">
+            What are DAMA regional concessions?
+          </h3>
+          <p style="color:var(--color-text-secondary); font-size:0.95rem; line-height:1.6;">
+            Designated Area Migration Agreements (DAMA) are formal agreements between regional Australian state/territory bodies and the federal government. They allow regional employers to sponsor workers in roles not available on standard skilled lists, offering concessions on English, age, and salary thresholds.
+          </p>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="../" class="brand-logo" style="color: #ffffff;">
+            <span class="flag-icon">&#9733;</span>
+            <span><span class="accent-oz">OZ</span> Sponsor Jobs</span>
+          </a>
+          <p>
+            Connecting skilled professionals worldwide with Australian employers providing Subclass 482, 186, and 494 visa sponsorship.
+          </p>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">Visa Subclasses</h4>
+          <ul class="footer-links">
+            <li><a href="../visas/subclass-482-tss-jobs.html">Subclass 482 (TSS Visa)</a></li>
+            <li><a href="../visas/subclass-186-ens-jobs.html">Subclass 186 (ENS Direct PR)</a></li>
+            <li><a href="../visas/subclass-494-regional-jobs.html">Subclass 494 (Regional Visa)</a></li>
+            <li><a href="../visas/dama-visa-sponsorship-jobs-australia.html">DAMA Regional Programs</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">Tools & Resources</h4>
+          <ul class="footer-links">
+            <li><a href="./">Eligibility Calculator</a></li>
+            <li><a href="../occupations/">Occupations Directory</a></li>
+            <li><a href="../sponsors/australia-visa-sponsorship-companies-list.html">Approved Sponsors List</a></li>
+            <li><a href="../faq/">Sponsorship FAQ (2026)</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="footer-heading">Platform & Legal</h4>
+          <ul class="footer-links">
+            <li><a href="../about.html">About OZ Sponsor Jobs</a></li>
+            <li><a href="../contact.html">Contact Support</a></li>
+            <li><a href="../privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="../terms.html">Terms of Service</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <div>
+          &copy; 2026 OZ Sponsor Jobs (<a href="https://www.visamigrate.com/" style="color:#cbd5e1;">visamigrate.com</a>). All rights reserved.
+        </div>
+        <div>
+          Hosted on GitHub Pages &bull; Fast, static & secure
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/app.js"></script>
+
+  <script>
+    let currentStep = 1;
+
+    function selectRadio(name, id) {
+      const radio = document.getElementById(id);
+      if (radio) {
+        radio.checked = true;
+        document.querySelectorAll(`input[name="${name}"]`).forEach(r => {
+          const card = r.closest('.option-card');
+          if (card) card.classList.remove('selected');
+        });
+        const parentCard = radio.closest('.option-card');
+        if (parentCard) parentCard.classList.add('selected');
+      }
+    }
+
+    function goToStep(stepNumber) {
+      if (stepNumber > currentStep) {
+        if (currentStep === 1) {
+          const occSelect = document.getElementById('occupation-select');
+          if (!occSelect.value) {
+            alert('Please select your target occupation to proceed.');
+            return;
+          }
+        }
+      }
+
+      for (let i = 1; i <= 5; i++) {
+        const sec = document.getElementById(`step-${i}`);
+        if (sec) sec.style.display = 'none';
+        const dot = document.getElementById(`step-dot-${i}`);
+        if (dot) {
+          dot.classList.remove('active');
+          if (i < stepNumber) {
+            dot.classList.add('completed');
+          } else {
+            dot.classList.remove('completed');
+          }
+        }
+      }
+
+      const activeSec = document.getElementById(`step-${stepNumber}`);
+      if (activeSec) activeSec.style.display = 'block';
+
+      const activeDot = document.getElementById(`step-dot-${stepNumber}`);
+      if (activeDot) activeDot.classList.add('active');
+
+      const progressBar = document.getElementById('stepper-progress');
+      if (progressBar) {
+        progressBar.style.width = `${stepNumber * 20}%`;
+      }
+
+      currentStep = stepNumber;
+      window.scrollTo({ top: 180, behavior: 'smooth' });
+    }
+
+    function calculateResults() {
+      const occSelect = document.getElementById('occupation-select');
+      const selectedOption = occSelect.options[occSelect.selectedIndex];
+      const occTitle = selectedOption.getAttribute('data-title') || 'Your Profession';
+      const authority = selectedOption.getAttribute('data-authority') || 'VETASSESS / TRA';
+      const slug = selectedOption.getAttribute('data-slug') || '';
+
+      const exp = document.querySelector('input[name="exp"]:checked')?.value || '3plus';
+      const english = document.querySelector('input[name="english"]:checked')?.value || 'proficient';
+      const loc = document.querySelector('input[name="loc"]:checked')?.value || 'onshore';
+      const qual = document.querySelector('input[name="qual"]:checked')?.value || 'degree';
+
+      let score = 70;
+      if (exp === '3plus') score += 15;
+      else if (exp === '2yrs') score += 10;
+      else score += 0;
+
+      if (english === 'proficient' || english === 'native') score += 10;
+      else if (english === 'competent') score += 5;
+
+      if (qual === 'degree') score += 5;
+
+      score = Math.min(score, 98);
+
+      for (let i = 1; i <= 5; i++) {
+        const sec = document.getElementById(`step-${i}`);
+        if (sec) sec.style.display = 'none';
+      }
+      document.getElementById('stepper').style.display = 'none';
+      document.getElementById('step-results').style.display = 'block';
+
+      document.getElementById('result-score-val').textContent = `${score}%`;
+      const scoreBg = document.getElementById('result-score-bg');
+      if (score >= 85) {
+        scoreBg.style.background = '#059669';
+        document.getElementById('result-headline').textContent = `High Eligibility: ${occTitle}`;
+      } else {
+        scoreBg.style.background = '#0284c7';
+        document.getElementById('result-headline').textContent = `Moderate-to-High Eligibility: ${occTitle}`;
+      }
+
+      document.getElementById('res-authority').textContent = authority;
+      const occLink = document.getElementById('res-occ-link');
+      if (slug) {
+        occLink.href = `../occupations/${slug}.html`;
+        occLink.textContent = `Browse Verified ${occTitle} Sponsorship Roles →`;
+      } else {
+        occLink.href = '../occupations/';
+        occLink.textContent = 'Browse All In-Demand Sponsorship Roles →';
+      }
+
+      window.scrollTo({ top: 180, behavior: 'smooth' });
+    }
+
+    function restartCalculator() {
+      document.getElementById('step-results').style.display = 'none';
+      document.getElementById('stepper').style.display = 'flex';
+      goToStep(1);
+    }
+  </script>
+</body>
+</html>
