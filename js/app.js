@@ -6142,6 +6142,32 @@ const JOBS_DATA = [
     "description": ""
   },
   {
+    "id": "jooble--7015965452741628787",
+    "title": "Head of Data Platform Engineering & Delivery",
+    "company": "ASX Limited",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-head-of-data-platform-engineering-delivery-482-186-sponsorship",
+    "url": "jobs/sydney-head-of-data-platform-engineering-delivery-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/-7015965452741628787",
+    "description": " ASX: Powering Australia's financial markets  Why join the ASX?\r\n When you join ASX, you’re joining a company with a strong purpose – to power a stronger economic future by enabling a fair and dynamic marketplace for all..."
+  },
+  {
     "id": "adzuna-5901617645",
     "title": "fixed plant fitter",
     "company": "MOLMUC Integrated Engineering Pty Ltd",

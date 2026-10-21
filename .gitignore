@@ -35,3 +35,4 @@ telegram_credentials.json
 telegram_publisher.py
 telegram_history.json
 send_to_make.py
+occupations_data.py
