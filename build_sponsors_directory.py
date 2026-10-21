@@ -23,6 +23,11 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 ledger = json.load(open(LEDGER_FILE, "r", encoding="utf-8"))
 jobs = [j for j in ledger["jobs_by_slug"].values() if j.get("status") == "active"]
 
+def get_company_slug(name: str) -> str:
+    s = re.sub(r'[^a-zA-Z0-9\s-]', '', name).strip().lower()
+    s = re.sub(r'[\s-]+', '-', s)
+    return s or "australian-sponsor"
+
 sector_rules = {
     "Technology & Software": ["software", "engineer", "developer", "cloud", "cyber", "data", "it", "network", "system", "tech", "linux", "devops", "architect", "programmer"],
     "Healthcare & Aged Care": ["nurse", "doctor", "gp", "medical", "health", "clinic", "hospital", "care", "psycholog", "dental", "speech", "physio", "pathol", "aged care", "caregiver", "allied health"],
@@ -225,8 +230,10 @@ html_content = f"""<!DOCTYPE html>
       <nav class="main-nav" id="primary-navigation" aria-label="Main Navigation">
         <ul class="nav-links">
           <li><a href="/" class="nav-link">Find Jobs</a></li>
-          <li><a href="/visas/subclass-482-tss-jobs.html" class="nav-link">Visa Guides</a></li>
+          <li><a href="/occupations/" class="nav-link">Occupations</a></li>
+          <li><a href="/calculator/" class="nav-link">Calculator</a></li>
           <li><a href="/sponsors/australia-visa-sponsorship-companies-list.html" class="nav-link active">Sponsors Directory</a></li>
+          <li><a href="/visas/subclass-482-tss-jobs.html" class="nav-link">Visa Guides</a></li>
           <li><a href="/faq/" class="nav-link">FAQ</a></li>
           <li><a href="/about.html" class="nav-link">About Us</a></li>
           <li><a href="/contact.html" class="nav-link">Contact</a></li>
@@ -330,6 +337,7 @@ html_content = f"""<!DOCTYPE html>
 """
 
 for co, data in sorted_companies:
+    c_slug = get_company_slug(co)
     sec = data["sector"]
     sec_class = "tech" if "Tech" in sec else ("health" if "Health" in sec else ("corp" if "Corp" in sec else ("trade" if any(x in sec for x in ["Trade", "Eng"]) else ("hosp" if "Hosp" in sec else "all"))))
     roles_count = len(data["roles"])
@@ -353,7 +361,7 @@ for co, data in sorted_companies:
               </span>
             </div>
             <h3 style="font-size:1.15rem; font-weight:800; color:#0f172a; margin-bottom:0.35rem; line-height:1.3;">
-              {co}
+              <a href="{c_slug}-visa-sponsorship-jobs.html" style="color:#0f172a; text-decoration:none;">{co}</a>
             </h3>
             <p style="font-size:0.825rem; color:#64748b; margin-bottom:0.75rem;">
               📍 <strong>Locations:</strong> {cities_str}
@@ -365,8 +373,8 @@ for co, data in sorted_companies:
               </a>
             </div>
           </div>
-          <a href="../jobs/{first_role['slug']}.html" class="btn btn-outline btn-sm" style="width:100%; text-align:center; font-size:0.8rem; font-weight:600; margin-top:0.5rem;">
-            View Sponsor Vacancies &rarr;
+          <a href="{c_slug}-visa-sponsorship-jobs.html" class="btn btn-outline btn-sm" style="width:100%; text-align:center; font-size:0.8rem; font-weight:600; margin-top:0.5rem;">
+            View {roles_count} Sponsor {'Role' if roles_count == 1 else 'Roles'} &rarr;
           </a>
         </div>
 """
@@ -536,6 +544,8 @@ html_content += """
         <div>
           <h4 class="footer-heading">Sponsors &amp; Guides</h4>
           <ul class="footer-links">
+            <li><a href="/calculator/">Eligibility Calculator</a></li>
+            <li><a href="/occupations/">Occupations Directory</a></li>
             <li><a href="/sponsors/australia-visa-sponsorship-companies-list.html">Verified Sponsors Directory</a></li>
             <li><a href="/guides/move-to-australia-from-usa-visa-sponsorship.html">Move to Australia from USA</a></li>
             <li><a href="/guides/uk-citizens-australia-visa-sponsorship-jobs.html">Move to Australia from UK</a></li>
