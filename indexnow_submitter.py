@@ -29,25 +29,35 @@ INDEXNOW_ENDPOINTS = [
 
 
 def get_sitemap_urls(limit=None):
-    """Extracts all active URLs from sitemap.xml."""
-    if not os.path.exists(SITEMAP_FILE):
-        print(f"[ERROR] Sitemap file not found: {SITEMAP_FILE}")
-        return []
+    """Extracts all active URLs from sitemap.xml and sitemap-sponsors.xml."""
+    all_urls = []
+    sitemap_files = [SITEMAP_FILE, os.path.join(BASE_DIR, "sitemap-sponsors.xml")]
+    for s_file in sitemap_files:
+        if not os.path.exists(s_file):
+            continue
+        try:
+            tree = ET.parse(s_file)
+            root = tree.getroot()
+            urls = [
+                elem.text.strip()
+                for elem in root.findall("{http://www.sitemaps.org/schemas/sitemap/0.9}url/{http://www.sitemaps.org/schemas/sitemap/0.9}loc")
+                if elem.text
+            ]
+            all_urls.extend(urls)
+        except Exception as e:
+            print(f"[WARN] Failed to parse {s_file}: {e}")
 
-    try:
-        tree = ET.parse(SITEMAP_FILE)
-        root = tree.getroot()
-        urls = [
-            elem.text.strip()
-            for elem in root.findall("{http://www.sitemaps.org/schemas/sitemap/0.9}url/{http://www.sitemaps.org/schemas/sitemap/0.9}loc")
-            if elem.text
-        ]
-        if limit:
-            return urls[:limit]
-        return urls
-    except Exception as e:
-        print(f"[ERROR] Failed to parse sitemap: {e}")
-        return []
+    # Deduplicate while preserving order
+    seen = set()
+    deduped = []
+    for u in all_urls:
+        if u not in seen:
+            seen.add(u)
+            deduped.append(u)
+
+    if limit:
+        return deduped[:limit]
+    return deduped
 
 
 def submit_urls_indexnow(urls):
