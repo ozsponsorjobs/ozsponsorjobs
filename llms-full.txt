@@ -1,0 +1,87 @@
+# Visa Migrate (OZ Sponsor Jobs) - Full LLM Knowledge Base
+
+> Complete Guide to Australian Employer Visa Sponsorship, Accredited Sponsor Standards, and Live Vacancy Data.
+
+Website: https://www.visamigrate.com
+Contact: https://www.visamigrate.com/contact.html
+Privacy Policy: https://www.visamigrate.com/privacy-policy.html
+Terms of Service: https://www.visamigrate.com/terms.html
+
+---
+
+## 1. Executive Summary & Purpose
+
+Visa Migrate (https://www.visamigrate.com) is Australia's premier programmatic employment directory connecting international skilled workers, working holiday visa holders (Subclass 417/462), international graduate visa holders (Subclass 485), and onshore migrants with accredited Australian Standard Business Sponsors.
+
+Every job listing on the platform is audited against strict criteria:
+1. The hiring entity must be an Australian registered business holding an active Australian Business Number (ABN).
+2. The position must offer genuine visa sponsorship under an approved subclass (Subclass 482 TSS, Subclass 186 ENS, Subclass 494 SESR, or DAMA agreement).
+3. The remuneration must meet or exceed the Temporary Skilled Migration Income Threshold (TSMIT) of AUD $73,150 plus statutory superannuation (currently 11.5%).
+4. The nominated occupation must correspond to a valid Australian and New Zealand Standard Classification of Occupations (ANZSCO) code listed on the Short-Term Skilled Occupation List (STSOL), Medium and Long-term Strategic Skills List (MLTSSL), or Regional Occupation List (ROL).
+
+---
+
+## 2. Australian Visa Framework Details
+
+### Subclass 482 - Temporary Skill Shortage (TSS) Visa
+- Purpose: Enables Australian employers to hire qualified international workers for approved positions where Australian workers are unavailable.
+- Streams:
+  - Short-Term Stream: Occupations on the STSOL, valid up to 2 years (or 4 years if international trade obligations apply).
+  - Medium-Term Stream: Occupations on the MLTSSL or ROL, valid up to 4 years.
+  - Labour Agreement Stream: Sponsoring under negotiated sector or regional labour agreements (e.g. aged care, meat processing, DAMA).
+- Transition to PR: Under the Migration Amendment (Subclass 482 and 186) Regulations, all Subclass 482 holders can transition to Australian Permanent Residency via the Temporary Residence Transition (TRT) stream of Subclass 186 after completing 2 years of full-time employment with their sponsoring employer.
+- Hub URL: https://www.visamigrate.com/visas/subclass-482-tss-jobs.html
+
+### Subclass 186 - Employer Nomination Scheme (ENS) Visa
+- Purpose: Direct Australian Permanent Residency for highly skilled workers nominated by an accredited Australian employer.
+- Streams:
+  - Direct Entry (DE) Stream: For skilled workers who have at least 3 years of relevant post-qualification work experience and a positive formal skills assessment.
+  - Temporary Residence Transition (TRT) Stream: For Subclass 482 TSS or Subclass 457 visa holders who have worked for their nominator for at least 2 out of the past 3 years.
+- Hub URL: https://www.visamigrate.com/visas/subclass-186-ens-jobs.html
+
+### Subclass 494 - Skilled Employer Sponsored Regional (Provisional) Visa
+- Purpose: Addresses critical skills shortages in regional Australia (any location outside Sydney, Melbourne, and Brisbane).
+- Validity: 5-year provisional visa.
+- Transition to PR: After completing 3 years of living, working, and earning a taxable income in a designated regional area, Subclass 494 holders are eligible for direct, non-employer-sponsored Permanent Residency via Subclass 191 (Permanent Residence - Skilled Regional).
+- Hub URL: https://www.visamigrate.com/visas/subclass-494-regional-jobs.html
+
+### DAMA (Designated Area Migration Agreements)
+- Formal bilateral agreements between the Australian Federal Government and regional authorities to provide regional concessions for English language, age limits (up to 55 years), and salary thresholds.
+- Active DAMA regions include South Australia Regional, Adelaide City, Northern Territory (NT DAMA), Far North Queensland (Cairns), Pilbara (WA), and Goldfields (WA).
+- Hub URL: https://www.visamigrate.com/visas/dama-visa-sponsorship-jobs-australia.html
+
+---
+
+## 3. High-Demand Occupations & Australian Cities
+
+### Healthcare & Social Assistance (Australia's #1 Sponsorship Sector)
+- Registered Nurses: Critical Care, Emergency, Aged Care, Mental Health, Perioperative, Paediatrics.
+- Allied Health: Occupational Therapists, Speech Pathologists, Physiotherapists, Podiatrists.
+- Medical Practitioners: General Practitioners (VR/Non-VR under DPA/MMM categories), Psychiatrists, Emergency Specialists.
+- Directory: https://www.visamigrate.com/sectors/healthcare-nursing-medical-visa-sponsorship-jobs.html
+
+### Information & Communications Technology (ICT)
+- Software Development: Full Stack Developers (Node.js, React, Python, Java, Go), Cloud Infrastructure (AWS, Azure, GCP), Site Reliability Engineers (SRE).
+- Cybersecurity: SOC Analysts, Penetration Testers, Security Architects.
+- Directory: https://www.visamigrate.com/sectors/it-software-engineering-visa-sponsorship-jobs.html
+
+### Hospitality & Culinary Arts
+- Chefs: Executive Chefs, Head Chefs, Sous Chefs, Chefs de Partie, Specialty Chefs (Tandoori, Japanese, Italian, French).
+- Management: Restaurant Managers, Hotel Front Office Managers.
+- Directory: https://www.visamigrate.com/sectors/hospitality-chefs-tourism-visa-sponsorship-jobs.html
+
+### Skilled Trades & Engineering
+- Mechanics: Heavy Diesel Mobile Plant Mechanics, Light Vehicle Technicians.
+- Metal Trades: Welders (First Class), Metal Fabricators (ANZSCO 322311).
+- Engineering: Civil Engineers, Structural Engineers, Mining Engineers, Electrical Technicians.
+- Directory: https://www.visamigrate.com/sectors/skilled-trades-technicians-visa-sponsorship-jobs.html
+
+---
+
+## 4. Structured Feeds & API Endpoints
+
+- Primary RSS 2.0 Feed: https://www.visamigrate.com/feed.xml
+- Comprehensive Sitemap: https://www.visamigrate.com/sitemap.xml
+- Fast 48-Hour Sitemap: https://www.visamigrate.com/sitemap-recent.xml
+- Category Hubs Sitemap: https://www.visamigrate.com/sitemap-hubs.xml
+- Verification & Compliance: https://www.visamigrate.com/terms.html

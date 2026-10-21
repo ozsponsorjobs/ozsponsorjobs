@@ -1,0 +1,57 @@
+# Visa Migrate (OZ Sponsor Jobs)
+
+> Premier Australian Visa Sponsorship Job Aggregator & Verified Employer Directory
+
+Visa Migrate (https://www.visamigrate.com) is Australia's dedicated programmatic employment platform connecting qualified international professionals and onshore migrants with accredited Australian Standard Business Sponsors offering genuine employer-sponsored work visas.
+
+All vacancies featured on the platform are pre-audited for visa eligibility, accredited sponsor credentials, and compliance with the Australian Department of Home Affairs regulations.
+
+## Australian Employer-Sponsored Visa Subclasses Covered
+
+- **Subclass 482 (Temporary Skill Shortage - TSS Visa)**: Allows Australian employers to address certified labour shortages by bringing in genuinely skilled workers where qualified Australians cannot be found. Pathways include Short-Term, Medium-Term, and Labour Agreement streams, providing a direct transition pathway to permanent residency via Subclass 186 ENS after 2 years.
+  - Directory: https://www.visamigrate.com/visas/subclass-482-tss-jobs.html
+- **Subclass 186 (Employer Nomination Scheme - ENS Direct PR)**: Grants permanent residency directly to skilled workers nominated by an approved Australian employer. Streams include Direct Entry (DE) and Temporary Residence Transition (TRT).
+  - Directory: https://www.visamigrate.com/visas/subclass-186-ens-jobs.html
+- **Subclass 494 (Skilled Employer Sponsored Regional - Provisional)**: Enables accredited regional Australian employers to sponsor skilled workers to address regional skills needs. Offers a 5-year provisional visa with a dedicated pathway to Permanent Residence (Subclass 191) after 3 years.
+  - Directory: https://www.visamigrate.com/visas/subclass-494-regional-jobs.html
+- **DAMA (Designated Area Migration Agreements)**: Specialized regional migration agreements providing visa concessions (salary, age, language) across regional South Australia, Northern Territory, Far North Queensland, Pilbara, and Regional Victoria.
+  - Directory: https://www.visamigrate.com/visas/dama-visa-sponsorship-jobs-australia.html
+
+## Key Industry Sectors Actively Sponsoring
+
+- **Healthcare, Nursing & Medical**: Registered Nurses (ICU, Aged Care, Emergency, Mental Health), Medical Practitioners, General Practitioners (VR/Non-VR), Speech Pathologists, Occupational Therapists, Dentists, Allied Health.
+  - Directory: https://www.visamigrate.com/sectors/healthcare-nursing-medical-visa-sponsorship-jobs.html
+- **IT & Software Engineering**: Senior Full Stack Developers, Site Reliability Engineers (SRE), Cloud Engineers, Data Scientists, SOC Analysts, Cybersecurity Specialists.
+  - Directory: https://www.visamigrate.com/sectors/it-software-engineering-visa-sponsorship-jobs.html
+- **Hospitality & Chefs**: Executive Chefs, Head Chefs, Sous Chefs, Chefs de Partie, Pastry Chefs, Restaurant & Duty Managers.
+  - Directory: https://www.visamigrate.com/sectors/hospitality-chefs-tourism-visa-sponsorship-jobs.html
+- **Skilled Trades & Technicians**: Heavy Diesel Mechanics, Welders, Metal Fabricators (ANZSCO 322311), Electricians, Piling Rig Operators, Glaziers, Shotcreters.
+  - Directory: https://www.visamigrate.com/sectors/skilled-trades-technicians-visa-sponsorship-jobs.html
+- **Corporate, Management & Business**: Project Managers, HR Business Partners, Digital Product Managers, Financial Accountants, Compliance & Risk Analysts.
+  - Directory: https://www.visamigrate.com/sectors/corporate-management-business-visa-sponsorship-jobs.html
+- **Accounting & Finance**: Audit Seniors, Tax Accountants, Corporate Financial Controllers, Actuarial Analysts.
+  - Directory: https://www.visamigrate.com/sectors/accounting-finance-banking-visa-sponsorship-jobs.html
+
+## Major Regional & Metropolitan Hubs
+
+- **Sydney (New South Wales)**: https://www.visamigrate.com/locations/sydney-nsw-visa-sponsorship-jobs.html
+- **Melbourne (Victoria)**: https://www.visamigrate.com/locations/melbourne-vic-visa-sponsorship-jobs.html
+- **Brisbane (Queensland)**: https://www.visamigrate.com/locations/brisbane-qld-visa-sponsorship-jobs.html
+- **Perth (Western Australia)**: https://www.visamigrate.com/locations/perth-wa-visa-sponsorship-jobs.html
+- **Adelaide (South Australia)**: https://www.visamigrate.com/locations/adelaide-sa-visa-sponsorship-jobs.html
+
+## Authoritative Resources & Guides
+
+- **Visa Sponsorship Frequently Asked Questions (FAQ)**: https://www.visamigrate.com/faq/
+  - Comprehensive answers to 30 core Australian immigration and visa sponsorship queries.
+- **Australia Visa Sponsorship Companies Directory**: https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html
+  - Pre-vetted roster of Australian corporations, healthcare networks, and engineering firms with active sponsorship facilities.
+- **Relocating to Australia from USA Guide**: https://www.visamigrate.com/guides/move-to-australia-from-usa-visa-sponsorship.html
+- **UK Citizens Australia Visa Sponsorship Guide**: https://www.visamigrate.com/guides/uk-citizens-australia-visa-sponsorship-jobs.html
+
+## Data Feeds for Automated Aggregation & Indexing
+
+- **Live RSS 2.0 Feed**: https://www.visamigrate.com/feed.xml
+- **Complete XML Sitemap**: https://www.visamigrate.com/sitemap.xml
+- **Fast 48-Hour Recent Sitemap**: https://www.visamigrate.com/sitemap-recent.xml
+- **Human HTML Sitemap**: https://www.visamigrate.com/sitemap.html

@@ -1,4 +1,40 @@
+# Visa Migrate (OZ Sponsor Jobs) - Robots.txt
+# Policy: Open indexing for search engines, fast-track indexers, and AI/LLM retrieval agents.
+
 User-agent: *
 Allow: /
 
+# Dedicated AI & LLM Search Agents (ChatGPT, Perplexity, Claude, Gemini, Apple Intelligence)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Standard and Fast-Track Sitemaps
 Sitemap: https://www.visamigrate.com/sitemap.xml
+Sitemap: https://www.visamigrate.com/sitemap-recent.xml
+Sitemap: https://www.visamigrate.com/sitemap-hubs.xml
+Sitemap: https://www.visamigrate.com/sitemap-index.xml
+
+# LLM Direct Knowledge Context
+# llms-txt: https://www.visamigrate.com/llms.txt
+# llms-full-txt: https://www.visamigrate.com/llms-full.txt
