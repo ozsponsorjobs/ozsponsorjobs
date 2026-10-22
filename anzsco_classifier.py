@@ -379,16 +379,24 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
     if any(k in t for k in ["child protection", "social worker", "case manager", "youth worker"]):
         return ANZSCO_CATALOG["child_protection_social_worker"]
 
-    # 2. Medical Doctors / Physicians / GPs
-    if any(k in t for k in ["gp ", " gp", "general practitioner", "medical officer", "doctor", "registrar", "psychiatrist", "physician", "dpa/mmm"]):
-        if any(k in t for k in ["specialist", "registrar", "psychiatry", "consultant", "surgeon", "director"]):
-            return ANZSCO_CATALOG["medical_specialist"]
+    # 2. Medical Doctors / Physicians / Specialists / GPs
+    medical_specialist_keywords = [
+        "specialist", "registrar", "psychiatry", "psychiatrist", "surgeon", "surgery",
+        "paediatrician", "pediatrician", "paediatric", "pediatric", "anaesthetist",
+        "anesthetist", "cardiologist", "dermatologist", "neurologist", "oncologist",
+        "pathologist", "radiologist", "obstetrician", "gynaecologist", "gynecologist",
+        "ophthalmologist", "orthopaedic", "orthopedic", "endocrinologist", "gastroenterologist",
+        "nephrologist", "rheumatologist", "urologist", "consultant physician"
+    ]
+    if any(k in t for k in medical_specialist_keywords):
+        return ANZSCO_CATALOG["medical_specialist"]
+    if any(k in t for k in ["gp ", " gp", "general practitioner", "medical officer", "doctor", "physician", "dpa/mmm", "locum gp"]):
         return ANZSCO_CATALOG["doctor_gp"]
 
     # 3. Nurses & Midwives
     if "midwife" in t or "midwifery" in t:
         return ANZSCO_CATALOG["midwife"]
-    if any(k in t for k in ["nurse", "nursing", "rn ", "clinical nurse"]):
+    if any(k in t for k in ["nurse", "nursing", "rn ", "clinical nurse", "enrolled nurse"]):
         return ANZSCO_CATALOG["nurse_registered"]
 
     # 4. Aged Care / Personal Carers / Disability Support
@@ -442,7 +450,12 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
         return ANZSCO_CATALOG["chef_executive"]
     if "cook" in t or "pastry" in t or "barista" in t or "kitchen" in t:
         return ANZSCO_CATALOG["cook_pastry"]
-    if any(k in t for k in ["restaurant manager", "venue manager", "hotel manager", "cafe manager", "hospitality manager", "food and beverage"]):
+    if any(k in t for k in [
+        "restaurant manager", "venue manager", "hotel manager", "cafe manager",
+        "hospitality manager", "food and beverage", "foh", "front of house",
+        "duty manager", "bar manager", "floor manager", "dining room manager",
+        "catering manager", "assistant foh"
+    ]):
         return ANZSCO_CATALOG["restaurant_venue_manager"]
 
     # 11. Administration, Clerical & Operations (PREVENTS 1A - Production Administrator bug!)

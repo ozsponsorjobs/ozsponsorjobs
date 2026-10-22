@@ -17060,32 +17060,6 @@ const JOBS_DATA = [
     "url": "jobs/sydney-pizza-chef-opera-bar-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/land/ad/5872733803?se=rs-wsay28RGv4q9XZ2bJfw&utm_medium=api&utm_source=13c876f1&v=F0540F2348D859F72100063476EE867EBA5395BB",
     "description": ""
-  },
-  {
-    "id": "adzuna-5872260925",
-    "title": "Corporate Receptionist I Sydney",
-    "company": "Jarden's People System",
-    "logoInitial": "J",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-corporate-receptionist-i-sydney-482-186-sponsorship",
-    "url": "jobs/sydney-corporate-receptionist-i-sydney-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/land/ad/5872260925?se=tjFf0myz8RGm1alvctyjWA&utm_medium=api&utm_source=13c876f1&v=75BCC4F75927236895B7D78F2C87DC2C983D87FB",
-    "description": ""
   }
 ];
 
