@@ -6,6 +6,604 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5938050704",
+    "title": "Community Support Workers - Sylvania",
+    "company": "Just Better Care",
+    "logoInitial": "J",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$79,040 - $158,080 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "423111",
+    "posted": "Recently",
+    "slug": "sydney-community-support-workers-sylvania-482-186-sponsorship",
+    "url": "jobs/sydney-community-support-workers-sylvania-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5938050704?utm_medium=api&utm_source=13c876f1",
+    "description": "Just Better Care Eastern Suburbs is seeking compassionate, reliable and dedicated female Community Support Workers to support a client living in Sylvania. The role involves providing 8 hours of support per day, helping t..."
+  },
+  {
+    "id": "adzuna-5938011837",
+    "title": "Stonemason",
+    "company": "Atlas Talents",
+    "logoInitial": "A",
+    "location": "Newcastle, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "newcastle-stonemason-482-186-sponsorship",
+    "url": "jobs/newcastle-stonemason-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5938011837?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Title: Stonemason – Full-Time (Sponsorship Available) Location: Newcastle, NSW We are seeking an experienced Stonemason to join a busy construction team in Newcastle. This is a full-time, long-term role with sponsors..."
+  },
+  {
+    "id": "adzuna-5938010431",
+    "title": "Structural Cleaner",
+    "company": "Category 5 Labour Management",
+    "logoInitial": "C",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "engineering",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$50 - $50 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "233211",
+    "posted": "Recently",
+    "slug": "perth-structural-cleaner-482-494-sponsorship",
+    "url": "jobs/perth-structural-cleaner-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5938010431?utm_medium=api&utm_source=13c876f1",
+    "description": "Structural Cleaner - Port Based Roster: FIFO ex. Perth (7:7 Roster) Location: Port Hedland Employment Type: Casual Structural Cleaner • Meals and Accommodation Provided on 7/7 Roster • Location : Port Hedland • FIFO ex. ..."
+  },
+  {
+    "id": "jooble-2450737441777880945",
+    "title": "Lead BESS Commissioning Engineer Australia",
+    "company": "NHOA Group",
+    "logoInitial": "N",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-lead-bess-commissioning-engineer-australia-482-186-sponsorship",
+    "url": "jobs/sydney-lead-bess-commissioning-engineer-australia-482-186-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/2450737441777880945",
+    "description": " About NHOA Energy \r\n NHOA Energy are a pioneer of utility-scale grid-connected Battery Energy Storage Systems (BESS), granting world-class power supply of firmed renewable energy into the grid.By leveraging our technolo..."
+  },
+  {
+    "id": "adzuna-5937877025",
+    "title": "General Practitioner – Regional & Rural",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "253111",
+    "posted": "Recently",
+    "slug": "adelaide-general-practitioner-regional-rural-482-494-sponsorship",
+    "url": "jobs/adelaide-general-practitioner-regional-rural-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877025?utm_medium=api&utm_source=13c876f1",
+    "description": "General Practitioner – Regional & Rural | WA, SA & NT – Expressions of Interest Location: Regional, rural and remote Western Australia, South Australia and the Northern Territory Employment type: Full-time, permanent Reg..."
+  },
+  {
+    "id": "adzuna-5937877087",
+    "title": "Registered Nurse – Aged Care",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-registered-nurse-aged-care-482-186-sponsorship",
+    "url": "jobs/melbourne-registered-nurse-aged-care-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877087?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Aged Care | Metro Victoria – Expressions of Interest Location: Greater Melbourne and Geelong Employment type: Full-time, permanent Setting: Residential aged care, community and home care Registration r..."
+  },
+  {
+    "id": "adzuna-5937877028",
+    "title": "Registered Nurse – Aged Care",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-registered-nurse-aged-care-482-494-sponsorship",
+    "url": "jobs/perth-registered-nurse-aged-care-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877028?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Aged Care | Western Australia – Expressions of Interest Location: Perth and regional and remote Western Australia (e.g. South West, Great Southern, Wheatbelt, Goldfields, Pilbara, Kimberley) Employment..."
+  },
+  {
+    "id": "adzuna-5937877023",
+    "title": "Registered Nurse – Hospital",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "sydney-registered-nurse-hospital-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurse-hospital-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877023?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Hospital | Metro NSW & ACT – Expressions of Interest Location: Sydney, Newcastle, Wollongong, Central Coast and Canberra Employment type: Full-time, permanent Setting: Public and private hospitals – me..."
+  },
+  {
+    "id": "adzuna-5937877066",
+    "title": "Registered Nurse – Aged Care",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "cairns-registered-nurse-aged-care-482-494-sponsorship",
+    "url": "jobs/cairns-registered-nurse-aged-care-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877066?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Aged Care | Regional & Remote Queensland – Expressions of Interest Location: Regional, rural and remote Queensland (e.g. Wide Bay, Bundaberg, Rockhampton, Mackay, Townsville, Cairns, Far North and Outb..."
+  },
+  {
+    "id": "adzuna-5937877049",
+    "title": "Registered Nurse – Aged Care",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Hobart, TAS",
+    "state": "TAS",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "hobart-registered-nurse-aged-care-482-494-sponsorship",
+    "url": "jobs/hobart-registered-nurse-aged-care-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877049?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Aged Care | Regional Victoria & Tasmania – Expressions of Interest Location: Regional and rural Victoria (e.g. Ballarat, Bendigo, Gippsland, Shepparton, Mildura, Warrnambool) and Tasmania (Hobart, Laun..."
+  },
+  {
+    "id": "adzuna-5937877015",
+    "title": "Registered Nurse – Hospital",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "brisbane-registered-nurse-hospital-482-494-sponsorship",
+    "url": "jobs/brisbane-registered-nurse-hospital-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877015?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Hospital | South East Queensland – Expressions of Interest Location: Brisbane, Gold Coast, Sunshine Coast, Ipswich and Toowoomba Employment type: Full-time, permanent Setting: Public and private hospit..."
+  },
+  {
+    "id": "adzuna-5937877068",
+    "title": "Registered Nurse – Hospital",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "perth-registered-nurse-hospital-482-494-sponsorship",
+    "url": "jobs/perth-registered-nurse-hospital-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877068?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Hospital | Western Australia – Expressions of Interest Location: Perth and regional and remote Western Australia (e.g. South West, Great Southern, Wheatbelt, Goldfields, Pilbara, Kimberley) Employment ..."
+  },
+  {
+    "id": "adzuna-5937877032",
+    "title": "Registered Nurse – Hospital",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "cairns-registered-nurse-hospital-482-494-sponsorship",
+    "url": "jobs/cairns-registered-nurse-hospital-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877032?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Hospital | Regional & Remote Queensland – Expressions of Interest Location: Regional, rural and remote Queensland (e.g. Wide Bay, Bundaberg, Rockhampton, Mackay, Townsville, Cairns, Far North and Outba..."
+  },
+  {
+    "id": "adzuna-5937877030",
+    "title": "Registered Nurse – Hospital",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "adelaide-registered-nurse-hospital-482-494-sponsorship",
+    "url": "jobs/adelaide-registered-nurse-hospital-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877030?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Hospital | South Australia & Northern Territory – Expressions of Interest Location: Adelaide, regional South Australia (e.g. Riverland, Limestone Coast, Eyre Peninsula, Spencer Gulf), Darwin, Alice Spr..."
+  },
+  {
+    "id": "adzuna-5937877006",
+    "title": "General Practitioner – Regional & Rural",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "253111",
+    "posted": "Recently",
+    "slug": "sydney-general-practitioner-regional-rural-482-186-sponsorship",
+    "url": "jobs/sydney-general-practitioner-regional-rural-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877006?utm_medium=api&utm_source=13c876f1",
+    "description": "General Practitioner – Regional & Rural | NSW & ACT – Expressions of Interest Location: Regional and rural New South Wales and the ACT surrounds Employment type: Full-time, permanent Registration required: Current AHPRA ..."
+  },
+  {
+    "id": "adzuna-5937877004",
+    "title": "Registered Nurse – Hospital",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "melbourne-registered-nurse-hospital-482-186-sponsorship",
+    "url": "jobs/melbourne-registered-nurse-hospital-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877004?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Hospital | Metro Victoria – Expressions of Interest Location: Greater Melbourne and Geelong Employment type: Full-time, permanent Setting: Public and private hospitals – medical, surgical, ICU and crit..."
+  },
+  {
+    "id": "adzuna-5937877012",
+    "title": "Registered Nurse – Aged Care",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "adelaide-registered-nurse-aged-care-482-494-sponsorship",
+    "url": "jobs/adelaide-registered-nurse-aged-care-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937877012?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Aged Care | South Australia & Northern Territory – Expressions of Interest Location: Adelaide, regional South Australia (e.g. Riverland, Limestone Coast, Eyre Peninsula, Spencer Gulf), Darwin, Alice Sp..."
+  },
+  {
+    "id": "adzuna-5937876996",
+    "title": "Registered Nurse – Hospital",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Hobart, TAS",
+    "state": "TAS",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254415",
+    "posted": "Recently",
+    "slug": "hobart-registered-nurse-hospital-482-494-sponsorship",
+    "url": "jobs/hobart-registered-nurse-hospital-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937876996?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurse – Hospital | Regional Victoria & Tasmania – Expressions of Interest Location: Regional and rural Victoria (e.g. Ballarat, Bendigo, Gippsland, Shepparton, Mildura, Warrnambool) and Tasmania (Hobart, Launc..."
+  },
+  {
+    "id": "adzuna-5937592980",
+    "title": "Product Analytics Data Scientist with Visa Sponsorship",
+    "company": "Dreamerlabs",
+    "logoInitial": "D",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "technology",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$200 - $500 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "261313",
+    "posted": "Recently",
+    "slug": "sydney-product-analytics-data-scientist-with-visa-sponsorship-482-186-sponsorship",
+    "url": "jobs/sydney-product-analytics-data-scientist-with-visa-sponsorship-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937592980?utm_medium=api&utm_source=13c876f1",
+    "description": "Dreamerlabs, based in Sydney, Australia, is building a new category of interactive entertainment powered by AI characters and real-time experiences. We hire globally and work in-person in Sydney. You’ll own product analy..."
+  },
+  {
+    "id": "adzuna-5937517636",
+    "title": "Halal Slaughter Person",
+    "company": "Australian Country Choice",
+    "logoInitial": "A",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-halal-slaughter-person-482-186-sponsorship",
+    "url": "jobs/sydney-halal-slaughter-person-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937517636?utm_medium=api&utm_source=13c876f1",
+    "description": "Description Australian Country Choice is dedicated to the best-practice supply of high-quality meat products to domestic and export markets. Our operations encompass everything from cattle breeding, backgrounding and lot..."
+  },
+  {
+    "id": "adzuna-5937485571",
+    "title": "Occupational Therapist",
+    "company": "Mildura Disability Support Services",
+    "logoInitial": "M",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$110,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "252411",
+    "posted": "Recently",
+    "slug": "sydney-occupational-therapist-482-186-sponsorship",
+    "url": "jobs/sydney-occupational-therapist-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5937485571?utm_medium=api&utm_source=13c876f1",
+    "description": "Occupational Therapist – Mildura Disability Support Services Location: Buronga / Mildura VIC–NSW Border About the role Mildura Disability Support Services (MDSS) is looking for an Occupational Therapist to join our growi..."
+  },
+  {
+    "id": "adzuna-5936786331",
+    "title": "Halal Slaughter Person",
+    "company": "Australian Country Choice",
+    "logoInitial": "A",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "management",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "brisbane-halal-slaughter-person-482-494-sponsorship",
+    "url": "jobs/brisbane-halal-slaughter-person-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5936786331?utm_medium=api&utm_source=13c876f1",
+    "description": "Description Australian Country Choice is dedicated to the best-practice supply of high-quality meat products to domestic and export markets. Our operations encompass everything from cattle breeding, backgrounding and lot..."
+  },
+  {
+    "id": "adzuna-5936753885",
+    "title": "Community Physiotherapist | Relocation Support and Sponsorship Available",
+    "company": "4 Healthcare Recruitment",
+    "logoInitial": "4",
+    "location": "Geelong, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "252511",
+    "posted": "Recently",
+    "slug": "geelong-community-physiotherapist-relocation-support-and-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/geelong-community-physiotherapist-relocation-support-and-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5936753885?utm_medium=api&utm_source=13c876f1",
+    "description": "Community Physiotherapist Key Points Permanent opportunity with a varied caseload and the flexibility to work across different community settings Relocation assistance and settling-in support may be available for eligibl..."
+  },
+  {
     "id": "adzuna-5936753857",
     "title": "Trainee Optical Dispenser | Castle Hill | No optical experience Required !",
     "company": "Eyecare Recruitment",
@@ -1876,6 +2474,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-channel-management-specialist-sydney-melbourne-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/2768804826604169478",
     "description": ""
+  },
+  {
+    "id": "adzuna-5923054272",
+    "title": "Head of Specialty Coffee - Multi-Site Leadership",
+    "company": "Employer Sponsored Jobs",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$180 - $240 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-head-of-specialty-coffee-multi-site-leadership-482-186-sponsorship",
+    "url": "jobs/sydney-head-of-specialty-coffee-multi-site-leadership-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5923054272?utm_medium=api&utm_source=13c876f1",
+    "description": "Anexcitingopportunityisavailableforanexperiencedspecialtycoffeeleadertojoinafast-growinghospitalitygroupoperatingmultiplepremiumcafélocations.Thisseniorleadershiproleisresponsiblefordrivingtheoverallcoffeestrategy,bevera..."
   },
   {
     "id": "adzuna-5923054217",
@@ -16981,84 +17605,6 @@ const JOBS_DATA = [
     "slug": "sydney-consultant-psychiatrist-482-186-sponsorship",
     "url": "jobs/sydney-consultant-psychiatrist-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5873713150?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5873535799",
-    "title": "General Practitioner - Darwin (MMM2/DPA)",
-    "company": "DXC Medical Recruitment",
-    "logoInitial": "D",
-    "location": "Darwin, NT",
-    "state": "NT",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "253111",
-    "posted": "Recently",
-    "slug": "darwin-general-practitioner-darwin-mmm2dpa-482-494-sponsorship",
-    "url": "jobs/darwin-general-practitioner-darwin-mmm2dpa-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5873535799?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5873076229",
-    "title": "Consultant/Specialist Anaesthetist",
-    "company": "Sante Recruitment",
-    "logoInitial": "S",
-    "location": "Darwin, NT",
-    "state": "NT",
-    "category": "management",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$450,000 - $450,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "darwin-consultantspecialist-anaesthetist-482-494-sponsorship",
-    "url": "jobs/darwin-consultantspecialist-anaesthetist-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5873076229?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5872733803",
-    "title": "Pizza Chef | Opera Bar",
-    "company": "Applejack Hospitality",
-    "logoInitial": "A",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "hospitality",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "351311",
-    "posted": "Recently",
-    "slug": "sydney-pizza-chef-opera-bar-482-186-sponsorship",
-    "url": "jobs/sydney-pizza-chef-opera-bar-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/land/ad/5872733803?se=rs-wsay28RGv4q9XZ2bJfw&utm_medium=api&utm_source=13c876f1&v=F0540F2348D859F72100063476EE867EBA5395BB",
     "description": ""
   }
 ];
