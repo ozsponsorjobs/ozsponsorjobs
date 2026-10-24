@@ -6,6 +6,32 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5939917823",
+    "title": "GENERAL HANDS & LABOURERS",
+    "company": "Express Employment Professionals",
+    "logoInitial": "E",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "management",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "sydney-general-hands-labourers-482-186-sponsorship",
+    "url": "jobs/sydney-general-hands-labourers-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5939917823?utm_medium=api&utm_source=13c876f1",
+    "description": "NOW HIRING - GENERAL HANDS & LABOURES, LANDSCAPERS South-West Sydney | $33-$38 per hour | Monday-Friday We are currently seeking reliable and hardworking General Hands and Labourers for multiple ongoing work opportunitie..."
+  },
+  {
     "id": "adzuna-5938050704",
     "title": "Community Support Workers - Sylvania",
     "company": "Just Better Care",
@@ -30,6 +56,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-community-support-workers-sylvania-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5938050704?utm_medium=api&utm_source=13c876f1",
     "description": "Just Better Care Eastern Suburbs is seeking compassionate, reliable and dedicated female Community Support Workers to support a client living in Sylvania. The role involves providing 8 hours of support per day, helping t..."
+  },
+  {
+    "id": "jooble-2697025880374810385",
+    "title": "Lead BESS Commissioning Engineer Australia",
+    "company": "NHOA Group",
+    "logoInitial": "N",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "management",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$95,000 - $130,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "511112",
+    "posted": "Recently",
+    "slug": "perth-lead-bess-commissioning-engineer-australia-482-494-sponsorship",
+    "url": "jobs/perth-lead-bess-commissioning-engineer-australia-482-494-sponsorship.html",
+    "apply_url": "https://jooble.org/jdp/2697025880374810385",
+    "description": "&nbsp;...headquarters in Perth, NHOA Energy has a global presence: operating in more than 26 countries worldwide with 39 operational sites and <b>employing </b>experts from more than 26 nationalities. \r\n Position: \r\n Con..."
   },
   {
     "id": "adzuna-5938011837",
@@ -836,6 +888,32 @@ const JOBS_DATA = [
     "url": "jobs/perth-building-associate-anzsco-312112-482-494-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5934854870?utm_medium=api&utm_source=13c876f1",
     "description": "Building Associate | ANZSCO 312112 Full Time (38 hours per week) | Perth, WA. Salary: $79,500 – $90,000 plus superannuation (commensurate with experience) About the Opportunity Dust Free Concrete Cutting is a specialist ..."
+  },
+  {
+    "id": "adzuna-5934277678",
+    "title": "Occupational Therapist - Tailored Caseload",
+    "company": "Brightside Recruitment",
+    "logoInitial": "B",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$80,000 - $115,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "252411",
+    "posted": "Recently",
+    "slug": "melbourne-occupational-therapist-tailored-caseload-482-186-sponsorship",
+    "url": "jobs/melbourne-occupational-therapist-tailored-caseload-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5934277678?utm_medium=api&utm_source=13c876f1",
+    "description": "Occupational Therapist Location: Western & Northern Melbourne Employment Type: Full-Time (Part-Time Also Considered) Salary: Up to $115k  Super  bonuses  car options We’re partnering with one of our long-standing and mos..."
   },
   {
     "id": "jooble-4071010203346431105",
@@ -17553,58 +17631,6 @@ const JOBS_DATA = [
     "slug": "sydney-marketing-manager-social-influence-authority-482-186-sponsorship",
     "url": "jobs/sydney-marketing-manager-social-influence-authority-482-186-sponsorship.html",
     "apply_url": "https://jooble.org/jdp/3612639519514729102",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5874383661",
-    "title": "YOW! Expression of Interest - Software Engineer",
-    "company": "Optiver",
-    "logoInitial": "O",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "technology",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "261313",
-    "posted": "Recently",
-    "slug": "sydney-yow-expression-of-interest-software-engineer-482-186-sponsorship",
-    "url": "jobs/sydney-yow-expression-of-interest-software-engineer-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/land/ad/5874383661?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=BD1B5E8D4811C8DBF7D71111B8EA696E71E32A7B",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5873713150",
-    "title": "Consultant Psychiatrist",
-    "company": "Mediix",
-    "logoInitial": "M",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "253399",
-    "posted": "Recently",
-    "slug": "sydney-consultant-psychiatrist-482-186-sponsorship",
-    "url": "jobs/sydney-consultant-psychiatrist-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5873713150?utm_medium=api&utm_source=13c876f1",
     "description": ""
   }
 ];
