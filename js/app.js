@@ -6,6 +6,32 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5941268297",
+    "title": "Midwife – Hospital & Maternity | Regional & Remote NSW",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "sydney-midwife-hospital-maternity-regional-remote-nsw-482-186-sponsorship",
+    "url": "jobs/sydney-midwife-hospital-maternity-regional-remote-nsw-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941268297?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Regional & Remote NSW – Expressions of Interest Location: Regional, rural and remote New South Wales (e.g. Hunter, Northern Rivers, Mid North Coast, New England, Central West, Ri..."
+  },
+  {
     "id": "adzuna-5939917823",
     "title": "GENERAL HANDS & LABOURERS",
     "company": "Express Employment Professionals",
@@ -30,6 +56,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-general-hands-labourers-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5939917823?utm_medium=api&utm_source=13c876f1",
     "description": "NOW HIRING - GENERAL HANDS & LABOURES, LANDSCAPERS South-West Sydney | $33-$38 per hour | Monday-Friday We are currently seeking reliable and hardworking General Hands and Labourers for multiple ongoing work opportunitie..."
+  },
+  {
+    "id": "adzuna-5939292483",
+    "title": "Consultant Psychiatrist | Forensic Mental Health",
+    "company": "CC Medical",
+    "logoInitial": "C",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "253399",
+    "posted": "Recently",
+    "slug": "melbourne-consultant-psychiatrist-forensic-mental-health-482-186-sponsorship",
+    "url": "jobs/melbourne-consultant-psychiatrist-forensic-mental-health-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5939292483?utm_medium=api&utm_source=13c876f1",
+    "description": "Consultant Psychiatrist | Forensic Mental Health Melbourne, Victoria Shape the future of forensic psychiatry through rewarding clinical practice, leadership and service development. Employer visa sponsorship available — ..."
   },
   {
     "id": "adzuna-5938050704",
@@ -17449,188 +17501,6 @@ const JOBS_DATA = [
     "slug": "sydney-graduate-internal-sales-representative-mechanicalengineering-482-186-sponsorship",
     "url": "jobs/sydney-graduate-internal-sales-representative-mechanicalengineering-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5876963009?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5876427299",
-    "title": "Senior Design Engineer",
-    "company": "AVI-SPL",
-    "logoInitial": "A",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-senior-design-engineer-482-186-sponsorship",
-    "url": "jobs/sydney-senior-design-engineer-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/land/ad/5876427299?se=rt3tQBu08RGm1alvctyjWA&utm_medium=api&utm_source=13c876f1&v=757FBCCDEA78BEA2F3666725D1893AFE29584B1A",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5876426580",
-    "title": "Orange Support Worker Children Services",
-    "company": "Westhaven",
-    "logoInitial": "W",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "423111",
-    "posted": "Recently",
-    "slug": "sydney-orange-support-worker-children-services-482-186-sponsorship",
-    "url": "jobs/sydney-orange-support-worker-children-services-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/land/ad/5876426580?se=tjFf0myz8RGm1alvctyjWA&utm_medium=api&utm_source=13c876f1&v=F21C7C4AD9FCADB67DF5B6BAD2BA9D2942509A5F",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5876415243",
-    "title": "Senior Piping Engineer",
-    "company": "Bechtel",
-    "logoInitial": "B",
-    "location": "Brisbane, QLD",
-    "state": "QLD",
-    "category": "management",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "brisbane-senior-piping-engineer-482-494-sponsorship",
-    "url": "jobs/brisbane-senior-piping-engineer-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5876415243?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5876246006",
-    "title": "VR GP | Whitsundays, Qld (DPA/MM5) MRCGP INT Dr Level 3 Supervision",
-    "company": "Susan Hill GP Jobs",
-    "logoInitial": "S",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "healthcare",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$270,400 - $353,600 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "253111",
-    "posted": "Recently",
-    "slug": "sydney-vr-gp-whitsundays-qld-dpamm5-mrcgp-int-dr-level-3-supervision-482-186-sponsorship",
-    "url": "jobs/sydney-vr-gp-whitsundays-qld-dpamm5-mrcgp-int-dr-level-3-supervision-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5876246006?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5875762730",
-    "title": "Drillers - FIFO Australia",
-    "company": "GRiP",
-    "logoInitial": "G",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$105,000 - $125,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-drillers-fifo-australia-482-186-sponsorship",
-    "url": "jobs/sydney-drillers-fifo-australia-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5875762730?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5875690547",
-    "title": "Venue Manager & Assistant Venue Manager",
-    "company": "Artesian Hospitality",
-    "logoInitial": "A",
-    "location": "Gold Coast, QLD",
-    "state": "QLD",
-    "category": "hospitality",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$75,000 - $110,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "141111",
-    "posted": "Recently",
-    "slug": "gold-coast-venue-manager-assistant-venue-manager-482-494-sponsorship",
-    "url": "jobs/gold-coast-venue-manager-assistant-venue-manager-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5875690547?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "jooble-3612639519514729102",
-    "title": "Marketing Manager - Social Influence & Authority",
-    "company": "BNB Chain",
-    "logoInitial": "B",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Part-time",
-    "verifiedSponsor": true,
-    "anzsco": "131112",
-    "posted": "Recently",
-    "slug": "sydney-marketing-manager-social-influence-authority-482-186-sponsorship",
-    "url": "jobs/sydney-marketing-manager-social-influence-authority-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/3612639519514729102",
     "description": ""
   }
 ];
