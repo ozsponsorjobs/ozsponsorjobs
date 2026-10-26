@@ -6,6 +6,240 @@
 // Sample verified Australian Visa Sponsorship jobs
 const JOBS_DATA = [
   {
+    "id": "adzuna-5941516095",
+    "title": "Dental Assistants - Port Macquarie (Sponsorship available!)",
+    "company": "Gorilla Jobs",
+    "logoInitial": "G",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$55,000 - $78,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "252312",
+    "posted": "Recently",
+    "slug": "sydney-dental-assistants-port-macquarie-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-dental-assistants-port-macquarie-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941516095?utm_medium=api&utm_source=13c876f1",
+    "description": "Dental Assistant Opportunities | Port Macquarie Key requirements: Minimum 1 year of dental assisting experience (essential) Reception experience (preferred) Certificate III in Dental Assisting (preferred) Full working ri..."
+  },
+  {
+    "id": "adzuna-5941430374",
+    "title": "Midwife – Hospital & Maternity",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "melbourne-midwife-hospital-maternity-482-186-sponsorship",
+    "url": "jobs/melbourne-midwife-hospital-maternity-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941430374?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Metro Victoria – Expressions of Interest Location: Greater Melbourne and Geelong Employment type: Full-time, permanent Setting: Public and private hospitals – birth suites, anten..."
+  },
+  {
+    "id": "adzuna-5941430384",
+    "title": "Midwife – Hospital & Maternity",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "cairns-midwife-hospital-maternity-482-494-sponsorship",
+    "url": "jobs/cairns-midwife-hospital-maternity-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941430384?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Regional & Remote Queensland – Expressions of Interest Location: Regional, rural and remote Queensland (e.g. Wide Bay, Bundaberg, Rockhampton, Mackay, Townsville, Cairns, Far Nor..."
+  },
+  {
+    "id": "adzuna-5941430340",
+    "title": "Midwife – Hospital & Maternity",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Brisbane, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "brisbane-midwife-hospital-maternity-482-494-sponsorship",
+    "url": "jobs/brisbane-midwife-hospital-maternity-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941430340?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | South East Queensland – Expressions of Interest Location: Brisbane, Gold Coast, Sunshine Coast, Ipswich and Toowoomba Employment type: Full-time, permanent Setting: Public and pr..."
+  },
+  {
+    "id": "adzuna-5941430347",
+    "title": "Midwife – Hospital & Maternity",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "sydney-midwife-hospital-maternity-482-186-sponsorship",
+    "url": "jobs/sydney-midwife-hospital-maternity-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941430347?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Metro NSW & ACT – Expressions of Interest Location: Sydney, Newcastle, Wollongong, Central Coast and Canberra Employment type: Full-time, permanent Setting: Public and private ho..."
+  },
+  {
+    "id": "adzuna-5941430345",
+    "title": "Midwife – Hospital & Maternity",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Hobart, TAS",
+    "state": "TAS",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "hobart-midwife-hospital-maternity-482-494-sponsorship",
+    "url": "jobs/hobart-midwife-hospital-maternity-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941430345?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Regional Victoria & Tasmania – Expressions of Interest Location: Regional and rural Victoria (e.g. Ballarat, Bendigo, Gippsland, Shepparton, Mildura, Warrnambool) and Tasmania (H..."
+  },
+  {
+    "id": "adzuna-5941430334",
+    "title": "Midwife – Hospital & Maternity",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "adelaide-midwife-hospital-maternity-482-494-sponsorship",
+    "url": "jobs/adelaide-midwife-hospital-maternity-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941430334?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | South Australia & Northern Territory – Expressions of Interest Location: Adelaide, regional South Australia (e.g. Riverland, Limestone Coast, Eyre Peninsula, Spencer Gulf), Darwi..."
+  },
+  {
+    "id": "adzuna-5941430366",
+    "title": "Midwife – Hospital & Maternity",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "perth-midwife-hospital-maternity-482-494-sponsorship",
+    "url": "jobs/perth-midwife-hospital-maternity-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941430366?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Western Australia – Expressions of Interest Location: Perth and regional and remote Western Australia (e.g. South West, Great Southern, Wheatbelt, Goldfields, Pilbara, Kimberley)..."
+  },
+  {
+    "id": "adzuna-5941268366",
+    "title": "Midwife – Hospital & Maternity | Western Australia",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Perth, WA",
+    "state": "WA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "perth-midwife-hospital-maternity-western-australia-482-494-sponsorship",
+    "url": "jobs/perth-midwife-hospital-maternity-western-australia-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941268366?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Western Australia – Expressions of Interest Location: Perth and regional and remote Western Australia (e.g. South West, Great Southern, Wheatbelt, Goldfields, Pilbara, Kimberley)..."
+  },
+  {
     "id": "adzuna-5941268297",
     "title": "Midwife – Hospital & Maternity | Regional & Remote NSW",
     "company": "SOLVi Recruitment",
@@ -30,6 +264,136 @@ const JOBS_DATA = [
     "url": "jobs/sydney-midwife-hospital-maternity-regional-remote-nsw-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5941268297?utm_medium=api&utm_source=13c876f1",
     "description": "Midwife – Hospital & Maternity Services | Regional & Remote NSW – Expressions of Interest Location: Regional, rural and remote New South Wales (e.g. Hunter, Northern Rivers, Mid North Coast, New England, Central West, Ri..."
+  },
+  {
+    "id": "adzuna-5941266595",
+    "title": "Midwife – Hospital & Maternity | South Australia & Northern Territory",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Adelaide, SA",
+    "state": "SA",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "adelaide-midwife-hospital-maternity-south-australia-northern-territory-482-494-sponsorship",
+    "url": "jobs/adelaide-midwife-hospital-maternity-south-australia-northern-territory-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941266595?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | South Australia & Northern Territory – Expressions of Interest Location: Adelaide, regional South Australia (e.g. Riverland, Limestone Coast, Eyre Peninsula, Spencer Gulf), Darwi..."
+  },
+  {
+    "id": "adzuna-5941266519",
+    "title": "Midwife – Hospital & Maternity | Regional & Remote Queensland",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Cairns, QLD",
+    "state": "QLD",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "cairns-midwife-hospital-maternity-regional-remote-queensland-482-494-sponsorship",
+    "url": "jobs/cairns-midwife-hospital-maternity-regional-remote-queensland-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941266519?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Regional & Remote Queensland – Expressions of Interest Location: Regional, rural and remote Queensland (e.g. Wide Bay, Bundaberg, Rockhampton, Mackay, Townsville, Cairns, Far Nor..."
+  },
+  {
+    "id": "adzuna-5941266422",
+    "title": "Midwife – Hospital & Maternity | Regional Victoria & Tasmania",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Hobart, TAS",
+    "state": "TAS",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "494"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 494 SESR"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "hobart-midwife-hospital-maternity-regional-victoria-tasmania-482-494-sponsorship",
+    "url": "jobs/hobart-midwife-hospital-maternity-regional-victoria-tasmania-482-494-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941266422?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Regional Victoria & Tasmania – Expressions of Interest Location: Regional and rural Victoria (e.g. Ballarat, Bendigo, Gippsland, Shepparton, Mildura, Warrnambool) and Tasmania (H..."
+  },
+  {
+    "id": "adzuna-5941266393",
+    "title": "Midwife – Hospital & Maternity | Metro NSW & ACT",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "sydney-midwife-hospital-maternity-metro-nsw-act-482-186-sponsorship",
+    "url": "jobs/sydney-midwife-hospital-maternity-metro-nsw-act-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941266393?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Metro NSW & ACT – Expressions of Interest Location: Sydney, Newcastle, Wollongong, Central Coast and Canberra Employment type: Full-time, permanent Setting: Public and private ho..."
+  },
+  {
+    "id": "adzuna-5941266391",
+    "title": "Midwife – Hospital & Maternity | Metro Victoria",
+    "company": "SOLVi Recruitment",
+    "logoInitial": "S",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$90,000 - $140,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": true,
+    "anzsco": "254111",
+    "posted": "Recently",
+    "slug": "melbourne-midwife-hospital-maternity-metro-victoria-482-186-sponsorship",
+    "url": "jobs/melbourne-midwife-hospital-maternity-metro-victoria-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5941266391?utm_medium=api&utm_source=13c876f1",
+    "description": "Midwife – Hospital & Maternity Services | Metro Victoria – Expressions of Interest Location: Greater Melbourne and Geelong Employment type: Full-time, permanent Setting: Public and private hospitals – birth suites, anten..."
   },
   {
     "id": "adzuna-5939917823",
@@ -17397,110 +17761,6 @@ const JOBS_DATA = [
     "slug": "sydney-fifo-chefs-from-brisbane-and-surrounding-suburbs-sponsorship-available-482-186-sponsorship",
     "url": "jobs/sydney-fifo-chefs-from-brisbane-and-surrounding-suburbs-sponsorship-available-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5877797270?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5877183601",
-    "title": "Store Person",
-    "company": "Rockmount",
-    "logoInitial": "R",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$10,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-store-person-482-186-sponsorship",
-    "url": "jobs/sydney-store-person-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5877183601?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "jooble--6357330022029076573",
-    "title": "Claims Customer Solutions Specialist",
-    "company": "BNB Chain",
-    "logoInitial": "B",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "management",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$95,000 - $130,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "sydney-claims-customer-solutions-specialist-482-186-sponsorship",
-    "url": "jobs/sydney-claims-customer-solutions-specialist-482-186-sponsorship.html",
-    "apply_url": "https://jooble.org/jdp/-6357330022029076573",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5877124413",
-    "title": "Maintenance and Grounds Coordinator",
-    "company": "UniLodge",
-    "logoInitial": "U",
-    "location": "Cairns, QLD",
-    "state": "QLD",
-    "category": "management",
-    "visas": [
-      "482",
-      "494"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 494 SESR"
-    ],
-    "salary": "$69,088 - $69,088 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "511112",
-    "posted": "Recently",
-    "slug": "cairns-maintenance-and-grounds-coordinator-482-494-sponsorship",
-    "url": "jobs/cairns-maintenance-and-grounds-coordinator-482-494-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5877124413?utm_medium=api&utm_source=13c876f1",
-    "description": ""
-  },
-  {
-    "id": "adzuna-5876963009",
-    "title": "Graduate Internal Sales Representative - Mechanical/Engineering",
-    "company": "Applied Industrial Technologies",
-    "logoInitial": "A",
-    "location": "Sydney, NSW",
-    "state": "NSW",
-    "category": "trades",
-    "visas": [
-      "482",
-      "186"
-    ],
-    "visaLabels": [
-      "Subclass 482 TSS",
-      "Subclass 186 ENS"
-    ],
-    "salary": "$90,000 - $140,000 AUD",
-    "type": "Full-time",
-    "verifiedSponsor": true,
-    "anzsco": "321212",
-    "posted": "Recently",
-    "slug": "sydney-graduate-internal-sales-representative-mechanicalengineering-482-186-sponsorship",
-    "url": "jobs/sydney-graduate-internal-sales-representative-mechanicalengineering-482-186-sponsorship.html",
-    "apply_url": "https://www.adzuna.com.au/details/5876963009?utm_medium=api&utm_source=13c876f1",
     "description": ""
   }
 ];
