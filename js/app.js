@@ -21,7 +21,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "241411",
@@ -47,7 +47,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -99,7 +99,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -333,7 +333,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "241411",
@@ -359,7 +359,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "241411",
@@ -411,7 +411,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -437,7 +437,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -463,7 +463,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -489,7 +489,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225113",
@@ -541,7 +541,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -567,7 +567,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -593,7 +593,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -619,7 +619,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -645,7 +645,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -671,7 +671,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -697,7 +697,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -723,7 +723,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -749,7 +749,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -775,7 +775,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -801,7 +801,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -827,7 +827,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -853,7 +853,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -879,7 +879,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -905,7 +905,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -931,7 +931,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -1009,7 +1009,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -1035,7 +1035,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "331112",
@@ -1087,7 +1087,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -1113,7 +1113,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253111",
@@ -1139,7 +1139,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1165,7 +1165,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1191,7 +1191,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1217,7 +1217,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1243,7 +1243,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1269,7 +1269,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1295,7 +1295,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1321,7 +1321,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1347,7 +1347,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1373,7 +1373,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253111",
@@ -1399,7 +1399,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1425,7 +1425,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1451,7 +1451,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1503,7 +1503,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "351211",
@@ -1555,7 +1555,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "351211",
@@ -1581,7 +1581,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252511",
@@ -1633,7 +1633,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1685,7 +1685,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253111",
@@ -1711,7 +1711,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -1737,7 +1737,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -1763,7 +1763,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "351311",
@@ -1789,7 +1789,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423313",
@@ -1867,7 +1867,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -1893,7 +1893,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -1919,7 +1919,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -1945,7 +1945,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225113",
@@ -1971,7 +1971,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -1997,7 +1997,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "263111",
@@ -2023,7 +2023,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2049,7 +2049,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2075,7 +2075,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2127,7 +2127,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -2153,10 +2153,10 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
-    "anzsco": "511112",
+    "anzsco": "225113",
     "posted": "2026-10-17",
     "slug": "sydney-sales-commercial-and-rebate-coordinator-482-186-sponsorship",
     "url": "jobs/sydney-sales-commercial-and-rebate-coordinator-482-186-sponsorship.html",
@@ -2205,7 +2205,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -2231,7 +2231,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -2257,7 +2257,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -2387,7 +2387,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -2413,7 +2413,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2439,7 +2439,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2465,7 +2465,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2491,7 +2491,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2517,7 +2517,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2543,7 +2543,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -2569,7 +2569,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -2595,7 +2595,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -2621,7 +2621,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "221111",
@@ -2647,7 +2647,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "351311",
@@ -2699,7 +2699,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "131112",
@@ -2725,7 +2725,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -2803,7 +2803,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -2829,7 +2829,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "133111",
@@ -2855,7 +2855,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -2881,7 +2881,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -2898,7 +2898,7 @@ const JOBS_DATA = [
     "logoInitial": "P",
     "location": "Brisbane, QLD",
     "state": "QLD",
-    "category": "management",
+    "category": "finance",
     "visas": [
       "482",
       "494"
@@ -2907,10 +2907,10 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
-    "anzsco": "511112",
+    "anzsco": "551111",
     "posted": "2026-10-13",
     "slug": "brisbane-accounts-payablereceivable-administrator-482-494-sponsorship",
     "url": "jobs/brisbane-accounts-payablereceivable-administrator-482-494-sponsorship.html",
@@ -2933,7 +2933,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "251513",
@@ -2959,7 +2959,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "233311",
@@ -3011,7 +3011,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "321212",
@@ -3037,7 +3037,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3063,7 +3063,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "241411",
@@ -3089,7 +3089,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3115,7 +3115,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -3141,7 +3141,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3167,7 +3167,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3193,7 +3193,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -3219,7 +3219,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "351311",
@@ -3245,7 +3245,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3271,7 +3271,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3297,7 +3297,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -3323,7 +3323,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3349,7 +3349,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -3375,7 +3375,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "811211",
@@ -3401,7 +3401,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3427,7 +3427,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225212",
@@ -3453,7 +3453,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "811211",
@@ -3479,7 +3479,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "322313",
@@ -3505,7 +3505,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -3583,7 +3583,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "222311",
@@ -3687,7 +3687,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "139999",
@@ -3713,7 +3713,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -3739,7 +3739,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -3765,7 +3765,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -3791,7 +3791,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3817,7 +3817,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -3843,7 +3843,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -3869,7 +3869,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -3895,7 +3895,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225113",
@@ -3921,7 +3921,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -3947,7 +3947,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -3973,7 +3973,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "233311",
@@ -3999,7 +3999,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -4051,7 +4051,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "322313",
@@ -4077,7 +4077,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225412",
@@ -4103,7 +4103,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225113",
@@ -4155,7 +4155,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "322313",
@@ -4233,7 +4233,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "322313",
@@ -4337,7 +4337,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -4389,7 +4389,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261313",
@@ -4415,7 +4415,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -4441,7 +4441,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -4467,7 +4467,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -4493,7 +4493,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -4519,7 +4519,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -4545,7 +4545,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -4571,7 +4571,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -4597,7 +4597,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "351311",
@@ -4623,7 +4623,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "221111",
@@ -4649,7 +4649,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252411",
@@ -4675,7 +4675,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225113",
@@ -4779,7 +4779,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "139999",
@@ -4805,7 +4805,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -4831,7 +4831,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261313",
@@ -4857,7 +4857,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -4883,7 +4883,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261313",
@@ -4909,7 +4909,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225113",
@@ -4935,7 +4935,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261111",
@@ -4961,7 +4961,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261111",
@@ -4987,7 +4987,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5039,7 +5039,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252511",
@@ -5065,7 +5065,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252511",
@@ -5091,7 +5091,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5143,7 +5143,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254111",
@@ -5169,7 +5169,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -5195,7 +5195,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253111",
@@ -5273,7 +5273,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -5299,7 +5299,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5325,7 +5325,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5351,7 +5351,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -5377,7 +5377,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -5403,7 +5403,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "351311",
@@ -5429,7 +5429,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5481,7 +5481,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5507,7 +5507,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5533,7 +5533,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -5585,7 +5585,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "131112",
@@ -5611,7 +5611,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5637,7 +5637,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252411",
@@ -5663,7 +5663,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5689,7 +5689,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5715,7 +5715,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -5741,7 +5741,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -5767,7 +5767,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -5845,7 +5845,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -5871,7 +5871,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -5897,7 +5897,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -5923,7 +5923,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5949,7 +5949,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -5975,10 +5975,10 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
-    "anzsco": "511112",
+    "anzsco": "",
     "posted": "2026-10-01",
     "slug": "sydney-senior-risk-governance-officer-2-year-max-term-482-186-sponsorship",
     "url": "jobs/sydney-senior-risk-governance-officer-2-year-max-term-482-186-sponsorship.html",
@@ -6001,7 +6001,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6027,7 +6027,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6053,7 +6053,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "221111",
@@ -6079,7 +6079,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6105,7 +6105,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6131,7 +6131,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6157,7 +6157,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6183,7 +6183,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6209,7 +6209,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6235,7 +6235,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6261,7 +6261,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6287,7 +6287,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6313,7 +6313,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6339,7 +6339,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6365,7 +6365,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6391,7 +6391,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6417,7 +6417,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6443,7 +6443,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6469,7 +6469,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6495,7 +6495,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "272511",
@@ -6573,7 +6573,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -6599,7 +6599,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252411",
@@ -6625,7 +6625,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "321212",
@@ -6651,7 +6651,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "234711",
@@ -6677,7 +6677,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253111",
@@ -6703,7 +6703,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "321212",
@@ -6729,7 +6729,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6755,7 +6755,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6781,7 +6781,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6807,7 +6807,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6833,7 +6833,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6859,7 +6859,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6885,7 +6885,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6911,7 +6911,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6937,7 +6937,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -6963,7 +6963,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253111",
@@ -6989,7 +6989,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "321212",
@@ -7015,7 +7015,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7041,7 +7041,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7067,7 +7067,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "241411",
@@ -7093,7 +7093,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "324311",
@@ -7119,7 +7119,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252611",
@@ -7145,7 +7145,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7171,7 +7171,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252312",
@@ -7197,7 +7197,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252511",
@@ -7223,7 +7223,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7249,7 +7249,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225113",
@@ -7275,7 +7275,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7301,7 +7301,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7327,7 +7327,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7353,7 +7353,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7379,7 +7379,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7405,7 +7405,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -7431,7 +7431,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -7457,7 +7457,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261111",
@@ -7483,7 +7483,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "223112",
@@ -7509,7 +7509,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7535,7 +7535,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7561,7 +7561,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253111",
@@ -7613,7 +7613,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -7665,7 +7665,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261111",
@@ -7691,7 +7691,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261111",
@@ -7717,7 +7717,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261111",
@@ -7743,7 +7743,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261111",
@@ -7769,7 +7769,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -7795,10 +7795,10 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
-    "anzsco": "511112",
+    "anzsco": "",
     "posted": "2026-09-29",
     "slug": "sydney-dispute-resolution-coordinator-12-month-fixed-term-contract-482-186-sponsorship",
     "url": "jobs/sydney-dispute-resolution-coordinator-12-month-fixed-term-contract-482-186-sponsorship.html",
@@ -7821,7 +7821,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7847,7 +7847,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -7951,7 +7951,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "225113",
@@ -8003,7 +8003,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8029,7 +8029,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -8055,7 +8055,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8081,7 +8081,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "234711",
@@ -8107,7 +8107,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -8133,7 +8133,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8185,7 +8185,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "252312",
@@ -8211,7 +8211,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8237,7 +8237,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8263,7 +8263,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8289,7 +8289,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8341,7 +8341,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8367,7 +8367,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8393,7 +8393,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -8419,7 +8419,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -8445,7 +8445,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "261313",
@@ -8471,7 +8471,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "253399",
@@ -8497,7 +8497,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "423111",
@@ -8523,7 +8523,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 494 SESR"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
@@ -8549,7 +8549,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$90,000 - $140,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "254415",
@@ -8575,7 +8575,7 @@ const JOBS_DATA = [
       "Subclass 482 TSS",
       "Subclass 186 ENS"
     ],
-    "salary": "$95,000 - $130,000 AUD",
+    "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
     "anzsco": "",
