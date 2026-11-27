@@ -2327,6 +2327,7 @@ def render_job_page_html(job: dict, slug: str, related_jobs: list[tuple[dict, st
         <div>
           <h4 class="footer-heading">Platform & Legal</h4>
           <ul class="footer-links">
+            <li><a href="https://whatsapp.com/channel/0029Vb9BIQY4dTnBLzg5PU2V" target="_blank" rel="noopener">Get job alerts on WhatsApp</a></li>
             <li><a href="../calculator/">Eligibility Calculator</a></li>
             <li><a href="../occupations/">Occupations Directory</a></li>
             <li><a href="../faq/">Sponsorship FAQ (2026)</a></li>
@@ -2753,6 +2754,7 @@ def render_hub_page_html(hub: dict, matching_jobs: list[tuple[dict, str]], hub_t
         <div>
           <h4 class="footer-heading">Platform & Legal</h4>
           <ul class="footer-links">
+            <li><a href="https://whatsapp.com/channel/0029Vb9BIQY4dTnBLzg5PU2V" target="_blank" rel="noopener">Get job alerts on WhatsApp</a></li>
             <li><a href="../calculator/">Eligibility Calculator</a></li>
             <li><a href="../occupations/">Occupations Directory</a></li>
             <li><a href="../faq/">Sponsorship FAQ (2026)</a></li>
@@ -3033,6 +3035,7 @@ def render_occupations_index_html(active_jobs: list[tuple[dict, str]]) -> str:
         <div>
           <h4 class="footer-heading">Platform &amp; Legal</h4>
           <ul class="footer-links">
+            <li><a href="https://whatsapp.com/channel/0029Vb9BIQY4dTnBLzg5PU2V" target="_blank" rel="noopener">Get job alerts on WhatsApp</a></li>            
             <li><a href="../calculator/">Eligibility Calculator</a></li>
             <li><a href="index.html">Occupations Directory</a></li>
             <li><a href="../faq/">Sponsorship FAQ (2026)</a></li>
@@ -3527,6 +3530,7 @@ def generate_html_sitemap(active_jobs: list[tuple[dict, str]]):
       <p>&copy; 2026 OZ Sponsor Jobs. Australian visa sponsorship vacancy directory.</p>
       <div class="footer-legal">
         <a href="/">Home</a>
+        <a href="https://whatsapp.com/channel/0029Vb9BIQY4dTnBLzg5PU2V" target="_blank" rel="noopener">Get job alerts on WhatsApp</a>
         <a href="faq/">FAQ</a>
         <a href="sitemap.html">HTML Sitemap</a>
         <a href="privacy-policy.html">Privacy</a>
