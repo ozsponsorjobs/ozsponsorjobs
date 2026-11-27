@@ -1,0 +1,81 @@
+name: Automated Job Aggregator & GitHub Pages Deploy
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - '.gitignore'
+  schedule:
+    # Run every 12 hours (00:00 and 12:00 UTC)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+# Set explicit repository write permissions for automated commits
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'job-generation-and-deploy'
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    env:
+      # API keys come from GitHub Secrets (never hard-coded). A missing key
+      # skips that source gracefully; the generator still rebuilds the site
+      # from the baseline catalog. ADSENSE_CLIENT_ID is optional/empty.
+      ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+      ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+      JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
+      ADSENSE_CLIENT_ID: ${{ secrets.ADSENSE_CLIENT_ID }}
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Execute Automated Job Generator
+        run: |
+          python generate_jobs.py
+
+      # Tests are advisory only: a test failure is logged but must NOT block
+      # the commit/deploy (the generator still produces a valid site).
+      - name: Run Anti-Spam & Schema Verification Tests
+        continue-on-error: true
+        run: |
+          python test_generator.py
+
+      - name: Commit and Push Changes to Main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage all modified and newly generated job files & hubs
+          git add jobs/ visas/ locations/ occupations/ sectors/ sponsors/ guides/ faq/ calculator/ sitemap.xml sitemap-recent.xml sitemap-hubs.xml sitemap-index.xml sitemap-sponsors.xml index.html js/app.js feed.xml robots.txt llms.txt ads.txt
+
+          # Only commit if changes exist.
+          # NOTE: do NOT add "[skip ci]" to the commit message — it would skip
+          # the GitHub Pages deployment workflow and the site would not update.
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "chore(automation): ingest latest jobs, update schema & sitemap"
+            git push origin main
+          fi
