@@ -715,6 +715,12 @@ def classify_job_anzsco(title: str, description: str = "") -> dict | None:
         return ANZSCO_CATALOG["solicitor"]
 
     # 12. Recruitment, Sales, Marketing, Channel Management
+    # Rebate roles are administrative, not sales or marketing: no ANZSCO
+    # unit group covers rebate coordination, so a title containing "rebate"
+    # must skip this whole sales bucket (e.g. "Sales Commercial and
+    # Rebate Coordinator" must NOT become marketing_channel_specialist).
+    # Later rules still apply; if nothing else matches, the code is omitted.
+    _is_rebate_role = "rebate" in t
     if any(k in t for k in ["recruitment", "recruiter", "talent acquisition"]):
         return ANZSCO_CATALOG["hr_recruitment_consultant"]
 
@@ -722,23 +728,23 @@ def classify_job_anzsco(title: str, description: str = "") -> dict | None:
     is_tech_sales = any(k in t for k in ["ict", "software", "saas", "cloud", "technology solutions", "solution sales", "systems engineer", "it sales", "technical account", "tam"]) or (
         any(k in d for k in ["saas", "software as a service", "cloud platform", "ict sales", "digital identity", "cybersecurity"]) and any(w in t for w in ["sales", "account manager"])
     )
-    if is_tech_sales and any(k in t for k in ["business development", "account manager", "sales manager", "sales executive", "sales engineer"]):
+    if not _is_rebate_role and is_tech_sales and any(k in t for k in ["business development", "account manager", "sales manager", "sales executive", "sales engineer"]):
         return ANZSCO_CATALOG["ict_business_development_manager"]
 
     # Channel Management & Marketing Specialists (e.g. BYD, Automotive, Consumer Distribution)
-    if any(k in t for k in ["channel management", "channel specialist", "channel development", "marketing specialist", "brand manager", "marketing coordinator", "campaign manager", "market research", "marketing lead"]):
+    if not _is_rebate_role and any(k in t for k in ["channel management", "channel specialist", "channel development", "marketing specialist", "brand manager", "marketing coordinator", "campaign manager", "market research", "marketing lead"]):
         return ANZSCO_CATALOG["marketing_channel_specialist"]
 
     # Sales & Marketing Leadership / Directors
-    if any(k in t for k in ["sales manager", "marketing manager", "commercial manager", "head of sales", "sales director", "general manager sales"]):
+    if not _is_rebate_role and any(k in t for k in ["sales manager", "marketing manager", "commercial manager", "head of sales", "sales director", "general manager sales"]):
         return ANZSCO_CATALOG["sales_marketing_director"]
 
     # Industrial & Commercial Sales Representatives
-    if any(k in t for k in ["sales representative", "account executive", "territory manager", "sales consultant", "sales executive", "sales advisor", "dealer"]):
+    if not _is_rebate_role and any(k in t for k in ["sales representative", "account executive", "territory manager", "sales consultant", "sales executive", "sales advisor", "dealer"]):
         return ANZSCO_CATALOG["sales_rep_industrial"]
 
     # General Business Development & Marketing Specialist
-    if any(k in t for k in ["sales", "account manager", "business development", "marketing", "channel"]):
+    if not _is_rebate_role and any(k in t for k in ["sales", "account manager", "business development", "marketing", "channel"]):
         return ANZSCO_CATALOG["marketing_channel_specialist"]
 
     if any(k in t for k in ["general manager", "operations manager", "workplaces", "branch manager", "centre manager", "practice manager", "office manager"]):

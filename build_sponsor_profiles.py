@@ -679,6 +679,32 @@ def generate_all_sponsor_profiles(active_jobs: list[tuple[dict, str]] = None) ->
 
     print(f"[OK] Generated {len(generated_files)} individual sponsor profile landing pages in sponsors/")
 
+    # Delete stale sponsor profiles: companies with no active jobs anymore.
+    # The generator used to only ever ADD profiles, so ~150 expired ones
+    # stayed live on disk (served, but unlisted in sitemap-sponsors.xml).
+    # A company that returns with a fresh job gets its profile recreated
+    # on the next run, so deletion is reversible. Safety: only files
+    # matching the generated-profile pattern are ever removed; the master
+    # directory page (australia-visa-sponsorship-companies-list.html) and
+    # any other file are never touched.
+    _expected_profiles = {f"{c_slug}-visa-sponsorship-jobs.html" for c_slug in companies_by_slug}
+    _deleted = 0
+    for _fname in sorted(os.listdir(SPONSORS_DIR)):
+        if _fname == "australia-visa-sponsorship-companies-list.html":
+            continue
+        if not _fname.endswith("-visa-sponsorship-jobs.html"):
+            continue
+        if _fname in _expected_profiles:
+            continue
+        _fpath = os.path.join(SPONSORS_DIR, _fname)
+        if not os.path.isfile(_fpath):
+            continue
+        os.remove(_fpath)
+        print(f"[CLEANUP] Removed stale sponsor profile (no active jobs): {_fname}")
+        _deleted += 1
+    if _deleted:
+        print(f"[OK] Removed {_deleted} stale sponsor profile(s) with no active jobs.")
+
     # Generate dedicated sitemap-sponsors.xml
     sitemap_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -708,12 +734,16 @@ def generate_all_sponsor_profiles(active_jobs: list[tuple[dict, str]] = None) ->
 
     print(f"[OK] sitemap-sponsors.xml generated with {len(generated_urls) + 1} URLs.")
 
-    # Re-generate updated Master Sponsors Directory to link directly to each company profile
+    # Re-generate the Master Sponsors Directory from the active pool.
+    # build_sponsors_directory.py has no main() — its module-level code
+    # builds the directory when imported. It reads job_ledger.json and
+    # keeps ACTIVE jobs only, and the generator saves the ledger before
+    # this point, so the directory lists exactly the companies whose
+    # profiles were (re)generated above: no links to deleted files.
+    # (Import runs the module once per process; this is its only call site.)
     try:
         import build_sponsors_directory
-        print("[*] Updating Master Sponsors Directory with company profile reciprocal links...")
-        # build_sponsors_directory generates the master file
-        # We can also verify or update its card links
+        print("[*] Master Sponsors Directory regenerated from the active pool.")
     except Exception as e:
         print(f"[WARN] Could not update build_sponsors_directory: {e}")
 

@@ -3799,6 +3799,11 @@ def main():
     # 3. Category & Location Hubs
     generate_hubs(valid_jobs_with_slugs)
 
+    # Persist the ledger first: the sponsors directory builder reads
+    # job_ledger.json from disk, so it must see this run's in-memory
+    # updates (expiry flips + newly recorded jobs) to match the profiles.
+    ledger.save()
+
     # 3.5 Generate Programmatic Sponsor Company Profiles Hubs
     try:
         import build_sponsor_profiles
