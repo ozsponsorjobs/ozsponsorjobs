@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-27T12:08:09.042259+00:00",
+  "last_updated": "2026-11-27T16:22:44.055665+00:00",
   "total_indexed": 977,
   "jobs_by_fingerprint": {
     "a86887a21c49a73bc46272327f47ef1c96c740b0aed3ccd481a36f5b4a1ae47f": {
@@ -8738,7 +8738,7 @@
       "posted_date": "2026-09-28T11:17:02Z",
       "expiry_date": "2026-11-27T23:59:59+10:00",
       "indexed_at": "2026-09-28T10:55:25.820024+00:00",
-      "status": "active"
+      "status": "expired"
     },
     "e544eab4fdea7b6e458c31b8c32b3c5033ad263aba533bc4c613180707b935fd": {
       "fingerprint": "e544eab4fdea7b6e458c31b8c32b3c5033ad263aba533bc4c613180707b935fd",
@@ -8753,7 +8753,7 @@
       "posted_date": "2026-09-17T11:06:45Z",
       "expiry_date": "2026-11-27T23:59:59+10:00",
       "indexed_at": "2026-09-28T10:55:39.911236+00:00",
-      "status": "active"
+      "status": "expired"
     },
     "6fbe7549728550b6c5c9ba39374358a614293ab98e99e3d4522607e54a58922e": {
       "fingerprint": "6fbe7549728550b6c5c9ba39374358a614293ab98e99e3d4522607e54a58922e",
@@ -23348,7 +23348,7 @@
       "posted_date": "2026-09-28T11:17:02Z",
       "expiry_date": "2026-11-27T23:59:59+10:00",
       "indexed_at": "2026-09-28T10:55:25.820024+00:00",
-      "status": "active"
+      "status": "expired"
     },
     "adzuna-5886954565": {
       "fingerprint": "e544eab4fdea7b6e458c31b8c32b3c5033ad263aba533bc4c613180707b935fd",
@@ -23363,7 +23363,7 @@
       "posted_date": "2026-09-17T11:06:45Z",
       "expiry_date": "2026-11-27T23:59:59+10:00",
       "indexed_at": "2026-09-28T10:55:39.911236+00:00",
-      "status": "active"
+      "status": "expired"
     },
     "adzuna-5835371730": {
       "fingerprint": "6fbe7549728550b6c5c9ba39374358a614293ab98e99e3d4522607e54a58922e",
@@ -37420,7 +37420,7 @@
       "posted_date": "2026-09-28T11:17:02Z",
       "expiry_date": "2026-11-27T23:59:59+10:00",
       "indexed_at": "2026-09-28T10:55:25.820024+00:00",
-      "status": "active"
+      "status": "expired"
     },
     "melbourne-special-needs-teacher-melbourne-term-1-2027-482-186-sponsorship": {
       "fingerprint": "e544eab4fdea7b6e458c31b8c32b3c5033ad263aba533bc4c613180707b935fd",
@@ -37435,7 +37435,7 @@
       "posted_date": "2026-09-17T11:06:45Z",
       "expiry_date": "2026-11-27T23:59:59+10:00",
       "indexed_at": "2026-09-28T10:55:39.911236+00:00",
-      "status": "active"
+      "status": "expired"
     },
     "sydney-hd-mechanic-new-482-186-sponsorship": {
       "fingerprint": "6fbe7549728550b6c5c9ba39374358a614293ab98e99e3d4522607e54a58922e",
