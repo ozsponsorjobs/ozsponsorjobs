@@ -68,7 +68,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Stage all modified and newly generated job files & hubs
-          git add jobs/ visas/ locations/ occupations/ sectors/ sponsors/ guides/ faq/ calculator/ sitemap.xml sitemap-recent.xml sitemap-hubs.xml sitemap-index.xml sitemap-sponsors.xml index.html js/app.js feed.xml robots.txt llms.txt ads.txt
+          git add jobs/ visas/ locations/ occupations/ sectors/ sponsors/ guides/ faq/ calculator/ job_ledger.json sitemap.xml sitemap-recent.xml sitemap-hubs.xml sitemap-index.xml sitemap-sponsors.xml index.html js/app.js feed.xml robots.txt llms.txt ads.txt
 
           # Only commit if changes exist.
           # NOTE: do NOT add "[skip ci]" to the commit message — it would skip
