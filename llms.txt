@@ -45,9 +45,14 @@ All vacancies featured on the platform are pre-audited for visa eligibility, acc
 - **Visa Sponsorship Frequently Asked Questions (FAQ)**: https://www.visamigrate.com/faq/
   - Comprehensive answers to 30 core Australian immigration and visa sponsorship queries.
 - **Australia Visa Sponsorship Companies Directory**: https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html
-  - Pre-vetted roster of Australian corporations, healthcare networks, and engineering firms with active sponsorship facilities.
+  - Directory of Australian employers with current sponsored job listings. Sponsorship status is not verified by us — check each employer yourself before applying.
 - **Relocating to Australia from USA Guide**: https://www.visamigrate.com/guides/move-to-australia-from-usa-visa-sponsorship.html
 - **UK Citizens Australia Visa Sponsorship Guide**: https://www.visamigrate.com/guides/uk-citizens-australia-visa-sponsorship-jobs.html
+- **How to Find a 482 Visa Sponsorship Job in Australia (2026 Guide)**: https://www.visamigrate.com/guides/find-482-visa-sponsorship-job-australia.html
+- **482 vs 186 vs 494: Which Australian Work Visa Fits You?**: https://www.visamigrate.com/guides/482-vs-186-vs-494-which-visa-fits-you.html
+- **Core Skills Income Threshold (CSIT) Explained: The $79,423 Minimum Salary for Sponsored Workers**: https://www.visamigrate.com/guides/core-skills-income-threshold-csit-explained.html
+- **How to Check If an Australian Employer Is a Genuine Standard Business Sponsor**: https://www.visamigrate.com/guides/check-genuine-standard-business-sponsor-australia.html
+- **Skilled Occupation Lists Explained: CSOL, MLTSSL, STSOL and ROL (2026)**: https://www.visamigrate.com/guides/skilled-occupation-lists-csol-mltssl-stsol-rol-explained.html
 
 ## Data Feeds for Automated Aggregation & Indexing
 
