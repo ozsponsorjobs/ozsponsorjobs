@@ -14,16 +14,16 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Automation, generator & dev scripts (kept locally only)
-generate_jobs.py
-test_generator.py
-requirements.txt
-.github/
-job_ledger.py
-job_ledger.json
+# Secrets & local-only state (never commit)
+
+
+
+
+
+
 google_client_secret.json
 google_tokens.json
-google_indexing_tool.py
+
 indexing_report.json
 indexing_history.json
 x_credentials.json
@@ -34,6 +34,6 @@ twitter_history.json
 telegram_credentials.json
 telegram_publisher.py
 telegram_history.json
-send_to_make.py
-occupations_data.py
-build_sponsor_profiles.py
+
+
+

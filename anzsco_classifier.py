@@ -332,7 +332,193 @@ ANZSCO_CATALOG = {
         "authority": "Australian Computer Society (ACS)",
         "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
         "sector": "technology"
-    }
+    },
+    # 16. Additional occupations (added 2026-11-27).
+    # These titles previously fell through to the 511112 catch-all; each now
+    # maps to its correct ANZSCO code. Titles that match NO rule return None
+    # from classify_job_anzsco() instead of a wrong code.
+    "stonemason": {
+        "anzsco": "331112",
+        "title": "Stonemason",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "trades"
+    },
+    "bricklayer": {
+        "anzsco": "331111",
+        "title": "Bricklayer",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "trades"
+    },
+    "glazier": {
+        "anzsco": "333111",
+        "title": "Glazier",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Short-term Skilled Occupation List (STSOL)",
+        "sector": "trades"
+    },
+    "painter": {
+        "anzsco": "332211",
+        "title": "Painting Trades Worker",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Short-term Skilled Occupation List (STSOL)",
+        "sector": "trades"
+    },
+    "refrigeration_mechanic": {
+        "anzsco": "342111",
+        "title": "Airconditioning and Refrigeration Mechanic",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "trades"
+    },
+    "gardener": {
+        "anzsco": "362211",
+        "title": "Gardener (General)",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "trades"
+    },
+    "drafter": {
+        "anzsco": "312111",
+        "title": "Architectural Draftsperson",
+        "authority": "VETASSESS",
+        "skills_list": "Short-term Skilled Occupation List (STSOL)",
+        "sector": "engineering"
+    },
+    "building_associate": {
+        "anzsco": "312112",
+        "title": "Building Associate",
+        "authority": "VETASSESS",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "engineering"
+    },
+    "architect": {
+        "anzsco": "232111",
+        "title": "Architect",
+        "authority": "Architects Accreditation Council of Australia (AACA)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "engineering"
+    },
+    "project_engineer": {
+        "anzsco": "233999",
+        "title": "Engineering Professionals nec (Project Engineer)",
+        "authority": "Engineers Australia (EA)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "engineering"
+    },
+    "construction_project_manager": {
+        "anzsco": "133111",
+        "title": "Construction Project Manager",
+        "authority": "VETASSESS",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "management"
+    },
+    "pharmacist": {
+        "anzsco": "251513",
+        "title": "Pharmacist",
+        "authority": "Australian Pharmacy Council (APC)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "healthcare"
+    },
+    "sonographer": {
+        "anzsco": "251211",
+        "title": "Medical Imaging Professional (Sonographer / Radiographer)",
+        "authority": "Australian Society of Medical Imaging and Radiation Therapy (ASMIRT)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "healthcare"
+    },
+    "podiatrist": {
+        "anzsco": "252611",
+        "title": "Podiatrist",
+        "authority": "Australian and New Zealand Podiatry Accreditation Council (ANZPAC)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "healthcare"
+    },
+    "solicitor": {
+        "anzsco": "271311",
+        "title": "Solicitor",
+        "authority": "Legal Profession Admission Board (state/territory)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "management"
+    },
+    "university_lecturer": {
+        "anzsco": "242111",
+        "title": "University Lecturer",
+        "authority": "VETASSESS",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "management"
+    },
+    "ict_business_analyst": {
+        "anzsco": "261111",
+        "title": "ICT Business Analyst",
+        "authority": "Australian Computer Society (ACS)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "technology"
+    },
+    "systems_analyst": {
+        "anzsco": "261112",
+        "title": "Systems Analyst",
+        "authority": "Australian Computer Society (ACS)",
+        "skills_list": "Medium and Long-term Strategic Skills List (MLTSSL)",
+        "sector": "technology"
+    },
+    "baker": {
+        "anzsco": "351111",
+        "title": "Baker",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Short-term Skilled Occupation List (STSOL)",
+        "sector": "hospitality"
+    },
+    "butcher": {
+        "anzsco": "351211",
+        "title": "Butcher or Smallgoods Maker",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Short-term Skilled Occupation List (STSOL)",
+        "sector": "hospitality"
+    },
+    "hairdresser": {
+        "anzsco": "391111",
+        "title": "Hairdresser",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Short-term Skilled Occupation List (STSOL)",
+        "sector": "hospitality"
+    },
+    "housekeeper": {
+        "anzsco": "811211",
+        "title": "Commercial Cleaner / Housekeeper",
+        "authority": "Trades Recognition Australia (TRA)",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "trades"
+    },
+    "contract_administrator": {
+        "anzsco": "511111",
+        "title": "Contract Administrator",
+        "authority": "VETASSESS",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "management"
+    },
+    "general_clerk": {
+        "anzsco": "531111",
+        "title": "General Clerk",
+        "authority": "VETASSESS",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "management"
+    },
+    "receptionist": {
+        "anzsco": "542111",
+        "title": "Receptionist (General)",
+        "authority": "VETASSESS",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "management"
+    },
+    "secretary": {
+        "anzsco": "521211",
+        "title": "Secretary (General)",
+        "authority": "VETASSESS",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "management"
+    },
 }
 
 
@@ -365,10 +551,12 @@ def clean_job_title(raw_title: str) -> str:
     return t
 
 
-def classify_job_anzsco(title: str, description: str = "") -> dict:
+def classify_job_anzsco(title: str, description: str = "") -> dict | None:
     """
     Precision multi-stage classification that evaluates Job Title first, then Description.
     Guarantees no false 261313 assignment for administrative, medical, trade, or hospitality jobs.
+    Returns None when no rule matches: callers must OMIT the ANZSCO code instead
+    of stamping a wrong one (the old 511112 catch-all mislabelled 37% of jobs).
     """
     clean_t = clean_job_title(title)
     t = clean_t.lower()
@@ -408,7 +596,7 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
     # 5. Allied Health
     if "physiotherapist" in t or "physio" in t:
         return ANZSCO_CATALOG["physiotherapist"]
-    if "occupational therapist" in t or "ot " in t:
+    if "occupational therapist" in t or re.search(r"\bot\b", t):
         return ANZSCO_CATALOG["occupational_therapist"]
     if "psychologist" in t or "psychology" in t:
         return ANZSCO_CATALOG["psychologist"]
@@ -416,8 +604,15 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
         return ANZSCO_CATALOG["speech_pathologist"]
     if "dentist" in t or "dental" in t:
         return ANZSCO_CATALOG["dentist"]
-    if "vet" in t or "veterinarian" in t:
+    # Word-boundary match: plain "vet" as a substring also matched "veteran".
+    if re.search(r"\bvet\b|\bveterinar\w*", t):
         return ANZSCO_CATALOG["veterinarian"]
+    if "pharmacist" in t or "pharmacy" in t:
+        return ANZSCO_CATALOG["pharmacist"]
+    if any(k in t for k in ["sonographer", "radiographer", "medical imaging"]):
+        return ANZSCO_CATALOG["sonographer"]
+    if "podiatrist" in t or "podiatry" in t:
+        return ANZSCO_CATALOG["podiatrist"]
 
     # 6. Skilled Trades - Welding, Machining, Fitting
     if any(k in t for k in ["welder", "boilermaker", "fabricat", "welding"]):
@@ -426,7 +621,8 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
         return ANZSCO_CATALOG["metal_machinist_fitter"]
 
     # 7. Skilled Trades - Automotive & Mechanics
-    if any(k in t for k in ["spray painter", "panel beater", "glazier", "autoglazier"]):
+    # NOTE: plain "glazier" is building glazing (333111), not vehicle glazing.
+    if any(k in t for k in ["spray painter", "panel beater", "autoglazier"]):
         return ANZSCO_CATALOG["panel_beater_spray_painter"]
     if any(k in t for k in ["mechanic", "diesel", "heavy diesel", "hd mechanic", "motor vehicle"]):
         return ANZSCO_CATALOG["diesel_motor_mechanic"]
@@ -438,8 +634,22 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
         return ANZSCO_CATALOG["carpenter_joiner"]
     if "plumber" in t or "plumbing" in t:
         return ANZSCO_CATALOG["plumber"]
-    if any(k in t for k in ["roofer", "roofing", "tiler", "glazier"]):
+    if any(k in t for k in ["roofer", "roofing", "tiler"]):
         return ANZSCO_CATALOG["roofer_glazier_tiler"]
+    if "glazier" in t:
+        return ANZSCO_CATALOG["glazier"]
+    if any(k in t for k in ["stonemason", "stone mason"]):
+        return ANZSCO_CATALOG["stonemason"]
+    if "bricklayer" in t or "brick layer" in t:
+        return ANZSCO_CATALOG["bricklayer"]
+    if "painter" in t:
+        return ANZSCO_CATALOG["painter"]
+    if any(k in t for k in ["refrigeration", "air conditioning", "hvac"]):
+        return ANZSCO_CATALOG["refrigeration_mechanic"]
+    if any(k in t for k in ["gardener", "garden labourer", "garden laborer"]):
+        return ANZSCO_CATALOG["gardener"]
+    if any(k in t for k in ["housekeeper", "housekeeping", "cleaner"]):
+        return ANZSCO_CATALOG["housekeeper"]
 
     # 9. Transport & Drivers
     if any(k in t for k in ["truck driver", "driver", "transport", "hgv", "mc driver", "hc driver"]):
@@ -450,19 +660,41 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
         return ANZSCO_CATALOG["chef_executive"]
     if "cook" in t or "pastry" in t or "barista" in t or "kitchen" in t:
         return ANZSCO_CATALOG["cook_pastry"]
+    if "baker" in t or "bakery" in t:
+        return ANZSCO_CATALOG["baker"]
+    if any(k in t for k in ["butcher", "meat worker", "slaughter"]):
+        return ANZSCO_CATALOG["butcher"]
+    if "hairdresser" in t or "hair dresser" in t:
+        return ANZSCO_CATALOG["hairdresser"]
     if any(k in t for k in [
         "restaurant manager", "venue manager", "hotel manager", "cafe manager",
         "hospitality manager", "food and beverage", "foh", "front of house",
         "duty manager", "bar manager", "floor manager", "dining room manager",
-        "catering manager", "assistant foh"
+        "catering manager", "assistant foh", "coffee", "head of coffee"
     ]):
         return ANZSCO_CATALOG["restaurant_venue_manager"]
 
-    # 11. Administration, Clerical & Operations (PREVENTS 1A - Production Administrator bug!)
-    if any(k in t for k in ["administrator", "administration", "admin", "clerk", "coordinator", "officer", "receptionist", "secretary"]):
-        if any(k in t for k in ["hr", "human resources", "recruitment", "talent"]):
+    # 11. Administration, Clerical & Operations.
+    # Word-boundary matching only: the old substring checks matched "admin" /
+    # "officer" / "coordinator" / "clerk" inside unrelated words and sent every
+    # unmatched admin-adjacent title to 511112. Clerk / receptionist / secretary
+    # now get their own codes; "contract administrator" is 511111, not 511112.
+    if re.search(r"\bcontract administrator\b", t):
+        return ANZSCO_CATALOG["contract_administrator"]
+    if re.search(r"\b(administrator|administration|coordinator|officer)\b", t):
+        if re.search(r"\b(hr|human resources|recruitment|talent)\b", t):
             return ANZSCO_CATALOG["hr_recruitment_consultant"]
         return ANZSCO_CATALOG["project_production_admin"]
+    if re.search(r"\breceptionist\b", t):
+        return ANZSCO_CATALOG["receptionist"]
+    if re.search(r"\bsecretary\b", t):
+        return ANZSCO_CATALOG["secretary"]
+    if re.search(r"\bclerk\b", t):
+        return ANZSCO_CATALOG["general_clerk"]
+
+    # Legal professionals (before the general sales/management rules).
+    if any(k in t for k in ["solicitor", "lawyer", "legal counsel", "immigration lawyer"]):
+        return ANZSCO_CATALOG["solicitor"]
 
     # 12. Recruitment, Sales, Marketing, Channel Management
     if any(k in t for k in ["recruitment", "recruiter", "talent acquisition"]):
@@ -491,20 +723,34 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
     if any(k in t for k in ["sales", "account manager", "business development", "marketing", "channel"]):
         return ANZSCO_CATALOG["marketing_channel_specialist"]
 
-    if any(k in t for k in ["general manager", "operations manager", "workplaces", "branch manager", "centre manager", "practice manager"]):
+    if any(k in t for k in ["general manager", "operations manager", "workplaces", "branch manager", "centre manager", "practice manager", "office manager"]):
         return ANZSCO_CATALOG["business_operations_manager"]
+    if "construction project manager" in t or "construction manager" in t:
+        return ANZSCO_CATALOG["construction_project_manager"]
 
     # 13. Finance & Accounting
     if any(k in t for k in ["accountant", "accounting", "audit", "tax ", "payroll", "cfo"]):
         return ANZSCO_CATALOG["accountant_auditor"]
-    if any(k in t for k in ["financial analyst", "electricity analyst", "risk analyst", "credit analyst", "pricing analyst"]):
+    if any(k in t for k in ["financial analyst", "electricity analyst", "risk analyst", "credit analyst", "pricing analyst", "investment analyst"]):
         return ANZSCO_CATALOG["financial_analyst"]
 
     # 14. Education & Teaching
-    if any(k in t for k in ["teacher", "educator", "tutor", "lecturer", "teaching"]):
+    if "lecturer" in t or "university lecturer" in t:
+        return ANZSCO_CATALOG["university_lecturer"]
+    if any(k in t for k in ["teacher", "educator", "tutor", "teaching"]):
         return ANZSCO_CATALOG["teacher_secondary_early"]
 
     # 15. Engineers (Civil, Mechanical, Mining, Electrical)
+    # Drafting / building roles first: "civil drafter" contains "civil" but is
+    # not a civil engineer.
+    if "drafter" in t or "draftsperson" in t:
+        return ANZSCO_CATALOG["drafter"]
+    if "building associate" in t:
+        return ANZSCO_CATALOG["building_associate"]
+    # "Architect" only for building architects — software/cloud/solutions
+    # architects are handled by the IT rules in section 16.
+    if "architect" in t and not any(k in t for k in ["software", "cloud", "devops", "data", "solution", "enterprise", "technical", "systems"]):
+        return ANZSCO_CATALOG["architect"]
     if "civil" in t or "structural" in t or "bridge" in t or "tunnel" in t:
         return ANZSCO_CATALOG["civil_engineer"]
     if "mining" in t or "resources" in t or "geologist" in t or "metallurgist" in t:
@@ -513,8 +759,14 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
         return ANZSCO_CATALOG["mechanical_engineer"]
     if "electrical engineer" in t or "rf engineer" in t:
         return ANZSCO_CATALOG["electrical_engineer"]
+    if "project engineer" in t:
+        return ANZSCO_CATALOG["project_engineer"]
 
     # 16. IT & Software Engineering (GENUINE TECH ROLES ONLY)
+    if "business analyst" in t or "ict business analyst" in t:
+        return ANZSCO_CATALOG["ict_business_analyst"]
+    if "systems analyst" in t:
+        return ANZSCO_CATALOG["systems_analyst"]
     if any(k in t for k in ["software", "developer", "frontend", "backend", "full stack", "fullstack", "programmer", "react", "python", "node", "java", "golang"]):
         return ANZSCO_CATALOG["software_programmer"]
     if any(k in t for k in ["devops", "cloud", "aws", "azure", "linux", "systems engineer", "network engineer", "infrastructure engineer", "trading systems"]):
@@ -524,5 +776,6 @@ def classify_job_anzsco(title: str, description: str = "") -> dict:
     if any(k in t for k in ["data engineer", "data analyst", "data scientist", "solutions architect", "enterprise architect"]):
         return ANZSCO_CATALOG["software_programmer"]
 
-    # Fallback to Administration/Management if non-tech, NOT Software Programmer!
-    return ANZSCO_CATALOG["project_production_admin"]
+    # No rule matched: return None. Callers MUST omit the ANZSCO code rather
+    # than stamp a wrong one (the old 511112 catch-all mislabelled 37% of jobs).
+    return None

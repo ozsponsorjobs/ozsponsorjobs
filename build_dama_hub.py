@@ -510,7 +510,7 @@ html_content += """
     <!-- Bottom Navigation -->
     <nav style="border-top:2px solid #e2e8f0; padding-top:2rem; display:flex; justify-content:space-between; flex-wrap:wrap; gap:1rem;">
       <a href="/visas/subclass-494-regional-jobs.html" style="color:#002b49; font-weight:700;">&larr; Subclass 494 Regional Hub</a>
-      <a href="/sponsors/australia-visa-sponsorship-companies-list.html" style="color:#002b49; font-weight:700;">Verified Sponsors Directory &rarr;</a>
+      <a href="/sponsors/australia-visa-sponsorship-companies-list.html" style="color:#002b49; font-weight:700;">Sponsors Directory &rarr;</a>
     </nav>
 
   </main>
@@ -526,7 +526,7 @@ html_content += """
             <span><span class="accent-oz">OZ</span> Sponsor Jobs</span>
           </a>
           <p>
-            Australia's premier job aggregator dedicated exclusively to connecting global talent with verified Standard Business Sponsors offering genuine Australian visa sponsorship.
+            Australia's premier job aggregator dedicated exclusively to connecting global talent with Australian employers offering genuine Australian visa sponsorship.
           </p>
         </div>
 
@@ -554,7 +554,7 @@ html_content += """
         <div>
           <h4 class="footer-heading">Sponsors &amp; Guides</h4>
           <ul class="footer-links">
-            <li><a href="/sponsors/australia-visa-sponsorship-companies-list.html">Verified Sponsors Directory</a></li>
+            <li><a href="/sponsors/australia-visa-sponsorship-companies-list.html">Sponsors Directory</a></li>
             <li><a href="/visas/dama-visa-sponsorship-jobs-australia.html">DAMA Regional Guide</a></li>
             <li><a href="/guides/move-to-australia-from-usa-visa-sponsorship.html">Move to Australia from USA</a></li>
             <li><a href="/guides/uk-citizens-australia-visa-sponsorship-jobs.html">Move to Australia from UK</a></li>

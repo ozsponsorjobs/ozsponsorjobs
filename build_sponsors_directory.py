@@ -82,7 +82,7 @@ html_content = f"""<!DOCTYPE html>
   <!-- Primary SEO Meta Tags -->
   <title>Australia Visa Sponsorship Companies List (2026 Directory) | OZ Sponsor Jobs</title>
   <meta name="title" content="Australia Visa Sponsorship Companies List (2026 Directory) | OZ Sponsor Jobs">
-  <meta name="description" content="Explore {total_cos}+ verified Australian companies actively sponsoring work visas in 2026. Searchable directory of approved Standard Business Sponsors across IT, Healthcare, Engineering & Trades.">
+  <meta name="description" content="Explore {total_cos}+ Australian companies listing work visa sponsorship roles in 2026. Searchable directory of employers offering sponsorship across IT, Healthcare, Engineering & Trades.">
   <meta name="keywords" content="australia visa sponsorship companies list, which companies sponsor visa in australia, australia immigration sponsor list, australia job sponsor list, employer sponsorship companies in australia, companies that sponsor 482 visa australia, accredited sponsors list australia 2026">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
   
@@ -98,7 +98,7 @@ html_content = f"""<!DOCTYPE html>
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html">
   <meta property="og:title" content="Australia Visa Sponsorship Companies List (2026 Directory) | OZ Sponsor Jobs">
-  <meta property="og:description" content="Searchable directory of {total_cos}+ verified Australian employers holding active Standard Business Sponsorship (SBS) accreditation with live vacancies.">
+  <meta property="og:description" content="Searchable directory of {total_cos}+ Australian employers listing visa sponsorship roles with live vacancies.">
   <meta property="og:site_name" content="OZ Sponsor Jobs">
   <meta property="og:locale" content="en_AU">
 
@@ -106,7 +106,7 @@ html_content = f"""<!DOCTYPE html>
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html">
   <meta property="twitter:title" content="Australia Visa Sponsorship Companies List (2026 Directory)">
-  <meta property="twitter:description" content="Searchable directory of {total_cos}+ verified Australian employers holding active Standard Business Sponsorship (SBS) accreditation.">
+  <meta property="twitter:description" content="Searchable directory of {total_cos}+ Australian employers listing visa sponsorship roles.">
 
   <!-- Fonts & Stylesheet -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -129,7 +129,7 @@ html_content = f"""<!DOCTYPE html>
           "url": "https://www.visamigrate.com/"
         }},
         "name": "Australia Visa Sponsorship Companies List (2026 Directory)",
-        "description": "Comprehensive directory of verified Australian Standard Business Sponsors (SBS) actively nominating international workers under Subclass 482, 186, and 494 visas.",
+        "description": "Comprehensive directory of Australian employers listing visa sponsorship roles for international workers under Subclass 482, 186, and 494 visas.",
         "url": "https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html"
       }},
       {{
@@ -167,7 +167,7 @@ html_content = f"""<!DOCTYPE html>
             "name": "How can I verify if an Australian company can legally sponsor my visa?",
             "acceptedAnswer": {{
               "@type": "Answer",
-              "text": "To verify if an Australian company can sponsor you: 1. Confirm they hold an active Australian Business Number (ABN) on the official ABR register (abr.business.gov.au). 2. Verify they possess active Standard Business Sponsor (SBS) accreditation approved by the Department of Home Affairs under the Migration Act 1958. 3. Ensure the offered role pays at or above the statutory TSMIT minimum of AUD $73,150 + 11.5% superannuation. All employers on OZ Sponsor Jobs are pre-verified for active SBS status."
+              "text": "To verify if an Australian company can sponsor you: 1. Confirm they hold an active Australian Business Number (ABN) on the official ABR register (abr.business.gov.au). 2. Verify they possess active Standard Business Sponsor (SBS) accreditation approved by the Department of Home Affairs under the Migration Act 1958. 3. Ensure the offered role pays at or above the statutory TSMIT minimum of AUD $73,150 + 11.5% superannuation. Employers listed on OZ Sponsor Jobs are NOT pre-verified for SBS status — always confirm it with the employer before applying."
             }}
           }},
           {{
@@ -199,7 +199,7 @@ html_content = f"""<!DOCTYPE html>
             "name": "Where can I find the official Australian immigration sponsor list?",
             "acceptedAnswer": {{
               "@type": "Answer",
-              "text": "The Department of Home Affairs publishes a transparency register of approved Standard Business Sponsors. However, because the raw government list does not show which companies currently have open vacancies, specialized platforms like OZ Sponsor Jobs aggregate active job openings cross-referenced with approved SBS employers."
+              "text": "The Department of Home Affairs publishes a transparency register of approved Standard Business Sponsors. However, because the raw government list does not show which companies currently have open vacancies, specialized platforms like OZ Sponsor Jobs aggregate active job openings from employers listing sponsored roles."
             }}
           }}
         ]
@@ -270,14 +270,14 @@ html_content = f"""<!DOCTYPE html>
         Australia Visa Sponsorship Companies List (2026 Directory)
       </h1>
       <p style="font-size: 1.15rem; line-height: 1.6; color: #cbd5e1; max-width: 860px; margin-bottom: 1.5rem;">
-        Discover verified Australian employers and Standard Business Sponsors (SBS) actively hiring international candidates with Subclass 482 TSS, Subclass 186 ENS, and Subclass 494 visa sponsorship.
+        Discover Australian employers listing visa sponsorship roles for international candidates with Subclass 482 TSS, Subclass 186 ENS, and Subclass 494 visa sponsorship.
       </p>
       
       <!-- Metrics Strip -->
       <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(180px, 1fr)); gap:1rem; max-width:860px; margin-top:1.5rem; border-top:1px solid rgba(255,255,255,0.15); padding-top:1.25rem;">
         <div>
           <div style="font-size:1.75rem; font-weight:800; color:#38bdf8;">{total_cos}+</div>
-          <div style="font-size:0.825rem; color:#94a3b8; text-transform:uppercase; font-weight:600;">Verified Sponsors</div>
+          <div style="font-size:0.825rem; color:#94a3b8; text-transform:uppercase; font-weight:600;">Sponsors</div>
         </div>
         <div>
           <div style="font-size:1.75rem; font-weight:800; color:#34d399;">{total_active_jobs}</div>
@@ -302,17 +302,17 @@ html_content = f"""<!DOCTYPE html>
     <div class="bluf-box" style="margin-top:0; margin-bottom: 2.5rem;">
       <strong class="bluf-label">&#10004; Direct Answer (BLUF)</strong>
       <p style="margin-top:0.35rem; color:#064e3b; font-size:1.02rem; line-height:1.65;">
-        To legally sponsor an overseas worker in Australia, an organization must be approved as a <strong>Standard Business Sponsor (SBS)</strong> by the Department of Home Affairs under the <em>Migration Act 1958</em>. Below is our verified index of <strong>{total_cos} Australian employers</strong> actively sponsoring international professionals across Technology, Healthcare, Engineering, and Skilled Trades, complete with live vacancies and permanent residency (Subclass 186 PR) pathways.
+        To legally sponsor an overseas worker in Australia, an organization must be approved as a <strong>Standard Business Sponsor (SBS)</strong> by the Department of Home Affairs under the <em>Migration Act 1958</em>. Below is our index of <strong>{total_cos} Australian employers</strong> listing sponsored roles for international professionals across Technology, Healthcare, Engineering, and Skilled Trades, complete with live vacancies and permanent residency (Subclass 186 PR) pathways.
       </p>
       <div class="legal-authority-badge">
-        &#128220; Source: Australian Department of Home Affairs Register of Standard Business Sponsors (Migration Regulations 1994)
+        &#128220; Source: job listings collected by OZ Sponsor Jobs. SBS status is not verified here — confirm it with the employer before applying.
       </div>
     </div>
 
     <!-- Live Search & Filter Bar -->
     <section style="background:#ffffff; border:1px solid #e2e8f0; border-radius:12px; padding:1.5rem; margin-bottom:2.5rem; box-shadow:var(--shadow-sm);">
       <h3 style="font-size:1.15rem; font-weight:800; color:#002b49; margin-bottom:0.75rem;">
-        🔍 Filter Verified Australian Sponsoring Companies by Sector:
+        🔍 Filter Australian Sponsoring Companies by Sector:
       </h3>
       <div class="filter-pills" style="margin-bottom:0;">
         <button type="button" class="pill-btn active" data-filter="all">All Sectors ({total_cos})</button>
@@ -327,7 +327,7 @@ html_content = f"""<!DOCTYPE html>
     <!-- Company Grid Directory -->
     <section id="sponsors-directory" style="margin-bottom: 3.5rem;">
       <h2 style="font-size: 1.85rem; font-weight: 800; color: #002b49; margin-bottom: 1rem; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">
-        Directory of Verified Sponsoring Employers ({total_cos} Active Companies)
+        Directory of Sponsoring Employers ({total_cos} Active Companies)
       </h2>
       <p style="color:#64748b; margin-bottom:1.5rem; font-size:0.95rem;">
         Click on any company to review their live Australian visa-sponsored vacancies, locations, and PR transition pathways:
@@ -453,7 +453,7 @@ html_content += """
           </button>
           <div class="faq-answer-panel">
             <p>
-              You can verify an employer's credentials through the Department of Home Affairs Standard Business Sponsor register or by checking their active Australian Business Number (ABN) on abr.business.gov.au. On OZ Sponsor Jobs, every listed employer is audited against active SBS compliance criteria.
+              You can verify an employer's credentials through the Department of Home Affairs Standard Business Sponsor register or by checking their active Australian Business Number (ABN) on abr.business.gov.au. OZ Sponsor Jobs does not audit employers against SBS criteria — verification is the applicant's responsibility.
             </p>
           </div>
         </div>
@@ -516,7 +516,7 @@ html_content += """
             <span><span class="accent-oz">OZ</span> Sponsor Jobs</span>
           </a>
           <p>
-            Australia's premier job aggregator dedicated exclusively to connecting global talent with verified Standard Business Sponsors offering genuine Australian visa sponsorship.
+            Australia's premier job aggregator dedicated exclusively to connecting global talent with Australian employers offering genuine Australian visa sponsorship.
           </p>
         </div>
 
@@ -546,7 +546,7 @@ html_content += """
           <ul class="footer-links">
             <li><a href="/calculator/">Eligibility Calculator</a></li>
             <li><a href="/occupations/">Occupations Directory</a></li>
-            <li><a href="/sponsors/australia-visa-sponsorship-companies-list.html">Verified Sponsors Directory</a></li>
+            <li><a href="/sponsors/australia-visa-sponsorship-companies-list.html">Sponsors Directory</a></li>
             <li><a href="/guides/move-to-australia-from-usa-visa-sponsorship.html">Move to Australia from USA</a></li>
             <li><a href="/guides/uk-citizens-australia-visa-sponsorship-jobs.html">Move to Australia from UK</a></li>
             <li><a href="/faq/">Sponsorship FAQ (2026)</a></li>

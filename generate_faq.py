@@ -65,7 +65,7 @@ FAQ_MODULES = [
                   </div>
                   <p>Key channels to explore active Australian sponsorship vacancies include:</p>
                   <ul>
-                    <li><strong>OZ Sponsor Jobs Directory:</strong> Real-time verified openings filtered by Australian cities (<a href="../locations/sydney-nsw-visa-sponsorship-jobs.html">Sydney</a>, <a href="../locations/melbourne-vic-visa-sponsorship-jobs.html">Melbourne</a>, <a href="../locations/brisbane-qld-visa-sponsorship-jobs.html">Brisbane</a>, <a href="../locations/perth-wa-visa-sponsorship-jobs.html">Perth</a>) and shortage categories.</li>
+                    <li><strong>OZ Sponsor Jobs Directory:</strong> Real-time openings filtered by Australian cities (<a href="../locations/sydney-nsw-visa-sponsorship-jobs.html">Sydney</a>, <a href="../locations/melbourne-vic-visa-sponsorship-jobs.html">Melbourne</a>, <a href="../locations/brisbane-qld-visa-sponsorship-jobs.html">Brisbane</a>, <a href="../locations/perth-wa-visa-sponsorship-jobs.html">Perth</a>) and shortage categories.</li>
                     <li><strong>Workforce Australia (Government Portal):</strong> Filter searches using the 'Visa Sponsorship' check-box.</li>
                     <li><strong>SEEK & LinkedIn Australia:</strong> Search boolean strings: <code>"visa sponsorship" OR "482 visa" OR "employer nomination"</code>.</li>
                     <li><strong>Regional Migration Bodies:</strong> Designated Area Migration Agreement (DAMA) regional development authorities across South Australia, Northern Territory, and regional WA.</li>
@@ -121,7 +121,7 @@ FAQ_MODULES = [
                 "answer_html": """
                   <div class="bluf-box">
                     <strong class="bluf-label">&#10004; Direct Answer (BLUF):</strong>
-                    Apply by tailoring your CV to the <strong>Australian standard format</strong> (no photo, focus on measurable KPIs and ANZSCO core duties), explicitly stating your current visa status and sponsorship readiness, and applying directly via verified sponsor listings on OZ Sponsor Jobs.
+                    Apply by tailoring your CV to the <strong>Australian standard format</strong> (no photo, focus on measurable KPIs and ANZSCO core duties), explicitly stating your current visa status and sponsorship readiness, and applying directly via sponsor listings on OZ Sponsor Jobs.
                   </div>
                   <p>Best practices for international candidates applying to Australian employers:</p>
                   <ul>
@@ -154,7 +154,7 @@ FAQ_MODULES = [
             {
                 "id": "q7",
                 "q": "How do I find a company willing to sponsor my visa?",
-                "bluf": "Find companies willing to sponsor by researching registered Standard Business Sponsors in the Home Affairs transparency register, networking with talent acquisition leads on LinkedIn, and searching aggregators like OZ Sponsor Jobs that filter verified sponsors.",
+                "bluf": "Find companies willing to sponsor by researching registered Standard Business Sponsors in the Home Affairs transparency register, networking with talent acquisition leads on LinkedIn, and searching aggregators like OZ Sponsor Jobs that list sponsored roles.",
                 "legal": "Department of Home Affairs - Register of Approved Sponsors",
                 "answer_html": """
                   <div class="bluf-box">
@@ -163,7 +163,7 @@ FAQ_MODULES = [
                   </div>
                   <p>Effective strategies to identify sponsorship-ready companies:</p>
                   <ul>
-                    <li><strong>Consult OZ Sponsor Jobs:</strong> All listings in our <a href="../#jobs-feed-section">live feed</a> are verified Standard Business Sponsors.</li>
+                    <li><strong>Consult OZ Sponsor Jobs:</strong> Our <a href="../#jobs-feed-section">live feed</a> lists sponsored roles from Australian employers; SBS status is not verified — confirm it with the employer before applying.</li>
                     <li><strong>Target Multinational Consultancies & Hospital Networks:</strong> Organizations like Tier-1 IT consultancies, major healthcare networks (NSW Health, Ramsay Health), and national infrastructure contractors sponsor hundreds of skilled migrants annually.</li>
                     <li><strong>Filter by Fast-Track Accredited Sponsors:</strong> Companies that have sponsored over 10 primary visa holders with high compliance earn Accredited Sponsor status, giving their nominees priority processing.</li>
                   </ul>
@@ -218,7 +218,7 @@ FAQ_MODULES = [
                     <strong class="bluf-label">&#10004; Direct Answer (BLUF):</strong>
                     Focus your search on companies in industries with structural talent deficits—such as <strong>cloud computing, nursing, civil infrastructure, and heavy mechanical maintenance</strong>—where Australian businesses possess standing Home Affairs sponsorship approvals.
                   </div>
-                  <p>Explore verified companies across our dedicated sector directories:</p>
+                  <p>Explore companies across our dedicated sector directories:</p>
                   <ul>
                     <li><a href="../sectors/it-software-engineering-visa-sponsorship-jobs.html">IT, Software Engineering & Cloud Specialists</a></li>
                     <li><a href="../sectors/healthcare-nursing-medical-visa-sponsorship-jobs.html">Healthcare, Doctors, Nursing & Allied Clinicians</a></li>
@@ -294,7 +294,7 @@ FAQ_MODULES = [
                 "answer_html": """
                   <div class="bluf-box">
                     <strong class="bluf-label">&#10004; Direct Answer (BLUF):</strong>
-                    Over 500+ active Australian verified vacancies are open under Subclass 482 in 2026, led by <strong>Registered Nurses, Software Engineers, Cloud DevOps Specialists, Civil Project Engineers, and Heavy Diesel Mechanics</strong>.
+                    Over 500+ active Australian vacancies are open under Subclass 482 in 2026, led by <strong>Registered Nurses, Software Engineers, Cloud DevOps Specialists, Civil Project Engineers, and Heavy Diesel Mechanics</strong>.
                   </div>
                   <p>Current distribution of active 482 vacancies on OZ Sponsor Jobs:</p>
                   <ul>
@@ -304,7 +304,7 @@ FAQ_MODULES = [
                     <li><strong>Executive Hospitality:</strong> Head Chefs and Culinary Managers (<a href="../sectors/hospitality-chefs-tourism-visa-sponsorship-jobs.html">View Hospitality vacancies</a>).</li>
                     <li><strong>Heavy Trades:</strong> Heavy Diesel Mechanics and High-Voltage Electricians (<a href="../sectors/skilled-trades-technicians-visa-sponsorship-jobs.html">View Trades vacancies</a>).</li>
                   </ul>
-                  <span class="legal-authority-badge">&#128220; Source: OZ Sponsor Jobs Verified Ledger Data 2026</span>
+                  <span class="legal-authority-badge">&#128220; Source: OZ Sponsor Jobs job ledger, 2026</span>
                 """
             },
             {
@@ -502,7 +502,7 @@ FAQ_MODULES = [
                     <li><strong>Public Healthcare Services:</strong> State hospital systems in NSW, Victoria, and Queensland that sponsor overseas clinicians, nurses, and allied health staff year-round.</li>
                     <li><strong>Regional Enterprises & Mining Contractors:</strong> Specialized engineering contractors and resource providers offering FIFO rosters and generous relocation allowances in Western Australia and Queensland.</li>
                   </ul>
-                  <p>Check all verified employers directly on <a href="../" style="text-decoration:underline; font-weight:700;">OZ Sponsor Jobs</a>.</p>
+                  <p>Check all employers directly on <a href="../" style="text-decoration:underline; font-weight:700;">OZ Sponsor Jobs</a>.</p>
                   <span class="legal-authority-badge">&#128220; Source: Department of Home Affairs - Accredited Status List</span>
                 """
             },
@@ -541,9 +541,9 @@ FAQ_MODULES = [
                     <li>Look for verified Australian Business Numbers (ABN) with active Standard Business Sponsorship accreditation.</li>
                     <li>Review our sector landing hubs where every listed employer has undergone zero-duplicate ledger verification:
                       <ul>
-                        <li><a href="../sectors/it-software-engineering-visa-sponsorship-jobs.html">Verified IT Sponsoring Companies</a></li>
-                        <li><a href="../sectors/healthcare-nursing-medical-visa-sponsorship-jobs.html">Verified Healthcare Networks</a></li>
-                        <li><a href="../sectors/engineering-mining-construction-visa-sponsorship-jobs.html">Verified Engineering & Mining Sponsors</a></li>
+                        <li><a href="../sectors/it-software-engineering-visa-sponsorship-jobs.html">IT Sponsoring Companies</a></li>
+                        <li><a href="../sectors/healthcare-nursing-medical-visa-sponsorship-jobs.html">Healthcare Networks</a></li>
+                        <li><a href="../sectors/engineering-mining-construction-visa-sponsorship-jobs.html">Engineering & Mining Sponsors</a></li>
                       </ul>
                     </li>
                   </ul>
@@ -709,7 +709,7 @@ def clean_text_for_schema(html_str: str) -> str:
 def build_faq_html() -> str:
     canonical_url = f"{SITE_DOMAIN}/faq/"
     title_seo = "Australian Visa Sponsorship FAQ (2026) | Rules, 482 Jobs & Pathways"
-    meta_desc = "Authoritative 2026 guide answering the top 30 Australian visa sponsorship questions. Comprehensive legal criteria for Subclass 482, 186, 494, TSMIT, and verified employers."
+    meta_desc = "Authoritative 2026 guide answering the top 30 Australian visa sponsorship questions. Comprehensive legal criteria for Subclass 482, 186, 494, TSMIT, and sponsoring employers."
 
     # Build Schema.org FAQPage data
     schema_main_entity = []
@@ -885,7 +885,7 @@ def build_faq_html() -> str:
     <div class="container page-header-content">
       <div style="margin-bottom:0.75rem;">
         <span class="info-pill" style="background:rgba(255,255,255,0.15); color:#ffffff; font-weight:700; border:1px solid rgba(255,255,255,0.25);">
-          Verified Australian Migration Reference 2026
+          Australian Migration Reference 2026
         </span>
       </div>
       <h1 style="color:#ffffff; font-size:2.45rem; font-weight:800; line-height:1.2; margin-bottom:0.85rem;">
@@ -926,12 +926,12 @@ def build_faq_html() -> str:
 
       <!-- In-Page CTA Banner -->
       <div style="background:linear-gradient(135deg, var(--color-primary-dark), var(--color-primary)); border-radius:var(--radius-lg); padding:2.5rem; color:#ffffff; text-align:center; margin-top:3.5rem; box-shadow:var(--shadow-md);">
-        <h3 style="font-size:1.65rem; font-weight:800; margin-bottom:0.75rem; color:#ffffff;">Ready to Apply with a Verified Australian Sponsor?</h3>
+        <h3 style="font-size:1.65rem; font-weight:800; margin-bottom:0.75rem; color:#ffffff;">Ready to Apply with an Australian Sponsor?</h3>
         <p style="color:#e2e8f0; font-size:1.05rem; max-width:680px; margin:0 auto 1.5rem; line-height:1.6;">
-          Browse verified Australian vacancies paying at or above the statutory TSMIT ($73,150+ AUD) baseline across technology, healthcare, and engineering.
+          Browse Australian vacancies paying at or above the statutory TSMIT ($73,150+ AUD) baseline across technology, healthcare, and engineering.
         </p>
         <a href="../" class="btn btn-navy" style="background:#ffffff; color:var(--color-primary); font-weight:700; padding:0.85rem 2rem;">
-          Search 500+ Verified Sponsor Jobs &rarr;
+          Search 500+ Sponsor Jobs &rarr;
         </a>
       </div>
 
@@ -948,7 +948,7 @@ def build_faq_html() -> str:
             <span><span class="accent-oz">OZ</span> Sponsor Jobs</span>
           </a>
           <p>
-            Australia's premier programmatic job aggregator connecting skilled international professionals with verified standard business sponsors.
+            Australia's premier programmatic job aggregator connecting skilled international professionals with Australian employers offering visa sponsorship.
           </p>
         </div>
 

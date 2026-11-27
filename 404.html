@@ -3,14 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <!-- SEO & Robots: Instruct search engines not to index 404 error page -->
-  <title>Job Listing Expired or Removed | OZ Sponsor Jobs</title>
-  <meta name="robots" content="noindex, follow">
-  <meta name="description" content="The requested Australian visa sponsorship job listing has expired or been removed. Redirecting to active visa sponsorship opportunities.">
 
-  <!-- Fallback meta refresh for non-JS environments -->
-  <meta id="meta-fallback" http-equiv="refresh" content="4;url=https://www.visamigrate.com/index.html?notice=expired">
+  <!-- SEO & Robots: Instruct search engines not to index the 404 error page -->
+  <title>Page Not Found | OZ Sponsor Jobs</title>
+  <meta name="robots" content="noindex, follow">
+  <meta name="description" content="The page you are looking for does not exist or the job listing has expired or been removed. Browse active Australian visa sponsorship jobs.">
 
   <!-- Fonts & Stylesheet -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,38 +49,49 @@
     </div>
   </header>
 
-  <!-- 404 Main Expired Job Notice Section -->
+  <!-- 404 Main Section -->
   <main id="main-content" class="not-found-hero">
     <div class="not-found-card">
       <div class="not-found-badge">
         <svg style="width:16px;height:16px;" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
         </svg>
-        <span>Listing Removed / Expired</span>
+        <span>Page Not Found</span>
       </div>
 
-      <h1 class="not-found-title">This Job Listing Has Expired or Been Removed</h1>
+      <h1 class="not-found-title">This Page Is Not Available</h1>
 
       <p class="not-found-desc">
-        The employment opportunity you are looking for (<span id="expired-job-name" class="job-slug-pill">Requested Position</span>) is no longer available, has closed, or was removed by the employer.
+        The page you are looking for (<span id="requested-path" class="job-slug-pill">Requested Page</span>) does not exist, or the job listing has expired or been removed.
       </p>
 
-      <div class="redirect-box">
-        <div class="redirect-timer">
-          Redirecting to active visa sponsorship vacancies in <span id="countdown">3</span>s...
+      <!-- Search active jobs (deep-links into the homepage job filter via ?q=) -->
+      <form action="/index.html" method="get" class="not-found-search" style="margin: 1.5rem 0;">
+        <label for="not-found-q" style="display:block; font-weight:600; margin-bottom:0.5rem;">Search active visa sponsorship jobs</label>
+        <div style="display:flex; gap:0.5rem;">
+          <input type="text" id="not-found-q" name="q" placeholder="Job title, ANZSCO code, or company..." aria-label="Keyword search" style="flex:1; padding:0.6rem 0.8rem; border:1px solid #cbd5e1; border-radius:0.5rem;">
+          <button type="submit" class="btn btn-primary">Search</button>
         </div>
-        <div class="progress-track" aria-hidden="true">
-          <div class="progress-fill" id="progress-bar"></div>
-        </div>
-      </div>
+      </form>
 
       <div class="not-found-actions">
-        <a href="/index.html?notice=expired" id="manual-redirect-btn" class="btn btn-primary">
-          Browse Active Jobs Now &rarr;
+        <a href="/index.html" class="btn btn-primary">
+          Browse Active Jobs &rarr;
         </a>
         <a href="/visas/subclass-482-tss-jobs.html" class="btn btn-outline">
           Explore Visa Guides
         </a>
+      </div>
+
+      <div class="not-found-links" style="margin-top:1.5rem; font-size:0.9rem;">
+        <p style="margin-bottom:0.5rem; font-weight:600;">More ways to find a sponsored role:</p>
+        <ul style="list-style:none; padding:0; display:flex; flex-wrap:wrap; gap:0.75rem 1.5rem;">
+          <li><a href="/sponsors/australia-visa-sponsorship-companies-list.html">Sponsors Directory</a></li>
+          <li><a href="/calculator/">Visa Eligibility Calculator</a></li>
+          <li><a href="/visas/subclass-186-ens-jobs.html">Subclass 186 (Direct PR)</a></li>
+          <li><a href="/visas/subclass-494-regional-jobs.html">Subclass 494 (Regional)</a></li>
+          <li><a href="/faq/">FAQ</a></li>
+        </ul>
       </div>
     </div>
   </main>
@@ -98,7 +106,7 @@
             <span><span class="accent-oz">OZ</span> Sponsor Jobs</span>
           </div>
           <p class="footer-desc">
-            Australia's premier job aggregator connecting qualified global talent with accredited Standard Business Sponsors offering genuine Australian visa sponsorship.
+            Australia's premier job aggregator connecting qualified global talent with Australian employers offering genuine Australian visa sponsorship.
           </p>
         </div>
 
@@ -133,80 +141,17 @@
     </div>
   </footer>
 
-  <!-- Dynamic Slug Detection & Smooth Auto-Redirect Engine -->
+  <!-- Show the requested path only (no redirect, no countdown) -->
   <script>
     (function() {
       try {
         var path = window.location.pathname || '';
-        var rawSlug = '';
-
-        // Extract filename from URL (e.g. /2026/07/principal-threat-intelligence-analyst.html)
-        var match = path.match(/\/([^\/]+?)(?:\.html)?$/);
-        if (match && match[1]) {
-          rawSlug = match[1];
-        } else {
-          var segments = path.split('/').filter(Boolean);
-          if (segments.length) rawSlug = segments[segments.length - 1];
+        var el = document.getElementById('requested-path');
+        if (el && path && path !== '/404.html') {
+          el.textContent = path;
         }
-
-        // Clean and format into readable job title
-        var readableTitle = '';
-        if (rawSlug && rawSlug !== '404') {
-          readableTitle = decodeURIComponent(rawSlug)
-            .replace(/[-_]+/g, ' ')
-            .replace(/\b\w/g, function(c) { return c.toUpperCase(); })
-            .trim();
-        }
-
-        var jobEl = document.getElementById('expired-job-name');
-        if (jobEl) {
-          jobEl.textContent = readableTitle ? readableTitle : 'Requested Job';
-        }
-
-        // Prepare redirect target
-        var targetUrl = '/index.html?notice=expired';
-        if (readableTitle) {
-          targetUrl += '&from_job=' + encodeURIComponent(readableTitle);
-        }
-
-        var btn = document.getElementById('manual-redirect-btn');
-        if (btn) {
-          btn.href = targetUrl;
-        }
-
-        var metaFallback = document.getElementById('meta-fallback');
-        if (metaFallback) {
-          metaFallback.setAttribute('content', '4;url=' + targetUrl);
-        }
-
-        // Animated countdown: 3 seconds
-        var totalMs = 3000;
-        var intervalMs = 40;
-        var elapsedMs = 0;
-        var countdownEl = document.getElementById('countdown');
-        var progressBar = document.getElementById('progress-bar');
-
-        var timer = setInterval(function() {
-          elapsedMs += intervalMs;
-          var remainingSec = Math.max(0, Math.ceil((totalMs - elapsedMs) / 1000));
-          if (countdownEl) {
-            countdownEl.textContent = remainingSec;
-          }
-          if (progressBar) {
-            var percent = Math.min(100, (elapsedMs / totalMs) * 100);
-            progressBar.style.width = percent + '%';
-          }
-
-          if (elapsedMs >= totalMs) {
-            clearInterval(timer);
-            window.location.replace(targetUrl);
-          }
-        }, intervalMs);
       } catch (err) {
-        // Safe fallback
-        setTimeout(function() {
-          window.location.replace('/index.html?notice=expired');
-        }, 3000);
+        /* ignore */
       }
     })();
   </script>
