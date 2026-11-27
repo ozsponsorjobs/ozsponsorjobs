@@ -242,9 +242,13 @@ def test_sponsor_profiles():
         master_content = f.read()
     assert '<link rel="canonical" href="https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html">' in master_content
 
-    # Check generated company profile pages
+    # Check generated company profile pages.
+    # NOTE: no fixed floor here — sponsor profiles regenerate from the ACTIVE
+    # job pool only, and that pool shrinks as jobs cross the 45-day expiry
+    # rule (it fell from ~299 to ~163 in Nov 2026), so a hard 200 threshold
+    # goes stale. The sitemap-consistency checks below are the real guard.
     company_files = [f for f in os.listdir(sponsors_dir) if f.endswith("-visa-sponsorship-jobs.html")]
-    assert len(company_files) >= 200, f"Expected at least 200 sponsor profile files, found {len(company_files)}"
+    assert len(company_files) >= 1, "No sponsor profile files found in sponsors/"
 
     sample_sponsors = ["tesla-visa-sponsorship-jobs.html", "mastercard-visa-sponsorship-jobs.html"]
     for sf in sample_sponsors:
@@ -264,8 +268,21 @@ def test_sponsor_profiles():
     tree = ET.parse(sitemap_sponsors_path)
     root = tree.getroot()
     urls = [loc.text for loc in root.findall(".//{http://www.sitemaps.org/schemas/sitemap/0.9}loc")]
-    assert len(urls) >= 200, f"Expected at least 200 URLs in sitemap-sponsors.xml, found {len(urls)}"
+    # NOTE: no fixed 200-URL floor — the sitemap lists the directory page plus
+    # one URL per generated profile, and profiles regenerate from the active
+    # pool only (163 URLs after the Nov 2026 expiry wave). Instead, check the
+    # sitemap is consistent with what was actually generated: non-empty, no
+    # duplicates, the directory page present, and every listed profile URL
+    # maps to a file that exists on disk (no dangling links).
+    assert len(urls) >= 1, "sitemap-sponsors.xml is empty"
+    assert len(urls) == len(set(urls)), "Duplicate URLs in sitemap-sponsors.xml"
+    assert "https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html" in urls
     assert "https://www.visamigrate.com/sponsors/tesla-visa-sponsorship-jobs.html" in urls
+    for u in urls:
+        assert u.startswith("https://www.visamigrate.com/sponsors/"), f"Unexpected URL in sitemap-sponsors.xml: {u}"
+        assert u.endswith(".html"), f"Non-HTML URL in sitemap-sponsors.xml: {u}"
+        fname = u.rsplit("/", 1)[-1]
+        assert os.path.exists(os.path.join(sponsors_dir, fname)), f"Sitemap URL has no file on disk: {u}"
 
     # Check sitemap-index.xml includes sitemap-sponsors.xml
     sitemap_index_path = os.path.join(base_dir, "sitemap-index.xml")
