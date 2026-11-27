@@ -1033,11 +1033,12 @@ def load_baseline_jobs(ledger: JobLedger) -> list[dict]:
     return baseline_catalog
 
 
-def fetch_external_jobs(ledger: JobLedger) -> list[dict]:
+def fetch_external_jobs() -> list[dict]:
     """
     Ingests live Australian visa sponsorship jobs from Adzuna AU API and Jooble API,
     enforcing zero-duplicate verification via JobLedger, and combines with baseline catalog.
     """
+      ledger = JobLedger()
     master_catalog = load_baseline_jobs(ledger)
     
     now = datetime.now(timezone.utc)
@@ -3776,7 +3777,7 @@ def main():
         print("[*] Rebuild Mode: Loading jobs directly from catalog ledger...")
         raw_jobs = load_baseline_jobs(ledger)
     else:
-        raw_jobs = fetch_external_jobs(ledger)
+        raw_jobs = fetch_external_jobs()
     print(f"[*] Total unique approved jobs to process: {len(raw_jobs)}")
 
     valid_jobs_with_slugs = []
