@@ -2156,7 +2156,7 @@ const JOBS_DATA = [
     "salary": "",
     "type": "Full-time",
     "verifiedSponsor": false,
-    "anzsco": "225113",
+    "anzsco": "",
     "posted": "2026-10-17",
     "slug": "sydney-sales-commercial-and-rebate-coordinator-482-186-sponsorship",
     "url": "jobs/sydney-sales-commercial-and-rebate-coordinator-482-186-sponsorship.html",
