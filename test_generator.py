@@ -93,30 +93,45 @@ def test_generated_html_files():
         for s in schema_matches:
             try:
                 data = json.loads(s)
-                if data.get("@type") == "JobPosting":
-                    job_schema_found = True
-                    assert "title" in data and len(data["title"]) > 0
-                    assert "datePosted" in data
-                    assert "validThrough" in data
-                    assert "hiringOrganization" in data
-                    assert "jobLocation" in data
-                    assert "baseSalary" in data
-
-                    # Strict Google for Jobs & Search Console schema compliance checks
-                    assert "address" in data["jobLocation"], f"Missing 'address' in jobLocation in {f}"
-                    addr = data["jobLocation"]["address"]
-                    assert addr.get("@type") == "PostalAddress", f"address is not PostalAddress in {f}"
-                    assert "streetAddress" in addr and len(addr["streetAddress"].strip()) > 0, f"Missing or empty streetAddress in {f}"
-                    assert "postalCode" in addr and len(addr["postalCode"].strip()) > 0, f"Missing or empty postalCode in {f}"
-                    assert "addressLocality" in addr and len(addr["addressLocality"].strip()) > 0, f"Missing addressLocality in {f}"
-                    assert "addressRegion" in addr and len(addr["addressRegion"].strip()) > 0, f"Missing addressRegion in {f}"
-                    assert addr.get("addressCountry") == "AU", f"addressCountry is not AU in {f}"
             except Exception as err:
                 raise AssertionError(f"Invalid JSON in schema of {f}: {err}")
+            if data.get("@type") == "JobPosting":
+                job_schema_found = True
+                assert "title" in data and len(data["title"]) > 0
+                assert "validThrough" in data
+                assert "hiringOrganization" in data
+                assert "jobLocation" in data
+
+                # Honest-schema consistency: visible page text and JSON-LD must
+                # agree. Salary and posting date are OPTIONAL — they are
+                # emitted only when the listing really has them (v1/v2 rule:
+                # never publish an invented figure or date).
+                salary_listed = '<li><strong>Offered Salary:</strong> Not specified in the listing.</li>' not in content
+                if salary_listed:
+                    assert "baseSalary" in data, f"Salary shown on page but baseSalary missing in schema of {f}"
+                    assert data["baseSalary"]["value"].get("minValue"), f"baseSalary without minValue in {f}"
+                    assert data["baseSalary"]["value"].get("unitText") == "YEAR", f"baseSalary unitText is not YEAR in {f}"
+                else:
+                    assert "baseSalary" not in data, f"baseSalary present in schema but no salary listed on page in {f}"
+                if "Posted date not listed" in content:
+                    assert "datePosted" not in data, f"datePosted present in schema but no posting date on page in {f}"
+                else:
+                    assert "datePosted" in data, f"datePosted missing in schema of {f}"
+
+                # Job location is city/state/country only — a street address
+                # and postal code are NEVER fabricated.
+                assert "address" in data["jobLocation"], f"Missing 'address' in jobLocation in {f}"
+                addr = data["jobLocation"]["address"]
+                assert addr.get("@type") == "PostalAddress", f"address is not PostalAddress in {f}"
+                assert "streetAddress" not in addr, f"Fabricated streetAddress in {f}"
+                assert "postalCode" not in addr, f"Fabricated postalCode in {f}"
+                assert "addressLocality" in addr and len(addr["addressLocality"].strip()) > 0, f"Missing addressLocality in {f}"
+                assert "addressRegion" in addr and len(addr["addressRegion"].strip()) > 0, f"Missing addressRegion in {f}"
+                assert addr.get("addressCountry") == "AU", f"addressCountry is not AU in {f}"
 
         assert job_schema_found, f"JobPosting schema not found in {f}"
 
-    print(f"[PASS] All {len(files)} generated job pages contain valid JobPosting JSON-LD (with full streetAddress & postalCode) and canonical tags.")
+    print(f"[PASS] All {len(files)} generated job pages contain valid JobPosting JSON-LD consistent with the visible page (salary/date only when listed; no fabricated address) and canonical tags.")
 
 
 def test_programmatic_hubs():

@@ -855,6 +855,31 @@ def parse_free_text_salary(text: str):
     return normalize_salary_range(lo, hi, text)
 
 
+# Salary pairs the old (pre-v1) pipeline hard-coded as defaults for every job
+# whose real pay was unknown. They were baked into the frozen js/app.js
+# baseline as plain "$90,000 - $140,000 AUD" strings, so a stored pair exactly
+# equal to one of them is not evidence of a real advertised salary.
+_LEGACY_DEFAULT_SALARY_PAIRS = {(90000, 140000), (95000, 130000)}
+
+
+def _is_legacy_default_salary(sal_min, sal_max, raw_text: str) -> bool:
+    """True when a parsed (min, max) pair is exactly one of the old pipeline's
+    hard-coded salary defaults and the source string carries no explicit
+    annual marker (per annum / p.a. / per year / yearly / annual) that would
+    corroborate it as a genuinely advertised annual range. This guards
+    stored baseline strings only — fresh API data never passes through it."""
+    if sal_min is None or sal_max is None:
+        return False
+    try:
+        pair = (int(sal_min), int(sal_max))
+    except (TypeError, ValueError):
+        return False
+    if pair not in _LEGACY_DEFAULT_SALARY_PAIRS:
+        return False
+    low = (raw_text or "").lower()
+    return not any(m in low for m in ("per annum", "per year", "yearly", "annual", "p.a.", "p/a"))
+
+
 def salary_display_for(job: dict) -> str:
     """Display string for the salary pill, or '' when the job has no salary."""
     return job.get("salary_display") or ""
@@ -914,6 +939,11 @@ def load_baseline_jobs(ledger: JobLedger) -> list[dict]:
                     # "$95,000+ AUD") that must not be trusted or re-published.
                     _occ = classify_job_anzsco(item["title"], item.get("description", ""))
                     _sal_min, _sal_max, _sal_display = parse_free_text_salary(item.get("salary"))
+                    # Legacy-default guard: a stored pair exactly equal to one
+                    # of the old pipeline's invented defaults is not a real
+                    # advertised salary — drop it (see _is_legacy_default_salary).
+                    if _is_legacy_default_salary(_sal_min, _sal_max, item.get("salary")):
+                        _sal_min, _sal_max, _sal_display = None, None, None
                     job_entry = {
                         "id": item["id"],
                         "title": item["title"],
@@ -1228,6 +1258,21 @@ def build_rich_article_content(job: dict, location_breadcrumb_url: str) -> tuple
     company = job.get("company", "Australian Sponsor")
     title = job.get("title", "Skilled Professional")
     visas = job.get("visas", ["482", "186"])
+
+    # Expired jobs must not read as open vacancies: the page already carries
+    # an "Applications Closed / Expired" banner, so the article lead below
+    # must say the same thing instead of "currently open". Same expiry test
+    # as render_job_page_html (status flag, or an expiry date already passed).
+    _is_expired = (job.get("status") == "expired")
+    if not _is_expired and job.get("expiry_date"):
+        try:
+            _exp_dt = datetime.fromisoformat(job["expiry_date"])
+            if _exp_dt.tzinfo is None:
+                _exp_dt = _exp_dt.replace(tzinfo=timezone.utc)
+            if _exp_dt < datetime.now(timezone.utc):
+                _is_expired = True
+        except Exception:
+            pass
     
     is_regional = state in ["SA", "WA", "TAS", "NT", "QLD"] or city in [
         "Geelong", "Darwin", "Adelaide", "Hobart", "Newcastle", "Cairns",
@@ -1357,6 +1402,15 @@ def build_rich_article_content(job: dict, location_breadcrumb_url: str) -> tuple
         qual_text = f"Relevant tertiary degree, Advanced Diploma, or recognized vocational qualification accredited by {occ['authority']} under Australian Qualifications Framework (AQF) guidelines."
         eng_text = "Competent English proficiency (IELTS minimum 6.0 or PTE Academic 50+) or statutory passport exemption."
 
+    # Section 1 lead: expired jobs must not read as open vacancies (see
+    # _is_expired above); active jobs keep the "currently open" wording.
+    overview_lead = (
+        f'This vacancy for a <strong>{title}</strong> with <strong>{link_company}</strong> in <strong>{city}, {state}, Australia</strong> has now closed. '
+        f'The details below describe the role and its visa sponsorship pathways for reference — browse our current openings to find similar live roles.'
+        if _is_expired else
+        f'An active opportunity for a <strong>{title}</strong> is currently open with <strong>{link_company}</strong> in <strong>{city}, {state}, Australia</strong>.'
+    )
+
     article_html = f"""
     <div class="prose" style="font-size:1.025rem; line-height:1.8; color:var(--color-text);">
 
@@ -1364,7 +1418,7 @@ def build_rich_article_content(job: dict, location_breadcrumb_url: str) -> tuple
       <div style="background:linear-gradient(135deg, var(--color-primary-subtle), #ffffff); border-left:4px solid var(--color-primary); padding:1.35rem 1.65rem; margin-bottom:2rem; border-radius:0 var(--radius-md) var(--radius-md) 0; box-shadow:var(--shadow-sm);">
         <h2 style="font-size:1.35rem; font-weight:700; color:var(--color-primary); margin-bottom:0.6rem;">Executive Role & Visa Sponsorship Overview</h2>
         <p>
-          An active opportunity for a <strong>{title}</strong> is currently open with <strong>{link_company}</strong> in <strong>{city}, {state}, Australia</strong>. 
+          {overview_lead}
           This role features employer sponsorship eligibility under Australian immigration frameworks ({link_482} / {link_186}), enabling migration pathways for qualified onshore or international professionals seeking to build their career in {link_loc}, explore our {link_occ}, or discover related opportunities in our {link_sector}.
         </p>
       </div>
@@ -2120,7 +2174,7 @@ def render_job_page_html(job: dict, slug: str, related_jobs: list[tuple[dict, st
               <span>{job['city']}, {job['state']}, Australia</span>
               <span>&bull;</span>
               {('<span>ANZSCO: <strong>' + (job.get('anzsco') or occ['anzsco']) + '</strong></span>') if (job.get('anzsco') or occ['anzsco']) else '<span>ANZSCO: <strong>Not classified</strong></span>'}
-              {('<span>&bull;</span><span>Posted ' + (job.get('posted_date') or '')[:10] + '</span>') if job.get('posted_date') else ''}
+              {('<span>&bull;</span><span>Posted ' + (job.get('posted_date') or '')[:10] + '</span>') if job.get('posted_date') else '<span>&bull;</span><span>Posted date not listed</span>'}
               
               {status_badge_html}
             </div>

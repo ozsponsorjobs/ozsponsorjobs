@@ -505,6 +505,13 @@ ANZSCO_CATALOG = {
         "skills_list": "Core Skills Occupation List (CSOL)",
         "sector": "management"
     },
+    "accounts_clerk": {
+        "anzsco": "551111",
+        "title": "Accounts Clerk",
+        "authority": "VETASSESS",
+        "skills_list": "Core Skills Occupation List (CSOL)",
+        "sector": "finance"
+    },
     "receptionist": {
         "anzsco": "542111",
         "title": "Receptionist (General)",
@@ -651,8 +658,10 @@ def classify_job_anzsco(title: str, description: str = "") -> dict | None:
     if any(k in t for k in ["housekeeper", "housekeeping", "cleaner"]):
         return ANZSCO_CATALOG["housekeeper"]
 
-    # 9. Transport & Drivers
-    if any(k in t for k in ["truck driver", "driver", "transport", "hgv", "mc driver", "hc driver"]):
+    # 9. Transport & Drivers — driver-specific terms only. The old "transport"
+    # keyword also matched "Transport Manager" / "Transport Coordinator",
+    # which are not driving roles.
+    if re.search(r"\b(driver|hgv)\b", t):
         return ANZSCO_CATALOG["truck_driver_transport"]
 
     # 10. Hospitality & Chefs
@@ -681,10 +690,19 @@ def classify_job_anzsco(title: str, description: str = "") -> dict | None:
     # now get their own codes; "contract administrator" is 511111, not 511112.
     if re.search(r"\bcontract administrator\b", t):
         return ANZSCO_CATALOG["contract_administrator"]
+    # Accounts clerks (payable / receivable / payroll) are 551111, not 511112.
+    if re.search(r"\b(accounts?\s+(payable|receivable)|payroll\s+(clerk|officer|administrator)|accounts?\s+clerk)\b", t):
+        return ANZSCO_CATALOG["accounts_clerk"]
     if re.search(r"\b(administrator|administration|coordinator|officer)\b", t):
         if re.search(r"\b(hr|human resources|recruitment|talent)\b", t):
             return ANZSCO_CATALOG["hr_recruitment_consultant"]
-        return ANZSCO_CATALOG["project_production_admin"]
+        # 511112 is "Program or Project Administrator": map here ONLY when the
+        # title actually says project/program. A generic coordinator, officer
+        # or administrator (e.g. "Rebate Coordinator", "Office Administrator",
+        # "Compliance Officer") is NOT a program administrator — fall through
+        # and omit the code if nothing else matches.
+        if re.search(r"\b(project|program|programme)\b", t):
+            return ANZSCO_CATALOG["project_production_admin"]
     if re.search(r"\breceptionist\b", t):
         return ANZSCO_CATALOG["receptionist"]
     if re.search(r"\bsecretary\b", t):
