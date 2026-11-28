@@ -3412,6 +3412,32 @@ const JOBS_DATA = [
     "description": "Assessment and disability Psychology across Australia About the role Community and disability psychology roles, placed with Australian employers who sponsor qualified psychologists. The primary focus is psychological ass..."
   },
   {
+    "id": "adzuna-5964159637",
+    "title": "Physiotherapist - Ballina",
+    "company": "Javiera Ski",
+    "logoInitial": "J",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "",
+    "type": "Full-time",
+    "verifiedSponsor": false,
+    "anzsco": "252511",
+    "posted": "2026-11-13",
+    "slug": "melbourne-physiotherapist-ballina-482-186-sponsorship",
+    "url": "jobs/melbourne-physiotherapist-ballina-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5964159637?utm_medium=api&utm_source=13c876f1",
+    "description": "Job Description Physiotherapist | Sponsorship & PR Pathway | Regional VIC & NSW Secure your future in Australia with a clear pathway to Permanent Residency. Are you an onshore Physiotherapist looking for a role that offe..."
+  },
+  {
     "id": "adzuna-5961707717",
     "title": "Head Chef, Sous Chef & Chef de Partie - Sponsorship Available",
     "company": "Australia Chef Migration",
@@ -11548,6 +11574,32 @@ const JOBS_DATA = [
     "url": "jobs/sydney-registered-nurse-swansea-part-time-casual-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/land/ad/5896453219?se=HsNRREXD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=13c876f1&v=B7E9F08E6261A012F1EAD51F1C55280FD8E00296",
     "description": ""
+  },
+  {
+    "id": "adzuna-5896056643",
+    "title": "Specialist Consultant - Psychiatry",
+    "company": "Medrecruit",
+    "logoInitial": "M",
+    "location": "Melbourne, VIC",
+    "state": "VIC",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "",
+    "type": "Full-time",
+    "verifiedSponsor": false,
+    "anzsco": "253399",
+    "posted": "2026-09-24",
+    "slug": "melbourne-specialist-consultant-psychiatry-482-186-sponsorship",
+    "url": "jobs/melbourne-specialist-consultant-psychiatry-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5896056643?utm_medium=api&utm_source=13c876f1",
+    "description": "Consultant Psychiatrist – Inpatient Mental Health Location: Albury Wodonga, NSW/VIC Border Region, Australia Employment Type: Permanent Full-Time (part-time hours negotiable) Start Date: Negotiable Salary: Competitive (a..."
   },
   {
     "id": "adzuna-5894810090",
