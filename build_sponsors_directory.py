@@ -333,7 +333,7 @@ html_content = f"""<!DOCTYPE html>
         Click on any company to review their live Australian visa-sponsored vacancies, locations, and PR transition pathways:
       </p>
 
-      <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(320px, 1fr)); gap:1.25rem;">
+      <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(min(320px, 100%), 1fr)); gap:1.25rem;">
 """
 
 for co, data in sorted_companies:
