@@ -3669,7 +3669,7 @@ const JOBS_DATA = [
     "slug": "sydney-head-of-specialty-coffee-multi-site-leadership-482-186-sponsorship",
     "url": "jobs/sydney-head-of-specialty-coffee-multi-site-leadership-482-186-sponsorship.html",
     "apply_url": "https://www.adzuna.com.au/details/5923054272?utm_medium=api&utm_source=13c876f1",
-    "description": "Anexcitingopportunityisavailableforanexperiencedspecialtycoffeeleadertojoinafast-growinghospitalitygroupoperatingmultiplepremiumcafélocations.Thisseniorleadershiproleisresponsiblefordrivingtheoverallcoffeestrategy,bevera..."
+    "description": "An exciting opportunity is available for an experienced specialty coffee leader to join a fast-growing hospitality group operating multiple premium café locations. This senior leadership role is responsible for driving the overall coffee strategy, bevera..."
   },
   {
     "id": "adzuna-5923054217",
