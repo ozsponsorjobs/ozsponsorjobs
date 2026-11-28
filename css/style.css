@@ -67,6 +67,9 @@
 html {
   font-size: 16px;
   scroll-behavior: smooth;
+   /* v10b: keep scrolled-to/anchored titles below the sticky header
+     (job/guide/calculator headings were sliding underneath it). */
+  scroll-padding-top: calc(var(--header-height) + 16px);
 }
 
 body {
@@ -78,6 +81,13 @@ body {
   display: flex;
   flex-direction: column;
   -webkit-font-smoothing: antialiased;
+}
+
+/* Safety net: the page itself must never scroll sideways on a phone
+   (real overflow causes are fixed below; this only catches stragglers).
+   `clip` — not `hidden` — keeps the sticky header working. */
+html, body {
+  overflow-x: clip;
 }
 
 img {
@@ -94,6 +104,14 @@ a {
 
 a:hover {
   color: var(--color-accent);
+}
+
+/* v10b: guide Sources lists contain very long bare URLs (up to ~630px
+   rendered). Let them wrap anywhere so they cannot push the article
+   wider than a phone screen. */
+#sources a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 button, input, select, textarea {
@@ -163,16 +181,17 @@ button, input, select, textarea {
 .nav-links {
   display: flex;
   list-style: none;
-  gap: 1.5rem;
+  gap: 1.1rem;
   align-items: center;
 }
 
 .nav-link {
   font-weight: 500;
   color: var(--color-text-secondary);
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   padding: 0.4rem 0.2rem;
   position: relative;
+  white-space: nowrap;
 }
 
 .nav-link:hover, .nav-link.active {
@@ -275,6 +294,9 @@ button, input, select, textarea {
   padding: 3.5rem 0 4rem;
   position: relative;
   overflow: hidden;
+  /* v10c: explicit full width — the hero must always span the viewport,
+     even if anything below it ever overflows again. */
+  width: 100%;
 }
 
 .hero-section::before {
@@ -291,7 +313,7 @@ button, input, select, textarea {
 
 .hero-content {
   position: relative;
-  max-width: 860px;
+  max-width: 1040px;
   margin: 0 auto;
   text-align: center;
 }
@@ -359,8 +381,8 @@ button, input, select, textarea {
 
 .search-form {
   display: grid;
-  grid-template-columns: 2fr 1.3fr 1.3fr auto;
-  gap: 0.75rem;
+  grid-template-columns: 2.1fr 1.55fr 1.3fr auto;
+  gap: 0.6rem;
   align-items: center;
 }
 
@@ -371,8 +393,9 @@ button, input, select, textarea {
   background-color: var(--color-bg);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
-  padding: 0.55rem 0.85rem;
+  padding: 0.55rem 0.75rem;
   transition: var(--transition);
+  min-width: 0;
 }
 
 .search-input-group:focus-within {
@@ -389,6 +412,7 @@ button, input, select, textarea {
 .search-input-group input,
 .search-input-group select {
   width: 100%;
+  min-width: 0;
   border: none;
   background: transparent;
   outline: none;
@@ -498,6 +522,22 @@ button, input, select, textarea {
   grid-template-columns: 1fr 340px;
   gap: 2rem;
   align-items: start;
+}
+
+/* v10c: grid items must never force their track wider than the viewport
+   (the spaceless-snippet bug above did exactly that via min-content). */
+.feed-column,
+.sidebar {
+  min-width: 0;
+}
+
+/* Sponsor profile two-column layout, class-based so it can collapse on mobile
+   (the already-generated pages still carry an inline 2fr 1fr grid, which the
+   640px media query below overrides). */
+.sponsor-content-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
 }
 
 /* Feed Header */
@@ -702,6 +742,13 @@ button, input, select, textarea {
   font-size: 0.925rem;
   color: var(--color-text-secondary);
   line-height: 1.55;
+  /* v10c: ROOT CAUSE of the narrow hero (2026-11-27). One job snippet arrived
+     from the feed with all spaces stripped — a 223-char unbroken string whose
+     min-content (~1000px) forced the whole page ~1050px wide on phones, so
+     Chrome zoomed out and the 411px hero looked ~37% wide. Break anywhere so
+     no future bad snippet can ever widen the page again. */
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .job-card-bottom {
@@ -1159,32 +1206,11 @@ textarea.form-control {
 /* ==========================================================================
    Responsive Breakpoints
    ========================================================================== */
-@media (max-width: 992px) {
-  .hero-title {
-    font-size: 2.3rem;
-  }
-  .search-form {
-    grid-template-columns: 1fr 1fr;
-  }
-  .search-btn {
-    grid-column: span 2;
-  }
-  .layout-grid {
-    grid-template-columns: 1fr;
-  }
-  .footer-grid {
-    grid-template-columns: 1fr 1fr;
-  }
-  .contact-grid {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-  }
-  .stat-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 768px) {
+/* v10b: the 10-link header row cannot fit beside the brand + CTA below
+   ~1200px (it wrapped mid-label even at desktop width), so the hamburger
+   menu takes over below 1200px instead of only below 768px. The nav rules
+   moved here from the 768px block; wide-desktop row is unchanged. */
+@media (max-width: 1200px) {
   .mobile-nav-toggle {
     display: block;
   }
@@ -1210,6 +1236,37 @@ textarea.form-control {
     align-items: stretch;
     gap: 1rem;
   }
+}
+
+@media (max-width: 992px) {
+  .hero-title {
+    font-size: 2.3rem;
+  }
+  .search-form {
+    grid-template-columns: 1fr 1fr;
+  }
+  .search-btn {
+    grid-column: span 2;
+  }
+  .layout-grid {
+    /* v10c: minmax(0, 1fr) — a plain 1fr track can be forced wider than the
+       viewport by a grid item's min-content (see .job-snippet note). */
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .footer-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .contact-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .stat-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  /* v10b: nav rules moved to the 1200px block above; they still apply here. */
   .search-form {
     grid-template-columns: 1fr;
   }
@@ -1229,6 +1286,55 @@ textarea.form-control {
   }
   .page-header h1 {
     font-size: 2rem;
+  }
+}
+
+/* Phones (<=640px): tighten type/spacing, stack card footers and sponsor columns.
+   The .content-grid[style] rule repairs the 318 already-generated sponsor pages
+   whose inline `grid-template-columns: 2fr 1fr` cannot be reached by normal rules. */
+@media (max-width: 640px) {
+  .hero-section {
+    padding: 2.25rem 0 2.5rem;
+  }
+  .hero-title {
+    font-size: 1.9rem;
+  }
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+  .page-header {
+    padding: 2.25rem 0;
+  }
+  .page-header h1 {
+    font-size: 1.75rem;
+  }
+  .job-card {
+    padding: 1.25rem;
+  }
+  .job-card-bottom {
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+  .card-actions {
+    flex: 1 1 100%;
+  }
+  .card-actions .btn {
+    width: 100%;
+  }
+  .content-card {
+    padding: 1.5rem 1rem;
+  }
+  .sponsor-content-grid {
+    grid-template-columns: 1fr;
+  }
+  .content-grid[style] {
+    grid-template-columns: 1fr !important;
+  }
+  /* v10c: the "Newly Added" grid must be a single column on phones — its
+     auto-fill minmax(280px, 1fr) only collapses if its container is narrow,
+     which a wide element elsewhere can defeat (see .job-snippet note). */
+  .pagerank-jobs-grid {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -1606,6 +1712,7 @@ textarea.form-control {
 
 .visa-comparison-table {
   width: 100%;
+  min-width: 560px;
   border-collapse: collapse;
   font-size: 0.885rem;
   text-align: left;
