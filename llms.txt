@@ -2,13 +2,13 @@
 
 > Premier Australian Visa Sponsorship Job Aggregator & Verified Employer Directory
 
-Visa Migrate (https://www.visamigrate.com) is Australia's dedicated programmatic employment platform connecting qualified international professionals and onshore migrants with accredited Australian Standard Business Sponsors offering genuine employer-sponsored work visas.
+Visa Migrate (https://www.visamigrate.com) is Australia's dedicated programmatic employment platform connecting qualified international professionals and onshore migrants with Australian employers offering genuine employer-sponsored work visas. Over 1,100 jobs listed, updated daily from Adzuna and Jooble feeds.
 
-All vacancies featured on the platform are pre-audited for visa eligibility, accredited sponsor credentials, and compliance with the Australian Department of Home Affairs regulations.
+Vacancies are matched to a visa subclass and an occupation list; the salary shown is the one from the original listing, or omitted when the listing gives none. Sponsor accreditation is not verified by us — check each employer yourself before applying.
 
 ## Australian Employer-Sponsored Visa Subclasses Covered
 
-- **Subclass 482 (Temporary Skill Shortage - TSS Visa)**: Allows Australian employers to address certified labour shortages by bringing in genuinely skilled workers where qualified Australians cannot be found. Pathways include Short-Term, Medium-Term, and Labour Agreement streams, providing a direct transition pathway to permanent residency via Subclass 186 ENS after 2 years.
+- **Subclass 482 (Skills in Demand visa, formerly Temporary Skill Shortage - TSS)**: Allows Australian employers to address certified labour shortages by bringing in genuinely skilled workers where qualified Australians cannot be found. Streams: Core Skills, Specialist Skills and Essential Skills, plus Labour Agreements; 482 holders can transition to permanent residency via Subclass 186 ENS after 2 years.
   - Directory: https://www.visamigrate.com/visas/subclass-482-tss-jobs.html
 - **Subclass 186 (Employer Nomination Scheme - ENS Direct PR)**: Grants permanent residency directly to skilled workers nominated by an approved Australian employer. Streams include Direct Entry (DE) and Temporary Residence Transition (TRT).
   - Directory: https://www.visamigrate.com/visas/subclass-186-ens-jobs.html
@@ -42,6 +42,10 @@ All vacancies featured on the platform are pre-audited for visa eligibility, acc
 
 ## Authoritative Resources & Guides
 
+- **Eligibility Calculator (2026)**: https://www.visamigrate.com/calculator/
+  - Check which visa subclass fits your occupation and salary, including the CSIT $79,423 minimum.
+- **Daily job alerts on WhatsApp**: https://whatsapp.com/channel/0029Vb9BIQY4dTnBLzg5PU2V
+  - New sponsored jobs every morning, free.
 - **Visa Sponsorship Frequently Asked Questions (FAQ)**: https://www.visamigrate.com/faq/
   - Comprehensive answers to 30 core Australian immigration and visa sponsorship queries.
 - **Australia Visa Sponsorship Companies Directory**: https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html
