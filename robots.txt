@@ -4,23 +4,56 @@
 User-agent: *
 Allow: /
 
-# Dedicated AI & LLM Search Agents (ChatGPT, Perplexity, Claude, Gemini, Apple Intelligence)
+# Dedicated AI & LLM Search Agents (ChatGPT, Perplexity, Claude, Gemini, Meta AI, Mistral, Cohere, Apple Intelligence)
 User-agent: GPTBot
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
 Allow: /
 
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
 User-agent: Google-Extended
 Allow: /
 
+User-agent: Applebot
+Allow: /
+
 User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
 Allow: /
 
 User-agent: Bytespider
@@ -35,7 +68,6 @@ Sitemap: https://www.visamigrate.com/sitemap-recent.xml
 Sitemap: https://www.visamigrate.com/sitemap-hubs.xml
 Sitemap: https://www.visamigrate.com/sitemap-index.xml
 Sitemap: https://www.visamigrate.com/sitemap-sponsors.xml
-
 # LLM Direct Knowledge Context
 # llms-txt: https://www.visamigrate.com/llms.txt
 # llms-full-txt: https://www.visamigrate.com/llms-full.txt
