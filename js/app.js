@@ -32,6 +32,32 @@ const JOBS_DATA = [
     "description": "Bramble Tutors, a tutoring center in Brisbane, Australia, is hiring an Administrative Assistant. You will keep our office running smoothly and welcome every visitor.\n\nWhat you will do:\n- Greet visitors and answer calls\n-..."
   },
   {
+    "id": "adzuna-5980819092",
+    "title": "Registered Nurses & Midwives - South Sydney | Sponsorship Available",
+    "company": "Command Group Pty Ltd",
+    "logoInitial": "C",
+    "location": "Sydney, NSW",
+    "state": "NSW",
+    "category": "healthcare",
+    "visas": [
+      "482",
+      "186"
+    ],
+    "visaLabels": [
+      "Subclass 482 TSS",
+      "Subclass 186 ENS"
+    ],
+    "salary": "$80,000 - $114,000 AUD",
+    "type": "Full-time",
+    "verifiedSponsor": false,
+    "anzsco": "254415",
+    "posted": "2026-11-28",
+    "slug": "sydney-registered-nurses-midwives-south-sydney-sponsorship-available-482-186-sponsorship",
+    "url": "jobs/sydney-registered-nurses-midwives-south-sydney-sponsorship-available-482-186-sponsorship.html",
+    "apply_url": "https://www.adzuna.com.au/details/5980819092?utm_medium=api&utm_source=13c876f1",
+    "description": "Registered Nurses & Midwives - South Sydney | Sponsorship Available Build Your Nursing Career in Australia with Command Healthcare Are you an internationally experienced Registered Nurse or Midwife looking to take the ne..."
+  },
+  {
     "id": "jooble-3182709845410820494",
     "title": "Waiter",
     "company": "Bluebell Café & Bakery",
