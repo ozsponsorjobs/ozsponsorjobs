@@ -32,19 +32,19 @@ How listings are handled: vacancies come from Adzuna and Jooble feeds and are ma
 ### Subclass 186 - Employer Nomination Scheme (ENS) Visa
 - Purpose: Direct Australian Permanent Residency for highly skilled workers nominated by an accredited Australian employer.
 - Streams:
-  - Direct Entry (DE) Stream: For skilled workers who have at least 3 years of relevant post-qualification experience and a positive skills assessment.
+  - Direct Entry (DE) Stream: For skilled workers who have at least 3 years of relevant post-qualification work experience and a positive formal skills assessment.
   - Temporary Residence Transition (TRT) Stream: For Subclass 482 TSS or Subclass 457 visa holders who have worked for their nominator for at least 2 out of the past 3 years.
 - Hub URL: https://www.visamigrate.com/visas/subclass-186-ens-jobs.html
 
 ### Subclass 494 - Skilled Employer Sponsored Regional (Provisional) Visa
 - Purpose: Addresses critical skills shortages in regional Australia (any location outside Sydney, Melbourne, and Brisbane).
 - Validity: 5-year provisional visa.
-- Transition to PR: After completing 3 years of living, working, and earning a taxable income in a designated regional area, holders can transition to Permanent Residency via Subclass 191.
+- Transition to PR: After completing 3 years of living, working, and earning a taxable income in a designated regional area, Subclass 494 holders are eligible for direct, non-employer-sponsored Permanent Residency via Subclass 191 (Permanent Residence - Skilled Regional).
 - Hub URL: https://www.visamigrate.com/visas/subclass-494-regional-jobs.html
 
 ### DAMA (Designated Area Migration Agreements)
-- Formal bilateral agreements between the Australian Federal Government and regional authorities to address specific local labour needs with visa concessions.
-- Active DAMA regions include South Australia Regional, Adelaide City, Northern Territory (NT DAMA), Far North Queensland (FNQ DAMA), Pilbara, and Regional Victoria (Goulburn Valley).
+- Formal bilateral agreements between the Australian Federal Government and regional authorities to provide regional concessions for English language, age limits (up to 55 years), and salary thresholds.
+- Active DAMA regions include South Australia Regional, Adelaide City, Northern Territory (NT DAMA), Far North Queensland (Cairns), Pilbara (WA), and Goldfields (WA).
 - Hub URL: https://www.visamigrate.com/visas/dama-visa-sponsorship-jobs-australia.html
 
 ---
@@ -53,33 +53,32 @@ How listings are handled: vacancies come from Adzuna and Jooble feeds and are ma
 
 ### Healthcare & Social Assistance (Australia's #1 Sponsorship Sector)
 - Registered Nurses: Critical Care, Emergency, Aged Care, Mental Health, Perioperative, Paediatrics.
-- Medical Practitioners: General Practitioners, Emergency Medicine, Anaesthetists, Psychiatrists.
-- Allied Health: Occupational Therapists, Speech Pathologists, Physiotherapists, Sonographers, Radiographers.
-- Sector Directory: https://www.visamigrate.com/sectors/healthcare-nursing-medical-visa-sponsorship-jobs.html
+- Allied Health: Occupational Therapists, Speech Pathologists, Physiotherapists, Podiatrists.
+- Medical Practitioners: General Practitioners (VR/Non-VR under DPA/MMM categories), Psychiatrists, Emergency Specialists.
+- Directory: https://www.visamigrate.com/sectors/healthcare-nursing-medical-visa-sponsorship-jobs.html
 
-### Information Technology (IT) & Software Engineering
-- Software Developers: Full Stack, Java, Python, .NET.
-- Data & Analytics: Data Scientists, Data Engineers, Machine Learning Engineers.
-- Cybersecurity: SOC Analysts, Security Engineers, Cloud Security Architects.
-- Infrastructure: Site Reliability Engineers, Cloud Engineers, DevOps Engineers, Network Engineers.
-- Sector Directory: https://www.visamigrate.com/sectors/it-software-engineering-visa-sponsorship-jobs.html
+### Information & Communications Technology (ICT)
+- Software Development: Full Stack Developers (Node.js, React, Python, Java, Go), Cloud Infrastructure (AWS, Azure, GCP), Site Reliability Engineers (SRE).
+- Cybersecurity: SOC Analysts, Penetration Testers, Security Architects.
+- Directory: https://www.visamigrate.com/sectors/it-software-engineering-visa-sponsorship-jobs.html
 
-### Skilled Trades & Construction
-- Welders, Electricians, Heavy Diesel Mechanics, Metal Fabricators, Plumbers, Carpenters, Concreters, Scaffolders, Crane Operators.
-- Sector Directory: https://www.visamigrate.com/sectors/skilled-trades-technicians-visa-sponsorship-jobs.html
+### Hospitality & Culinary Arts
+- Chefs: Executive Chefs, Head Chefs, Sous Chefs, Chefs de Partie, Specialty Chefs (Tandoori, Japanese, Italian, French).
+- Management: Restaurant Managers, Hotel Front Office Managers.
+- Directory: https://www.visamigrate.com/sectors/hospitality-chefs-tourism-visa-sponsorship-jobs.html
 
-### Hospitality & Tourism
-- Chefs, Pastry Chefs, Sous Chefs, Executive Chefs, Hotel & Restaurant Managers, Bar & Beverage Managers.
-- Sector Directory: https://www.visamigrate.com/sectors/hospitality-chefs-tourism-visa-sponsorship-jobs.html
+### Skilled Trades & Engineering
+- Mechanics: Heavy Diesel Mobile Plant Mechanics, Light Vehicle Technicians.
+- Metal Trades: Welders (First Class), Metal Fabricators (ANZSCO 322311).
+- Engineering: Civil Engineers, Structural Engineers, Mining Engineers, Electrical Technicians.
+- Directory: https://www.visamigrate.com/sectors/skilled-trades-technicians-visa-sponsorship-jobs.html
 
 ---
 
-## 4. Essential Resources & Data Feeds
+## 4. Structured Feeds & API Endpoints
 
-- **FAQ & Guides**: https://www.visamigrate.com/faq/
-- **Visa Sponsorship Job Search**: https://www.visamigrate.com/jobs.html
-- **Accredited Sponsors Directory**: https://www.visamigrate.com/sponsors/australia-visa-sponsorship-companies-list.html
-- **Live RSS 2.0 Feed**: https://www.visamigrate.com/feed.xml
-- **Complete XML Sitemap**: https://www.visamigrate.com/sitemap.xml
-- **Fast 48-Hour Recent Sitemap**: https://www.visamigrate.com/sitemap-recent.xml
-- **Human HTML Sitemap**: https://www.visamigrate.com/sitemap.html
+- Primary RSS 2.0 Feed: https://www.visamigrate.com/feed.xml
+- Comprehensive Sitemap: https://www.visamigrate.com/sitemap.xml
+- Fast 48-Hour Sitemap: https://www.visamigrate.com/sitemap-recent.xml
+- Category Hubs Sitemap: https://www.visamigrate.com/sitemap-hubs.xml
+- Verification & Compliance: https://www.visamigrate.com/terms.html
