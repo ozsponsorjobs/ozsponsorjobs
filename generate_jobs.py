@@ -1038,7 +1038,7 @@ def fetch_external_jobs(ledger: JobLedger) -> list[dict]:
     Ingests live Australian visa sponsorship jobs from Adzuna AU API and Jooble API,
     enforcing zero-duplicate verification via JobLedger, and combines with baseline catalog.
     """
-      master_catalog = load_baseline_jobs(ledger)
+    master_catalog = load_baseline_jobs(ledger)
     
     now = datetime.now(timezone.utc)
     expiry = (now + timedelta(days=60)).strftime("%Y-%m-%dT23:59:59+10:00")
@@ -1102,7 +1102,8 @@ def fetch_external_jobs(ledger: JobLedger) -> list[dict]:
                                 "posted_date": item.get("created", now.isoformat()),
                                 "expiry_date": expiry,
                                 "apply_url": item.get("redirect_url") or f"https://www.adzuna.com.au/search?q={urllib.parse.quote(title + ' ' + company)}",
-                                "summary": desc[:220] + "...",
+                                # v10c: drop spaceless feed snippets (one unbroken 223-char string widened the homepage to ~1050px on phones).
+                                "summary": (desc[:220] + "...") if desc.count(" ") >= 3 else "",
                                 "description_raw": desc,
                                 "source": "adzuna"
                             }
@@ -1179,7 +1180,8 @@ def fetch_external_jobs(ledger: JobLedger) -> list[dict]:
                                 "posted_date": item.get("created") or item.get("posted") or now.isoformat(),
                                 "expiry_date": expiry,
                                 "apply_url": item.get("link") or f"https://jooble.org/jdp/{item.get('id')}",
-                                "summary": snippet[:220] + "...",
+                                # v10c: drop spaceless feed snippets (see above).
+                                "summary": (snippet[:220] + "...") if snippet.count(" ") >= 3 else "",
                                 "description_raw": snippet,
                                 "source": "jooble"
                             }
@@ -2851,7 +2853,7 @@ def render_occupations_index_html(active_jobs: list[tuple[dict, str]]) -> str:
               <h2 style="font-size:1.6rem; font-weight:800; color:var(--color-text); margin:0;">{sec_title}</h2>
               <span style="color:var(--color-text-muted); font-size:0.95rem; font-weight:600;">{len(hubs_list)} In-Demand Occupations</span>
             </div>
-            <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); gap:1.5rem;">
+            <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(min(300px, 100%), 1fr)); gap:1.5rem;">
               {cards_grid}
             </div>
           </section>
@@ -3520,7 +3522,7 @@ def generate_html_sitemap(active_jobs: list[tuple[dict, str]]):
     </section>
 
     <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin-bottom: 1.25rem; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem;">Sponsorship Jobs Directory ({len(active_jobs)} Active Roles)</h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr)); gap: 1.5rem;">
       {"".join(loc_sections)}
     </div>
   </main>
